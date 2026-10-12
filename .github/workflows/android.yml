@@ -55,8 +55,13 @@ jobs:
       - name: Verify release signature
         if: env.HAS_KEYSTORE == 'true'
         run: |
-          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
-          "$BT/apksigner" verify --print-certs android/app/build/outputs/apk/release/app-release.apk | grep -E "Signer #1 certificate (DN|SHA-256)"
+          ls -la android/app/build/outputs/apk/release/ android/app/build/outputs/bundle/release/
+          APKSIGNER=$(ls "$ANDROID_HOME"/build-tools/*/apksigner | sort -V | tail -1)
+          echo "using $APKSIGNER"
+          "$APKSIGNER" verify --verbose --print-certs android/app/build/outputs/apk/release/app-release.apk 2>&1 | grep -iE "verifies|signer|scheme" || true
+          "$APKSIGNER" verify android/app/build/outputs/apk/release/app-release.apk
+          # The AAB is jar-signed; keytool prints its signer fingerprint.
+          keytool -printcert -jarfile android/app/build/outputs/bundle/release/app-release.aab | grep -E "Owner|SHA256"
       - name: Remove keystore from runner
         if: always()
         run: rm -f android/app/release.keystore
