@@ -34,7 +34,9 @@ export async function enableDaily(lang: Lang): Promise<boolean> {
     const at = new Date(now.getFullYear(), now.getMonth(), now.getDate() + i, HOUR, 0, 0)
     if (at <= now) continue
     const { title, body } = bodyFor(at, lang)
-    notifications.push({ id: 1000 + i, title, body, schedule: { at }, extra: { path: '/' } })
+    // Inexact on purpose: a few minutes' drift is fine for a morning shloka, and it avoids
+    // the exact-alarm permission prompt and Play's exact-alarm policy.
+    notifications.push({ id: 1000 + i, title, body, schedule: { at, allowWhileIdle: true }, isExactNotification: false, extra: { path: '/' } })
   }
   await LocalNotifications.schedule({ notifications })
   return true

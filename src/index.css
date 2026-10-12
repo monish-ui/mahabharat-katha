@@ -33,8 +33,9 @@ body {
 }
 .dark body { @apply bg-night text-cream; }
 
-.safe-top { padding-top: env(safe-area-inset-top); }
-.safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+/* Capacitor 8 injects --safe-area-inset-* on Android 15+/16 edge-to-edge; browsers use env(). */
+.safe-top { padding-top: var(--safe-area-inset-top, env(safe-area-inset-top, 0px)); }
+.safe-bottom { padding-bottom: var(--safe-area-inset-bottom, env(safe-area-inset-bottom, 0px)); }
 
 .shloka { font-family: var(--font-serif); line-height: 1.9; }
 .prose-katha p { margin-bottom: 1em; line-height: 1.85; }
