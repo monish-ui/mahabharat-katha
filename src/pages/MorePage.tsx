@@ -70,6 +70,7 @@ export default function MorePage() {
       <div className="card p-4 text-sm leading-relaxed">
         <p>{t(UI.aboutText)}</p>
         <p className="mt-3">{t(UI.scopeNote)}</p>
+        <p className="mt-3 text-ink-2 dark:text-cream/60">{t(UI.mediaCredits)}</p>
         <div className="mt-3 flex items-center justify-between text-ink-2 dark:text-cream/60">
           <span>{t(UI.version)} {APP_VERSION} • {t(UI.noAds)} • <a className="underline underline-offset-2" href="https://mahabharat-katha.vercel.app/privacy.html" target="_blank" rel="noreferrer">Privacy</a></span>
           <ReportLink reference={`App v${APP_VERSION}`} />

@@ -76,7 +76,11 @@ export const UI = {
   off: { hi: 'बंद', en: 'Off' },
   noAds: { hi: 'कोई विज्ञापन नहीं', en: 'No ads' },
   watchVideo: { hi: 'वीडियो देखें', en: 'Watch video' },
-  close: { hi: 'बंद करें', en: 'Close' }
+  close: { hi: 'बंद करें', en: 'Close' },
+  mediaCredits: {
+    hi: 'वीडियो चित्र: राजा रवि वर्मा तथा पहाड़ी लघुचित्र (लगभग 1820–1830), सार्वजनिक डोमेन, विकिमीडिया कॉमन्स से। आवाज़: Microsoft न्यूरल वॉइस।',
+    en: 'Video paintings: Raja Ravi Varma and Pahari miniatures (c. 1820–1830), public domain, via Wikimedia Commons. Voice: Microsoft neural voice.'
+  }
 } satisfies Record<string, Bi>
 
 export type UIKey = keyof typeof UI
