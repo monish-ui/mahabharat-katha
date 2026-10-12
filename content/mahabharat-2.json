@@ -303,6 +303,540 @@
           ]
         }
       ]
+    },
+    {
+      "number": 13,
+      "slug": "anushasana-parva",
+      "title": {
+        "hi": "अनुशासन पर्व",
+        "en": "Anushasana Parva"
+      },
+      "subtitle": {
+        "hi": "दान-धर्म, विष्णु सहस्रनाम और भीष्म का महाप्रयाण",
+        "en": "The dharma of giving, the Vishnu Sahasranama and Bhishma's final departure"
+      },
+      "summary": {
+        "hi": "अनुशासन पर्व में भीष्म पितामह का उपदेश पूर्ण होता है। शांति पर्व के राजधर्म और मोक्षधर्म के बाद युधिष्ठिर के प्रश्नों पर भीष्म दान-धर्म, आचार, व्रत, तीर्थ, गौ-माहात्म्य और श्राद्ध का विस्तृत वर्णन करते हैं। वे गौतमी ब्राह्मणी और सर्प की कथा से कर्म और काल का सत्य समझाते हैं, और राजा नृग की कथा से बताते हैं कि दान में थोड़ी-सी भूल भी कितना भारी फल देती है। इसी पर्व में युधिष्ठिर के छह प्रश्नों के उत्तर में भीष्म भगवान विष्णु के एक हज़ार नामों का — विष्णु सहस्रनाम — उपदेश करते हैं, जो आज भी करोड़ों घरों में प्रतिदिन पढ़ा जाता है। अंत में, अट्ठावन रातें शरशय्या पर बिताने के बाद, जब सूर्य उत्तरायण होता है, भीष्म श्रीकृष्ण की स्तुति करते हुए योगबल से अपने प्राण त्याग देते हैं। पांडव गंगा-तट पर उनका अंतिम संस्कार करते हैं, और माता गंगा स्वयं प्रकट होकर अपने पुत्र के लिए विलाप करती हैं। यह पर्व धर्म के व्यावहारिक पक्ष — दान, सदाचार और श्रद्धा — का महान ग्रंथ है।",
+        "en": "Anushasana Parva, the Book of Instruction, completes the teaching of grandfather Bhishma. After the raja-dharma and moksha-dharma of Shanti Parva, Bhishma answers Yudhishthira's questions on the dharma of giving, right conduct, vows, holy places, the sanctity of cows and the rites for ancestors. Through the story of the Brahmin woman Gautami and the serpent he explains the truth of karma and Time, and through the story of King Nriga he shows how even a small lapse in giving bears a heavy fruit. In this parva, in answer to six questions from Yudhishthira, Bhishma teaches the thousand names of Lord Vishnu, the Vishnu Sahasranama, which is still recited daily in millions of homes. Finally, after fifty-eight nights on the bed of arrows, when the sun turns northward, Bhishma gives up his life through yoga while praising Shri Krishna. The Pandavas perform his last rites on the bank of the Ganga, and mother Ganga herself rises from the waters to mourn her son. This parva is the great book of the practical side of dharma: charity, good conduct and faith."
+      },
+      "stories": [
+        {
+          "slug": "vishnu-sahasranama",
+          "title": {
+            "hi": "विष्णु सहस्रनाम का उपदेश",
+            "en": "The Teaching of the Vishnu Sahasranama"
+          },
+          "body": {
+            "hi": "दान, व्रत और आचार के अनेक उपदेश सुनने के बाद युधिष्ठिर ने भीष्म पितामह से वह प्रश्न पूछा जो समस्त धर्मों का सार है। उन्होंने कहा — ‘पितामह! इस लोक में एक देवता कौन है? एक परम आश्रय कौन है? किसकी स्तुति और किसके पूजन से मनुष्य कल्याण पाता है? सब धर्मों में सबसे बड़ा धर्म कौन-सा है? और किसका जप करने से जीव जन्म-मृत्यु के बंधन से छूट जाता है?’\n\nभीष्म ने प्रसन्न होकर उत्तर दिया — ‘जो मनुष्य जगत के स्वामी, देवों के देव, अनादि-अनंत भगवान विष्णु की सहस्र नामों से नित्य स्तुति करता है, वह सब दुःखों से पार हो जाता है। जो उन अविनाशी पुरुष की भक्ति से पूजा करता है, जो ध्यान और नमस्कार से उनकी उपासना करता है — यही मेरे मत में सबसे बड़ा धर्म है। वही परम तेज, परम तप और परम ब्रह्म हैं; वही सबके परम आश्रय हैं। वही पवित्रों में परम पवित्र, मंगलों के मंगल, देवों के देवता और समस्त प्राणियों के अविनाशी पिता हैं। सृष्टि के आरंभ में उन्हीं से सब भूत उत्पन्न होते हैं और प्रलय में उन्हीं में लीन हो जाते हैं।’\n\nफिर भीष्म ने कहा — ‘युधिष्ठिर! भगवान के वे एक हज़ार नाम, जो उनके गुणों से बने हैं और जिन्हें ऋषियों ने गाया है, मैं तुम्हें सुनाता हूँ।’ और उन्होंने श्रद्धा से नाम-पाठ आरंभ किया — विश्वम्, विष्णुः, वषट्कारः, भूतभव्यभवत्प्रभुः — इस प्रकार एक-एक नाम में भगवान का एक-एक गुण, एक-एक लीला प्रकट होती गई।\n\nनाम-पाठ के अंत में भीष्म ने इसका फल बताया — ‘जो भक्तिपूर्वक इन नामों का श्रवण या पाठ करता है, उसे इस लोक या परलोक में कोई अशुभ नहीं होता। ब्राह्मण विद्या पाता है, क्षत्रिय विजय, वैश्य धन और शूद्र सुख। जो धर्म चाहता है उसे धर्म, जो अर्थ चाहता है उसे अर्थ, जो काम चाहता है उसे काम और जो प्रजा चाहता है उसे प्रजा मिलती है। इसके पाठ से भय, रोग और पाप दूर होते हैं, क्योंकि जहाँ वासुदेव का स्मरण है, वहाँ कोई विघ्न नहीं ठहर सकता।’\n\nइस प्रकार, जब कुरुक्षेत्र की भूमि अभी भी शोक से भरी थी, भीष्म ने मानवता को वह स्तोत्र दिया जो हज़ारों वर्षों से भारत के घर-घर में प्रतिदिन गूँजता है। विष्णु सहस्रनाम अनुशासन पर्व का सबसे अमूल्य रत्न है — यह बताता है कि अंततः सब धर्मों का सार भगवान का स्मरण और उनकी शरण है।",
+            "en": "After hearing many teachings on charity, vows and conduct, Yudhishthira asked grandfather Bhishma the question that is the essence of all dharma. He said: Grandfather, who is the one deity in this world? Who is the one supreme refuge? By praising whom and worshipping whom does a man attain the highest good? Which dharma is the greatest of all dharmas? And by repeating what does a being become free from the bondage of birth and death?\n\nBhishma answered gladly: The man who constantly praises with the thousand names the Lord of the universe, the God of gods, the beginningless and endless Vishnu, crosses beyond all sorrow. One who worships that imperishable Person with devotion, who adores him with meditation and salutation, follows what in my view is the greatest dharma. He is the supreme light, the supreme austerity and the supreme Brahman; he is the highest refuge of all. He is the purest of the pure, the most auspicious of all that is auspicious, the God of gods and the undying father of all beings. At the beginning of creation all beings arise from him, and at the dissolution they merge back into him.\n\nThen Bhishma said: Yudhishthira, I shall recite to you the thousand names of the Lord, formed from his qualities and sung by the sages. And with reverence he began the recital: Vishvam, Vishnuh, Vashatkarah, Bhutabhavyabhavatprabhuh. Name after name revealed one quality, one divine play of the Lord.\n\nAt the end of the recital Bhishma told its fruit: Whoever hears or recites these names with devotion meets with nothing inauspicious in this world or the next. The Brahmin gains learning, the Kshatriya victory, the Vaishya wealth and the Shudra happiness. He who desires dharma gains dharma, he who desires wealth gains wealth, he who desires pleasure gains pleasure, and he who desires children gains children. Fear, disease and sin are dispelled by its recitation, for where Vasudeva is remembered no obstacle can stand.\n\nThus, while the field of Kurukshetra was still heavy with grief, Bhishma gave humanity the hymn that for thousands of years has echoed daily in homes across India. The Vishnu Sahasranama is the most precious jewel of the Anushasana Parva, and its message is that the essence of all dharma is finally the remembrance of the Lord and refuge in him."
+          },
+          "lesson": {
+            "hi": "सब धर्मों का सार भगवान का स्मरण है; जो श्रद्धा से उनके नाम का जप करता है, वह सब भय और दुःख से पार हो जाता है।",
+            "en": "The essence of all dharma is remembrance of the Lord; whoever repeats his names with faith crosses beyond all fear and sorrow."
+          },
+          "characters": [
+            "bhishma",
+            "yudhishthira",
+            "krishna"
+          ]
+        },
+        {
+          "slug": "dana-dharma-and-king-nriga",
+          "title": {
+            "hi": "दान-धर्म और राजा नृग की कथा",
+            "en": "The Dharma of Giving and the Story of King Nriga"
+          },
+          "body": {
+            "hi": "युधिष्ठिर ने पूछा — ‘पितामह! दानों में श्रेष्ठ दान कौन-सा है, और दान किसे, कब और कैसे देना चाहिए?’ भीष्म ने कहा — ‘दान धर्म का मूल है। अन्न का दान सबसे बड़ा है, क्योंकि अन्न से ही प्राण टिकते हैं; जो भूखे को अन्न देता है वह उसे जीवन देता है। जल का दान, भूमि का दान, गौ का दान, दीप का दान और विद्या का दान — ये सब श्रेष्ठ हैं। किंतु दान श्रद्धा से, योग्य पात्र को, और बिना अहंकार के देना चाहिए।’\n\nउन्होंने गौ-दान की विशेष महिमा बताई — गौएँ सब प्राणियों की माता हैं, वे स्वर्ग की सीढ़ी हैं, और जो गाय देता है वह मानो अपने सारे कुल को तार देता है। पर उन्होंने चेताया कि किसी को दी हुई वस्तु को लौटाकर दूसरे को देना घोर पाप है। इसका उदाहरण देते हुए उन्होंने राजा नृग की कथा सुनाई।\n\nप्राचीन काल में नृग नाम के एक धर्मात्मा राजा थे, जिन्होंने इतनी गौएँ दान की थीं जितने आकाश में तारे हैं। एक बार उनकी दी हुई एक गाय एक ब्राह्मण के पास से भटककर राजा के गोष्ठ में आ मिली। राजा ने उसे अपनी ही समझकर एक दूसरे ब्राह्मण को दान कर दिया। जब पहले ब्राह्मण ने अपनी गाय को पहचाना तो दोनों ब्राह्मणों में विवाद हुआ। राजा ने दोनों को एक-एक लाख गौएँ देने का प्रस्ताव किया, पर दोनों ने कहा — ‘हम अपनी-अपनी गाय ही चाहते हैं, कोई और नहीं।’ और वे चले गए।\n\nसमय आने पर नृग की मृत्यु हुई। यमराज ने उनसे कहा — ‘राजन्! तुम्हारे पुण्य असंख्य हैं, पर तुमसे एक पाप भी हुआ है — एक बार दी हुई गाय को तुमने दोबारा दान किया। पहले पाप भोगोगे या पुण्य?’ नृग ने कहा — ‘पहले पाप।’ और वे पृथ्वी पर एक कुएँ में छिपकली बनकर गिरे। युगों तक वे उस अंधेरे कुएँ में पड़े रहे, पर उन्हें अपने पूर्वजन्म की स्मृति बनी रही।\n\nभीष्म ने कहा — ‘युधिष्ठिर! वे राजा द्वापर में तब तक उसी योनि में रहे जब तक स्वयं श्रीकृष्ण ने द्वारका में उस कुएँ से उन्हें निकालकर उनका उद्धार नहीं किया। देखो, इतने बड़े दानी राजा को एक छोटी-सी भूल का कितना भारी फल भोगना पड़ा। इसलिए दान में और दूसरे की संपत्ति के विषय में सदा सावधान रहो। जो दिया जा चुका है वह अब तुम्हारा नहीं, और जो दूसरे का है उसे कभी अपना मत समझो।’",
+            "en": "Yudhishthira asked: Grandfather, which is the best of gifts, and to whom, when and how should one give? Bhishma said: Giving is the root of dharma. The gift of food is the greatest, for life itself rests on food; whoever gives food to the hungry gives him life. The gift of water, of land, of a cow, of a lamp and of knowledge are all excellent. But a gift should be made with faith, to a worthy person, and without pride.\n\nHe spoke especially of the glory of giving cows: cows are the mothers of all beings, they are the stairway to heaven, and one who gives a cow uplifts his whole family. But he warned that to take back what has been given to one person and give it to another is a grave sin. To illustrate this he told the story of King Nriga.\n\nIn ancient times there lived a righteous king named Nriga, who had given away as many cows as there are stars in the sky. Once a cow that he had given to a Brahmin strayed and mingled with the king's own herd. Taking it to be his own, the king gave it to another Brahmin. When the first Brahmin recognised his cow, the two Brahmins fell into a dispute. The king offered each of them a hundred thousand cows, but both said, we want only our own cow and no other, and went away.\n\nIn time Nriga died. Yama said to him: O king, your merits are countless, but one sin also stands against you: you gave away a cow that had already been given. Will you suffer the sin first or enjoy the merit first? Nriga said, the sin first. And he fell to earth as a lizard in a well. For ages he lay in that dark well, yet the memory of his former life stayed with him.\n\nBhishma said: Yudhishthira, that king remained in that form until Shri Krishna himself, in Dwarka, drew him out of the well and set him free. See how heavily such a small mistake weighed on so great a giver. Therefore be ever careful in giving and in matters of another's property. What has been given is no longer yours, and what belongs to another must never be thought of as your own."
+          },
+          "lesson": {
+            "hi": "दान श्रद्धा से और सावधानी से करना चाहिए; जो दे दिया गया वह अब अपना नहीं, और दूसरे की वस्तु को अनजाने में भी अपना मानना भारी पड़ता है।",
+            "en": "Give with faith and with care; what has been given is no longer yours, and treating another's possession as your own, even unknowingly, carries a heavy price."
+          },
+          "characters": [
+            "bhishma",
+            "yudhishthira",
+            "krishna",
+            "nriga"
+          ]
+        },
+        {
+          "slug": "bhishma-departs-at-uttarayana",
+          "title": {
+            "hi": "उत्तरायण में भीष्म का महाप्रयाण",
+            "en": "Bhishma's Departure at Uttarayana"
+          },
+          "body": {
+            "hi": "उपदेश समाप्त हुआ। भीष्म ने युधिष्ठिर से कहा — ‘पुत्र! अब तुम हस्तिनापुर जाओ और जब सूर्य उत्तरायण हो, तब लौटकर आना। मैंने अपने पिता के वरदान से इच्छा-मृत्यु पाई है, और मैं उसी शुभ समय की प्रतीक्षा में हूँ।’ युधिष्ठिर नगर लौटे। कुछ समय बाद शुभ दिन आया — माघ मास, शुक्ल पक्ष, जब सूर्य ने उत्तर की दिशा पकड़ी। युधिष्ठिर अपने भाइयों, धृतराष्ट्र, गांधारी, कुंती, विदुर, श्रीकृष्ण और समस्त नगरवासियों के साथ घी, माला, चंदन और रेशमी वस्त्र लेकर कुरुक्षेत्र पहुँचे।\n\nभीष्म अट्ठावन रातों से शरशय्या पर पड़े थे। उन्होंने सबको आशीर्वाद दिया और युधिष्ठिर से अंतिम वचन कहे — ‘सदा सत्य बोलना, प्रजा का पालन करना, ब्राह्मणों का आदर करना और धृतराष्ट्र तथा गांधारी को अपने माता-पिता समझकर उनकी सेवा करना। मेरा शरीर अब और पीड़ा नहीं झेल सकता; मुझे जाने की आज्ञा दो।’ फिर उन्होंने श्रीकृष्ण की ओर देखा और हाथ जोड़कर कहा — ‘वासुदेव! आप ही सृष्टि के आदि, मध्य और अंत हैं। मुझे आज्ञा दीजिए कि मैं आपके ध्यान में लीन होकर यह शरीर त्यागूँ।’ श्रीकृष्ण ने कहा — ‘गांगेय! तुम्हारे पुण्य से तुम्हें वसुओं का लोक प्राप्त होगा; जाओ।’\n\nतब भीष्म ने योग का आश्रय लिया। उन्होंने प्राणवायु को क्रमशः ऊपर खींचना आरंभ किया। जैसे-जैसे उनका प्राण एक-एक अंग से ऊपर उठता गया, वैसे-वैसे उस अंग के बाण अपने आप निकलकर गिरते गए और घाव भरते गए। अंत में उनका प्राण ब्रह्मरंध्र से निकला और उल्का की भाँति चमकता हुआ आकाश में विलीन हो गया।\n\nपांडवों ने अपने पितामह को रेशमी वस्त्र और मालाओं से सजाया। वेदमंत्रों के साथ गंगा-तट पर उनका दाह-संस्कार किया गया। फिर सब गंगा में जलांजलि देने उतरे।\n\nउसी समय माता गंगा जल से प्रकट हुईं और रोती हुई बोलीं — ‘मेरा पुत्र, जो परशुराम को भी नहीं हरा सके, क्या शिखंडी के हाथों मारा गया? मेरा हृदय फट रहा है।’ श्रीकृष्ण ने उन्हें सांत्वना दी — ‘देवि! शोक न करो। तुम्हारा पुत्र वसु था और अपने ही कर्मों से वसुलोक को गया है। उसे शिखंडी ने नहीं, अर्जुन ने मारा है, और वह मृत्यु उसने स्वयं स्वीकार की थी।’ गंगा शांत होकर अपने जल में लौट गईं। और पांडव, अपने सबसे बड़े अभिभावक को खोकर, भारी हृदय से हस्तिनापुर लौटे।",
+            "en": "The teaching was over. Bhishma said to Yudhishthira: Child, return now to Hastinapura, and come back when the sun turns to the north. By my father's boon I have the power to die at will, and I await that auspicious time. Yudhishthira returned to the city. In due course the holy day arrived, in the bright fortnight of the month of Magha, when the sun took its northward course. Yudhishthira came to Kurukshetra with his brothers, Dhritarashtra, Gandhari, Kunti, Vidura, Shri Krishna and all the people of the city, bringing ghee, garlands, sandalwood and silken cloth.\n\nBhishma had lain on his bed of arrows for fifty-eight nights. He blessed them all and spoke his last words to Yudhishthira: Always speak the truth, protect your people, honour the Brahmins, and serve Dhritarashtra and Gandhari as your own parents. My body can bear no more pain; give me leave to go. Then he looked at Krishna and, folding his hands, said: Vasudeva, you are the beginning, the middle and the end of creation. Permit me to leave this body absorbed in meditation on you. Krishna replied: Son of Ganga, by your merit you shall attain the world of the Vasus. Go.\n\nThen Bhishma took refuge in yoga. He began to draw his life-breath upwards, stage by stage. As his breath rose from each limb, the arrows in that limb fell away of themselves and the wounds closed. At last his life-breath left through the crown of his head and, shining like a meteor, vanished into the sky.\n\nThe Pandavas adorned their grandfather with silken cloth and garlands. On the bank of the Ganga, with Vedic chants, his body was given to the fire. Then all went down into the river to offer water.\n\nAt that moment mother Ganga rose from the water and said, weeping: My son, whom even Parashurama could not defeat, was he killed by Shikhandi? My heart is breaking. Krishna consoled her: Devi, do not grieve. Your son was a Vasu and by his own deeds has gone to the world of the Vasus. It was not Shikhandi but Arjuna who struck him down, and that death he accepted of his own will. Ganga grew calm and returned to her waters. And the Pandavas, having lost their greatest elder, went back to Hastinapura with heavy hearts."
+          },
+          "lesson": {
+            "hi": "जिसने जीवन भर सत्य और कर्तव्य का पालन किया है, उसके लिए मृत्यु भय नहीं, भगवान के ध्यान में एक शांत प्रस्थान है।",
+            "en": "For one who has lived by truth and duty, death is not a terror but a peaceful departure absorbed in the thought of the Lord."
+          },
+          "characters": [
+            "bhishma",
+            "yudhishthira",
+            "krishna",
+            "dhritarashtra",
+            "gandhari",
+            "kunti",
+            "vidura",
+            "bhima",
+            "arjuna",
+            "ganga"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "slug": "ashvamedhika-parva",
+      "title": {
+        "hi": "आश्वमेधिक पर्व",
+        "en": "Ashvamedhika Parva"
+      },
+      "subtitle": {
+        "hi": "अनुगीता, परीक्षित का जन्म और युधिष्ठिर का अश्वमेध यज्ञ",
+        "en": "The Anugita, the birth of Parikshit and Yudhishthira's horse sacrifice"
+      },
+      "summary": {
+        "hi": "भीष्म के महाप्रयाण के बाद युधिष्ठिर फिर शोक में डूब जाते हैं। व्यासजी उन्हें युद्ध के पाप से शुद्धि और राज्य की प्रतिष्ठा के लिए अश्वमेध यज्ञ करने को कहते हैं और हिमालय में छिपे राजा मरुत्त के स्वर्ण का पता बताते हैं। द्वारका लौटने से पहले श्रीकृष्ण अर्जुन के आग्रह पर उसे एक बार फिर गीता का ज्ञान सुनाते हैं, जो ‘अनुगीता’ कहलाती है। उसी समय अभिमन्यु की विधवा उत्तरा एक मृत शिशु को जन्म देती है — अश्वत्थामा के ब्रह्मास्त्र का प्रभाव। कुंती, द्रौपदी और सुभद्रा की प्रार्थना पर श्रीकृष्ण अपने सत्य की शपथ लेकर उस बालक को जीवन देते हैं; यही परीक्षित है। पांडव स्वर्ण लाकर यज्ञ का आयोजन करते हैं। अर्जुन यज्ञ के घोड़े के पीछे सारी पृथ्वी पर घूमते हैं, और मणिपुर में अपने ही पुत्र बभ्रुवाहन के बाण से मारे जाकर उलूपी की संजीवनी मणि से जीवित होते हैं। यज्ञ पूर्ण होता है, पर अंत में एक आधे सोने के शरीर वाला नेवला आकर कहता है कि यह यज्ञ उस निर्धन ब्राह्मण के सत्तू-दान के बराबर भी नहीं, जिसने अकाल में अपना सारा अन्न अतिथि को दे दिया था।",
+        "en": "After Bhishma's departure Yudhishthira sinks into grief once more. Vyasa tells him to perform the Ashvamedha, the horse sacrifice, to cleanse the sin of war and establish his rule, and reveals the gold of King Marutta hidden in the Himalayas. Before returning to Dwarka, Shri Krishna, at Arjuna's request, teaches him the wisdom of the Gita once again in a different form, which is known as the Anugita. At this time Abhimanyu's widow Uttara gives birth to a stillborn child, the work of Ashwatthama's Brahmastra. Moved by the pleas of Kunti, Draupadi and Subhadra, Krishna swears by his own truth and gives the child life; this is Parikshit. The Pandavas bring the gold and begin the sacrifice. Arjuna follows the sacrificial horse across the whole earth, and in Manipura is killed by an arrow of his own son Babhruvahana, to be revived by the life-giving gem of Ulupi. The sacrifice is completed with great splendour, but at its end a mongoose with a half-golden body appears and declares that this yagya does not equal the gift of a handful of barley flour made by a poor Brahmin who, in a famine, gave all his food to a guest."
+      },
+      "stories": [
+        {
+          "slug": "anugita",
+          "title": {
+            "hi": "अनुगीता — श्रीकृष्ण का अर्जुन को पुनः उपदेश",
+            "en": "The Anugita: Krishna Teaches Arjuna Again"
+          },
+          "body": {
+            "hi": "भीष्म के बाद युधिष्ठिर का शोक फिर जाग उठा। व्यासजी ने कहा — ‘राजन्! राजाओं के लिए युद्ध के पाप की शुद्धि अश्वमेध यज्ञ से होती है। तुम इसे करो।’ युधिष्ठिर ने कहा कि युद्ध ने कोष खाली कर दिया है। तब व्यास ने बताया कि प्राचीन काल में राजा मरुत्त ने संवर्त ऋषि से एक ऐसा यज्ञ करवाया था जिसमें देवता भी आए थे, और उनका असंख्य स्वर्ण आज भी हिमालय में पड़ा है। पांडवों ने उसे लाने का निश्चय किया।\n\nइसी बीच श्रीकृष्ण, जो युद्ध के बाद से हस्तिनापुर में ही थे, द्वारका लौटने की तैयारी करने लगे। एक दिन सभा में अर्जुन ने उनसे कहा — ‘माधव! युद्ध के आरंभ में आपने मुझे जो ज्ञान दिया था, वह मेरे मन से निकल गया है। आप उसे फिर से सुनाइए।’ श्रीकृष्ण ने कहा — ‘अर्जुन! तुम्हारी बुद्धि मंद है और तुममें श्रद्धा की कमी है, तभी तुमने उस परम गुह्य ज्ञान को भुला दिया। उस समय मैं योगयुक्त होकर बोला था; अब वैसा ही फिर से कहना मेरे लिए भी संभव नहीं। पर मैं तुम्हें एक पुराना इतिहास सुनाता हूँ, जिससे तुम उसी ज्ञान को पा सकोगे।’\n\nतब श्रीकृष्ण ने एक ब्राह्मण और सिद्ध काश्यप का संवाद सुनाया — आत्मा कैसे शरीर में आती है, कर्म से कैसे बँधती है, और ज्ञान से कैसे मुक्त होती है। उन्होंने ब्राह्मण और उसकी पत्नी का संवाद सुनाया, जिसमें मन को होता, प्राण को अग्नि और इंद्रियों को हवि बताकर भीतर के यज्ञ की व्याख्या थी। उन्होंने गुरु-शिष्य संवाद के द्वारा सत्त्व, रज और तम के स्वभाव, शरीर रूपी रथ और इंद्रियों रूपी घोड़ों का रहस्य, और वैराग्य से परम पद की प्राप्ति का मार्ग बताया। यही उपदेश ‘अनुगीता’ कहलाया।\n\nअर्जुन को विदा देकर श्रीकृष्ण द्वारका के लिए निकले। मार्ग में उन्हें मुनि उतंक मिले, जो यह सुनकर क्रोधित हुए कि श्रीकृष्ण ने कौरवों और पांडवों के युद्ध को नहीं रोका; वे शाप देने को तैयार हुए। श्रीकृष्ण ने उन्हें समझाया कि उन्होंने शांति का हर प्रयास किया था, पर काल के विधान को कोई नहीं बदल सकता, और उन्हें अपना विश्वरूप दिखाया। उतंक ने क्षमा माँगी और वरदान में मरुभूमि में प्यास लगने पर जल माँगा। श्रीकृष्ण ने कहा — ‘जब तुम्हें जल की इच्छा हो, मेरा स्मरण करना।’ फिर वे द्वारका पहुँचे।",
+            "en": "After Bhishma's passing Yudhishthira's grief rose again. Vyasa said: O king, for a ruler the sin of war is cleansed by the Ashvamedha sacrifice. Perform it. Yudhishthira answered that the war had emptied the treasury. Then Vyasa told him that long ago King Marutta had performed, with the sage Samvarta as his priest, a sacrifice attended even by the gods, and that his immeasurable gold still lay in the Himalayas. The Pandavas resolved to bring it.\n\nMeanwhile Shri Krishna, who had stayed in Hastinapura since the war, prepared to return to Dwarka. One day in the assembly Arjuna said to him: Madhava, the knowledge you gave me at the start of the war has slipped from my mind. Tell it to me again. Krishna replied: Arjuna, your understanding is dull and your faith is weak, or you would not have forgotten that most secret teaching. At that time I spoke united in yoga; to say it again in the same way is not possible even for me. But I shall tell you an ancient account by which you may regain that same knowledge.\n\nThen Krishna narrated the dialogue of a Brahmin with the siddha Kashyapa, on how the soul enters the body, how it is bound by action and how it is freed by knowledge. He told of the conversation between a Brahmin and his wife, which explains the inner sacrifice in which the mind is the priest, the breath the fire and the senses the offering. Through a dialogue of teacher and disciple he explained the nature of sattva, rajas and tamas, the secret of the body as a chariot drawn by the horses of the senses, and the path to the supreme state through dispassion. This teaching came to be called the Anugita.\n\nTaking leave of Arjuna, Krishna set out for Dwarka. On the way he met the sage Utanka, who grew angry on hearing that Krishna had not prevented the war between the Kauravas and the Pandavas, and prepared to curse him. Krishna explained that he had made every effort for peace, but that no one can alter the decree of Time, and he showed Utanka his universal form. Utanka begged forgiveness and asked as a boon that he might find water whenever he thirsted in the desert. Krishna said: When you desire water, remember me. Then he went on to Dwarka."
+          },
+          "lesson": {
+            "hi": "ज्ञान को श्रद्धा से हृदय में बसाना पड़ता है, नहीं तो वह खो जाता है; और भीतर का यज्ञ — मन, प्राण और इंद्रियों का संयम — बाहर के यज्ञ से बड़ा है।",
+            "en": "Knowledge must be held in the heart with faith or it slips away; and the inner sacrifice of mastering mind, breath and senses is greater than any outer rite."
+          },
+          "characters": [
+            "krishna",
+            "arjuna",
+            "yudhishthira",
+            "vyasa",
+            "utanka"
+          ]
+        },
+        {
+          "slug": "birth-of-parikshit",
+          "title": {
+            "hi": "परीक्षित का जन्म और श्रीकृष्ण का वरदान",
+            "en": "The Birth of Parikshit"
+          },
+          "body": {
+            "hi": "पांडव हिमालय से मरुत्त का स्वर्ण लेकर लौट रहे थे। श्रीकृष्ण इस बीच द्वारका से हस्तिनापुर आ गए थे, क्योंकि उन्हें अपना वचन स्मरण था। उन्हीं दिनों अभिमन्यु की विधवा उत्तरा ने एक पुत्र को जन्म दिया — किंतु वह बालक जन्म से ही निष्प्राण था। अश्वत्थामा के ब्रह्मास्त्र ने गर्भ में ही उसे जला दिया था। सारा अंतःपुर हाहाकार से भर गया।\n\nकुंती दौड़ती हुई श्रीकृष्ण के पास आईं और बोलीं — ‘वासुदेव! तुमने ही कहा था कि मैं इस बालक को जीवित करूँगा। कुरुवंश का यही एक अंकुर बचा है। अभिमन्यु के लिए, सुभद्रा के लिए, उत्तरा के लिए और मेरे लिए इसे जीवन दो।’ द्रौपदी और सुभद्रा भी रोती हुई उनके चरणों में गिरीं। श्रीकृष्ण ने कहा — ‘माता! मेरा वचन कभी मिथ्या नहीं होता।’ और वे प्रसूति-गृह में गए।\n\nवहाँ उत्तरा मृत शिशु को गोद में लिए विलाप कर रही थी — ‘पुत्र! तेरे पिता तुझे देखे बिना चले गए और अब तू भी! जनार्दन को देख, जिनकी शरण में तेरे पिता थे।’ श्रीकृष्ण ने बालक को देखा और सबके सामने आचमन करके कहा — ‘यदि मैंने कभी असत्य नहीं बोला, यदि मैं कभी युद्ध से पीछे नहीं हटा, यदि मुझे धर्म और ब्राह्मण प्रिय हैं, यदि मैंने कंस और केशी को धर्म से मारा, तो यह बालक जीवित हो जाए। यदि मेरे सत्य और तप में कोई बल है, तो अभिमन्यु का यह पुत्र, जो गर्भ में ही मर चुका है, फिर से जीवन पाए।’\n\nजैसे ही उन्होंने यह कहा, बालक के शरीर में प्राण लौट आए; वह हिला और रोने लगा। ब्रह्मास्त्र का तेज उसी क्षण शांत हो गया। समस्त महल में हर्ष की लहर दौड़ गई, देवताओं ने पुष्प बरसाए और ब्राह्मणों ने मंगल-पाठ किया। श्रीकृष्ण ने उस बालक को गोद में लेकर कहा — ‘क्योंकि यह ऐसे समय जन्मा है जब कुरुवंश लगभग क्षीण हो चुका था, इसलिए इसका नाम ‘परीक्षित’ होगा।’ पांडव जब लौटे तो उन्होंने प्रसन्नता से सुना कि कुरुकुल का दीपक जल उठा है।\n\nयही परीक्षित आगे चलकर युधिष्ठिर के बाद हस्तिनापुर के राजा बने, और उन्हीं के पुत्र जनमेजय को वैशम्पायन ने यह महाभारत सुनाया। इस प्रकार जिस वंश को अश्वत्थामा ने मिटा देना चाहा था, उसे श्रीकृष्ण के सत्य ने जीवन दिया।",
+            "en": "The Pandavas were returning from the Himalayas with the gold of Marutta. Shri Krishna had meanwhile come from Dwarka to Hastinapura, for he remembered his promise. In those very days Abhimanyu's widow Uttara gave birth to a son, but the child was lifeless at birth. The Brahmastra of Ashwatthama had burned him in the womb. The whole inner palace was filled with cries of grief.\n\nKunti came running to Krishna and said: Vasudeva, it was you who said, I shall give this child life. This is the only sprout of the Kuru line that remains. For Abhimanyu's sake, for Subhadra's, for Uttara's and for mine, give him life. Draupadi and Subhadra too fell weeping at his feet. Krishna said: Mother, my word is never false. And he went into the birth chamber.\n\nThere Uttara sat with the dead infant in her lap, lamenting: My son, your father went away without seeing you, and now you too! Look upon Janardana, in whom your father took refuge. Krishna looked at the child, sipped water in purification before them all, and said: If I have never spoken an untruth, if I have never turned back from battle, if dharma and the Brahmins are dear to me, if I slew Kamsa and Keshi righteously, then let this child live. If there is any power in my truth and my austerity, let this son of Abhimanyu, who died in the womb, receive life again.\n\nAs soon as he spoke, life returned to the child's body; he stirred and began to cry. The heat of the Brahmastra was quenched in that instant. A wave of joy ran through the palace, the gods showered flowers and the Brahmins chanted blessings. Krishna took the child in his arms and said: Because he is born at a time when the Kuru line had all but perished, his name shall be Parikshit. When the Pandavas returned they heard with joy that the lamp of the Kuru house had been lit again.\n\nThis same Parikshit later became king of Hastinapura after Yudhishthira, and it was to his son Janamejaya that Vaishampayana recited this Mahabharata. Thus the line that Ashwatthama had sought to wipe out was given life by the truth of Shri Krishna."
+          },
+          "lesson": {
+            "hi": "सत्य और धर्म में जीवन देने की शक्ति है; जिसने कभी असत्य न बोला हो, उसके वचन से मृत्यु भी पीछे हट जाती है।",
+            "en": "Truth and dharma hold the power to give life; before the word of one who has never spoken falsely, even death steps back."
+          },
+          "characters": [
+            "krishna",
+            "uttara",
+            "parikshit",
+            "kunti",
+            "draupadi",
+            "subhadra",
+            "abhimanyu",
+            "ashwatthama"
+          ]
+        },
+        {
+          "slug": "ashvamedha-and-the-golden-mongoose",
+          "title": {
+            "hi": "अश्वमेध यज्ञ और आधे सोने का नेवला",
+            "en": "The Horse Sacrifice and the Half-Golden Mongoose"
+          },
+          "body": {
+            "hi": "चैत्र की पूर्णिमा को व्यासजी ने युधिष्ठिर को यज्ञ की दीक्षा दी। श्यामकर्ण घोड़ा छोड़ा गया और अर्जुन अकेले रथ पर उसकी रक्षा के लिए पीछे चले। घोड़ा त्रिगर्त गया, जहाँ अर्जुन ने विद्रोही त्रिगर्तों को हराया; प्राग्ज्योतिष गया, जहाँ भगदत्त के पुत्र वज्रदत्त ने युद्ध किया और हारकर मित्र बना।\n\nफिर घोड़ा मणिपुर पहुँचा, जहाँ अर्जुन का पुत्र बभ्रुवाहन राजा था। वह विनम्रता से पिता का स्वागत करने आया, पर अर्जुन ने कहा कि क्षत्रिय राजा को अतिथि के रूप में नहीं, घोड़े को रोककर युद्ध के लिए आना चाहिए था। तभी नागकन्या उलूपी ने प्रकट होकर बभ्रुवाहन को युद्ध के लिए प्रेरित किया। भयंकर युद्ध हुआ और बभ्रुवाहन के एक बाण ने अर्जुन का वक्ष बेधा; अर्जुन निष्प्राण होकर गिर पड़े। तब उलूपी ने नागलोक से संजीवनी मणि मँगवाई और उसे अर्जुन के वक्ष पर रखा — अर्जुन जाग उठे। उलूपी ने बताया कि भीष्म को शिखंडी की आड़ में मारने के कारण वसुओं ने अर्जुन को शाप दिया था; यह मृत्यु उसी शाप का निवारण थी।\n\nघोड़ा मगध, चेदि, काशी, कोसल, गांधार होता हुआ एक वर्ष में लौटा। माघ की पूर्णिमा पर हस्तिनापुर में महायज्ञ हुआ। व्यासजी को युधिष्ठिर ने सारी पृथ्वी दक्षिणा में दी, जिसे व्यास ने लौटाकर उसके बदले मरुत्त का त्रिगुना स्वर्ण लिया और ब्राह्मणों में बाँट दिया।\n\nयज्ञ पूरा हुआ ही था कि एक नेवला बिल से निकला, जिसका आधा शरीर सोने का था। वह मनुष्य की वाणी में बोला — ‘यह यज्ञ कुरुक्षेत्र के उस ब्राह्मण के एक प्रस्थ सत्तू के दान के बराबर भी नहीं है!’ उसने कथा सुनाई — एक समय कुरुक्षेत्र में उंछवृत्ति से जीने वाला एक निर्धन ब्राह्मण अपनी पत्नी, पुत्र और पुत्रवधू के साथ रहता था। घोर अकाल में कई दिनों के उपवास के बाद उन्हें थोड़ा-सा जौ मिला, जिसका सत्तू बनाकर चार भाग किए गए। तभी एक भूखा अतिथि आया। ब्राह्मण ने अपना भाग दिया, फिर पत्नी ने अपना, फिर पुत्र ने, फिर पुत्रवधू ने — सबने प्रसन्न मन से। वह अतिथि स्वयं धर्म थे। चारों दिव्य विमान में बैठकर स्वर्ग गए। ‘मैं उस स्थान पर लोटा जहाँ सत्तू के कण गिरे थे, और मेरा आधा शरीर सोने का हो गया। तब से मैं हर यज्ञ में जाता हूँ, पर बाकी आधा सोना नहीं हुआ — यहाँ भी नहीं।’ इतना कहकर नेवला अदृश्य हो गया।",
+            "en": "On the full moon of Chaitra, Vyasa initiated Yudhishthira into the sacrifice. A horse with black ears was set free, and Arjuna followed alone in his chariot to guard it. The horse went to Trigarta, where Arjuna defeated the rebellious Trigartas; to Pragjyotisha, where Bhagadatta's son Vajradatta fought and, defeated, became a friend.\n\nThen the horse reached Manipura, where Arjuna's son Babhruvahana was king. He came humbly to welcome his father, but Arjuna said that a Kshatriya king should have come not as a host but as a warrior, seizing the horse. At that moment the Naga princess Ulupi appeared and urged Babhruvahana to fight. A fierce battle followed, and an arrow of Babhruvahana pierced Arjuna's chest; he fell lifeless. Then Ulupi sent for the life-giving gem of the Nagas and placed it on Arjuna's chest, and Arjuna rose. Ulupi explained that the Vasus had cursed Arjuna for striking down Bhishma from behind Shikhandi; this death had been the undoing of that curse.\n\nThe horse passed through Magadha, Chedi, Kashi, Koshala and Gandhara and returned after a year. On the full moon of Magha the great sacrifice was held at Hastinapura. Yudhishthira offered the whole earth to Vyasa as his fee; Vyasa returned it and accepted in its place three times the gold of Marutta, which he distributed among the Brahmins.\n\nThe sacrifice had barely ended when a mongoose came out of a hole, half its body made of gold. In a human voice it said: This sacrifice is not equal to the gift of one measure of barley flour by that Brahmin of Kurukshetra! It told the tale. Once in Kurukshetra lived a poor Brahmin who survived on gleaned grain, with his wife, son and daughter-in-law. In a dreadful famine, after many days of fasting, they found a little barley, ground it into flour and divided it into four shares. Just then a hungry guest arrived. The Brahmin gave his share, then the wife hers, then the son, then the daughter-in-law, each gladly. That guest was Dharma himself. All four rose to heaven in a celestial chariot. I rolled on the spot where the grains of flour had fallen, said the mongoose, and half my body turned to gold. Since then I have gone to every sacrifice, but the other half has never turned golden, not even here. Saying this, the mongoose vanished."
+          },
+          "lesson": {
+            "hi": "दान का मूल्य उसकी मात्रा से नहीं, त्याग और भाव से होता है; भूखे गरीब का एक मुट्ठी सत्तू राजा के महायज्ञ से बड़ा हो सकता है।",
+            "en": "The worth of a gift lies not in its size but in the sacrifice and the spirit behind it; a hungry poor man's handful of flour can outweigh a king's great sacrifice."
+          },
+          "characters": [
+            "yudhishthira",
+            "arjuna",
+            "vyasa",
+            "babhruvahana",
+            "ulupi",
+            "dharma",
+            "bhishma"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "slug": "ashramavasika-parva",
+      "title": {
+        "hi": "आश्रमवासिक पर्व",
+        "en": "Ashramavasika Parva"
+      },
+      "subtitle": {
+        "hi": "धृतराष्ट्र, गांधारी और कुंती का वनवास और अंत",
+        "en": "The retirement of Dhritarashtra, Gandhari and Kunti to the forest, and their end"
+      },
+      "summary": {
+        "hi": "युद्ध के बाद पंद्रह वर्षों तक धृतराष्ट्र और गांधारी युधिष्ठिर के राज्य में सम्मानपूर्वक रहे। युधिष्ठिर उनकी सेवा में कोई कमी नहीं रखते थे, किंतु भीम के कटु वचन वृद्ध राजा के हृदय को चुभते रहे। अंततः धृतराष्ट्र ने व्यासजी की सलाह से वानप्रस्थ लेने का निश्चय किया। उनके साथ गांधारी, कुंती, विदुर और संजय भी वन को चले। युधिष्ठिर और पांडवों ने अपनी माता को रोकने का बहुत प्रयत्न किया, पर कुंती ने अपना संकल्प नहीं छोड़ा। दो वर्ष बाद पांडव वन में उनसे मिलने गए, जहाँ विदुर ने योगबल से अपना प्राण युधिष्ठिर में विलीन कर दिया। फिर व्यासजी ने अपनी तपस्या के बल से गंगा-तट पर एक रात के लिए युद्ध में मारे गए सभी योद्धाओं को प्रकट किया, और माता-पिता, पत्नियाँ और पुत्र एक-दूसरे से मिले। दो वर्ष और बीतने पर नारदजी ने समाचार दिया कि धृतराष्ट्र, गांधारी और कुंती दावानल में तपस्वी की भाँति शांत बैठे हुए देह त्याग चुके हैं। यह पर्व वानप्रस्थ, क्षमा और मृत्यु की स्वीकृति का पर्व है।",
+        "en": "For fifteen years after the war Dhritarashtra and Gandhari lived with honour in Yudhishthira's kingdom. Yudhishthira left nothing wanting in their service, but Bhima's bitter words kept pricking the old king's heart. At last, on Vyasa's advice, Dhritarashtra resolved to retire to the forest. Gandhari, Kunti, Vidura and Sanjaya went with him. Yudhishthira and his brothers tried hard to hold back their mother, but Kunti would not give up her resolve. Two years later the Pandavas visited them in the forest, where Vidura, through yoga, merged his life into Yudhishthira. Then Vyasa, by the power of his austerity, called up for one night on the bank of the Ganga all the warriors slain in the war, and parents, wives and sons met one another once more. When two more years had passed, Narada brought the news that Dhritarashtra, Gandhari and Kunti had given up their bodies in a forest fire, seated calmly like ascetics. This is the parva of the forest life, of forgiveness, and of the acceptance of death."
+      },
+      "stories": [
+        {
+          "slug": "retirement-to-the-forest",
+          "title": {
+            "hi": "धृतराष्ट्र, गांधारी और कुंती का वन-गमन",
+            "en": "Dhritarashtra, Gandhari and Kunti Retire to the Forest"
+          },
+          "body": {
+            "hi": "युद्ध के बाद पंद्रह वर्ष बीत गए। युधिष्ठिर ने धृतराष्ट्र और गांधारी को पहले जैसा ही सम्मान दिया — राज्य के सब कार्य उनसे पूछकर किए जाते थे, और पांडव उन्हें अपने माता-पिता मानकर सेवा करते थे। केवल भीम का घाव भरा नहीं था। वे कभी-कभी जान-बूझकर इतने ऊँचे स्वर में कहते कि वृद्ध राजा सुन लें — ‘इन्हीं की वजह से हमने वनवास भोगा, इन्हीं के पुत्रों का वध मैंने अपनी भुजाओं से किया।’ ये शब्द धृतराष्ट्र के हृदय में काँटे की तरह चुभते थे।\n\nअंततः एक दिन धृतराष्ट्र ने युधिष्ठिर से कहा — ‘पुत्र! तुमने मेरा पालन पुत्र की तरह किया है। पर अब मैं वृद्ध हो गया हूँ। हमारे कुल के राजा बुढ़ापे में वन जाकर तपस्या करते आए हैं। मुझे और गांधारी को वन जाने की अनुमति दो।’ युधिष्ठिर ने रोते हुए कहा कि आपके बिना यह राज्य उनके लिए सूना है और वे स्वयं वन चले जाएँगे। तब व्यासजी ने आकर कहा — ‘युधिष्ठिर! धृतराष्ट्र को जाने दो। यही उनका धर्म है और यही उनकी शांति है।’ युधिष्ठिर ने अनुमति दी।\n\nधृतराष्ट्र ने प्रजा को बुलाकर अपने पुत्रों के अपराधों के लिए क्षमा माँगी और युधिष्ठिर के धन से मारे गए सभी योद्धाओं का श्राद्ध किया, जिसमें उन्होंने ब्राह्मणों को अपार दान दिया। फिर वे गांधारी और विदुर के साथ नगर से निकले। तभी कुंती भी उनके साथ चल पड़ीं। युधिष्ठिर दौड़कर बोले — ‘माता! आपने ही हमें युद्ध के लिए प्रेरित किया था और अब जब राज्य मिला है तो आप हमें छोड़कर जा रही हैं?’\n\nकुंती ने कहा — ‘पुत्रो! मैंने तुम्हें युद्ध के लिए इसलिए उकसाया था कि तुम दीनता में न जियो और तुम्हारा धर्म नष्ट न हो। अब मैंने राज्य-सुख भोग लिया — वह पांडु के साथ ही भोगा था। अब मैं अपने सास-ससुर की सेवा करूँगी और तप से अपने पति के लोक को प्राप्त करूँगी। युधिष्ठिर! तुम सदा धर्म में स्थिर रहना, सहदेव पर विशेष स्नेह रखना, द्रौपदी का ध्यान रखना और कर्ण को कभी मत भूलना।’ अपने पुत्रों को रोता छोड़कर वे गांधारी का हाथ पकड़े वन की ओर चलीं। संजय भी पीछे गए।\n\nवे पहले गंगा-तट पर रहे, फिर कुरुक्षेत्र में राजर्षि शतयूप के आश्रम में, और अंत में व्यासजी के आश्रम में। धृतराष्ट्र ने जटा धारण की, वल्कल पहने और कठोर तपस्या करने लगे। इस प्रकार हस्तिनापुर के राजमहल के वृद्ध अब वन के तपस्वी हो गए।",
+            "en": "Fifteen years passed after the war. Yudhishthira gave Dhritarashtra and Gandhari the same honour as before; every matter of state was placed before them, and the Pandavas served them as their own parents. Only Bhima's wound had not healed. Sometimes he would say, deliberately loud enough for the old king to hear: It was because of him that we suffered exile; it was his sons I killed with these arms. These words pierced Dhritarashtra's heart like thorns.\n\nAt last one day Dhritarashtra said to Yudhishthira: Son, you have cared for me as a son should. But I am old now. The kings of our line have always gone to the forest in old age to practise austerity. Give Gandhari and me leave to go. Yudhishthira wept and said that without them the kingdom was empty for him, and he would himself go to the forest. Then Vyasa came and said: Yudhishthira, let Dhritarashtra go. This is his dharma and this is his peace. Yudhishthira gave his consent.\n\nDhritarashtra summoned the citizens, asked their forgiveness for the wrongs of his sons, and with wealth given by Yudhishthira performed the shraddha of all the slain warriors, bestowing vast gifts on the Brahmins. Then he left the city with Gandhari and Vidura. At that moment Kunti too set out with them. Yudhishthira ran after her: Mother, it was you who urged us to war, and now that we have the kingdom you are leaving us?\n\nKunti said: My sons, I urged you to war so that you would not live in humiliation and your dharma would not perish. The joys of kingship I have already tasted, with Pandu. Now I will serve my husband's parents and win by austerity the world where my husband is. Yudhishthira, remain always firm in dharma, be especially tender towards Sahadeva, care for Draupadi, and never forget Karna. Leaving her sons in tears, she took Gandhari's hand and walked towards the forest. Sanjaya followed.\n\nThey stayed first on the bank of the Ganga, then in Kurukshetra at the hermitage of the royal sage Shatayupa, and finally at the ashram of Vyasa. Dhritarashtra wore matted hair and bark garments and practised severe austerities. Gandhari and Kunti served him, and Vidura told them stories of dharma. Thus the elders of the palace of Hastinapura became ascetics of the forest."
+          },
+          "lesson": {
+            "hi": "जीवन के अंतिम चरण में सुख-भोग से हटकर तप और सेवा में लगना ही शास्त्र का मार्ग है; कड़वे वचन वृद्धों के हृदय को शस्त्र से अधिक घायल करते हैं।",
+            "en": "In the last stage of life, turning from pleasure to austerity and service is the path of the scriptures; and bitter words wound the old more deeply than weapons."
+          },
+          "characters": [
+            "dhritarashtra",
+            "gandhari",
+            "kunti",
+            "yudhishthira",
+            "bhima",
+            "arjuna",
+            "vidura",
+            "sanjaya",
+            "vyasa",
+            "draupadi"
+          ]
+        },
+        {
+          "slug": "vyasa-shows-the-dead",
+          "title": {
+            "hi": "विदुर का विलय और व्यास द्वारा मृत योद्धाओं का दर्शन",
+            "en": "Vidura's Passing and Vyasa Shows the Dead"
+          },
+          "body": {
+            "hi": "दो वर्ष बाद पांडवों का मन माता से मिलने को व्याकुल हुआ। युधिष्ठिर, भाइयों, द्रौपदी और नगरवासियों के साथ वन पहुँचे। युधिष्ठिर ने पूछा — ‘विदुरजी कहाँ हैं?’ धृतराष्ट्र ने कहा कि विदुर अब केवल वायु पर रहते हैं और वन में घूमते रहते हैं।\n\nतभी युधिष्ठिर ने दूर एक वृक्ष के पास विदुर को देखा — कृश, जटाधारी, मुँह में कंकड़ दबाए, शरीर पर धूल। युधिष्ठिर ने पुकारा — ‘काका! मैं युधिष्ठिर हूँ।’ विदुर मौन रहे और घने वन की ओर चले। युधिष्ठिर उनके पीछे गए। एक निर्जन स्थान पर विदुर एक वृक्ष के सहारे खड़े हो गए और एकटक युधिष्ठिर को देखने लगे। और तब, योग के बल से, विदुर का प्राण, तेज और इंद्रियाँ युधिष्ठिर के शरीर में प्रविष्ट हो गईं। विदुर का शरीर वृक्ष के सहारे निष्प्राण खड़ा रह गया। जब युधिष्ठिर उसका दाह करने चले, तो आकाशवाणी हुई — ‘इसका दाह मत करो; यह यतिधर्म से मरा है। इसे ऐसे ही छोड़ दो।’ व्यासजी ने बताया कि विदुर स्वयं धर्म थे और युधिष्ठिर भी धर्म के अंश हैं — इसीलिए धर्म धर्म में समा गया।\n\nकुछ दिन बाद व्यासजी आश्रम में आए और उन्होंने धृतराष्ट्र से कहा — ‘राजन्! तुम्हारे मन में अभी भी पुत्रों को देखने की लालसा है। आज रात मैं अपने तप के बल से तुम्हें वह सब दिखाऊँगा, जिन्हें तुमने खोया है।’ व्यासजी ने जल में उतरकर मृत योद्धाओं का आह्वान किया।\n\nऔर तब गंगा के जल से एक-एक करके वे सब प्रकट हुए — भीष्म, द्रोण, कर्ण, दुर्योधन और उसके भाई, अभिमन्यु, घटोत्कच, द्रुपद, विराट, धृष्टद्युम्न, द्रौपदी के पाँचों पुत्र — सब दिव्य देह और दिव्य वस्त्रों में, क्रोध और ईर्ष्या से मुक्त, तेजस्वी और प्रसन्न। व्यासजी ने धृतराष्ट्र को दिव्य नेत्र दिए, और अंधे राजा ने जीवन में पहली बार अपने पुत्रों को देखा। गांधारी ने अपने सौ पुत्रों को देखा, कुंती ने कर्ण को, द्रौपदी ने अपने पुत्रों को, उत्तरा ने अभिमन्यु को। उस रात कोई वैर नहीं था — पिता पुत्रों से, पत्नियाँ पतियों से, भाई भाइयों से मिले।\n\nभोर होते ही व्यासजी ने कहा — ‘अब इन्हें जाना है।’ सब योद्धा गंगा में उतरकर अपने-अपने लोकों को चले गए। फिर व्यास ने कहा — ‘जो स्त्रियाँ अपने पतियों के साथ जाना चाहती हैं, वे गंगा में प्रवेश करें।’ अनेक विधवाओं ने श्रद्धा से गंगा में डुबकी लगाई और अपने पतियों के लोकों को चली गईं। धृतराष्ट्र का शोक उस रात के बाद शांत हो गया, और पांडव भारी मन से हस्तिनापुर लौटे।",
+            "en": "After two years the Pandavas longed to see their mother. Yudhishthira came to the forest with his brothers, Draupadi and many citizens. Yudhishthira asked, where is Vidura? Dhritarashtra said that Vidura now lived on air alone and wandered the forest.\n\nJust then Yudhishthira saw Vidura by a distant tree: emaciated, with matted hair, a pebble held in his mouth, his body covered in dust. Yudhishthira called out, Uncle, it is I, Yudhishthira. Vidura stayed silent and walked into the deep forest, and Yudhishthira followed. In a lonely place Vidura stood leaning against a tree and gazed steadily at Yudhishthira. And then, by the power of yoga, Vidura's life-breath, his radiance and his senses entered Yudhishthira's body. Vidura's body remained standing lifeless against the tree. When Yudhishthira prepared to cremate it, a voice from the sky said: Do not burn him; he has died by the dharma of a renunciant. Leave him as he is. Vyasa explained that Vidura was Dharma himself and Yudhishthira was a portion of Dharma; thus Dharma had merged into Dharma.\n\nA few days later Vyasa came to the ashram and said to Dhritarashtra: O king, the longing to see your sons still lives in your heart. Tonight, by the power of my austerity, I will show you all those whom you have lost. Vyasa entered the water and summoned the dead warriors.\n\nThen one by one they rose from the waters of the Ganga: Bhishma, Drona, Karna, Duryodhana and his brothers, Abhimanyu, Ghatotkacha, Drupada, Virata, Dhrishtadyumna, the five sons of Draupadi, all in divine bodies and divine garments, free of anger and envy, radiant and at peace. Vyasa gave Dhritarashtra divine sight, and the blind king saw his sons for the first time in his life. Gandhari saw her hundred sons, Kunti saw Karna, Draupadi saw her children, Uttara saw Abhimanyu. That night there was no enmity; fathers met sons, wives met husbands, brothers met brothers.\n\nAt dawn Vyasa said: Now they must go. All the warriors entered the Ganga and departed to their own worlds. Then Vyasa said: Those women who wish to go with their husbands may enter the Ganga. Many widows plunged into the river with faith and went to the worlds of their husbands. After that night Dhritarashtra's grief was stilled, and the Pandavas returned to Hastinapura with heavy hearts."
+          },
+          "lesson": {
+            "hi": "मृत्यु के पार वैर नहीं रहता; जब शोक और क्रोध छूट जाते हैं, तब जो हमसे बिछड़े हैं, वे शांति और प्रकाश में हमें फिर मिलते हैं।",
+            "en": "Beyond death no enmity remains; when grief and anger are released, those we have lost meet us again in peace and light."
+          },
+          "characters": [
+            "vidura",
+            "yudhishthira",
+            "vyasa",
+            "dhritarashtra",
+            "gandhari",
+            "kunti",
+            "draupadi",
+            "bhishma",
+            "karna",
+            "duryodhana",
+            "abhimanyu",
+            "uttara"
+          ]
+        },
+        {
+          "slug": "the-forest-fire",
+          "title": {
+            "hi": "दावानल में धृतराष्ट्र, गांधारी और कुंती का अंत",
+            "en": "The Forest Fire"
+          },
+          "body": {
+            "hi": "पांडवों के लौटने के दो वर्ष बाद — वनवास के तीसरे वर्ष में — देवर्षि नारद हस्तिनापुर आए। युधिष्ठिर ने उनका स्वागत किया और वन में रहने वाले अपने बड़ों की कुशल पूछी। नारद ने कहा — ‘राजन्! धैर्य से सुनो। तुम्हारे लौट जाने के बाद धृतराष्ट्र ने गंगाद्वार की ओर प्रस्थान किया। वहाँ उन्होंने कठोर तप आरंभ किया — वे केवल वायु पर रहते थे और मौन रहते थे।’\n\nएक दिन धृतराष्ट्र गंगा में स्नान करके लौट रहे थे कि वन में भयंकर दावानल फैल गया। आश्रमों के तपस्वियों द्वारा छोड़ी गई यज्ञाग्नि से उठी वह आग हवा के साथ चारों ओर फैलती गई। धृतराष्ट्र तप से इतने क्षीण थे कि चल नहीं सकते थे। उन्होंने संजय से कहा — ‘संजय! तुम जाओ और अपनी रक्षा करो। हम तीनों इस अग्नि में अपना शरीर छोड़ेंगे; तपस्वी के लिए यह उत्तम मृत्यु है।’ संजय ने बहुत कहा कि यह अग्नि अपवित्र है, पर धृतराष्ट्र बोले — ‘जो हम स्वयं स्वीकार कर रहे हैं, वह अपवित्र नहीं। तुम जाओ।’\n\nतब धृतराष्ट्र, गांधारी और कुंती — तीनों पूर्व की ओर मुख करके, इंद्रियों को रोककर, योग में स्थित होकर बैठ गए। दावानल ने उन्हें घेर लिया, और उस समाधि में ही तीनों ने शरीर त्याग दिया। संजय उन्हें प्रणाम करके वहाँ से निकले और हिमालय की ओर चले गए।\n\nयह सुनते ही युधिष्ठिर, भाई और द्रौपदी हाहाकार कर उठे। युधिष्ठिर विलाप करने लगे — ‘हाय! जिस माता ने हमें जन्म दिया, जिसने वनवास और दुःख में हमें सँभाला, वह अनाथ की भाँति वन की आग में जल गई, और हम राज्य के सुख में बैठे रहे! जिस राजा के सौ पुत्र थे और जो ग्यारह अक्षौहिणी सेना का स्वामी था, वह अनाथ की तरह मरा।’ भीम भी अपने कटु वचनों को याद करके रोए।\n\nनारदजी ने कहा — ‘युधिष्ठिर! शोक मत करो। धृतराष्ट्र की यह मृत्यु अपवित्र अग्नि से नहीं हुई; वह अग्नि उनकी अपनी अग्निहोत्र की अग्नि से उत्पन्न हुई थी, और उन्होंने उसे स्वयं स्वीकार किया था। कुंती ने पति की सेवा के तप से वही लोक पाया है जहाँ पांडु हैं। गांधारी पतिव्रता थीं और वे पति के साथ हैं। उनके लिए शोक नहीं, श्रद्धा करो।’ तब युधिष्ठिर ने पूरे परिवार और प्रजा के साथ गंगा-तट पर जाकर तीनों के लिए जलांजलि दी, और ब्राह्मणों को बहुत दान देकर उनका श्राद्ध किया। इस प्रकार हस्तिनापुर के अंतिम वृद्ध विदा हुए, और पांडवों का संसार से मोह और भी कम हो गया।",
+            "en": "Two years after the Pandavas' return, in the third year of the elders' forest life, the divine sage Narada came to Hastinapura. Yudhishthira welcomed him and asked after the welfare of his elders in the forest. Narada said: O king, listen with patience. After you left, Dhritarashtra went on towards Gangadvara. There he began severe austerities; he lived on air alone and kept silence.\n\nOne day, as Dhritarashtra was returning from his bath in the Ganga, a terrible fire broke out in the forest. Rising from the sacrificial fires left by the ascetics of the hermitages, it spread in every direction with the wind. Dhritarashtra was so wasted by austerity that he could not walk. He said to Sanjaya: Sanjaya, go and save yourself. We three will give up our bodies in this fire; for an ascetic this is a worthy death. Sanjaya protested that this fire was not a sacred one, but Dhritarashtra said: What we ourselves accept is not impure. Go.\n\nThen Dhritarashtra, Gandhari and Kunti sat down facing east, restraining their senses, fixed in yoga. The forest fire surrounded them, and in that meditation all three left their bodies. Sanjaya bowed to them and escaped and went away to the Himalayas.\n\nHearing this, Yudhishthira, his brothers and Draupadi cried out in anguish. Yudhishthira lamented: Alas! The mother who bore us, who held us together through exile and sorrow, burned in a forest fire like one who has no one, while we sat in the comforts of a kingdom! The king who had a hundred sons and commanded eleven armies died like an orphan. Bhima too wept, remembering his harsh words.\n\nNarada said: Yudhishthira, do not grieve. Dhritarashtra's death was not by an impure fire; that fire had sprung from his own sacrificial fire, and he accepted it of his own will. By the austerity of serving her elders Kunti has reached the world where Pandu is. Gandhari was devoted to her husband and is with him. Offer them reverence, not grief. Then Yudhishthira went with all his family and people to the bank of the Ganga, offered water for the three, and performed their shraddha with great gifts to the Brahmins. Thus the last elders of Hastinapura departed, and the Pandavas' attachment to the world grew weaker still."
+          },
+          "lesson": {
+            "hi": "जो मृत्यु को शांत मन से स्वीकार करता है, उसके लिए वह अपवित्र नहीं रहती; और जिनसे हम प्रेम करते हैं, उनके जीते-जी कहे गए कटु शब्द बाद में हमें ही जलाते हैं।",
+            "en": "Death accepted with a calm mind is never impure; and the harsh words we speak to those we love while they live come back to burn us afterwards."
+          },
+          "characters": [
+            "dhritarashtra",
+            "gandhari",
+            "kunti",
+            "sanjaya",
+            "narada",
+            "yudhishthira",
+            "bhima",
+            "draupadi"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "slug": "mausala-parva",
+      "title": {
+        "hi": "मौसल पर्व",
+        "en": "Mausala Parva"
+      },
+      "subtitle": {
+        "hi": "गांधारी का शाप पूर्ण — यदुवंश का विनाश और श्रीकृष्ण का प्रयाण",
+        "en": "Gandhari's curse fulfilled: the destruction of the Yadavas and Krishna's departure"
+      },
+      "summary": {
+        "hi": "कुरुक्षेत्र युद्ध के छत्तीस वर्ष बाद गांधारी के शाप का समय आ पहुँचा। द्वारका में अपशकुन होने लगे। एक दिन यादव कुमारों ने हँसी में सांब को गर्भवती स्त्री का वेश पहनाकर विश्वामित्र, कण्व और नारद जैसे ऋषियों से पूछा कि यह क्या जनेगी। क्रुद्ध ऋषियों ने शाप दिया कि यह एक लोहे का मूसल जनेगी जो समस्त वृष्णि और अंधक वंश का नाश करेगा। प्रभास तीर्थ में मदिरा के नशे में यादव आपस में लड़ पड़े, और घास उखाड़कर एक-दूसरे को मार डाला। बलराम योग से देह त्यागकर शेषनाग रूप में समुद्र में समा गए। वन में ध्यान में बैठे श्रीकृष्ण के चरण को मृग समझकर जरा नामक व्याध ने बाण मारा, और भगवान ने अपनी लीला समेट ली। अर्जुन द्वारका आए, स्त्रियों और वृद्धों को लेकर चले, और उनके पीछे समुद्र ने द्वारका को निगल लिया। मार्ग में लुटेरों के सामने अर्जुन का गांडीव भी निष्फल हो गया — यह संकेत था कि अब पांडवों के जाने का समय आ गया है।",
+        "en": "Thirty-six years after the war of Kurukshetra, the time of Gandhari's curse arrived. Evil omens appeared in Dwarka. One day some Yadava youths, in jest, dressed Samba as a pregnant woman and asked the sages Vishvamitra, Kanva and Narada what she would give birth to. The angry sages cursed them: she would bear an iron club that would destroy the whole race of the Vrishnis and Andhakas. At the holy place of Prabhasa the Yadavas, drunk with wine, quarrelled and, plucking reeds that turned to iron in their hands, killed one another. Balarama left his body through yoga and entered the sea in the form of the serpent Shesha. In the forest, a hunter named Jara mistook the foot of the meditating Krishna for a deer and shot him, and the Lord drew his earthly play to a close. Arjuna came to Dwarka, led the women and the old away, and behind them the sea swallowed the city. On the road Arjuna's Gandiva failed against mere robbers, a sign that the time of the Pandavas too had come."
+      },
+      "stories": [
+        {
+          "slug": "sages-curse-and-the-iron-club",
+          "title": {
+            "hi": "ऋषियों का शाप और लोहे का मूसल",
+            "en": "The Sages' Curse and the Iron Club"
+          },
+          "body": {
+            "hi": "युद्ध के छत्तीसवें वर्ष में युधिष्ठिर ने अनेक अपशकुन देखे — तेज़ आँधी, उल्कापात, सूर्य पर धब्बे, और उन्हें गांधारी का शाप स्मरण हो आया। उधर द्वारका में भी अनर्थ के चिह्न प्रकट होने लगे। श्रीकृष्ण समझ गए कि गांधारी के वचन का समय आ गया है।\n\nएक दिन विश्वामित्र, कण्व और नारद द्वारका आए। यादव कुमारों ने, जो अपने बल और वैभव के मद में थे, हँसी-ठिठोली सूझी। उन्होंने श्रीकृष्ण के पुत्र सांब को स्त्री का वेश पहनाया, पेट पर वस्त्र लपेटकर गर्भवती बनाया और ऋषियों के पास ले जाकर पूछा — ‘महर्षियो! यह बभ्रु की पत्नी गर्भवती है और पुत्र चाहती है। आप त्रिकालदर्शी हैं, बताइए यह क्या जनेगी?’ ऋषियों ने अपनी दिव्य दृष्टि से सब जान लिया। क्रोध से उनकी आँखें लाल हो गईं और उन्होंने कहा — ‘यह सांब एक भयंकर लोहे का मूसल जनेगा, जो राम और कृष्ण को छोड़कर समस्त वृष्णि और अंधक वंश का नाश कर देगा। और कृष्ण जरा नामक व्याध के हाथों मारे जाएँगे।’\n\nअगले दिन सचमुच सांब के शरीर से एक लोहे का मूसल निकला। घबराए हुए कुमार राजा उग्रसेन के पास गए। उग्रसेन ने उस मूसल को बारीक पीसकर समुद्र में फिंकवा दिया और नगर में घोषणा करवाई कि आज से कोई मदिरा न बनाए, न पिए; जो ऐसा करेगा उसे अपने परिवार सहित शूली पर चढ़ा दिया जाएगा। किंतु विधि का विधान अटल था। मूसल का जो चूर्ण समुद्र में डाला गया था, वह लहरों के साथ तट पर आकर एरका नामक नुकीली घास बनकर उग आया। मूसल का एक छोटा टुकड़ा, जो पिसा नहीं जा सका था, समुद्र में फेंका गया; उसे एक मछली निगल गई। मछुआरों ने वह मछली पकड़ी, और उसके पेट से निकला वह टुकड़ा जरा नामक व्याध के हाथ लगा, जिसने उसे अपने बाण की नोक बना लिया।\n\nइधर श्रीकृष्ण ने देखा कि काल द्वारका की गलियों में घूम रहा है। उनका सुदर्शन चक्र आकाश में उड़ गया, उनके रथ के घोड़े रथ सहित समुद्र में चले गए, और गरुड़ध्वज अप्सराएँ उठा ले गईं। उन्होंने यादवों को आज्ञा दी कि सब लोग प्रायश्चित्त के लिए प्रभास तीर्थ चलें। सारा नगर रथों और बैलगाड़ियों में भरकर समुद्र-तट की ओर चल पड़ा, न जानते हुए कि वे अपने ही अंत की ओर जा रहे हैं।",
+            "en": "In the thirty-sixth year after the war Yudhishthira saw many evil omens, fierce winds, falling meteors and shadows on the sun, and he remembered Gandhari's curse. In Dwarka too the signs of disaster began to appear. Shri Krishna understood that the hour of Gandhari's words had come.\n\nOne day Vishvamitra, Kanva and Narada came to Dwarka. Some Yadava youths, drunk with their own strength and wealth, thought to make a joke. They dressed Krishna's son Samba as a woman, wrapped cloth about his belly to make him look pregnant, and led him to the sages, asking: Great sages, this is the wife of Babhru, she is with child and wishes for a son. You see past, present and future; tell us what she will bear. The sages saw everything with their divine sight. Their eyes grew red with anger and they said: This Samba shall bear a terrible iron club which will destroy the whole race of the Vrishnis and Andhakas, except Rama and Krishna. And Krishna shall meet his death at the hands of a hunter named Jara.\n\nThe next day an iron club did indeed come forth from Samba's body. The terrified youths went to King Ugrasena. Ugrasena had the club ground to fine powder and thrown into the sea, and proclaimed in the city that from that day no one should make or drink wine, on pain of being impaled with his whole family. But the decree of fate could not be undone. The powder cast into the sea was washed ashore by the waves and sprang up as sharp eraka reeds. One small piece of the club, which could not be ground, was thrown into the sea and swallowed by a fish. Fishermen caught the fish, and the piece from its belly came into the hands of a hunter named Jara, who fixed it to the tip of his arrow.\n\nKrishna, meanwhile, saw Death walking the streets of Dwarka. His Sudarshana discus flew up into the sky, the horses of his chariot ran into the sea taking the chariot with them, and the apsaras carried off his banner of Garuda. He commanded the Yadavas to go to the holy place of Prabhasa for purification. The whole city set out in chariots and carts towards the seashore, not knowing that they were travelling towards their own end."
+          },
+          "lesson": {
+            "hi": "बल और वैभव का मद जब ऋषियों और धर्म का उपहास करने लगे, तब विनाश दूर नहीं रहता; जो शाप अहंकार से बुलाया जाता है, उसे कोई उपाय टाल नहीं सकता।",
+            "en": "When pride of power and wealth begins to mock the wise and the holy, destruction is not far; a curse invited by arrogance cannot be averted by any device."
+          },
+          "characters": [
+            "krishna",
+            "samba",
+            "narada",
+            "ugrasena",
+            "yudhishthira",
+            "gandhari",
+            "balarama"
+          ]
+        },
+        {
+          "slug": "destruction-of-the-yadavas",
+          "title": {
+            "hi": "प्रभास में यदुवंश का विनाश और बलराम का प्रयाण",
+            "en": "The Destruction of the Yadavas at Prabhasa"
+          },
+          "body": {
+            "hi": "प्रभास तीर्थ में पहुँचकर यादवों ने ब्राह्मणों को अन्न और धन दान किया, पर फिर वे उत्सव में डूब गए। उग्रसेन की आज्ञा भूलकर उन्होंने मदिरा निकाली और श्रीकृष्ण के देखते-देखते समुद्र-तट पर नाच-गान और मद्यपान आरंभ हो गया।\n\nनशे में सात्यकि ने कृतवर्मा की ओर देखकर हँसते हुए कहा — ‘कौन क्षत्रिय सोए हुए लोगों को मारता है? अश्वत्थामा के साथ मिलकर तुमने जो किया, उसे यादव कभी क्षमा नहीं करेंगे।’ कृतवर्मा ने क्रोध से उत्तर दिया — ‘और तुमने भूरिश्रवा को, जिसकी भुजा कट चुकी थी और जो प्रायोपवेशन में बैठा था, कैसे मारा था?’ श्रीकृष्ण ने कृतवर्मा की ओर क्रोध से देखा। सात्यकि ने स्यमंतक मणि का पुराना विवाद छेड़ा और उछलकर तलवार से कृतवर्मा का सिर काट डाला। भोज और अंधक वंश के लोग सात्यकि पर टूट पड़े; प्रद्युम्न उसकी रक्षा को दौड़े, पर दोनों वहीं मारे गए — श्रीकृष्ण की आँखों के सामने।\n\nअपने पुत्र और प्रिय सखा को मरते देख श्रीकृष्ण ने क्रोध में भूमि से एक मुट्ठी एरका घास उखाड़ी — और वह उनके हाथ में वज्र के समान लोहे का मूसल बन गई। उन्होंने उससे सामने खड़े योद्धाओं को मारना आरंभ किया। फिर जिसने भी वह घास उठाई, उसके हाथ में वह मूसल बन गई। पिता पुत्र को, पुत्र पिता को, भाई भाई को मारने लगा। जैसे पतंगे आग में गिरते हैं, वैसे यादव एक-दूसरे पर टूट पड़े और कोई भागा नहीं। सांब, चारुदेष्ण, अनिरुद्ध — श्रीकृष्ण के सब पुत्र और पौत्र मारे गए। कुछ ही समय में समुद्र-तट लाशों से पट गया। केवल बलराम, श्रीकृष्ण, दारुक और बभ्रु बचे।\n\nश्रीकृष्ण ने दारुक से कहा — ‘तुम शीघ्र हस्तिनापुर जाओ और अर्जुन को यह सब बताओ; वह यहाँ आकर स्त्रियों की रक्षा करे।’ बभ्रु को उन्होंने स्त्रियों की रक्षा के लिए भेजा, पर एक व्याध का मूसल उड़कर बभ्रु को लगा और वह भी मर गया। श्रीकृष्ण द्वारका लौटे, पिता वसुदेव को स्त्रियों की रक्षा सौंपी, और बलराम को खोजने वन में गए।\n\nउन्होंने बलराम को एक वृक्ष के नीचे योग में बैठे देखा। उसी समय बलराम के मुख से एक विशाल श्वेत नाग निकला — सहस्र फनों वाला, पर्वत के समान — और समुद्र की ओर चला गया। समुद्र, वरुण और दिव्य नागों ने आगे बढ़कर उसका स्वागत किया। आदिशेष अपने लोक को लौट गए थे। श्रीकृष्ण अकेले रह गए, और अब वे अपने अंतिम क्षण की प्रतीक्षा में वन में घूमने लगे।",
+            "en": "Reaching Prabhasa, the Yadavas gave food and wealth to the Brahmins, and then gave themselves to festivity. Forgetting Ugrasena's command they brought out wine, and before Krishna's eyes the singing, dancing and drinking began on the seashore.\n\nIn his cups Satyaki looked at Kritavarma and said with a laugh: What Kshatriya kills sleeping men? What you did with Ashwatthama the Yadavas will never forgive. Kritavarma answered angrily: And how did you kill Bhurishrava, whose arm had been cut off and who sat in a fast unto death? Krishna looked at Kritavarma with anger. Satyaki raised the old quarrel over the Syamantaka jewel, sprang up and cut off Kritavarma's head with his sword. The Bhojas and Andhakas fell on Satyaki; Pradyumna rushed to defend him, and both were killed there, before Krishna's eyes.\n\nSeeing his son and his dear friend slain, Krishna in anger tore up a handful of eraka grass from the ground, and in his hand it became an iron club hard as a thunderbolt. With it he began to strike down the warriors before him. Then whoever picked up that grass found it turn to a club in his hand. Father killed son and son killed father, brother slew brother. Like moths into a flame the Yadavas threw themselves on one another, and none fled. Samba, Charudeshna, Aniruddha, all of Krishna's sons and grandsons were killed. In a short while the seashore was covered with the dead. Only Balarama, Krishna, Daruka and Babhru remained.\n\nKrishna said to Daruka: Go quickly to Hastinapura and tell Arjuna all this; let him come and protect the women. He sent Babhru to guard the women, but a hunter's club flew through the air and struck Babhru, and he too died. Krishna returned to Dwarka, entrusted the women to his father Vasudeva, and went into the forest to find Balarama.\n\nHe found Balarama seated beneath a tree in yoga. At that moment a great white serpent came out of Balarama's mouth, thousand-hooded, vast as a mountain, and moved towards the sea. The ocean, Varuna and the divine serpents came forward to welcome him. Adishesha had returned to his own realm. Krishna was left alone, and now he wandered in the forest awaiting his final hour."
+          },
+          "lesson": {
+            "hi": "मदिरा और पुराने वैर की याद एक क्षण में कुल का नाश कर देती है; जो शाप धर्म के उपहास से आया था, उसे अहंकार और नशे ने पूरा किया।",
+            "en": "Drink and the memory of old grudges can destroy a whole clan in a moment; the curse born of mocking dharma was completed by pride and intoxication."
+          },
+          "characters": [
+            "krishna",
+            "balarama",
+            "satyaki",
+            "kritavarma",
+            "pradyumna",
+            "samba",
+            "daruka"
+          ]
+        },
+        {
+          "slug": "krishna-departure-and-dwarka-submerged",
+          "title": {
+            "hi": "श्रीकृष्ण का प्रयाण और द्वारका का जलमग्न होना",
+            "en": "Krishna's Departure and the Sinking of Dwarka"
+          },
+          "body": {
+            "hi": "बलराम के जाने के बाद श्रीकृष्ण ने सब कुछ समझ लिया। उन्होंने अपनी इंद्रियों, वाणी और मन को संयत किया और एक वृक्ष के नीचे भूमि पर योग में लेट गए — उनका एक चरण दूसरे पर रखा हुआ था।\n\nउसी वन में जरा नामक व्याध हिरनों का शिकार कर रहा था। दूर से उसे घास में हिलता हुआ श्रीकृष्ण का लाल चरण मृग के समान दिखा। उसने वही बाण चलाया जिसकी नोक मूसल के टुकड़े से बनी थी, और वह भगवान के चरण में जा लगा। पास आकर जब उसने पीले वस्त्र पहने, चतुर्भुज, योग में स्थित पुरुष को देखा तो वह भय से काँपता हुआ उनके चरणों पर गिर पड़ा। श्रीकृष्ण ने उसे उठाया और सांत्वना दी — ‘डरो मत, जरा। यह मेरी ही इच्छा से हुआ है।’ फिर वे अपने तेज से आकाश को भरते हुए ऊपर उठे और अपने परम धाम को चले गए।\n\nउधर दारुक हस्तिनापुर पहुँचा और अर्जुन को यादवों के संहार का समाचार दिया। अर्जुन तुरंत द्वारका आए। वसुदेव ने उन्हें सब वृत्तांत सुनाया और कहा कि कृष्ण ने उन्हें स्त्रियों की रक्षा का भार दिया है। अगले दिन वसुदेव ने योग से शरीर त्याग दिया। अर्जुन ने प्रभास जाकर श्रीकृष्ण और बलराम के शरीर खोजे और उनका दाह-संस्कार किया।\n\nफिर अर्जुन ने घोषणा की — ‘सात दिन में समुद्र इस नगर को डुबो देगा। सब लोग रथ और गाड़ियाँ तैयार करें; हम इंद्रप्रस्थ चलेंगे।’ श्रीकृष्ण के पौत्र वज्र को लेकर अर्जुन यादव स्त्रियों, बालकों और वृद्धों के साथ निकले। जैसे-जैसे वे आगे बढ़ते गए, समुद्र उनके पीछे की भूमि को निगलता गया, और कुछ ही समय में द्वारका के महल, उद्यान और मार्ग जल में डूब गए।\n\nमार्ग में पंचनद देश में आभीर लुटेरों ने उस काफिले पर आक्रमण किया। अर्जुन ने गांडीव उठाया, पर उसे भारी पाया; प्रत्यंचा चढ़ाने में कठिनाई हुई; दिव्यास्त्र स्मरण नहीं आए। जिस अर्जुन ने अकेले कौरव सेना को रोका था, वह साधारण ग्वालों से अपनी रक्षिता स्त्रियों को नहीं बचा सका। अपमानित अर्जुन बचे हुए लोगों को लेकर कुरुक्षेत्र और इंद्रप्रस्थ पहुँचे, वज्र को इंद्रप्रस्थ का राजा बनाया, और अंत में व्यासजी के आश्रम में जाकर रोते हुए बोले — ‘मेरा बल कहाँ गया?’ व्यासजी ने कहा — ‘अर्जुन! तुम्हारा और तुम्हारे अस्त्रों का काम पूरा हो गया। जो कृष्ण के साथ था वह उनके साथ चला गया। अब तुम लोगों का भी जाने का समय आ गया है।’",
+            "en": "After Balarama's departure Krishna understood everything. He restrained his senses, speech and mind, and lay down on the ground beneath a tree in yoga, one foot resting upon the other.\n\nIn that same forest a hunter named Jara was hunting deer. From afar the red sole of Krishna's foot, moving in the grass, looked to him like a deer. He shot the very arrow whose tip had been made from the piece of the club, and it struck the foot of the Lord. Coming near, when he saw a four-armed person in yellow garments seated in yoga, he fell at his feet trembling with fear. Krishna raised him and comforted him: Do not fear, Jara. This has happened by my own will. Then, filling the sky with his radiance, he rose upwards and went to his supreme abode.\n\nMeanwhile Daruka reached Hastinapura and told Arjuna of the slaughter of the Yadavas. Arjuna came at once to Dwarka. Vasudeva told him everything and said that Krishna had charged him with the protection of the women. The next day Vasudeva gave up his body through yoga. Arjuna went to Prabhasa, found the bodies of Krishna and Balarama and performed their last rites.\n\nThen Arjuna proclaimed: In seven days the sea will swallow this city. Let everyone prepare chariots and carts; we go to Indraprastha. Taking Krishna's grandson Vajra, Arjuna set out with the Yadava women, children and elders. As they moved on, the sea swallowed the land behind them, and soon the palaces, gardens and streets of Dwarka lay beneath the waters.\n\nOn the way, in the land of the five rivers, Abhira robbers attacked the caravan. Arjuna lifted the Gandiva but found it heavy; he struggled to string it; the divine weapons would not come to his mind. The Arjuna who alone had held back the Kaurava army could not protect the women in his care from common cowherds. Humbled, Arjuna brought the survivors to Kurukshetra and Indraprastha, made Vajra king of Indraprastha, and at last went weeping to the ashram of Vyasa: Where has my strength gone? Vyasa said: Arjuna, the work of you and your weapons is finished. What was with Krishna has gone with Krishna. Now the time has come for you too to depart."
+          },
+          "lesson": {
+            "hi": "जो शक्ति भगवान की कृपा से मिली थी, वह उनके जाने के साथ चली जाती है; संसार में सब कुछ काल के अधीन है, और समय आने पर सबको विदा लेनी पड़ती है।",
+            "en": "The power that came by the Lord's grace departs with him; everything in this world is subject to Time, and when the hour comes everyone must take leave."
+          },
+          "characters": [
+            "krishna",
+            "arjuna",
+            "balarama",
+            "vyasa",
+            "daruka",
+            "vasudeva",
+            "jara",
+            "gandhari"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "slug": "mahaprasthanika-parva",
+      "title": {
+        "hi": "महाप्रस्थानिक पर्व",
+        "en": "Mahaprasthanika Parva"
+      },
+      "subtitle": {
+        "hi": "पांडवों की अंतिम यात्रा — हिमालय की ओर महाप्रस्थान",
+        "en": "The Pandavas' last journey: the great departure towards the Himalayas"
+      },
+      "summary": {
+        "hi": "श्रीकृष्ण के प्रयाण और द्वारका के डूबने का समाचार सुनकर युधिष्ठिर समझ गए कि अब संसार में रहने का प्रयोजन समाप्त हो गया है। उन्होंने परीक्षित को हस्तिनापुर का राजा बनाया, युयुत्सु को उनका संरक्षक और कृपाचार्य को गुरु नियुक्त किया, और सुभद्रा को वज्र तथा परीक्षित की देखभाल सौंपी। फिर पाँचों पांडव और द्रौपदी वल्कल पहनकर, राजसी वस्त्र और आभूषण त्यागकर, महाप्रस्थान के लिए निकल पड़े। एक कुत्ता उनके पीछे चल पड़ा। समुद्र-तट पर अग्निदेव ने अर्जुन से गांडीव और अक्षय तूणीर वरुण को लौटाने को कहा। दक्षिण, पश्चिम और फिर उत्तर की ओर चलते हुए, डूबी हुई द्वारका को देखते हुए, वे हिमालय पहुँचे और मेरु पर्वत की ओर बढ़े। मार्ग में एक-एक करके द्रौपदी, सहदेव, नकुल, अर्जुन और भीम गिर पड़े, और युधिष्ठिर ने प्रत्येक के पतन का कारण बताया। अंत में केवल युधिष्ठिर और कुत्ता बचे। इंद्र रथ लेकर आए, पर युधिष्ठिर ने कुत्ते को छोड़कर स्वर्ग जाना अस्वीकार कर दिया। वह कुत्ता स्वयं धर्म थे, और युधिष्ठिर इसी शरीर से स्वर्ग को गए।",
+        "en": "When the news came of Krishna's departure and the sinking of Dwarka, Yudhishthira understood that there was no longer any purpose in remaining in the world. He crowned Parikshit king of Hastinapura, appointed Yuyutsu as his guardian and Kripacharya as his teacher, and asked Subhadra to watch over both Parikshit and Vajra. Then the five Pandavas and Draupadi put off their royal robes and ornaments, dressed in bark, and set out on the great journey. A dog followed them. At the seashore the god Agni asked Arjuna to return the Gandiva and the inexhaustible quivers to Varuna. Travelling south, then west past the drowned city of Dwarka, and then north, they reached the Himalayas and pressed on towards Mount Meru. On the way, one by one, Draupadi, Sahadeva, Nakula, Arjuna and Bhima fell, and Yudhishthira named the fault that brought each one down. At last only Yudhishthira and the dog remained. Indra came with his chariot, but Yudhishthira refused to enter heaven if the dog was left behind. The dog was Dharma himself, and Yudhishthira ascended to heaven in his own body."
+      },
+      "stories": [
+        {
+          "slug": "the-great-journey-begins",
+          "title": {
+            "hi": "महाप्रस्थान का आरंभ",
+            "en": "The Great Journey Begins"
+          },
+          "body": {
+            "hi": "अर्जुन के मुख से यदुवंश का विनाश और श्रीकृष्ण का प्रयाण सुनकर युधिष्ठिर ने कहा — ‘काल ही सब प्राणियों को पकाता है। अब हमारे लिए भी समय आ गया है।’ भीम, अर्जुन, नकुल, सहदेव और द्रौपदी — सबने एक स्वर में कहा कि वे भी यही चाहते हैं। युधिष्ठिर ने अभिमन्यु के पुत्र परीक्षित को हस्तिनापुर के सिंहासन पर बैठाया, युयुत्सु को राज्य की देखरेख सौंपी और कृपाचार्य को परीक्षित का गुरु बनाया। सुभद्रा से उन्होंने कहा — ‘यह परीक्षित तुम्हारा पौत्र है और इंद्रप्रस्थ में वज्र यादवों का राजा है। तुम दोनों का ध्यान रखना।’\n\nफिर उन्होंने श्रीकृष्ण, वसुदेव, बलराम और सब मृत यादवों का श्राद्ध किया, ब्राह्मणों को अपार दान दिया, और प्रजा को बुलाकर अपना निश्चय सुनाया। नगरवासी रो पड़े — ‘राजन्! हमें छोड़कर न जाइए।’ किंतु युधिष्ठिर अटल रहे। पाँचों भाइयों ने राजसी वस्त्र और आभूषण उतारकर वल्कल पहने, द्रौपदी ने भी वैसा ही किया, और वे अग्निहोत्र की अग्नि जल में छोड़कर नगर से निकल पड़े — जैसे वर्षों पहले द्यूत में हारकर निकले थे। एक कुत्ता भी उनके पीछे-पीछे चल पड़ा। युयुत्सु, कृपाचार्य और नगरवासी कुछ दूर तक साथ चले; फिर उलूपी गंगा में समा गईं, चित्रांगदा मणिपुर लौटीं, और शेष सब लौट गए।\n\nपांडव पहले पूर्व दिशा की ओर चले और लाल समुद्र के तट पर पहुँचे। अर्जुन ने अब भी गांडीव और दोनों अक्षय तूणीर अपने साथ रखे थे — उनका मोह उनसे छूटा नहीं था। तभी अग्निदेव पर्वत के समान रूप में सामने प्रकट हुए और बोले — ‘पांडवो! मैं अग्नि हूँ। मैंने खांडव-दाह के समय अर्जुन के लिए वरुण से यह धनुष लिया था। अब इसकी आवश्यकता नहीं रही; इसे वरुण को लौटा दो।’ भाइयों के कहने पर अर्जुन ने गांडीव और तूणीर समुद्र में डाल दिए। अग्निदेव अंतर्धान हो गए।\n\nफिर वे दक्षिण की ओर गए, वहाँ से पश्चिम की ओर, जहाँ उन्होंने देखा कि जिस द्वारका में श्रीकृष्ण रहते थे, वह समुद्र में डूबी हुई है। उसे प्रणाम करके वे उत्तर की ओर मुड़े। वे योग में स्थित होकर, मौन, पृथ्वी की प्रदक्षिणा करते हुए चल रहे थे। उन्होंने हिमालय को पार किया, रेत के समुद्र को लाँघा, और सामने मेरु पर्वत का दर्शन किया — वही पर्वत जो देवताओं का निवास है। अब उनकी यात्रा का अंतिम चरण आरंभ हुआ।",
+            "en": "When Yudhishthira heard from Arjuna of the destruction of the Yadavas and the departure of Krishna, he said: Time cooks all beings. Now our hour too has come. Bhima, Arjuna, Nakula, Sahadeva and Draupadi all said with one voice that they wished the same. Yudhishthira placed Abhimanyu's son Parikshit on the throne of Hastinapura, entrusted the care of the kingdom to Yuyutsu, and made Kripacharya the teacher of Parikshit. To Subhadra he said: This Parikshit is your grandson, and in Indraprastha Vajra is king of the Yadavas. Watch over them both.\n\nThen he performed the shraddha of Krishna, Vasudeva, Balarama and all the dead Yadavas, gave immense gifts to the Brahmins, and summoned the people to tell them his decision. The citizens wept: O king, do not leave us. But Yudhishthira was resolved. The five brothers took off their royal garments and ornaments and dressed in bark; Draupadi did the same; and casting their sacred fires into the water they walked out of the city, as they had walked out years before after losing at dice. A dog followed behind them. Yuyutsu, Kripa and the citizens accompanied them for some distance; then Ulupi entered the Ganga, Chitrangada returned to Manipura, and all the rest turned back.\n\nThe Pandavas went first towards the east and reached the shore of the red sea. Arjuna still carried the Gandiva and the two inexhaustible quivers; his attachment to them had not left him. Then the god Agni appeared before them, huge as a mountain, and said: Pandavas, I am Agni. At the burning of the Khandava forest I obtained this bow from Varuna for Arjuna. It is needed no longer; return it to Varuna. At the urging of his brothers Arjuna cast the Gandiva and the quivers into the sea. Agni vanished.\n\nThen they went south, and from there west, where they saw that Dwarka, where Krishna had lived, now lay beneath the sea. Bowing to it, they turned north. Fixed in yoga, silent, they walked on, circling the earth. They crossed the Himalayas, passed over a sea of sand, and saw before them Mount Meru, the abode of the gods. Now the last stage of their journey began."
+          },
+          "lesson": {
+            "hi": "जब जीवन का कार्य पूरा हो जाए, तो राज्य, शस्त्र और प्रिय वस्तुओं का मोह छोड़कर शांत मन से विदा लेना ही सच्ची वीरता है।",
+            "en": "When life's work is done, true heroism lies in setting aside kingdom, weapons and cherished things, and taking leave with a calm mind."
+          },
+          "characters": [
+            "yudhishthira",
+            "bhima",
+            "arjuna",
+            "nakula",
+            "sahadeva",
+            "draupadi",
+            "parikshit",
+            "subhadra",
+            "kripa",
+            "agni"
+          ]
+        },
+        {
+          "slug": "the-fall-of-each-and-the-dog",
+          "title": {
+            "hi": "एक-एक का पतन और धर्मरूपी कुत्ता",
+            "en": "Each One Falls, and the Dog"
+          },
+          "body": {
+            "hi": "मेरु की ओर बढ़ते हुए पांडव योग में स्थित होकर तेज़ी से चल रहे थे, कि अचानक द्रौपदी लड़खड़ाकर पृथ्वी पर गिर पड़ीं। भीम ने युधिष्ठिर से पूछा — ‘राजन्! पांचाली ने कभी कोई पाप नहीं किया, फिर वह क्यों गिरी?’ युधिष्ठिर बिना पीछे देखे बोले — ‘हम सबका पति होते हुए भी द्रौपदी का अर्जुन के प्रति विशेष पक्षपात था। यह उसी का फल है।’ और वे आगे बढ़ते गए।\n\nकुछ दूर सहदेव गिरे। भीम ने फिर पूछा — ‘जिसने सदा नम्रता से हमारी सेवा की, वह क्यों गिरा?’ युधिष्ठिर ने कहा — ‘सहदेव को अभिमान था कि उसके समान बुद्धिमान कोई नहीं।’ फिर नकुल गिरे, और युधिष्ठिर ने कहा — ‘इसे अपने रूप का गर्व था; यह सोचता था कि इसके समान सुंदर कोई नहीं।’ फिर अर्जुन गिरे। भीम ने व्याकुल होकर पूछा, तो युधिष्ठिर बोले — ‘अर्जुन ने कहा था कि वह एक दिन में सब शत्रुओं का नाश कर देगा, पर उसने ऐसा नहीं किया।’\n\nअंत में भीम स्वयं गिरे और पूछा — ‘राजन्! मैं क्यों गिर रहा हूँ?’ युधिष्ठिर ने उत्तर दिया — ‘भीम, तुम बहुत खाते थे और दूसरों का विचार किए बिना अपने बल की डींग मारते थे।’ और युधिष्ठिर अकेले आगे बढ़ गए — पीछे मुड़कर नहीं देखा। केवल वह कुत्ता उनके साथ चलता रहा।\n\nतभी आकाश और पृथ्वी को गुँजाता हुआ इंद्र का रथ प्रकट हुआ। इंद्र ने कहा — ‘युधिष्ठिर! रथ पर चढ़ो। तुम इसी शरीर से स्वर्ग जाओगे।’ युधिष्ठिर ने कहा — ‘मेरे भाई और द्रौपदी मार्ग में गिर पड़े हैं। उनके बिना मैं नहीं जाऊँगा।’ इंद्र ने कहा — ‘वे शरीर त्यागकर पहले ही स्वर्ग पहुँच चुके हैं; तुम वहाँ उनसे मिलोगे।’ तब युधिष्ठिर ने कहा — ‘यह कुत्ता मेरा भक्त है, यह भी मेरे साथ चले।’ इंद्र बोले — ‘स्वर्ग में कुत्तों के लिए स्थान नहीं है। इसे छोड़ो; इसमें कोई क्रूरता नहीं।’ युधिष्ठिर ने दृढ़ता से कहा — ‘जो मुझ पर आश्रित है, जो भयभीत है, जो भक्त है और जो मेरी शरण में है, उसे त्यागना ब्रह्महत्या के समान है। मैं अपने सुख के लिए इसे नहीं छोड़ूँगा।’\n\nउसी क्षण कुत्ता अदृश्य हुआ और उसके स्थान पर साक्षात् धर्मदेव प्रकट हुए। उन्होंने कहा — ‘पुत्र! मैंने द्वैतवन में भी तुम्हारी परीक्षा ली थी, जब तुमने भाइयों में से नकुल को जिलाया था। आज तुमने स्वर्ग का त्याग भी एक कुत्ते के लिए कर दिया। तुम्हारे समान कोई नहीं।’ युधिष्ठिर इंद्र के रथ पर बैठकर, मनुष्य-देह में ही, स्वर्ग की ओर चले।",
+            "en": "As the Pandavas pressed on towards Meru, fixed in yoga and walking swiftly, Draupadi suddenly staggered and fell to the ground. Bhima asked Yudhishthira: O king, Panchali never committed any sin; why has she fallen? Yudhishthira answered without looking back: Though she was wife to us all, Draupadi had a special partiality for Arjuna. This is the fruit of that. And he walked on.\n\nA little further Sahadeva fell. Bhima asked again: He who always served us with humility, why has he fallen? Yudhishthira said: Sahadeva was proud that no one was as wise as he. Then Nakula fell, and Yudhishthira said: He was vain of his beauty; he thought no one was as handsome as he. Then Arjuna fell. When Bhima asked in distress, Yudhishthira said: Arjuna declared that he would destroy all his enemies in a single day, but he did not do so.\n\nAt last Bhima himself fell and asked: O king, why am I falling? Yudhishthira replied: Bhima, you ate too much and boasted of your strength without regard for others. And Yudhishthira went on alone, never turning his head. Only the dog kept walking with him.\n\nThen Indra's chariot appeared, filling heaven and earth with its sound. Indra said: Yudhishthira, mount the chariot. You shall go to heaven in this very body. Yudhishthira said: My brothers and Draupadi have fallen on the way. I will not go without them. Indra said: They have cast off their bodies and reached heaven already; you will meet them there. Then Yudhishthira said: This dog is devoted to me; let him come too. Indra replied: There is no place for dogs in heaven. Leave him; there is no cruelty in that. Yudhishthira answered firmly: To abandon one who depends on me, who is afraid, who is devoted and has taken refuge with me, is a sin equal to killing a Brahmin. I will not abandon him for my own happiness.\n\nIn that instant the dog vanished, and in its place stood Dharma himself. He said: Son, I tested you once before in the Dvaita forest, when you chose Nakula to be restored to life among your brothers. Today you have renounced heaven itself for the sake of a dog. There is no one like you. Yudhishthira, seated in Indra's chariot, went towards heaven in his human body."
+          },
+          "lesson": {
+            "hi": "छोटा-सा अभिमान भी अंतिम यात्रा में गिरा देता है, और शरणागत के प्रति करुणा स्वर्ग से भी बड़ी है।",
+            "en": "Even a small pride brings one down on the final journey, while compassion for one who seeks shelter is greater than heaven itself."
+          },
+          "characters": [
+            "yudhishthira",
+            "draupadi",
+            "sahadeva",
+            "nakula",
+            "arjuna",
+            "bhima",
+            "indra",
+            "dharma"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "slug": "svargarohana-parva",
+      "title": {
+        "hi": "स्वर्गारोहण पर्व",
+        "en": "Svargarohana Parva"
+      },
+      "subtitle": {
+        "hi": "युधिष्ठिर का स्वर्गारोहण, नरक का दर्शन और अंतिम मिलन",
+        "en": "Yudhishthira's ascent to heaven, the vision of hell, and the final union"
+      },
+      "summary": {
+        "hi": "स्वर्गारोहण पर्व महाभारत का अंतिम पर्व है। मनुष्य-देह में स्वर्ग पहुँचे युधिष्ठिर वहाँ दुर्योधन को देवताओं के बीच सूर्य के समान तेज से प्रकाशित देखकर क्रुद्ध हो जाते हैं और अपने भाइयों, द्रौपदी और कर्ण को देखने की माँग करते हैं। देवदूत उन्हें अंधकार, दुर्गंध और यातनाओं से भरे मार्ग पर ले जाता है, जहाँ उन्हें कर्ण, भीम, अर्जुन, नकुल, सहदेव और द्रौपदी की करुण पुकार सुनाई देती है। युधिष्ठिर स्वर्ग त्यागकर उन्हीं के पास रहने का निश्चय करते हैं। तभी इंद्र और धर्मदेव प्रकट होकर बताते हैं कि यह केवल माया थी — द्रोणाचार्य को अश्वत्थामा की मृत्यु का छल-वचन कहने के दंड में उन्हें क्षण भर का नरक दिखाया गया है, और यह उनकी तीसरी परीक्षा थी। दिव्य गंगा में स्नान करके युधिष्ठिर मनुष्य-देह त्यागते हैं और देखते हैं कि श्रीकृष्ण अपने नारायण रूप में हैं, कर्ण सूर्य में, भीम मरुतों में, अर्जुन इंद्र के पास, नकुल-सहदेव अश्विनीकुमारों में और द्रौपदी लक्ष्मी रूप में विराजमान हैं। महाभारत के सब पात्र अपने-अपने दिव्य मूल में लीन हो जाते हैं। पर्व के अंत में व्यासजी का उद्घोष है — जो यहाँ है वह अन्यत्र भी है; जो यहाँ नहीं, वह कहीं नहीं।",
+        "en": "Svargarohana Parva, the Book of the Ascent to Heaven, is the last parva of the Mahabharata. Arriving in heaven in his human body, Yudhishthira sees Duryodhana seated among the gods, shining like the sun, and in anger demands to see his brothers, Draupadi and Karna instead. A messenger of the gods leads him along a path of darkness, stench and torment, where he hears the pitiful cries of Karna, Bhima, Arjuna, Nakula, Sahadeva and Draupadi. Yudhishthira resolves to give up heaven and stay with them. Then Indra and Dharma appear and explain that this was only an illusion: for the deceitful words he spoke to Drona about Ashwatthama's death he was shown hell for a moment, and this was his third test. Bathing in the celestial Ganga, Yudhishthira sheds his human body and sees Krishna in his form as Narayana, Karna merged in the Sun, Bhima among the Maruts, Arjuna beside Indra, Nakula and Sahadeva with the Ashvins, and Draupadi as the goddess Shri. All the characters of the Mahabharata return to their divine sources. The parva closes with Vyasa's declaration: what is found here may be found elsewhere, but what is not here is nowhere."
+      },
+      "stories": [
+        {
+          "slug": "duryodhana-in-heaven",
+          "title": {
+            "hi": "स्वर्ग में दुर्योधन का दर्शन",
+            "en": "Yudhishthira Sees Duryodhana in Heaven"
+          },
+          "body": {
+            "hi": "इंद्र के रथ पर बैठकर युधिष्ठिर स्वर्ग पहुँचे। वहाँ पहुँचते ही उन्होंने जो देखा, उससे उनका मन काँप उठा — दुर्योधन एक दिव्य सिंहासन पर बैठा था, सूर्य के समान तेज से दमकता हुआ, वीरों की श्री से सुशोभित, और देवता तथा साध्यगण उसकी सेवा में खड़े थे। उसे इस वैभव में देखकर युधिष्ठिर का क्रोध जाग उठा।\n\nउन्होंने देवताओं की ओर मुँह फेरकर ऊँचे स्वर में कहा — ‘मैं उस लोभी और अदूरदर्शी दुर्योधन के साथ एक क्षण भी नहीं रहना चाहता, जिसके कारण हमने तेरह वर्ष वन में भटकते हुए बिताए, जिसके कारण पृथ्वी के सब क्षत्रिय और हमारे बंधु-बांधव मारे गए, और जिसने भरी सभा में हमारी धर्मपत्नी द्रौपदी को अपमानित किया। मैं उसे देखना भी नहीं चाहता। मुझे बताइए मेरे भाई कहाँ हैं — वह महाबाहु कर्ण कहाँ है जो सत्यप्रतिज्ञ था, धृष्टद्युम्न और सात्यकि कहाँ हैं, और द्रौपदी कहाँ है? मैं वहीं जाना चाहता हूँ जहाँ वे हैं। यह स्वर्ग मुझे उनके बिना नहीं चाहिए।’\n\nनारदजी ने हँसकर कहा — ‘युधिष्ठिर! स्वर्ग में वैर नहीं रहता। यहाँ आकर कोई किसी से शत्रुता नहीं रखता। दुर्योधन के विषय में ऐसा मत कहो। वह राजा था, और उसने क्षत्रिय-धर्म का पालन करते हुए निर्भय होकर युद्ध में अपना शरीर अर्पित किया। युद्ध में जो वीरगति पाता है, उसे यह लोक मिलता ही है। द्यूत के समय तुम लोगों को जो कष्ट हुआ, वह सब तुम्हें भूल जाना चाहिए — यह स्थान द्वेष का नहीं है। तुम यहीं रहो।’\n\nकिंतु युधिष्ठिर का हृदय नहीं माना। उन्होंने कहा — ‘देवर्षि! यदि दुर्योधन को, जिसने धर्म का पालन नहीं किया और जिसके कारण इतना अनर्थ हुआ, यह लोक मिला है, तो मेरे भाइयों को, जिन्होंने सत्य और धर्म को कभी नहीं छोड़ा, जो दानी, वीर और सत्यवादी थे, कौन-सा लोक मिला है? मैं उन्हें देखना चाहता हूँ। जहाँ भीम, अर्जुन, नकुल और सहदेव हैं, जहाँ कर्ण और द्रौपदी हैं, वही मेरा स्वर्ग है। मुझे वहाँ ले चलो।’\n\nयह सुनकर देवताओं ने एक देवदूत को आज्ञा दी — ‘युधिष्ठिर को वहाँ ले जाओ जहाँ उनके भाई हैं। जो यह देखना चाहते हैं, इन्हें दिखाओ।’ देवदूत आगे-आगे चला और युधिष्ठिर उसके पीछे। उन्हें नहीं पता था कि यह मार्ग उन्हें कहाँ ले जाएगा, पर उनके मन में केवल एक भाव था — भाइयों से मिलना, चाहे वे कहीं भी हों।",
+            "en": "Seated in Indra's chariot, Yudhishthira arrived in heaven. What he saw on arriving made his heart tremble: Duryodhana sat on a divine throne, blazing like the sun, adorned with the glory of heroes, with gods and sadhyas standing in attendance. Seeing him in such splendour, Yudhishthira's anger awoke.\n\nTurning to the gods he said in a loud voice: I do not wish to stay even a moment with that greedy, short-sighted Duryodhana, because of whom we spent thirteen years wandering in the forest, because of whom all the Kshatriyas of the earth and our own kinsmen were slain, and who insulted our lawful wife Draupadi in the full assembly. I do not even wish to look at him. Tell me where my brothers are. Where is the mighty-armed Karna, who was true to his word? Where are Dhrishtadyumna and Satyaki, and where is Draupadi? I wish to go where they are. Without them I do not want this heaven.\n\nNarada laughed and said: Yudhishthira, in heaven enmity does not exist. No one who comes here bears ill will towards anyone. Do not speak so of Duryodhana. He was a king, and following the dharma of the Kshatriya he offered his body fearlessly in battle. Whoever meets a hero's death in battle attains this world. All that you suffered at the time of the dice you must forget; this is no place for hatred. Stay here.\n\nBut Yudhishthira's heart would not accept it. He said: Divine sage, if this world has been gained by Duryodhana, who did not follow dharma and because of whom so much ruin came, then what world have my brothers gained, who never abandoned truth and dharma, who were generous, brave and truthful? I wish to see them. Where Bhima, Arjuna, Nakula and Sahadeva are, where Karna and Draupadi are, that is my heaven. Take me there.\n\nHearing this, the gods commanded a celestial messenger: Take Yudhishthira to the place where his brothers are. Show him what he wishes to see. The messenger walked ahead and Yudhishthira followed. He did not know where this path would lead, but there was only one thought in his heart: to be with his brothers, wherever they might be."
+          },
+          "lesson": {
+            "hi": "स्वर्ग में वैर नहीं टिकता, और जो अपनों से बिछड़कर अकेले सुख नहीं चाहता, उसका प्रेम ही उसका सबसे बड़ा धर्म है।",
+            "en": "Enmity does not survive in heaven; and one who refuses to enjoy happiness apart from his own people shows that love is his highest dharma."
+          },
+          "characters": [
+            "yudhishthira",
+            "duryodhana",
+            "narada",
+            "indra",
+            "karna",
+            "draupadi"
+          ]
+        },
+        {
+          "slug": "the-vision-of-hell",
+          "title": {
+            "hi": "नरक का दर्शन और तीसरी परीक्षा",
+            "en": "The Vision of Hell and the Third Test"
+          },
+          "body": {
+            "hi": "देवदूत युधिष्ठिर को एक ऐसे मार्ग पर ले गया जो अशुभ और दुर्गम था। चारों ओर घोर अंधकार था; पैरों के नीचे बाल और काई फैली थी; मांस और रक्त की दुर्गंध से साँस लेना कठिन था। कहीं खौलते तेल की नदी बह रही थी, कहीं असिपत्र वन था जिसके पत्ते तलवार की धार थे, कहीं तपते बालू और लोहे के कड़ाह थे। यह सब देखकर युधिष्ठिर ने पूछा — ‘यह मार्ग कितना लंबा है? मेरे भाई कहाँ हैं?’\n\nदेवदूत ने कहा — ‘देवताओं ने आज्ञा दी है कि आप जब थक जाएँ तो लौट सकते हैं।’ युधिष्ठिर दुर्गंध से व्याकुल होकर लौटने को मुड़े ही थे कि चारों ओर से करुण पुकारें उठीं — ‘धर्मराज! हे पांडुपुत्र! थोड़ी देर और रुको। तुम्हारे आने से यहाँ शीतल सुगंधित वायु बहने लगी है और हमारी पीड़ा कम हो गई है।’ युधिष्ठिर ने पूछा — ‘तुम कौन हो?’ और उत्तर आया — ‘मैं कर्ण हूँ।’ ‘मैं भीम हूँ।’ ‘मैं अर्जुन हूँ।’ ‘मैं नकुल हूँ, मैं सहदेव हूँ।’ ‘मैं द्रौपदी हूँ।’\n\nयुधिष्ठिर का हृदय फट गया। उन्होंने सोचा — ‘ये सब, जिन्होंने कभी अधर्म नहीं किया, यहाँ यातना भोग रहे हैं, और दुर्योधन स्वर्ग में है! यह कैसा न्याय है?’ फिर उन्होंने देवदूत से कहा — ‘तुम लौट जाओ। मैं यहीं रहूँगा। मेरे रहने से यदि मेरे भाइयों को सुख मिलता है, तो यही मेरा स्वर्ग है।’\n\nउसी क्षण इंद्र, धर्म और सब देवता वहाँ प्रकट हुए। इंद्र ने कहा — ‘युधिष्ठिर! क्रोध मत करो। हर राजा को नरक देखना पड़ता है। जिसके पुण्य अधिक और पाप कम होते हैं, वह पहले नरक देखता है और फिर स्वर्ग भोगता है; जिसके पाप अधिक होते हैं, वह पहले स्वर्ग भोगकर फिर नरक जाता है। तुमने द्रोणाचार्य से छल करके ‘अश्वत्थामा मारा गया’ कहा था, इसीलिए तुम्हें छल से क्षण भर का नरक दिखाया गया। भीम, अर्जुन, कर्ण और द्रौपदी — सबने अपने छोटे-छोटे दोषों के लिए यही क्षण भर का नरक देखा है; अब वे सब स्वर्ग में हैं।’\n\nधर्मदेव ने कहा — ‘पुत्र! यह तुम्हारी तीसरी परीक्षा थी। द्वैतवन में मैंने यक्ष बनकर, हिमालय में कुत्ता बनकर, और आज इस माया से तुम्हें परखा। अब इस देवनदी गंगा में स्नान करो और अपना मनुष्य-शरीर त्यागकर शोक और वैर से मुक्त हो जाओ।’ युधिष्ठिर ने गंगा में स्नान किया; उनका मानव शरीर छूट गया और वे दिव्य देह धारण करके, वैर और शोक से रहित होकर, देवताओं के साथ चले।",
+            "en": "The messenger led Yudhishthira along a path that was dreadful and hard to walk. All around was dense darkness; the ground was covered with hair and moss; the stench of flesh and blood made breathing difficult. Here flowed a river of boiling oil, there stood the forest whose leaves were sword blades, elsewhere lay burning sand and cauldrons of iron. Seeing all this Yudhishthira asked: How long is this path? Where are my brothers?\n\nThe messenger said: The gods have commanded that when you grow weary you may return. Sickened by the stench, Yudhishthira had just turned to go back when pitiful cries rose on every side: Dharmaraja! Son of Pandu! Stay a little longer. Since you came, a cool fragrant breeze has begun to blow here and our pain has eased. Yudhishthira asked, who are you? And the answers came: I am Karna. I am Bhima. I am Arjuna. I am Nakula, I am Sahadeva. I am Draupadi.\n\nYudhishthira's heart broke. He thought: All these, who never did wrong, suffer torment here, while Duryodhana is in heaven! What justice is this? Then he said to the messenger: Go back. I shall stay here. If my presence brings comfort to my brothers, then this is my heaven.\n\nIn that instant Indra, Dharma and all the gods appeared there. Indra said: Yudhishthira, do not be angry. Every king must see hell. One whose merits are many and sins few sees hell first and then enjoys heaven; one whose sins are many enjoys heaven first and then goes to hell. You deceived Drona by saying that Ashwatthama was dead; therefore by a deception you were shown hell for a moment. Bhima, Arjuna, Karna and Draupadi have each seen this momentary hell for their own small faults; now they are all in heaven.\n\nDharma said: Son, this was your third test. In the Dvaita forest I tested you as a yaksha, in the Himalayas as a dog, and today through this illusion. Now bathe in this celestial Ganga, cast off your human body, and be free of grief and enmity. Yudhishthira bathed in the Ganga; his mortal body fell away, and taking on a divine form, free of hatred and sorrow, he went with the gods."
+          },
+          "lesson": {
+            "hi": "छोटा-सा छल भी अपना फल देता है, पर जो अपनों के दुःख में स्वर्ग भी त्याग दे, उसकी करुणा हर दोष को धो देती है।",
+            "en": "Even a small deception bears its fruit, but the compassion of one who would give up heaven itself to share his loved ones' suffering washes away every fault."
+          },
+          "characters": [
+            "yudhishthira",
+            "dharma",
+            "indra",
+            "karna",
+            "bhima",
+            "arjuna",
+            "nakula",
+            "sahadeva",
+            "draupadi"
+          ]
+        },
+        {
+          "slug": "the-final-union",
+          "title": {
+            "hi": "अंतिम मिलन — सब अपने दिव्य मूल में",
+            "en": "The Final Union"
+          },
+          "body": {
+            "hi": "दिव्य देह धारण करके युधिष्ठिर इंद्र और देवताओं के साथ उस लोक में पहुँचे जहाँ ऋषि और सिद्ध विराजते थे। सबसे पहले उन्होंने श्रीकृष्ण को देखा — अपने ब्रह्म-स्वरूप में, नारायण रूप में, अपने ही तेज से प्रकाशित, चक्र और अन्य दिव्य आयुधों से सेवित, और उनके पास अर्जुन बैठे थे जो उनकी पूजा कर रहे थे।\n\nफिर युधिष्ठिर ने देखा — कर्ण बारह आदित्यों के बीच सूर्य के समान तेजस्वी बैठे हैं। भीम मरुद्गणों के बीच वायुदेव के पास हैं। नकुल और सहदेव अश्विनीकुमारों के साथ हैं, अपने ही तेज से चमकते हुए। द्रौपदी कमल-माला पहने, सूर्य के समान कांतिमती, लक्ष्मी के स्वरूप में विराजमान हैं। इंद्र ने बताया — ‘यह श्री हैं, जो तुम लोगों के लिए द्रुपद के घर में अयोनिजा रूप में प्रकट हुई थीं। यह अभिमन्यु है, जो चंद्रमा के पुत्र वर्चा के अंश से जन्मा था और अब चंद्रमा के पास है।’\n\nयुधिष्ठिर ने देखा — भीष्म आठ वसुओं के बीच हैं, द्रोणाचार्य बृहस्पति में, धृतराष्ट्र गंधर्वराज के रूप में कुबेर के पास, पांडु अपनी पत्नियों कुंती और माद्री के साथ इंद्रलोक में, सात्यकि और धृष्टद्युम्न अग्नि के साथ, शकुनि द्वापर में, और दुर्योधन व उसके भाई राक्षसों के अंश होने से अपने मूल में लौट गए हैं। जो देवता, गंधर्व, ऋषि और असुर पृथ्वी पर मनुष्य बनकर उतरे थे, वे सब अपना कार्य पूरा करके अपने-अपने स्थान को लौट गए थे।\n\nवैशम्पायन ने जनमेजय से कहा — ‘राजन्! तुम्हारे पूर्वज इसी प्रकार धर्म से स्वर्ग को गए। जो मनुष्य श्रद्धा से इस महाभारत को सुनता या सुनाता है, वह पाप से मुक्त होता है, उसे धर्म, अर्थ, काम और मोक्ष की प्राप्ति होती है, और वह अंत में विष्णु के लोक को जाता है। इसे ‘जय’ कहते हैं, क्योंकि इसमें धर्म की विजय है।’\n\nऔर महर्षि व्यास ने ग्रंथ के अंत में अपनी दोनों भुजाएँ ऊपर उठाकर पुकारकर कहा — ‘मैं भुजा उठाकर पुकार रहा हूँ, पर कोई मेरी बात नहीं सुनता! धर्म से ही अर्थ और काम मिलते हैं, फिर मनुष्य धर्म का आचरण क्यों नहीं करता? न भय से, न लोभ से, और न प्राणों के लिए भी धर्म को छोड़ना चाहिए, क्योंकि धर्म नित्य है और सुख-दुःख अनित्य हैं।’ और अंत में यह उद्घोष — ‘जो यहाँ है, वह अन्यत्र भी है; जो यहाँ नहीं है, वह कहीं नहीं है।’ इसी के साथ इस कथा का समापन होता है — जय हो धर्म की, जय हो श्रीकृष्ण की।",
+            "en": "In his divine body Yudhishthira went with Indra and the gods to the realm where sages and siddhas dwell. First of all he saw Shri Krishna, in his form as Brahman, as Narayana, shining with his own radiance, attended by the discus and his other divine weapons, and beside him sat Arjuna, worshipping him.\n\nThen Yudhishthira saw Karna seated among the twelve Adityas, radiant as the sun. Bhima was among the Maruts beside the wind god. Nakula and Sahadeva were with the Ashvins, shining with their own light. Draupadi, garlanded with lotuses, bright as the sun, sat in the form of the goddess Lakshmi. Indra said: This is Shri, who was born for your sake in the house of Drupada, not from a womb. Here is Abhimanyu, who was born of a portion of Varchas, the son of the Moon, and is now beside the Moon.\n\nYudhishthira saw Bhishma among the eight Vasus, Drona merged in Brihaspati, Dhritarashtra as a king of the gandharvas beside Kubera, Pandu in the world of Indra with his wives Kunti and Madri, Satyaki and Dhrishtadyumna with Agni, Shakuni in Dvapara, and Duryodhana and his brothers, who had been portions of the rakshasas, returned to their source. The gods, gandharvas, sages and asuras who had descended to earth as human beings had all completed their work and gone back to their own places.\n\nVaishampayana said to Janamejaya: O king, thus did your ancestors go to heaven by dharma. Whoever hears or recites this Mahabharata with faith is freed from sin, obtains dharma, wealth, fulfilment and liberation, and at last reaches the world of Vishnu. It is called Jaya, for in it is the victory of dharma.\n\nAnd at the close of the work Maharishi Vyasa raised both his arms and cried out: With arms uplifted I cry aloud, yet no one hears me! From dharma come both wealth and fulfilment; why then is dharma not practised? Not from fear, not from greed, not even for the sake of life itself should dharma be abandoned, for dharma is eternal while joy and sorrow pass away. And finally this declaration: What is found here may be found elsewhere; what is not here is nowhere. With this the story ends: victory to dharma, victory to Shri Krishna."
+          },
+          "lesson": {
+            "hi": "संसार का हर पात्र अपना कार्य पूरा करके अपने मूल में लौट जाता है; जो स्थायी है वह केवल धर्म है — न भय से, न लोभ से, न प्राणों के लिए भी उसे छोड़ना चाहिए।",
+            "en": "Every player in the world's drama returns to its source once its work is done; only dharma endures, and it must never be abandoned out of fear, greed, or even to save one's life."
+          },
+          "characters": [
+            "yudhishthira",
+            "krishna",
+            "arjuna",
+            "karna",
+            "bhima",
+            "nakula",
+            "sahadeva",
+            "draupadi",
+            "bhishma",
+            "dhritarashtra",
+            "kunti",
+            "abhimanyu",
+            "duryodhana",
+            "indra",
+            "vyasa"
+          ]
+        }
+      ]
     }
   ]
 }
