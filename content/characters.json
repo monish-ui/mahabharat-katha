@@ -2,718 +2,2232 @@
   "characters": [
     {
       "slug": "krishna",
-      "name": { "hi": "श्रीकृष्ण", "en": "Shri Krishna" },
-      "role": { "hi": "यादवों के स्वामी, अर्जुन के सारथी और भगवान विष्णु के अवतार", "en": "Lord of the Yadavas, Arjuna's charioteer and avatar of Vishnu" },
+      "name": {
+        "hi": "श्रीकृष्ण",
+        "en": "Shri Krishna"
+      },
+      "role": {
+        "hi": "यादवों के स्वामी, अर्जुन के सारथी और भगवान विष्णु के अवतार",
+        "en": "Lord of the Yadavas, Arjuna's charioteer and avatar of Vishnu"
+      },
       "side": "divine",
       "bio": {
         "hi": "श्रीकृष्ण भगवान विष्णु के आठवें अवतार हैं। उनका जन्म मथुरा के कारागार में वसुदेव और देवकी के पुत्र रूप में हुआ और उनका बाल्यकाल गोकुल-वृंदावन में नंद बाबा और यशोदा मैया के यहाँ बीता। अत्याचारी कंस का वध करने के बाद वे द्वारका से यादवों के स्वामी बने। वे अर्जुन के प्रिय सखा और ममेरे भाई थे तथा कौरव सभा में द्रौपदी की लाज के रक्षक बने। युद्ध से पहले वे शांतिदूत बनकर हस्तिनापुर गए, और जब युद्ध अनिवार्य हो गया तो उन्होंने शस्त्र न उठाने का व्रत लेकर अर्जुन का सारथ्य स्वीकार किया। कुरुक्षेत्र की रणभूमि में उन्होंने श्रीमद्भगवद्गीता का उपदेश दिया, अपना विराट रूप दिखाया और धर्म तथा नीति से पांडवों को विजय दिलाई।",
         "en": "Shri Krishna, the eighth avatar of Lord Vishnu, was born in the prison of Mathura to Vasudeva and Devaki and raised in Gokul and Vrindavan by Nanda and Yashoda. After slaying the tyrant Kamsa he ruled from Dwarka as the chief of the Yadavas. He was Arjuna's dearest friend and cousin, and Draupadi's protector in the Kaurava court. Before the war he went as a peace envoy to Hastinapur, and when war became inevitable he vowed not to lift a weapon, serving instead as Arjuna's charioteer. On the battlefield of Kurukshetra he spoke the Bhagavad Gita, revealed his cosmic form, and guided the Pandavas to victory through dharma and wise counsel."
       },
       "relations": [
-        { "slug": "arjuna", "relation": { "hi": "सखा", "en": "Friend" } },
-        { "slug": "balarama", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "subhadra", "relation": { "hi": "बहन", "en": "Sister" } },
-        { "slug": "kunti", "relation": { "hi": "बुआ", "en": "Paternal aunt" } }
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        },
+        {
+          "slug": "balarama",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "subhadra",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "बुआ",
+            "en": "Paternal aunt"
+          }
+        }
       ]
     },
     {
       "slug": "arjuna",
-      "name": { "hi": "अर्जुन", "en": "Arjuna" },
-      "role": { "hi": "तीसरे पांडव, महान धनुर्धर और गीता के श्रोता", "en": "Third Pandava, the greatest archer and hearer of the Gita" },
+      "name": {
+        "hi": "अर्जुन",
+        "en": "Arjuna"
+      },
+      "role": {
+        "hi": "तीसरे पांडव, महान धनुर्धर और गीता के श्रोता",
+        "en": "Third Pandava, the greatest archer and hearer of the Gita"
+      },
       "side": "pandava",
       "bio": {
         "hi": "अर्जुन कुंती के तीसरे पुत्र थे, जिनका जन्म देवराज इंद्र की कृपा से हुआ। गुरु द्रोणाचार्य के शिष्य बनकर वे अपने युग के श्रेष्ठतम धनुर्धर बने; चिड़िया की आँख पर उनकी अटूट एकाग्रता आज भी उदाहरण है। द्रौपदी के स्वयंवर में घूमती मछली की आँख भेदकर उन्होंने उसे प्राप्त किया। श्रीकृष्ण की बहन सुभद्रा से विवाह हुआ और अभिमन्यु उनके पुत्र हुए। वनवास में उन्होंने भगवान शिव से पाशुपतास्त्र और इंद्र से दिव्य अस्त्र पाए, तथा अज्ञातवास में विराट नगर में बृहन्नला बनकर रहे। कुरुक्षेत्र में अपने ही बंधुओं को सामने देख वे मोहग्रस्त हुए, तब श्रीकृष्ण ने उन्हें गीता का उपदेश दिया। गांडीव धनुष धारण कर उन्होंने जयद्रथ, कर्ण और असंख्य योद्धाओं का वध किया।",
         "en": "Arjuna was the third son of Kunti, born by the grace of Indra, king of the gods. Under Dronacharya he became the finest archer of his age, famed for his unwavering concentration, as when he saw only the eye of the wooden bird. He won Draupadi at her swayamvara by piercing the revolving fish target. He married Subhadra, Krishna's sister, and their son was Abhimanyu. During exile he obtained the Pashupatastra from Lord Shiva and divine weapons from Indra, and spent the year of hiding in Virata's court as the dance teacher Brihannala. At Kurukshetra, overcome by grief at facing his own kin, he received the Bhagavad Gita from Shri Krishna. Wielding the bow Gandiva, he slew Jayadratha, Karna and countless warriors."
       },
       "relations": [
-        { "slug": "kunti", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "krishna", "relation": { "hi": "सखा", "en": "Friend" } },
-        { "slug": "drona", "relation": { "hi": "गुरु", "en": "Teacher" } },
-        { "slug": "draupadi", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "abhimanyu", "relation": { "hi": "पुत्र", "en": "Son" } }
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        },
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "abhimanyu",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        }
       ]
     },
     {
       "slug": "yudhishthira",
-      "name": { "hi": "युधिष्ठिर", "en": "Yudhishthira" },
-      "role": { "hi": "ज्येष्ठ पांडव, धर्मराज", "en": "Eldest Pandava, known as Dharmaraja" },
+      "name": {
+        "hi": "युधिष्ठिर",
+        "en": "Yudhishthira"
+      },
+      "role": {
+        "hi": "ज्येष्ठ पांडव, धर्मराज",
+        "en": "Eldest Pandava, known as Dharmaraja"
+      },
       "side": "pandava",
       "bio": {
         "hi": "युधिष्ठिर पांडवों में सबसे बड़े थे, जिनका जन्म धर्मदेव के वरदान से कुंती के गर्भ से हुआ। सत्य के प्रति उनकी निष्ठा के कारण वे धर्मराज कहलाए। इंद्रप्रस्थ के राजा बनकर उन्होंने राजसूय यज्ञ किया, परंतु द्यूत के प्रति दुर्बलता ने उन्हें शकुनि के छल भरे खेल में राज्य, भाइयों, स्वयं और द्रौपदी को दाँव पर लगाने तक पहुँचा दिया, जिससे तेरह वर्ष का वनवास मिला। वन में उन्होंने यक्ष के प्रश्नों का उत्तर देकर भाइयों को जीवित कराया। युद्ध के बाद वे हस्तिनापुर के राजा बने और छत्तीस वर्ष धर्मपूर्वक राज्य किया। अंत में भाइयों और द्रौपदी के साथ महाप्रस्थान पर निकले; केवल वे ही सशरीर स्वर्ग के द्वार तक पहुँचे, क्योंकि उन्होंने साथ चलते कुत्ते को नहीं छोड़ा, जो स्वयं धर्मदेव थे।",
         "en": "Yudhishthira, eldest of the Pandavas, was born to Kunti by the blessing of Dharma, the god of righteousness, and was renowned for never uttering a falsehood. He was crowned at Indraprastha and performed the Rajasuya sacrifice, but his weakness for dice led him to stake his kingdom, brothers, himself and Draupadi in Shakuni's rigged game, bringing thirteen years of exile. In the forest he answered the Yaksha's questions and won back his brothers' lives. At the war's end he became king of Hastinapur, ruled justly for thirty-six years, and finally set out toward heaven with his brothers and Draupadi. He alone reached its gates in his mortal body, refusing to abandon the faithful dog that followed him, which was Dharma himself in disguise."
       },
       "relations": [
-        { "slug": "kunti", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "pandu", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "dharma", "relation": { "hi": "देव-पिता", "en": "Divine father" } },
-        { "slug": "draupadi", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "bhima", "relation": { "hi": "भाई", "en": "Brother" } }
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "dharma",
+          "relation": {
+            "hi": "देव-पिता",
+            "en": "Divine father"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "bhima",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        }
       ]
     },
     {
       "slug": "bhima",
-      "name": { "hi": "भीम", "en": "Bhima" },
-      "role": { "hi": "दूसरे पांडव, वायुपुत्र, महाबली गदाधारी", "en": "Second Pandava, son of Vayu, mighty wielder of the mace" },
+      "name": {
+        "hi": "भीम",
+        "en": "Bhima"
+      },
+      "role": {
+        "hi": "दूसरे पांडव, वायुपुत्र, महाबली गदाधारी",
+        "en": "Second Pandava, son of Vayu, mighty wielder of the mace"
+      },
       "side": "pandava",
       "bio": {
         "hi": "भीम पांडवों में दूसरे थे, जिनका जन्म पवनदेव वायु के वरदान से कुंती के गर्भ से हुआ। उनमें दस हज़ार हाथियों का बल था। बचपन से ईर्ष्यालु दुर्योधन ने उन्हें विष देकर गंगा में फेंक दिया, पर भीम और भी बलशाली होकर लौटे। लाक्षागृह से बचकर वे राक्षसी हिडिंबा से मिले, उसके भाई को मारा और उनके पुत्र घटोत्कच हुए। एकचक्रा नगरी में उन्होंने बकासुर का वध कर प्रजा को मुक्त किया और मल्लयुद्ध में जरासंध को मारा। अज्ञातवास में वे विराट के रसोइए वल्लभ बने और द्रौपदी का अपमान करने वाले कीचक का वध किया। कुरुक्षेत्र में उन्होंने अपनी प्रतिज्ञाएँ पूरी कीं—सौ कौरवों का वध किया, दुःशासन की छाती चीरी और गदा से दुर्योधन की जंघा तोड़ी।",
         "en": "Bhima, second of the Pandavas, was born to Kunti by the grace of Vayu, the wind god, and possessed the strength of ten thousand elephants. Duryodhana, jealous from childhood, poisoned him and threw him into the Ganga, but Bhima returned stronger. After the house of lac he met the rakshasi Hidimba, whose brother he slew; their son was Ghatotkacha. He killed Bakasura to free the people of Ekachakra, and slew Jarasandha in a wrestling duel. During the year of hiding he served as the cook Vallabha in Virata's court and killed Keechaka for insulting Draupadi. At Kurukshetra he fulfilled his vows, killing all hundred Kaurava brothers, tearing open Dushasana's chest and breaking Duryodhana's thigh with his mace."
       },
       "relations": [
-        { "slug": "kunti", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "hidimba", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "ghatotkacha", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "draupadi", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "duryodhana", "relation": { "hi": "चचेरा भाई", "en": "Cousin" } }
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "hidimba",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "ghatotkacha",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "चचेरा भाई",
+            "en": "Cousin"
+          }
+        }
       ]
     },
     {
       "slug": "nakula",
-      "name": { "hi": "नकुल", "en": "Nakula" },
-      "role": { "hi": "चौथे पांडव, माद्री के पुत्र, अश्व-विद्या में निपुण", "en": "Fourth Pandava, son of Madri, expert in horsemanship" },
+      "name": {
+        "hi": "नकुल",
+        "en": "Nakula"
+      },
+      "role": {
+        "hi": "चौथे पांडव, माद्री के पुत्र, अश्व-विद्या में निपुण",
+        "en": "Fourth Pandava, son of Madri, expert in horsemanship"
+      },
       "side": "pandava",
       "bio": {
         "hi": "नकुल चौथे पांडव थे, माद्री के जुड़वाँ पुत्रों में बड़े, जिनका जन्म देव-वैद्य अश्विनीकुमारों के वरदान से हुआ। वे अपने समय के सबसे सुंदर पुरुष माने जाते थे और तलवार-विद्या तथा अश्वों की देखभाल में अद्वितीय थे। पांडु की चिता पर माद्री के सती होने के बाद कुंती ने दोनों जुड़वाँ को अपने पुत्रों की तरह पाला। अज्ञातवास में वे विराट के अश्वशाला-रक्षक ग्रंथिक बने। वन में यक्ष के सरोवर का जल पीने वाले वे पहले भाई थे, जो युधिष्ठिर के उत्तर देने के बाद पुनर्जीवित हुए। कुरुक्षेत्र में उन्होंने अठारह दिनों तक वीरता से युद्ध किया और युद्ध के बाद राजा युधिष्ठिर की निष्ठापूर्वक सेवा की।",
         "en": "Nakula was the fourth Pandava, elder of the twin sons born to Madri by the grace of the Ashwini Kumaras, the divine physicians. He was celebrated as the most handsome man of his time and a master of swordsmanship and the care of horses. After Madri's death on Pandu's pyre, Kunti raised the twins as her own sons. In Virata's court during the year in hiding he served as Granthika, keeper of the royal stables. In the forest he was the first to drink from the enchanted lake and fall, to be revived after Yudhishthira answered the Yaksha. At Kurukshetra he fought valiantly through all eighteen days, and after the war he served loyally under King Yudhishthira."
       },
       "relations": [
-        { "slug": "madri", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "pandu", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "sahadeva", "relation": { "hi": "जुड़वाँ भाई", "en": "Twin brother" } },
-        { "slug": "kunti", "relation": { "hi": "माता (पालन)", "en": "Mother (foster)" } },
-        { "slug": "draupadi", "relation": { "hi": "पत्नी", "en": "Wife" } }
+        {
+          "slug": "madri",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "sahadeva",
+          "relation": {
+            "hi": "जुड़वाँ भाई",
+            "en": "Twin brother"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "माता (पालन)",
+            "en": "Mother (foster)"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        }
       ]
     },
     {
       "slug": "sahadeva",
-      "name": { "hi": "सहदेव", "en": "Sahadeva" },
-      "role": { "hi": "सबसे छोटे पांडव, ज्योतिष और गो-विद्या के ज्ञाता", "en": "Youngest Pandava, learned in astrology and cattle lore" },
+      "name": {
+        "hi": "सहदेव",
+        "en": "Sahadeva"
+      },
+      "role": {
+        "hi": "सबसे छोटे पांडव, ज्योतिष और गो-विद्या के ज्ञाता",
+        "en": "Youngest Pandava, learned in astrology and cattle lore"
+      },
       "side": "pandava",
       "bio": {
         "hi": "सहदेव सबसे छोटे पांडव थे, नकुल के जुड़वाँ भाई, जिनका जन्म अश्विनीकुमारों के वरदान से माद्री के गर्भ से हुआ। वे भाइयों में सबसे बुद्धिमान और विद्वान माने जाते थे तथा ज्योतिष, खड्ग-विद्या और गो-पालन में निपुण थे। अज्ञातवास में वे विराट राज्य में तंतिपाल नामक ग्वाले बनकर रहे। राजसूय यज्ञ के लिए उन्होंने दक्षिण दिशा के राज्यों को जीता। वे श्रीकृष्ण के अनन्य भक्त थे और इंद्रप्रस्थ की सभा में उन्होंने श्रीकृष्ण की प्रथम पूजा का समर्थन किया। युद्ध के अंतिम दिन उन्होंने द्यूत के सूत्रधार शकुनि का वध कर अपनी प्रतिज्ञा पूरी की। युधिष्ठिर के राज्याभिषेक के बाद वे विश्वसनीय मंत्री रहे, और हिमालय की अंतिम यात्रा में गिरने वाले वे दूसरे थे।",
         "en": "Sahadeva, the youngest Pandava, was the twin brother of Nakula, born to Madri through the Ashwini Kumaras. He was known as the wisest and most learned of the brothers, skilled in astrology, swordsmanship and the care of cattle. In the year of hiding he lived in Virata's kingdom as Tantipala, the cowherd. During the Rajasuya campaign he conquered the southern kingdoms. He was deeply devoted to Shri Krishna and, in the assembly at Indraprastha, supported honoring Krishna first. On the final day of the war Sahadeva killed Shakuni, the architect of the dice game, fulfilling his vow. After Yudhishthira's coronation he remained a trusted counsellor, and he was the second to fall on the Pandavas' last journey to the Himalayas."
       },
       "relations": [
-        { "slug": "madri", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "nakula", "relation": { "hi": "जुड़वाँ भाई", "en": "Twin brother" } },
-        { "slug": "kunti", "relation": { "hi": "माता (पालन)", "en": "Mother (foster)" } },
-        { "slug": "shalya", "relation": { "hi": "मामा", "en": "Maternal uncle" } },
-        { "slug": "draupadi", "relation": { "hi": "पत्नी", "en": "Wife" } }
+        {
+          "slug": "madri",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "nakula",
+          "relation": {
+            "hi": "जुड़वाँ भाई",
+            "en": "Twin brother"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "माता (पालन)",
+            "en": "Mother (foster)"
+          }
+        },
+        {
+          "slug": "shalya",
+          "relation": {
+            "hi": "मामा",
+            "en": "Maternal uncle"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        }
       ]
     },
     {
       "slug": "draupadi",
-      "name": { "hi": "द्रौपदी", "en": "Draupadi" },
-      "role": { "hi": "पांचाल राजकुमारी, पाँचों पांडवों की पत्नी", "en": "Princess of Panchala, wife of the five Pandavas" },
+      "name": {
+        "hi": "द्रौपदी",
+        "en": "Draupadi"
+      },
+      "role": {
+        "hi": "पांचाल राजकुमारी, पाँचों पांडवों की पत्नी",
+        "en": "Princess of Panchala, wife of the five Pandavas"
+      },
       "side": "pandava",
       "bio": {
         "hi": "द्रौपदी, जिन्हें कृष्णा और पांचाली भी कहते हैं, राजा द्रुपद के यज्ञ की अग्नि से अपने भाई धृष्टद्युम्न के साथ प्रकट हुईं। स्वयंवर में ब्राह्मण वेश में आए अर्जुन ने मत्स्य-भेद कर उन्हें जीता और माता कुंती के वचन से वे पाँचों पांडवों की पत्नी बनीं। इंद्रप्रस्थ की महारानी के रूप में उन्होंने राजसूय यज्ञ की शोभा बढ़ाई। द्यूत में युधिष्ठिर द्वारा दाँव पर लगाए जाने के बाद दुःशासन उन्हें केश पकड़कर सभा में घसीट लाया और चीरहरण का प्रयास किया; श्रीकृष्ण की कृपा से उनका चीर अनंत हो गया। उन्होंने प्रण लिया कि जब तक दुःशासन के रक्त से केश न धुलें, वे उन्हें नहीं बाँधेंगी। वनवास सहकर अज्ञातवास में वे विराट के महल में सैरंध्री बनीं। पांडवों से हुए उनके पाँचों पुत्र युद्ध की अंतिम रात अश्वत्थामा द्वारा मारे गए।",
         "en": "Draupadi, also called Krishnaa and Panchali, was born from the sacrificial fire of King Drupada along with her brother Dhrishtadyumna. At her swayamvara Arjuna, disguised as a brahmin, won her by piercing the fish target, and by Kunti's word she became the wife of all five Pandavas. As queen of Indraprastha she presided over the Rajasuya sacrifice. After Yudhishthira staked her in the dice game, Dushasana dragged her by the hair into the Kaurava court and tried to disrobe her; Shri Krishna's grace made her garment endless. She vowed to leave her hair unbound until it was washed in Dushasana's blood. She endured the exile and served as the maid Sairandhri in Virata's palace. Her five sons by the Pandavas were slain by Ashwatthama on the war's last night."
       },
       "relations": [
-        { "slug": "drupada", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "dhrishtadyumna", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "arjuna", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "yudhishthira", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "krishna", "relation": { "hi": "सखा", "en": "Friend" } }
+        {
+          "slug": "drupada",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "dhrishtadyumna",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        }
       ]
     },
     {
       "slug": "kunti",
-      "name": { "hi": "कुंती", "en": "Kunti" },
-      "role": { "hi": "पांडु की पत्नी, पांडवों की माता", "en": "Wife of Pandu, mother of the Pandavas" },
+      "name": {
+        "hi": "कुंती",
+        "en": "Kunti"
+      },
+      "role": {
+        "hi": "पांडु की पत्नी, पांडवों की माता",
+        "en": "Wife of Pandu, mother of the Pandavas"
+      },
       "side": "pandava",
       "bio": {
         "hi": "कुंती का जन्म-नाम पृथा था। वे यादव राजा शूरसेन की पुत्री और वसुदेव की बहन थीं, इसलिए श्रीकृष्ण की बुआ हुईं; राजा कुंतिभोज ने उन्हें गोद लिया था। कन्या-अवस्था में महर्षि दुर्वासा की सेवा से उन्हें किसी भी देवता का आह्वान करने का मंत्र मिला। परीक्षा के लिए सूर्यदेव का आह्वान करने पर कर्ण का जन्म हुआ, जिन्हें उन्होंने टोकरी में रखकर नदी में बहा दिया। पांडु से विवाह के बाद इसी मंत्र से युधिष्ठिर, भीम और अर्जुन का जन्म हुआ और उन्होंने मंत्र माद्री को भी दिया। पांडु की मृत्यु के बाद उन्होंने पाँचों पुत्रों को हस्तिनापुर में पाला। \"जो लाए हो, आपस में बाँट लो\" कहने से द्रौपदी पाँचों की पत्नी बनीं। युद्ध से पहले उन्होंने कर्ण को उसका जन्म-रहस्य बताया। युद्ध के बाद वे धृतराष्ट्र और गांधारी के साथ वन में गईं और दावानल में देह त्यागी।",
         "en": "Kunti, born Pritha, was the daughter of the Yadava king Shurasena and sister of Vasudeva, which made her Shri Krishna's aunt; she was adopted by King Kuntibhoja. As a girl she served the sage Durvasa, who granted her a mantra to summon any god. Testing it, she called Surya and bore Karna, whom she set afloat in a basket. Married to Pandu, she used the mantra to bear Yudhishthira, Bhima and Arjuna, and shared it with Madri. After Pandu's death she raised all five sons in Hastinapur. Her words \"share whatever you have brought\" made Draupadi the common wife of the Pandavas. Before the war she revealed to Karna the secret of his birth. After the war she retired to the forest with Dhritarashtra and Gandhari and died in a forest fire."
       },
       "relations": [
-        { "slug": "pandu", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "yudhishthira", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "arjuna", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "karna", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "krishna", "relation": { "hi": "भतीजा", "en": "Nephew" } }
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "karna",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "भतीजा",
+            "en": "Nephew"
+          }
+        }
       ]
     },
     {
       "slug": "pandu",
-      "name": { "hi": "पांडु", "en": "Pandu" },
-      "role": { "hi": "हस्तिनापुर के राजा, पांडवों के पिता", "en": "King of Hastinapur, father of the Pandavas" },
+      "name": {
+        "hi": "पांडु",
+        "en": "Pandu"
+      },
+      "role": {
+        "hi": "हस्तिनापुर के राजा, पांडवों के पिता",
+        "en": "King of Hastinapur, father of the Pandavas"
+      },
       "side": "pandava",
       "bio": {
         "hi": "पांडु का जन्म विचित्रवीर्य की विधवा अंबालिका के गर्भ से महर्षि व्यास के द्वारा हुआ और पीले वर्ण के कारण उनका नाम पांडु पड़ा। बड़े भाई धृतराष्ट्र नेत्रहीन थे, इसलिए पांडु हस्तिनापुर के राजा बने। उन्होंने कुंती और माद्री से विवाह किया और दिग्विजय कर राज्य की सीमाएँ बढ़ाईं। एक बार आखेट में उन्होंने मृग-रूप में रत एक ऋषि को बाण मारा और उन्हें शाप मिला कि स्त्री का स्पर्श करते ही उनकी मृत्यु होगी। उन्होंने राज्य त्यागकर पत्नियों सहित वन में वास किया, जहाँ कुंती के मंत्र से युधिष्ठिर, भीम और अर्जुन तथा माद्री से नकुल और सहदेव का जन्म हुआ। एक वसंत के दिन माद्री के प्रति आकर्षित होकर शाप से उनकी मृत्यु हुई; माद्री उनके साथ सती हुईं और कुंती पाँचों पुत्रों को लेकर हस्तिनापुर लौटीं।",
         "en": "Pandu was born to Ambalika, widow of Vichitravirya, through the sage Vyasa, and was named for his pale complexion. Since his elder brother Dhritarashtra was blind, Pandu was crowned king of Hastinapur. He married Kunti and Madri and extended the kingdom's borders through conquest. While hunting he shot a sage united with his mate in the form of deer, and was cursed to die the moment he embraced a woman. He renounced the throne and lived in the forest with his wives, where Kunti's mantra gave him Yudhishthira, Bhima and Arjuna, and Madri the twins Nakula and Sahadeva. One spring day, overcome by desire for Madri, he died by the curse; Madri joined him on the pyre, and Kunti returned to Hastinapur with the five boys."
       },
       "relations": [
-        { "slug": "vyasa", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "dhritarashtra", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "vidura", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "kunti", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "madri", "relation": { "hi": "पत्नी", "en": "Wife" } }
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "vidura",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "madri",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        }
       ]
     },
     {
       "slug": "madri",
-      "name": { "hi": "माद्री", "en": "Madri" },
-      "role": { "hi": "मद्र देश की राजकुमारी, पांडु की दूसरी पत्नी", "en": "Princess of Madra, second wife of Pandu" },
+      "name": {
+        "hi": "माद्री",
+        "en": "Madri"
+      },
+      "role": {
+        "hi": "मद्र देश की राजकुमारी, पांडु की दूसरी पत्नी",
+        "en": "Princess of Madra, second wife of Pandu"
+      },
       "side": "pandava",
       "bio": {
         "hi": "माद्री मद्र देश की राजकुमारी और राजा शल्य की बहन थीं। भीष्म ने मद्र देश की रीति के अनुसार भेंट देकर पांडु से उनका विवाह कराया। पांडु को शाप मिलने पर वे कुंती के साथ उनके संग वन में गईं। कुंती ने दुर्वासा से प्राप्त मंत्र उन्हें दिया, तो माद्री ने अश्विनीकुमारों का आह्वान किया और जुड़वाँ पुत्र नकुल और सहदेव को जन्म दिया। एक वसंत के दिन पांडु उनके रूप पर मोहित होकर उनके समीप आए और ऋषि के शाप से उनकी मृत्यु हो गई। स्वयं को दोषी मानकर माद्री ने अपने पुत्र कुंती को सौंपे और पांडु की चिता पर सती हो गईं। उनके भाई शल्य बाद में कौरवों की ओर से लड़े, जबकि उनके पुत्र कुंती की छत्रछाया में सम्मानित पांडव बने।",
         "en": "Madri was the princess of the Madra kingdom and sister of King Shalya. Bhishma arranged her marriage to Pandu, offering rich gifts as was the Madra custom. She accompanied Pandu and Kunti into the forest after Pandu's curse. When Kunti shared with her the mantra received from Durvasa, Madri invoked the twin Ashwini Kumaras and gave birth to the twins Nakula and Sahadeva. One spring day Pandu, overcome by her beauty, embraced her and died by the sage's curse. Holding herself responsible, Madri entrusted her sons to Kunti and ascended Pandu's funeral pyre. Her brother Shalya later fought on the Kaurava side, while her sons grew up as honored Pandavas under Kunti's care."
       },
       "relations": [
-        { "slug": "pandu", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "nakula", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "sahadeva", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "shalya", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "kunti", "relation": { "hi": "सौत", "en": "Co-wife" } }
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "nakula",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "sahadeva",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "shalya",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "सौत",
+            "en": "Co-wife"
+          }
+        }
       ]
     },
     {
       "slug": "duryodhana",
-      "name": { "hi": "दुर्योधन", "en": "Duryodhana" },
-      "role": { "hi": "ज्येष्ठ कौरव, हस्तिनापुर का युवराज", "en": "Eldest Kaurava, crown prince of Hastinapur" },
+      "name": {
+        "hi": "दुर्योधन",
+        "en": "Duryodhana"
+      },
+      "role": {
+        "hi": "ज्येष्ठ कौरव, हस्तिनापुर का युवराज",
+        "en": "Eldest Kaurava, crown prince of Hastinapur"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "दुर्योधन धृतराष्ट्र और गांधारी के सौ पुत्रों में सबसे बड़ा था, जिसका जन्म व्यास द्वारा घड़ों में रखे गए मांस-पिंड से हुआ। बचपन से ही वह पांडवों से, विशेषकर भीम से, ईर्ष्या करता था और उसने भीम को विष देकर डुबाने का प्रयास किया। उसने लाक्षागृह का षड्यंत्र रचा और मामा शकुनि के साथ द्यूत-सभा आयोजित की, जिसमें युधिष्ठिर सब कुछ हार गए और द्रौपदी का अपमान हुआ। उसने कर्ण को अंग देश का राजा बनाकर उसकी आजीवन मित्रता पाई। पांडवों को पाँच गाँव तक देने से इनकार कर उसने कुरुक्षेत्र का युद्ध अनिवार्य बना दिया, जिसमें उसके सभी भाई मारे गए। अंतिम दिन गदायुद्ध में भीम ने उसकी जंघा तोड़कर अपनी प्रतिज्ञा पूरी की। अश्वत्थामा को सेनापति बनाकर उसने रणभूमि में ही प्राण त्यागे—अंत तक एक अभिमानी योद्धा।",
         "en": "Duryodhana was the eldest of the hundred sons of Dhritarashtra and Gandhari, born from the pots in which Vyasa had placed the divided mass of flesh. From childhood he envied the Pandavas, especially Bhima, whom he tried to poison and drown. He plotted the house of lac, and with his uncle Shakuni arranged the dice game in which Yudhishthira lost everything and Draupadi was humiliated. He made Karna king of Anga and won his lifelong loyalty. Refusing to give the Pandavas even five villages, he forced the war at Kurukshetra, where he lost all his brothers. On the last day Bhima broke his thigh in a mace duel, fulfilling his vow. Duryodhana died on the field after naming Ashwatthama commander, a proud warrior to the end."
       },
       "relations": [
-        { "slug": "dhritarashtra", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "gandhari", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "dushasana", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "shakuni", "relation": { "hi": "मामा", "en": "Maternal uncle" } },
-        { "slug": "karna", "relation": { "hi": "सखा", "en": "Friend" } }
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "gandhari",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "dushasana",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "shakuni",
+          "relation": {
+            "hi": "मामा",
+            "en": "Maternal uncle"
+          }
+        },
+        {
+          "slug": "karna",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        }
       ]
     },
     {
       "slug": "dushasana",
-      "name": { "hi": "दुःशासन", "en": "Dushasana" },
-      "role": { "hi": "दुर्योधन का छोटा भाई, द्रौपदी के चीरहरण का दोषी", "en": "Duryodhana's younger brother, who tried to disrobe Draupadi" },
+      "name": {
+        "hi": "दुःशासन",
+        "en": "Dushasana"
+      },
+      "role": {
+        "hi": "दुर्योधन का छोटा भाई, द्रौपदी के चीरहरण का दोषी",
+        "en": "Duryodhana's younger brother, who tried to disrobe Draupadi"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "दुःशासन सौ कौरवों में दूसरा और हर षड्यंत्र में दुर्योधन का सबसे निकट साथी था। द्यूत में युधिष्ठिर के द्रौपदी को हारने के बाद दुःशासन उन्हें केश पकड़कर सभा में घसीट लाया और उनका चीर खींचने लगा, जिसे श्रीकृष्ण की कृपा ने अनंत कर दिया। तब भीम ने उसकी छाती चीरकर रक्त पीने की और द्रौपदी ने उस दिन तक केश न बाँधने की प्रतिज्ञा की। कुरुक्षेत्र में दुःशासन ने वीरता से युद्ध किया और अनेक पांडव योद्धाओं को घायल किया। सत्रहवें दिन भीम ने भीषण द्वंद्व में उसे पराजित कर उसकी छाती चीरी और अपनी भयंकर प्रतिज्ञा पूरी की; द्रौपदी ने तब अपने केश बाँधे। उसकी मृत्यु ने दुर्योधन का हृदय और कर्ण का मनोबल तोड़ दिया।",
         "en": "Dushasana was the second of the hundred Kaurava brothers and Duryodhana's closest ally in every scheme. After Yudhishthira lost Draupadi in the dice game, Dushasana dragged her by the hair into the assembly hall and tried to strip her garment, which Shri Krishna's grace made endless. Bhima then swore to tear open his chest and drink his blood, and Draupadi vowed to leave her hair unbound until that day. Dushasana fought at Kurukshetra and wounded many Pandava warriors. On the seventeenth day Bhima defeated him in a fierce duel, tore open his chest and fulfilled his terrible oath, and Draupadi at last bound her hair. His death broke Duryodhana's heart and shook Karna's spirit."
       },
       "relations": [
-        { "slug": "dhritarashtra", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "gandhari", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "duryodhana", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "bhima", "relation": { "hi": "चचेरा भाई", "en": "Cousin" } }
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "gandhari",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "bhima",
+          "relation": {
+            "hi": "चचेरा भाई",
+            "en": "Cousin"
+          }
+        }
       ]
     },
     {
       "slug": "dhritarashtra",
-      "name": { "hi": "धृतराष्ट्र", "en": "Dhritarashtra" },
-      "role": { "hi": "हस्तिनापुर के नेत्रहीन राजा, कौरवों के पिता", "en": "Blind king of Hastinapur, father of the Kauravas" },
+      "name": {
+        "hi": "धृतराष्ट्र",
+        "en": "Dhritarashtra"
+      },
+      "role": {
+        "hi": "हस्तिनापुर के नेत्रहीन राजा, कौरवों के पिता",
+        "en": "Blind king of Hastinapur, father of the Kauravas"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "धृतराष्ट्र विचित्रवीर्य की बड़ी विधवा अंबिका के गर्भ से महर्षि व्यास द्वारा उत्पन्न हुए; अंबिका ने आँखें मूँद ली थीं, इसलिए वे जन्म से नेत्रहीन थे। अंधत्व के कारण हस्तिनापुर का राज्य छोटे भाई पांडु को मिला, और पांडु के वन जाने पर वे राज्य का संचालन करने लगे। उनका विवाह गांधार की राजकुमारी गांधारी से हुआ, जिन्होंने पति-भक्ति में अपनी आँखों पर पट्टी बाँध ली; उनके दुर्योधन आदि सौ पुत्र और एक पुत्री दुःशला हुई। धर्म जानते हुए और विदुर की सलाह सुनते हुए भी पुत्र-मोह के कारण उन्होंने द्यूत और युद्ध होने दिया। व्यास से दिव्य-दृष्टि पाए संजय ने उन्हें युद्ध का और गीता का वर्णन सुनाया। सौ पुत्रों को खोकर वे युधिष्ठिर के संरक्षण में रहे, फिर गांधारी और कुंती के साथ वन गए, जहाँ दावानल में उनका देहांत हुआ।",
         "en": "Dhritarashtra was born blind to Ambika, the elder widow of Vichitravirya, through the sage Vyasa, whom she had received with closed eyes. Because of his blindness the throne of Hastinapur passed to his younger brother Pandu, and he governed as regent after Pandu left for the forest. He married Gandhari of Gandhara, who bound her eyes in devotion, and they had a hundred sons led by Duryodhana and a daughter, Dushala. Though he knew dharma and often heard Vidura's counsel, his attachment to his sons made him permit the dice game and the war. Sanjaya, gifted with divine sight by Vyasa, narrated the battle to him, including the Bhagavad Gita. After losing all hundred sons he lived under Yudhishthira's care, then retired to the forest with Gandhari and Kunti, where they died in a forest fire."
       },
       "relations": [
-        { "slug": "vyasa", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "gandhari", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "duryodhana", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "pandu", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "sanjaya", "relation": { "hi": "सारथी एवं मंत्री", "en": "Charioteer and counsellor" } }
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "gandhari",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "sanjaya",
+          "relation": {
+            "hi": "सारथी एवं मंत्री",
+            "en": "Charioteer and counsellor"
+          }
+        }
       ]
     },
     {
       "slug": "gandhari",
-      "name": { "hi": "गांधारी", "en": "Gandhari" },
-      "role": { "hi": "धृतराष्ट्र की पत्नी, कौरवों की माता, महान पतिव्रता", "en": "Wife of Dhritarashtra, mother of the Kauravas, devoted wife" },
+      "name": {
+        "hi": "गांधारी",
+        "en": "Gandhari"
+      },
+      "role": {
+        "hi": "धृतराष्ट्र की पत्नी, कौरवों की माता, महान पतिव्रता",
+        "en": "Wife of Dhritarashtra, mother of the Kauravas, devoted wife"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "गांधारी गांधार देश की राजकुमारी और शकुनि की बहन थीं। नेत्रहीन धृतराष्ट्र से विवाह कर उन्होंने अपनी आँखों पर पट्टी बाँध ली, ताकि जो सुख पति को न मिले उसे वे भी न भोगें। व्यास के वरदान से उन्हें सौ पुत्र और एक पुत्री दुःशला प्राप्त हुई; दो वर्ष के गर्भ से निकले मांस-पिंड को व्यास ने घड़ों में बाँटा था। तपस्या और पतिव्रत से उन्हें महान आध्यात्मिक शक्ति मिली थी। उन्होंने बार-बार दुर्योधन को अन्याय से रोका और कहा \"जहाँ धर्म है, वहीं विजय है\", पर उसने नहीं सुना। युद्ध के बाद रणभूमि में अपने सौ पुत्रों का शोक करते हुए उन्होंने श्रीकृष्ण को शाप दिया कि जैसे कुरुवंश नष्ट हुआ, वैसे ही यादव वंश आपस में लड़कर नष्ट होगा; श्रीकृष्ण ने इसे स्वीकार किया। धृतराष्ट्र और कुंती के साथ वन में उनका देहांत हुआ।",
         "en": "Gandhari, princess of Gandhara and sister of Shakuni, married the blind Dhritarashtra and bound her own eyes with a cloth so that she would not enjoy what her husband could not see. By Vyasa's boon she bore a hundred sons and a daughter, Dushala, after a two-year pregnancy whose mass of flesh Vyasa divided into pots. She was a woman of austerity whose devotion gave her great spiritual power. She repeatedly warned Duryodhana against injustice, declaring that where there is dharma, there is victory, but he would not listen. After the war she mourned her hundred sons on the battlefield and cursed Shri Krishna that his Yadava clan would destroy itself as the Kurus had, a curse he accepted. She died in the forest with Dhritarashtra and Kunti."
       },
       "relations": [
-        { "slug": "dhritarashtra", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "duryodhana", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "dushasana", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "shakuni", "relation": { "hi": "भाई", "en": "Brother" } }
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "dushasana",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "shakuni",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        }
       ]
     },
     {
       "slug": "shakuni",
-      "name": { "hi": "शकुनि", "en": "Shakuni" },
-      "role": { "hi": "गांधार नरेश, दुर्योधन के मामा, छल भरे पासों के खिलाड़ी", "en": "King of Gandhara, Duryodhana's maternal uncle, master of the loaded dice" },
+      "name": {
+        "hi": "शकुनि",
+        "en": "Shakuni"
+      },
+      "role": {
+        "hi": "गांधार नरेश, दुर्योधन के मामा, छल भरे पासों के खिलाड़ी",
+        "en": "King of Gandhara, Duryodhana's maternal uncle, master of the loaded dice"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "शकुनि गांधार का राजकुमार और बाद में राजा था, गांधारी का भाई, जो कौरवों के मामा के रूप में हस्तिनापुर में रहता था। कुटिल बुद्धि और पासों में निपुण शकुनि दुर्योधन का प्रमुख सलाहकार और पांडवों के विरुद्ध उसके हर षड्यंत्र का सूत्रधार बना। उसी ने द्यूत का प्रस्ताव रखा और दुर्योधन की ओर से युधिष्ठिर के साथ खेला; अपने छल भरे पासों से उसने राज्य, पांडवों और द्रौपदी को जीता, फिर दूसरे द्यूत में पांडवों को वनवास भेजा। उसने दुर्योधन को संधि न करने के लिए उकसाया। युद्ध में उसने गांधार सेना का नेतृत्व किया और माया तथा अश्वारोहियों से पांडवों को कष्ट दिया। अठारहवें दिन सहदेव ने सभा में ली गई अपनी प्रतिज्ञा पूरी करते हुए युद्ध में उसका वध किया।",
         "en": "Shakuni, prince and later king of Gandhara, was Gandhari's brother and lived in Hastinapur as the maternal uncle of the Kauravas. Cunning and skilled with dice, he became Duryodhana's chief counsellor and the mind behind his plots against the Pandavas. It was Shakuni who proposed the dice game and played against Yudhishthira on Duryodhana's behalf, winning with his loaded dice the kingdom, the Pandavas themselves and Draupadi, and then the second game that sent them into exile. He encouraged Duryodhana's refusal to make peace. In the war he led the Gandhara forces and troubled the Pandavas with illusion and cavalry. On the eighteenth day Sahadeva killed him in battle, fulfilling the vow he had taken in the assembly hall."
       },
       "relations": [
-        { "slug": "gandhari", "relation": { "hi": "बहन", "en": "Sister" } },
-        { "slug": "duryodhana", "relation": { "hi": "भांजा", "en": "Nephew" } },
-        { "slug": "dushasana", "relation": { "hi": "भांजा", "en": "Nephew" } }
+        {
+          "slug": "gandhari",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "भांजा",
+            "en": "Nephew"
+          }
+        },
+        {
+          "slug": "dushasana",
+          "relation": {
+            "hi": "भांजा",
+            "en": "Nephew"
+          }
+        }
       ]
     },
     {
       "slug": "karna",
-      "name": { "hi": "कर्ण", "en": "Karna" },
-      "role": { "hi": "कुंती और सूर्य के पुत्र, अंगराज, दानवीर", "en": "Son of Kunti and Surya, king of Anga, the great giver" },
+      "name": {
+        "hi": "कर्ण",
+        "en": "Karna"
+      },
+      "role": {
+        "hi": "कुंती और सूर्य के पुत्र, अंगराज, दानवीर",
+        "en": "Son of Kunti and Surya, king of Anga, the great giver"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "कर्ण का जन्म अविवाहित कुंती के गर्भ से सूर्यदेव द्वारा हुआ; वे जन्म से ही कवच और कुंडल धारण किए हुए थे। नदी में बहाए जाने पर सूत अधिरथ और उनकी पत्नी राधा ने उन्हें पाला, इसलिए वे राधेय और सूतपुत्र कहलाए। जन्म के कारण शिक्षा से वंचित होने पर उन्होंने ब्राह्मण बनकर परशुराम से विद्या पाई, पर शाप मिला कि आवश्यकता के समय वे विद्या भूल जाएँगे। रंगभूमि में उपहास होने पर दुर्योधन ने उन्हें अंग देश का राजा बनाया और कर्ण ने उसे अटूट निष्ठा दी। दानवीर कर्ण ने इंद्र को अपने कवच-कुंडल तक दान कर दिए। श्रीकृष्ण और कुंती से यह जानकर भी कि वे ज्येष्ठ पांडव हैं, उन्होंने दुर्योधन का साथ नहीं छोड़ा। दो दिन कौरव सेनापति रहे और सत्रहवें दिन रथ का पहिया धँसने पर अर्जुन के बाण से वीरगति पाई।",
         "en": "Karna was born to the unmarried Kunti by the sun god Surya, with divine armor and earrings on his body. Set afloat on the river, he was found and raised by the charioteer Adhiratha and his wife Radha, and so was called Radheya and Sutaputra. Refused training because of his birth, he learned from Parashurama by posing as a brahmin and was cursed to forget his knowledge at the hour of need. When he was mocked at the Pandavas' tournament, Duryodhana crowned him king of Anga, and Karna gave him unbreakable loyalty. Famed for his generosity, he gave away even his armor and earrings to Indra. Learning from Krishna and Kunti that he was the eldest Pandava, he still kept faith with Duryodhana. He commanded the Kaurava army for two days and was slain by Arjuna on the seventeenth day while his chariot wheel was stuck."
       },
       "relations": [
-        { "slug": "kunti", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "duryodhana", "relation": { "hi": "सखा", "en": "Friend" } },
-        { "slug": "parashurama", "relation": { "hi": "गुरु", "en": "Teacher" } },
-        { "slug": "arjuna", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "yudhishthira", "relation": { "hi": "भाई", "en": "Brother" } }
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        },
+        {
+          "slug": "parashurama",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        }
       ]
     },
     {
       "slug": "bhishma",
-      "name": { "hi": "भीष्म", "en": "Bhishma" },
-      "role": { "hi": "शांतनु और गंगा के पुत्र, कुरुवंश के पितामह, भीषण प्रतिज्ञा वाले", "en": "Son of Shantanu and Ganga, grandsire of the Kurus, of the terrible vow" },
+      "name": {
+        "hi": "भीष्म",
+        "en": "Bhishma"
+      },
+      "role": {
+        "hi": "शांतनु और गंगा के पुत्र, कुरुवंश के पितामह, भीषण प्रतिज्ञा वाले",
+        "en": "Son of Shantanu and Ganga, grandsire of the Kurus, of the terrible vow"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "भीष्म का जन्म-नाम देवव्रत था। वे राजा शांतनु और गंगा के पुत्र थे और उन्होंने परशुराम से शस्त्र-विद्या पाई। पिता का सत्यवती से विवाह हो सके, इसके लिए उन्होंने राज्य त्यागा और आजीवन ब्रह्मचर्य की भीषण प्रतिज्ञा ली; इसी से वे भीष्म कहलाए और उन्हें इच्छा-मृत्यु का वरदान मिला। पीढ़ियों तक उन्होंने हस्तिनापुर की सेवा की—विचित्रवीर्य के लिए अंबा, अंबिका और अंबालिका को लाए और कौरवों-पांडवों दोनों का पालन किया। सिंहासन के प्रति प्रतिज्ञाबद्ध होने से वे दुर्योधन की ओर से लड़े और पहले दस दिन कौरव सेनापति रहकर पांडव सेना का संहार किया। दसवें दिन शिखंडी को आगे कर, जिस पर भीष्म बाण नहीं चलाते थे, अर्जुन ने उन्हें शर-शय्या पर गिरा दिया। उत्तरायण की प्रतीक्षा करते हुए उन्होंने युधिष्ठिर को राजधर्म का उपदेश दिया और अपने चुने हुए क्षण में देह त्यागी।",
         "en": "Bhishma, born Devavrata, was the son of King Shantanu and the river goddess Ganga, and was trained in arms by Parashurama. So that his father could marry Satyavati, he renounced the throne and took the terrible vow of lifelong celibacy, earning the name Bhishma and the boon of choosing the moment of his death. He served Hastinapur faithfully through generations, bringing Amba, Ambika and Ambalika for Vichitravirya and raising both Kauravas and Pandavas. Bound by his vow to the throne, he fought for Duryodhana and commanded the Kaurava army for the first ten days, slaughtering the Pandava host. On the tenth day Arjuna, shooting from behind Shikhandi whom Bhishma would not fight, laid him on a bed of arrows. He awaited the sun's northern course, taught Yudhishthira the duties of kings, and left his body at his chosen hour."
       },
       "relations": [
-        { "slug": "shantanu", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "ganga", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "parashurama", "relation": { "hi": "गुरु", "en": "Teacher" } },
-        { "slug": "satyavati", "relation": { "hi": "विमाता", "en": "Stepmother" } },
-        { "slug": "shikhandi", "relation": { "hi": "पतन का कारण", "en": "Cause of his fall" } }
+        {
+          "slug": "shantanu",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "ganga",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "parashurama",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        },
+        {
+          "slug": "satyavati",
+          "relation": {
+            "hi": "विमाता",
+            "en": "Stepmother"
+          }
+        },
+        {
+          "slug": "shikhandi",
+          "relation": {
+            "hi": "पतन का कारण",
+            "en": "Cause of his fall"
+          }
+        }
       ]
     },
     {
       "slug": "drona",
-      "name": { "hi": "द्रोणाचार्य", "en": "Dronacharya" },
-      "role": { "hi": "कौरवों-पांडवों के गुरु, धनुर्वेद के महान आचार्य", "en": "Teacher of the Kauravas and Pandavas, master of the science of arms" },
+      "name": {
+        "hi": "द्रोणाचार्य",
+        "en": "Dronacharya"
+      },
+      "role": {
+        "hi": "कौरवों-पांडवों के गुरु, धनुर्वेद के महान आचार्य",
+        "en": "Teacher of the Kauravas and Pandavas, master of the science of arms"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "द्रोण महर्षि भरद्वाज के पुत्र थे। बाल्यकाल में उन्होंने द्रुपद के साथ विद्या पाई और परशुराम से दिव्यास्त्र प्राप्त किए। कृपाचार्य की बहन कृपी से उनका विवाह हुआ और अश्वत्थामा उनके पुत्र हुए। दरिद्रता में सहायता माँगने पर द्रुपद ने उनका अपमान किया, तब वे हस्तिनापुर आए, जहाँ भीष्म ने उन्हें कुरु राजकुमारों का गुरु नियुक्त किया। उन्होंने कौरवों और पांडवों को समान रूप से शिक्षा दी, अर्जुन को सबसे अधिक प्रिय माना, एकलव्य से गुरुदक्षिणा में अँगूठा माँगा और शिष्यों से द्रुपद को हराकर आधा पांचाल प्राप्त किया। कर्तव्यबद्ध होकर वे कौरवों की ओर से लड़े और भीष्म के गिरने के बाद पाँच दिन सेनापति रहे; उनके रचे चक्रव्यूह में अभिमन्यु मारा गया। अश्वत्थामा की मृत्यु के झूठे समाचार से शस्त्र त्यागने पर पंद्रहवें दिन धृष्टद्युम्न ने उनका सिर काट दिया।",
         "en": "Drona, son of the sage Bharadwaja, studied with Drupada in boyhood and received divine weapons from Parashurama. He married Kripi, sister of Kripa, and their son was Ashwatthama. Humiliated by Drupada when he sought help in poverty, he came to Hastinapur, where Bhishma appointed him teacher of the Kuru princes. He trained Kauravas and Pandavas alike, loving Arjuna above all, demanded Ekalavya's thumb as his fee, and sent his pupils to defeat Drupada and give him half of Panchala. Bound by obligation, he fought for the Kauravas and commanded their army for five days after Bhishma fell, forming the chakravyuha in which Abhimanyu died. Deceived by news that Ashwatthama was dead, he laid down his arms, and Dhrishtadyumna beheaded him on the fifteenth day."
       },
       "relations": [
-        { "slug": "ashwatthama", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "arjuna", "relation": { "hi": "शिष्य", "en": "Disciple" } },
-        { "slug": "ekalavya", "relation": { "hi": "शिष्य", "en": "Disciple" } },
-        { "slug": "kripa", "relation": { "hi": "साला", "en": "Brother-in-law" } },
-        { "slug": "parashurama", "relation": { "hi": "गुरु", "en": "Teacher" } }
+        {
+          "slug": "ashwatthama",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        },
+        {
+          "slug": "ekalavya",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        },
+        {
+          "slug": "kripa",
+          "relation": {
+            "hi": "साला",
+            "en": "Brother-in-law"
+          }
+        },
+        {
+          "slug": "parashurama",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        }
       ]
     },
     {
       "slug": "kripa",
-      "name": { "hi": "कृपाचार्य", "en": "Kripacharya" },
-      "role": { "hi": "कुरु राजकुमारों के प्रथम गुरु, सात चिरंजीवियों में एक", "en": "First teacher of the Kuru princes, one of the seven immortals" },
+      "name": {
+        "hi": "कृपाचार्य",
+        "en": "Kripacharya"
+      },
+      "role": {
+        "hi": "कुरु राजकुमारों के प्रथम गुरु, सात चिरंजीवियों में एक",
+        "en": "First teacher of the Kuru princes, one of the seven immortals"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "कृपाचार्य और उनकी जुड़वाँ बहन कृपी महर्षि शरद्वान की संतान थे, जिन्हें राजा शांतनु ने वन में परित्यक्त पाया और कृपावश पालकर उन्हें यही नाम दिए। कृपाचार्य ने पिता से धनुर्वेद सीखा और द्रोण के आने से पहले वे कुरु राजकुमारों के प्रथम गुरु बने; आगे चलकर वे हस्तिनापुर के राजगुरु और मंत्री रहे। अठारह दिन वे कौरवों की ओर से लड़े और अश्वत्थामा तथा कृतवर्मा के साथ कौरव पक्ष के केवल तीन जीवित बचे योद्धाओं में रहे। पांडव शिविर पर रात्रि-आक्रमण में वे अश्वत्थामा के साथ थे। युद्ध के बाद उन्हें क्षमा मिली और वे अर्जुन के पौत्र परीक्षित के गुरु बने। उनकी गणना सात चिरंजीवियों में होती है।",
         "en": "Kripa and his twin sister Kripi were born of the sage Sharadvan and were found abandoned in the forest by King Shantanu, who raised them out of compassion and gave them their names. Kripa learned the science of arms from his father and became the first teacher of the Kuru princes before Drona arrived; later he served as royal preceptor and counsellor at Hastinapur. He fought for the Kauravas throughout the eighteen days and was one of only three Kaurava warriors to survive the war, along with Ashwatthama and Kritavarma. He accompanied Ashwatthama on the night raid against the Pandava camp. After the war he was forgiven and became the teacher of Parikshit, Arjuna's grandson. He is counted among the seven Chiranjivis, the immortals."
       },
       "relations": [
-        { "slug": "drona", "relation": { "hi": "बहनोई", "en": "Brother-in-law" } },
-        { "slug": "ashwatthama", "relation": { "hi": "भांजा", "en": "Nephew" } },
-        { "slug": "parikshit", "relation": { "hi": "शिष्य", "en": "Disciple" } }
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "बहनोई",
+            "en": "Brother-in-law"
+          }
+        },
+        {
+          "slug": "ashwatthama",
+          "relation": {
+            "hi": "भांजा",
+            "en": "Nephew"
+          }
+        },
+        {
+          "slug": "parikshit",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        }
       ]
     },
     {
       "slug": "ashwatthama",
-      "name": { "hi": "अश्वत्थामा", "en": "Ashwatthama" },
-      "role": { "hi": "द्रोण के पुत्र, अंतिम कौरव सेनापति, शापित चिरंजीवी", "en": "Son of Drona, last Kaurava commander, cursed to wander immortal" },
+      "name": {
+        "hi": "अश्वत्थामा",
+        "en": "Ashwatthama"
+      },
+      "role": {
+        "hi": "द्रोण के पुत्र, अंतिम कौरव सेनापति, शापित चिरंजीवी",
+        "en": "Son of Drona, last Kaurava commander, cursed to wander immortal"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "अश्वत्थामा द्रोणाचार्य और कृपी के पुत्र थे, जिनके मस्तक पर जन्म से एक मणि थी जो उन्हें भूख, प्यास और भय से बचाती थी। पिता से शिक्षित होकर वे महान योद्धा और दुर्योधन के घनिष्ठ साथी बने। उनकी मृत्यु के झूठे समाचार पर द्रोण ने शस्त्र त्यागे और मारे गए। क्रोध में अश्वत्थामा ने नारायणास्त्र छोड़ा, जिससे पांडव श्रीकृष्ण की युक्ति से बचे। मरणासन्न दुर्योधन द्वारा सेनापति बनाए जाने पर उन्होंने रात में सोए हुए पांडव शिविर में घुसकर धृष्टद्युम्न, शिखंडी और द्रौपदी के पाँचों पुत्रों का वध किया। पांडवों द्वारा पीछा किए जाने पर उन्होंने उत्तरा के गर्भस्थ शिशु पर ब्रह्मशिर अस्त्र चलाया, जिसे श्रीकृष्ण ने जीवित किया। श्रीकृष्ण ने उन्हें तीन हज़ार वर्ष तक घायल और एकाकी भटकने का शाप दिया और उनके मस्तक की मणि ले ली गई।",
         "en": "Ashwatthama was the son of Dronacharya and Kripi, born with a jewel on his forehead that protected him from hunger, thirst and fear. Trained by his father, he became a great warrior and a close companion of Duryodhana. The false report of his death led Drona to lay down his arms and die. Enraged, Ashwatthama unleashed the Narayanastra, which the Pandavas survived by Krishna's counsel. Named commander by the dying Duryodhana, he entered the sleeping Pandava camp at night and killed Dhrishtadyumna, Shikhandi and the five sons of Draupadi. Pursued by the Pandavas, he fired the Brahmashira weapon at Uttara's unborn child, whom Krishna revived. Krishna cursed him to roam the earth for three thousand years, wounded and alone, and his jewel was taken from his head."
       },
       "relations": [
-        { "slug": "drona", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "kripa", "relation": { "hi": "मामा", "en": "Maternal uncle" } },
-        { "slug": "duryodhana", "relation": { "hi": "सखा", "en": "Friend" } }
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "kripa",
+          "relation": {
+            "hi": "मामा",
+            "en": "Maternal uncle"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        }
       ]
     },
     {
       "slug": "vidura",
-      "name": { "hi": "विदुर", "en": "Vidura" },
-      "role": { "hi": "हस्तिनापुर के महामंत्री, धर्म के अवतार, नीतिज्ञ", "en": "Prime minister of Hastinapur, incarnation of Dharma, master of statecraft" },
+      "name": {
+        "hi": "विदुर",
+        "en": "Vidura"
+      },
+      "role": {
+        "hi": "हस्तिनापुर के महामंत्री, धर्म के अवतार, नीतिज्ञ",
+        "en": "Prime minister of Hastinapur, incarnation of Dharma, master of statecraft"
+      },
       "side": "neutral",
       "bio": {
         "hi": "विदुर का जन्म महर्षि व्यास और रानी अंबिका की दासी से हुआ। वे धर्मदेव के अवतार थे, जिन्हें ऋषि माण्डव्य के शाप से मनुष्य-योनि में जन्म लेना पड़ा। जन्म के कारण राज्य के अधिकारी न होकर भी वे हस्तिनापुर के महामंत्री और धृतराष्ट्र के सबसे बुद्धिमान सलाहकार रहे। उन्होंने कुंती को लाक्षागृह के षड्यंत्र से सावधान किया और सुरंग द्वारा पांडवों को गुप्त रूप से बचाया। उन्होंने द्यूत का विरोध किया और द्रौपदी के पक्ष में निर्भय होकर बोले। शांतिदूत बनकर आए श्रीकृष्ण ने दुर्योधन का राजभोग ठुकराकर विदुर के घर का सादा भोजन स्वीकार किया। धृतराष्ट्र को दिया उनका उपदेश \"विदुर नीति\" आज भी नीति और धर्म का श्रेष्ठ ग्रंथ है। युद्ध के बाद वे धृतराष्ट्र के साथ वन गए और योग द्वारा अपना तेज युधिष्ठिर में विलीन कर दिया।",
         "en": "Vidura was born of the sage Vyasa and a maidservant of Queen Ambika, and was an incarnation of Dharma, cursed by the sage Mandavya to be born in a human womb. Though barred from the throne by his birth, he served Hastinapur as prime minister and the wisest counsellor of Dhritarashtra. He warned Kunti of the house of lac and secretly arranged the Pandavas' escape through a tunnel. He opposed the dice game and spoke fearlessly in Draupadi's defense. When Krishna came as peace envoy he refused Duryodhana's royal feast and chose to dine at Vidura's humble home. His teachings to Dhritarashtra, the Vidura Niti, remain a classic of ethics and statecraft. After the war he went to the forest with Dhritarashtra and merged his spirit into Yudhishthira through yoga."
       },
       "relations": [
-        { "slug": "vyasa", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "dhritarashtra", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "pandu", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "yudhishthira", "relation": { "hi": "भतीजा", "en": "Nephew" } },
-        { "slug": "dharma", "relation": { "hi": "मूल स्वरूप", "en": "Original form" } }
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "भतीजा",
+            "en": "Nephew"
+          }
+        },
+        {
+          "slug": "dharma",
+          "relation": {
+            "hi": "मूल स्वरूप",
+            "en": "Original form"
+          }
+        }
       ]
     },
     {
       "slug": "sanjaya",
-      "name": { "hi": "संजय", "en": "Sanjaya" },
-      "role": { "hi": "धृतराष्ट्र के सारथी और मंत्री, दिव्य-दृष्टि से युद्ध के वर्णनकर्ता", "en": "Dhritarashtra's charioteer and counsellor, narrator of the war with divine sight" },
+      "name": {
+        "hi": "संजय",
+        "en": "Sanjaya"
+      },
+      "role": {
+        "hi": "धृतराष्ट्र के सारथी और मंत्री, दिव्य-दृष्टि से युद्ध के वर्णनकर्ता",
+        "en": "Dhritarashtra's charioteer and counsellor, narrator of the war with divine sight"
+      },
       "side": "neutral",
       "bio": {
         "hi": "संजय सूत गवल्गण के पुत्र और नेत्रहीन राजा धृतराष्ट्र के विश्वासपात्र मंत्री, सारथी और साथी थे। वे महर्षि व्यास के शिष्य, सत्यवादी और भक्त थे, जो राजा को उनके पुत्रों के अधर्म के बारे में स्पष्ट बात कहने से नहीं चूकते थे। युद्ध से पहले वे धृतराष्ट्र के दूत बनकर उपप्लव्य में पांडवों के पास गए। युद्ध आरंभ होने पर व्यास ने उन्हें दिव्य-दृष्टि दी, जिससे वे कुरुक्षेत्र की हर घटना दिन-रात देख-सुन सकें और राजा को सच-सच बताएँ। इसी प्रकार संजय ने पूरा युद्ध धृतराष्ट्र को सुनाया, जिसमें श्रीकृष्ण द्वारा अर्जुन को दिया गया गीता-उपदेश भी था; इसीलिए गीता \"धृतराष्ट्र उवाच\" और संजय के उत्तर से आरंभ होती है। दुर्योधन के गिरने के साथ उनकी दिव्य-दृष्टि समाप्त हुई। बाद में वे वृद्ध राजा के साथ वन गए।",
         "en": "Sanjaya, son of the charioteer Gavalgana, was the trusted minister, charioteer and companion of the blind king Dhritarashtra. A disciple of Vyasa, he was a man of truth and devotion who often spoke frankly to the king about the wrongs of his sons. Before the war he was sent as Dhritarashtra's envoy to the Pandavas at Upaplavya. When the battle began, Vyasa granted him divine sight so that he could see and hear everything on the field of Kurukshetra, by day and night, and report it faithfully. Thus Sanjaya narrated the whole war to Dhritarashtra, including the Bhagavad Gita spoken by Krishna to Arjuna, which is why the Gita opens with \"Dhritarashtra uvacha\" and Sanjaya's reply. His sight ended with Duryodhana's fall. He later accompanied the old king to the forest."
       },
       "relations": [
-        { "slug": "dhritarashtra", "relation": { "hi": "स्वामी", "en": "Master" } },
-        { "slug": "vyasa", "relation": { "hi": "गुरु", "en": "Teacher" } }
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "स्वामी",
+            "en": "Master"
+          }
+        },
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        }
       ]
     },
     {
       "slug": "shantanu",
-      "name": { "hi": "शांतनु", "en": "Shantanu" },
-      "role": { "hi": "हस्तिनापुर के राजा, भीष्म के पिता", "en": "King of Hastinapur, father of Bhishma" },
+      "name": {
+        "hi": "शांतनु",
+        "en": "Shantanu"
+      },
+      "role": {
+        "hi": "हस्तिनापुर के राजा, भीष्म के पिता",
+        "en": "King of Hastinapur, father of Bhishma"
+      },
       "side": "neutral",
       "bio": {
         "hi": "शांतनु कुरुवंश के राजा और हस्तिनापुर के शासक थे, जो अपने धर्म और समृद्ध राज्य के लिए प्रसिद्ध थे। गंगा-तट पर उनकी भेंट देवी गंगा से हुई और उन्होंने इस शर्त पर विवाह किया कि वे उनके किसी कार्य पर प्रश्न नहीं करेंगे। गंगा ने एक-एक कर सात पुत्रों को नदी में बहा दिया; आठवें पर शांतनु ने विरोध किया तो गंगा उन्हें छोड़कर चली गईं और बाद में स्वर्ग में शिक्षित उस पुत्र देवव्रत को लौटा गईं। वर्षों बाद शांतनु धीवर-कन्या सत्यवती पर मोहित हुए, पर उसके पिता की शर्त थी कि सत्यवती का पुत्र राजा बने। देवव्रत ने राज्य त्यागकर ब्रह्मचर्य का व्रत लिया ताकि पिता का विवाह हो सके; कृतज्ञ शांतनु ने उन्हें इच्छा-मृत्यु का वरदान दिया। सत्यवती से चित्रांगद और विचित्रवीर्य हुए, और शांतनु के बाद भीष्म ने उनके लिए राज्य की रक्षा की।",
         "en": "Shantanu, a king of the Kuru line and ruler of Hastinapur, was renowned for his virtue and the prosperity of his reign. On the banks of the Ganga he met the river goddess and married her on condition that he would never question her acts. She drowned seven sons in turn, and when he finally protested at the eighth she left him, later returning the boy, Devavrata, raised and trained in heaven. Years later Shantanu fell in love with Satyavati, the fisher chief's daughter, but her father demanded that her son inherit the throne. Devavrata renounced the crown and took the vow of celibacy so his father could marry; the grateful Shantanu granted him death at will. Satyavati bore Chitrangada and Vichitravirya, and after Shantanu's death Bhishma guarded the kingdom for them."
       },
       "relations": [
-        { "slug": "ganga", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "satyavati", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "bhishma", "relation": { "hi": "पुत्र", "en": "Son" } }
+        {
+          "slug": "ganga",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "satyavati",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "bhishma",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        }
       ]
     },
     {
       "slug": "ganga",
-      "name": { "hi": "गंगा", "en": "Ganga" },
-      "role": { "hi": "पवित्र नदी की देवी, भीष्म की माता", "en": "Goddess of the sacred river, mother of Bhishma" },
+      "name": {
+        "hi": "गंगा",
+        "en": "Ganga"
+      },
+      "role": {
+        "hi": "पवित्र नदी की देवी, भीष्म की माता",
+        "en": "Goddess of the sacred river, mother of Bhishma"
+      },
       "side": "divine",
       "bio": {
         "hi": "गंगा भारत की सबसे पवित्र नदी की देवी हैं, जो राजा भगीरथ की तपस्या से स्वर्ग से पृथ्वी पर उतरीं और जिनके वेग को भगवान शिव ने अपनी जटाओं में धारण किया। महाभारत में उन्होंने मानव रूप धारण कर राजा शांतनु से इस शर्त पर विवाह किया कि वे उनसे कोई प्रश्न न करें। महर्षि वसिष्ठ के शाप से मनुष्य-योनि में जन्म लेने वाले आठ वसुओं ने उनसे माता बनकर उन्हें शीघ्र मुक्त करने की प्रार्थना की थी; इसलिए उन्होंने सात पुत्रों को जन्म लेते ही नदी में बहा दिया। आठवें पर शांतनु ने रोका तो उन्होंने अपना परिचय देकर विदा ली और उस पुत्र देवव्रत को स्वयं पालकर वसिष्ठ, बृहस्पति और परशुराम से शिक्षा दिलाकर पिता को लौटाया। यही पुत्र भीष्म बने। युद्ध के अंत में वे अपने पुत्र के गिरने पर शोक करने पुनः प्रकट हुईं।",
         "en": "Ganga is the goddess of the holiest river of India, which descended from heaven to earth through the penance of King Bhagiratha, with Lord Shiva catching her torrent in his matted locks. In the Mahabharata she took human form to marry King Shantanu, on the condition that he would never question her. The eight Vasus, cursed by the sage Vasishtha to be born as humans, had asked her to be their mother and to free them quickly; so she drowned seven sons at birth. When Shantanu stopped her at the eighth, she revealed her identity and departed, raising that son, Devavrata, and having him taught by Vasishtha, Brihaspati and Parashurama before returning him to his father. This son became Bhishma. She appeared again at the war's end to grieve over his fall."
       },
       "relations": [
-        { "slug": "shantanu", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "bhishma", "relation": { "hi": "पुत्र", "en": "Son" } }
+        {
+          "slug": "shantanu",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "bhishma",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        }
       ]
     },
     {
       "slug": "satyavati",
-      "name": { "hi": "सत्यवती", "en": "Satyavati" },
-      "role": { "hi": "धीवर-कन्या, शांतनु की रानी, व्यास की माता", "en": "Fisher chief's daughter, Shantanu's queen, mother of Vyasa" },
+      "name": {
+        "hi": "सत्यवती",
+        "en": "Satyavati"
+      },
+      "role": {
+        "hi": "धीवर-कन्या, शांतनु की रानी, व्यास की माता",
+        "en": "Fisher chief's daughter, Shantanu's queen, mother of Vyasa"
+      },
       "side": "neutral",
       "bio": {
         "hi": "सत्यवती मछली की गंध के कारण मत्स्यगंधा कहलाती थीं और यमुना पार कराने वाले धीवर-प्रमुख की पुत्री के रूप में पली थीं। युवावस्था में महर्षि पराशर उन पर मोहित हुए और उनसे द्वीप पर महर्षि व्यास का जन्म हुआ; पराशर ने उन्हें दिव्य सुगंध और पुनः कन्यात्व का वरदान दिया। उस सुगंध से आकृष्ट राजा शांतनु ने उनका हाथ माँगा; उनके पिता की शर्त कि सत्यवती के पुत्र राजा बनें, देवव्रत की भीष्म-प्रतिज्ञा का कारण बनी। उनसे चित्रांगद और विचित्रवीर्य हुए, जो दोनों अल्पायु रहे। वंश चलाने के लिए उन्होंने व्यास को बुलाया, जिनसे विचित्रवीर्य की विधवाओं और एक दासी से धृतराष्ट्र, पांडु और विदुर का जन्म हुआ। कुरुवंश के विनाश को पहले से देखकर वे पांडु की मृत्यु के बाद अंबिका और अंबालिका के साथ वन चली गईं।",
         "en": "Satyavati, known as Matsyagandha for her fish smell, was raised as the daughter of a fisher chief who ferried travellers across the Yamuna. In her youth the sage Parashara, charmed by her, fathered with her the sage Vyasa, born on an island, and granted her a divine fragrance and renewed maidenhood. King Shantanu, drawn by her scent, sought her hand; her father's condition that her sons inherit the throne led Devavrata to take the vow of Bhishma. She bore Chitrangada and Vichitravirya, both of whom died young. To continue the line she summoned Vyasa, who fathered Dhritarashtra, Pandu and Vidura on Vichitravirya's widows and a maid. Foreseeing the ruin of the Kurus, she retired to the forest with Ambika and Ambalika after Pandu's death."
       },
       "relations": [
-        { "slug": "shantanu", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "vyasa", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "bhishma", "relation": { "hi": "सौतेला पुत्र", "en": "Stepson" } }
+        {
+          "slug": "shantanu",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "bhishma",
+          "relation": {
+            "hi": "सौतेला पुत्र",
+            "en": "Stepson"
+          }
+        }
       ]
     },
     {
       "slug": "vyasa",
-      "name": { "hi": "वेदव्यास", "en": "Veda Vyasa" },
-      "role": { "hi": "महाभारत के रचयिता, वेदों के विभाजक, महर्षि", "en": "Composer of the Mahabharata, divider of the Vedas, great sage" },
+      "name": {
+        "hi": "वेदव्यास",
+        "en": "Veda Vyasa"
+      },
+      "role": {
+        "hi": "महाभारत के रचयिता, वेदों के विभाजक, महर्षि",
+        "en": "Composer of the Mahabharata, divider of the Vedas, great sage"
+      },
       "side": "divine",
       "bio": {
         "hi": "कृष्ण द्वैपायन व्यास का जन्म महर्षि पराशर और सत्यवती से यमुना के एक द्वीप पर हुआ; वे भगवान विष्णु के अवतार माने जाते हैं। उन्होंने एक वेद को चार भागों में बाँटा, महाभारत, पुराणों और ब्रह्मसूत्र की रचना की, और श्रीगणेश ने उनके मुख से सुनकर महाकाव्य लिखा। माता के आग्रह पर उन्होंने कुरुवंश चलाने के लिए धृतराष्ट्र, पांडु और विदुर को जन्म दिया, इस प्रकार वे कौरवों और पांडवों दोनों के पितामह हुए। पूरे महाभारत में वे मार्गदर्शक रूप में आते हैं—गांधारी को सौ पुत्रों का वरदान, संजय को दिव्य-दृष्टि, वनवास में पांडवों को सांत्वना, गंगा-तट पर धृतराष्ट्र को मृत योद्धाओं के दर्शन और युद्ध के बाद युधिष्ठिर को उपदेश। उनके शिष्य वैशंपायन ने राजा जनमेजय को महाभारत सुनाया।",
         "en": "Krishna Dvaipayana Vyasa, born of the sage Parashara and Satyavati on an island in the Yamuna, is revered as an incarnation of Vishnu. He divided the single Veda into four, composed the Mahabharata, the Puranas and the Brahma Sutras, and had Ganesha write down the great epic as he recited it. At his mother's request he fathered Dhritarashtra, Pandu and Vidura to continue the Kuru line, and so was the grandfather of both Kauravas and Pandavas. He appears throughout the epic as a guide: granting Gandhari a hundred sons, giving Sanjaya divine sight, consoling the Pandavas in exile, showing Dhritarashtra his dead warriors on the Ganga's bank, and teaching Yudhishthira after the war. His disciple Vaishampayana recited the Mahabharata to King Janamejaya."
       },
       "relations": [
-        { "slug": "satyavati", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "dhritarashtra", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "pandu", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "vidura", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "sanjaya", "relation": { "hi": "शिष्य", "en": "Disciple" } }
+        {
+          "slug": "satyavati",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "pandu",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "vidura",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "sanjaya",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        }
       ]
     },
     {
       "slug": "amba",
-      "name": { "hi": "अंबा", "en": "Amba" },
-      "role": { "hi": "काशी की राजकुमारी, भीष्म से प्रतिशोध हेतु शिखंडी रूप में पुनर्जन्मी", "en": "Princess of Kashi, reborn as Shikhandi to avenge herself on Bhishma" },
+      "name": {
+        "hi": "अंबा",
+        "en": "Amba"
+      },
+      "role": {
+        "hi": "काशी की राजकुमारी, भीष्म से प्रतिशोध हेतु शिखंडी रूप में पुनर्जन्मी",
+        "en": "Princess of Kashi, reborn as Shikhandi to avenge herself on Bhishma"
+      },
       "side": "neutral",
       "bio": {
         "hi": "अंबा काशी की तीन राजकुमारियों में सबसे बड़ी थीं, जिन्हें भीष्म अपने भाई विचित्रवीर्य के लिए स्वयंवर से हर लाए थे। अंबा ने बताया कि वे पहले ही सौभ के राजा शाल्व को मन से वर चुकी हैं, तो भीष्म ने उन्हें जाने दिया। पर शाल्व ने उन्हें दूसरे द्वारा जीती हुई मानकर ठुकरा दिया और विचित्रवीर्य ने भी उन्हें स्वीकार नहीं किया। अंबा भीष्म के गुरु परशुराम की शरण गईं, जिन्होंने तेईस दिन भीष्म से युद्ध किया पर उन्हें हरा न सके। प्रतिशोध की अग्नि में जलती अंबा ने घोर तपस्या की और भगवान शिव से वरदान पाया कि अगले जन्म में वे भीष्म की मृत्यु का कारण बनेंगी। अग्नि में प्रवेश कर उन्होंने द्रुपद की पुत्री शिखंडिनी के रूप में जन्म लिया, जो आगे शिखंडी बने और जिन्हें आगे कर अर्जुन ने कुरुक्षेत्र में भीष्म को गिराया।",
         "en": "Amba was the eldest of the three princesses of Kashi whom Bhishma carried off from their swayamvara as brides for his half-brother Vichitravirya. Amba revealed that she had already chosen King Shalva of Saubha, so Bhishma let her go. But Shalva rejected her as a woman won by another, and Vichitravirya would not take her back. Amba turned to Parashurama, Bhishma's own teacher, who fought Bhishma for twenty-three days and could not defeat him. Burning for revenge, she performed terrible penance and received Lord Shiva's boon that she would become the cause of Bhishma's death in her next life. She entered the fire and was reborn as Drupada's daughter Shikhandini, later Shikhandi, behind whom Arjuna struck Bhishma down at Kurukshetra."
       },
       "relations": [
-        { "slug": "shikhandi", "relation": { "hi": "पुनर्जन्म", "en": "Reborn as" } },
-        { "slug": "bhishma", "relation": { "hi": "प्रतिद्वंद्वी", "en": "Adversary" } },
-        { "slug": "parashurama", "relation": { "hi": "आश्रयदाता", "en": "Patron" } }
+        {
+          "slug": "shikhandi",
+          "relation": {
+            "hi": "पुनर्जन्म",
+            "en": "Reborn as"
+          }
+        },
+        {
+          "slug": "bhishma",
+          "relation": {
+            "hi": "प्रतिद्वंद्वी",
+            "en": "Adversary"
+          }
+        },
+        {
+          "slug": "parashurama",
+          "relation": {
+            "hi": "आश्रयदाता",
+            "en": "Patron"
+          }
+        }
       ]
     },
     {
       "slug": "shikhandi",
-      "name": { "hi": "शिखंडी", "en": "Shikhandi" },
-      "role": { "hi": "द्रुपद की संतान, अंबा का पुनर्जन्म, भीष्म-पतन का कारण", "en": "Child of Drupada, Amba reborn, the cause of Bhishma's fall" },
+      "name": {
+        "hi": "शिखंडी",
+        "en": "Shikhandi"
+      },
+      "role": {
+        "hi": "द्रुपद की संतान, अंबा का पुनर्जन्म, भीष्म-पतन का कारण",
+        "en": "Child of Drupada, Amba reborn, the cause of Bhishma's fall"
+      },
       "side": "pandava",
       "bio": {
         "hi": "शिखंडी का जन्म राजा द्रुपद के यहाँ कन्या शिखंडिनी के रूप में हुआ—द्रुपद ने शिव से भीष्म का वध करने वाली संतान माँगी थी—और उसे पुत्र की तरह पाला गया। दशार्ण की राजकुमारी से विवाह के बाद रहस्य खुल गया और युद्ध का संकट आया; निराश शिखंडिनी वन में गई, जहाँ स्थूण नामक यक्ष ने अपना पुरुषत्व उसे देकर उसे पुरुष शिखंडी बना दिया। द्रोण से शिक्षित शिखंडी पांचाल के महान योद्धाओं में और पांडव सेना के सेनानायकों में एक थे। भीष्म उन्हें अंबा का पुनर्जन्म और जन्म से स्त्री जानकर उन पर शस्त्र नहीं उठाते थे। दसवें दिन अर्जुन ने शिखंडी को अपने रथ के आगे रखकर भीष्म को बाणों से गिराया। रात्रि-आक्रमण में अश्वत्थामा ने शिखंडी का वध किया।",
         "en": "Shikhandi was born to King Drupada as a daughter, Shikhandini, in answer to his prayer to Shiva for a child who would destroy Bhishma, and was raised as a son. Married to a princess of Dasharna, Shikhandini's secret was discovered and brought the threat of war; in despair she went to the forest, where a yaksha named Sthuna exchanged his manhood with her, and she became the man Shikhandi. Trained by Drona, he was one of the great Panchala warriors and a commander in the Pandava army. Bhishma, knowing him to be Amba reborn and born a woman, refused to raise his weapons against him. On the tenth day Arjuna placed Shikhandi before his chariot and shot Bhishma down. Shikhandi was killed in the night raid by Ashwatthama."
       },
       "relations": [
-        { "slug": "drupada", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "dhrishtadyumna", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "draupadi", "relation": { "hi": "बहन", "en": "Sister" } },
-        { "slug": "amba", "relation": { "hi": "पूर्वजन्म", "en": "Former birth" } }
+        {
+          "slug": "drupada",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "dhrishtadyumna",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        },
+        {
+          "slug": "amba",
+          "relation": {
+            "hi": "पूर्वजन्म",
+            "en": "Former birth"
+          }
+        }
       ]
     },
     {
       "slug": "abhimanyu",
-      "name": { "hi": "अभिमन्यु", "en": "Abhimanyu" },
-      "role": { "hi": "अर्जुन और सुभद्रा के पुत्र, चक्रव्यूह के वीर", "en": "Son of Arjuna and Subhadra, hero of the chakravyuha" },
+      "name": {
+        "hi": "अभिमन्यु",
+        "en": "Abhimanyu"
+      },
+      "role": {
+        "hi": "अर्जुन और सुभद्रा के पुत्र, चक्रव्यूह के वीर",
+        "en": "Son of Arjuna and Subhadra, hero of the chakravyuha"
+      },
       "side": "pandava",
       "bio": {
         "hi": "अभिमन्यु अर्जुन और सुभद्रा के पुत्र, श्रीकृष्ण और बलराम के भांजे थे और पांडवों के वनवास के दौरान द्वारका में पले। माता के गर्भ में ही उन्होंने अर्जुन से चक्रव्यूह में प्रवेश की विधि सुनी थी, पर निकलने की विधि सुनने से पहले सुभद्रा सो गई थीं। सोलह वर्ष की आयु में उनका विवाह राजा विराट की पुत्री उत्तरा से हुआ। युद्ध के तेरहवें दिन जब संशप्तक अर्जुन को दूर ले गए, द्रोण ने चक्रव्यूह रचा और केवल अभिमन्यु ही उसे भेद सके। पीछे आते पांडवों को जयद्रथ ने रोक दिया। अकेले व्यूह में वे सिंह की तरह लड़े, दुर्योधन के पुत्र लक्ष्मण सहित अनेक योद्धाओं को मारा, जब तक छह महारथियों ने युद्ध-नियम तोड़कर एक साथ प्रहार कर उनका वध नहीं किया। उनकी मृत्यु पर अर्जुन ने सूर्यास्त से पहले जयद्रथ-वध की प्रतिज्ञा की। उनके पुत्र परीक्षित से कुरुवंश आगे चला।",
         "en": "Abhimanyu was the son of Arjuna and Subhadra, nephew of Shri Krishna and Balarama, and was raised in Dwarka during the Pandavas' exile. While still in his mother's womb he heard Arjuna explain how to enter the chakravyuha, but Subhadra fell asleep before the way out was described. At sixteen he married Uttara, daughter of King Virata. On the thirteenth day of the war, when Arjuna was drawn away by the Samsaptakas, Drona formed the chakravyuha and only Abhimanyu could break in. The Pandavas following him were stopped by Jayadratha. Alone inside, he fought like a lion, killing Duryodhana's son Lakshmana and many warriors, until six great warriors attacked him together against the rules of war and killed him. His death provoked Arjuna's vow to kill Jayadratha before sunset. His son Parikshit continued the Kuru line."
       },
       "relations": [
-        { "slug": "arjuna", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "subhadra", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "krishna", "relation": { "hi": "मामा", "en": "Maternal uncle" } },
-        { "slug": "uttara", "relation": { "hi": "पत्नी", "en": "Wife" } },
-        { "slug": "parikshit", "relation": { "hi": "पुत्र", "en": "Son" } }
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "subhadra",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "मामा",
+            "en": "Maternal uncle"
+          }
+        },
+        {
+          "slug": "uttara",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "parikshit",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        }
       ]
     },
     {
       "slug": "subhadra",
-      "name": { "hi": "सुभद्रा", "en": "Subhadra" },
-      "role": { "hi": "श्रीकृष्ण की बहन, अर्जुन की पत्नी, अभिमन्यु की माता", "en": "Sister of Shri Krishna, wife of Arjuna, mother of Abhimanyu" },
+      "name": {
+        "hi": "सुभद्रा",
+        "en": "Subhadra"
+      },
+      "role": {
+        "hi": "श्रीकृष्ण की बहन, अर्जुन की पत्नी, अभिमन्यु की माता",
+        "en": "Sister of Shri Krishna, wife of Arjuna, mother of Abhimanyu"
+      },
       "side": "pandava",
       "bio": {
         "hi": "सुभद्रा वसुदेव और रोहिणी की पुत्री तथा बलराम और श्रीकृष्ण की छोटी बहन थीं। बारह वर्ष की तीर्थयात्रा के दौरान अर्जुन द्वारका आए और उन पर मोहित हो गए। बलराम उनका विवाह दुर्योधन से करना चाहते थे, पर श्रीकृष्ण की सलाह पर अर्जुन ने क्षत्रिय-रीति से उनका हरण किया, जिसमें स्वयं सुभद्रा ने रथ हाँका। श्रीकृष्ण ने बलराम का क्रोध शांत किया और द्वारका तथा इंद्रप्रस्थ में विवाह का उत्सव हुआ, जहाँ द्रौपदी ने उनका स्वागत किया। उनके पुत्र अभिमन्यु युद्ध के सबसे वीर योद्धाओं में हुए। वनवास के समय सुभद्रा द्वारका में रहीं और वहीं उन्हें पाला। अभिमन्यु की मृत्यु के बाद उन्होंने उनकी युवा विधवा उत्तरा को सँभाला और अपने पौत्र परीक्षित को हस्तिनापुर का राजा बनते देखा। जगन्नाथ पुरी में वे श्रीकृष्ण और बलराम के साथ पूजी जाती हैं।",
         "en": "Subhadra was the daughter of Vasudeva and Rohini, and the younger sister of Balarama and Shri Krishna. During his twelve-year pilgrimage, Arjuna came to Dwarka and fell in love with her. Balarama wished to marry her to Duryodhana, but Krishna advised Arjuna to carry her away in the manner approved for warriors, which he did with Subhadra herself driving the chariot. Balarama's anger was pacified by Krishna, and the marriage was celebrated at Dwarka and Indraprastha, where Draupadi welcomed her. Her son Abhimanyu became one of the bravest warriors of the war. Subhadra stayed in Dwarka during the exile and raised him there. After Abhimanyu's death she comforted his young widow Uttara, and lived to see her grandson Parikshit crowned king of Hastinapur. She is worshipped with Krishna and Balarama at Jagannath Puri."
       },
       "relations": [
-        { "slug": "krishna", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "balarama", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "arjuna", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "abhimanyu", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "parikshit", "relation": { "hi": "पौत्र", "en": "Grandson" } }
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "balarama",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "abhimanyu",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "parikshit",
+          "relation": {
+            "hi": "पौत्र",
+            "en": "Grandson"
+          }
+        }
       ]
     },
     {
       "slug": "ghatotkacha",
-      "name": { "hi": "घटोत्कच", "en": "Ghatotkacha" },
-      "role": { "hi": "भीम और हिडिंबा के पुत्र, मायावी राक्षस योद्धा", "en": "Son of Bhima and Hidimba, rakshasa warrior of illusions" },
+      "name": {
+        "hi": "घटोत्कच",
+        "en": "Ghatotkacha"
+      },
+      "role": {
+        "hi": "भीम और हिडिंबा के पुत्र, मायावी राक्षस योद्धा",
+        "en": "Son of Bhima and Hidimba, rakshasa warrior of illusions"
+      },
       "side": "pandava",
       "bio": {
         "hi": "घटोत्कच भीम और राक्षसी हिडिंबा के पुत्र थे, जिनका जन्म लाक्षागृह से बचने के बाद वन में हुआ; घड़े जैसे केशहीन सिर के कारण उनका यह नाम पड़ा। राक्षसों की तरह वे क्षण भर में युवा हो गए और वचन दिया कि पिता के परिवार को जब भी आवश्यकता हो, वे आएँगे। वनवास की तीर्थयात्रा में उन्होंने पांडवों को पर्वतों के पार पहुँचाया। कुरुक्षेत्र में वे माया और आकाश से आक्रमण करते थे; चौदहवीं रात अंधकार में उनकी माया अजेय हो गई और कौरव सेना का संहार होने लगा। दुर्योधन के दबाव में कर्ण ने इंद्र से मिली अमोघ शक्ति चलाई, जिसे उसने अर्जुन के लिए बचा रखा था। घटोत्कच ने मरते समय अपना शरीर विशाल कर लिया ताकि गिरते ही कौरव सेना का एक भाग कुचल जाए। श्रीकृष्ण प्रसन्न हुए, क्योंकि अब अर्जुन शक्ति से सुरक्षित थे।",
         "en": "Ghatotkacha was the son of Bhima and the rakshasi Hidimba, born in the forest after the Pandavas escaped the house of lac, and named for his hairless, pot-like head. He grew to manhood within moments, as rakshasas do, and promised to come whenever his father's family needed him. He carried the Pandavas across the mountains during their pilgrimage in exile. At Kurukshetra he fought with illusions and aerial attacks, and on the fourteenth night his magic was unstoppable in the dark, slaughtering the Kaurava army. Under Duryodhana's pressure Karna used the infallible Shakti weapon given by Indra, which he had saved for Arjuna. Ghatotkacha died making his body enormous so that his fall crushed a part of the Kaurava host. Krishna rejoiced, for Arjuna was now safe from the Shakti."
       },
       "relations": [
-        { "slug": "bhima", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "hidimba", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "abhimanyu", "relation": { "hi": "चचेरा भाई", "en": "Cousin" } }
+        {
+          "slug": "bhima",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "hidimba",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "abhimanyu",
+          "relation": {
+            "hi": "चचेरा भाई",
+            "en": "Cousin"
+          }
+        }
       ]
     },
     {
       "slug": "hidimba",
-      "name": { "hi": "हिडिंबा", "en": "Hidimba" },
-      "role": { "hi": "वन की राक्षसी, भीम की पत्नी, घटोत्कच की माता", "en": "Forest rakshasi, wife of Bhima, mother of Ghatotkacha" },
+      "name": {
+        "hi": "हिडिंबा",
+        "en": "Hidimba"
+      },
+      "role": {
+        "hi": "वन की राक्षसी, भीम की पत्नी, घटोत्कच की माता",
+        "en": "Forest rakshasi, wife of Bhima, mother of Ghatotkacha"
+      },
       "side": "pandava",
       "bio": {
         "hi": "हिडिंबा एक राक्षसी थी, जो अपने नरभक्षी भाई हिडिंब के साथ वन में रहती थी। लाक्षागृह से बचकर आए पांडव जब उस वन में विश्राम कर रहे थे, हिडिंब ने उन्हें फँसाने के लिए उसे भेजा, पर वह पहरा दे रहे भीम पर मोहित हो गई और उन्हें खतरे से सावधान किया। भीम ने हिडिंब से युद्ध कर उसे मार डाला। तब हिडिंबा ने कुंती और युधिष्ठिर से भीम को पति रूप में माँगा; कुंती ने इस शर्त पर स्वीकृति दी कि पुत्र होने तक भीम हर रात लौट आएँगे। शीघ्र ही उनके पुत्र घटोत्कच का जन्म हुआ, जो तुरंत बड़ा हो गया, और हिडिंबा ने उसे वन में पिता के परिवार की सेवा के लिए पाला। हिमालय क्षेत्र में वे देवी रूप में पूजी जाती हैं और मनाली में हिडिंबा देवी का मंदिर है।",
         "en": "Hidimba was a rakshasi who lived in the forest with her brother Hidimb, a man-eating demon. When the Pandavas, fleeing the house of lac, rested in that forest, Hidimb sent her to lure them, but she fell in love with Bhima, who was keeping watch, and warned him of the danger. Bhima fought and killed Hidimb. Hidimba then begged Kunti and Yudhishthira for Bhima as her husband; Kunti agreed on condition that Bhima return each night, until a son was born. Their son Ghatotkacha was born soon after and grew up at once, and Hidimba raised him in the forest to serve his father's family. In the Himalayan region she is revered as a goddess, and a temple to Hidimba Devi stands at Manali in Himachal Pradesh."
       },
       "relations": [
-        { "slug": "bhima", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "ghatotkacha", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "kunti", "relation": { "hi": "सास", "en": "Mother-in-law" } }
+        {
+          "slug": "bhima",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "ghatotkacha",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "सास",
+            "en": "Mother-in-law"
+          }
+        }
       ]
     },
     {
       "slug": "drupada",
-      "name": { "hi": "द्रुपद", "en": "Drupada" },
-      "role": { "hi": "पांचाल नरेश, द्रौपदी के पिता", "en": "King of Panchala, father of Draupadi" },
+      "name": {
+        "hi": "द्रुपद",
+        "en": "Drupada"
+      },
+      "role": {
+        "hi": "पांचाल नरेश, द्रौपदी के पिता",
+        "en": "King of Panchala, father of Draupadi"
+      },
       "side": "pandava",
       "bio": {
         "hi": "द्रुपद पृषत के पुत्र और पांचाल के राजा थे। बाल्यकाल में उन्होंने अपने पिता के आश्रम में द्रोण के साथ विद्या पाई और उन्हें आधा राज्य देने का वचन दिया; पर जब दरिद्र द्रोण उनके पास आए, तो उन्होंने उन्हें भिखारी कहकर अपमानित किया। अर्जुन के नेतृत्व में द्रोण के शिष्यों ने द्रुपद को हराकर बंदी बनाया और द्रोण ने उत्तर पांचाल अपने पास रखा। प्रतिशोध की इच्छा से द्रुपद ने द्रोण-वध करने वाले पुत्र के लिए यज्ञ किया, जिसकी अग्नि से धृष्टद्युम्न और द्रौपदी प्रकट हुए। अर्जुन को पाने की आशा से उन्होंने मत्स्य-भेद वाला स्वयंवर रचा और पांडवों के श्वसुर बने। कुरुक्षेत्र में उन्होंने पांडवों को विशाल सेना दी और वीरता से लड़े। पंद्रहवें दिन द्रोण ने उनका वध किया, उसके कुछ ही समय बाद धृष्टद्युम्न ने द्रोण को मारकर अपना भाग्य पूरा किया।",
         "en": "Drupada, son of Prishata, was king of Panchala. In boyhood he studied with Drona at his father's hermitage and promised him half his kingdom; but when the impoverished Drona came to him, he mocked him as a beggar. Drona's pupils, led by Arjuna, defeated and captured Drupada, and Drona kept the northern half of Panchala. Burning for revenge, Drupada performed a sacrifice for a son who would kill Drona, and from the fire rose Dhrishtadyumna and Draupadi. He held Draupadi's swayamvara with the fish target, hoping Arjuna would win her, and became father-in-law to the Pandavas. He brought a great army to the Pandavas at Kurukshetra and fought bravely. On the fifteenth day Drona killed him in battle, shortly before Dhrishtadyumna fulfilled his destiny by killing Drona."
       },
       "relations": [
-        { "slug": "draupadi", "relation": { "hi": "पुत्री", "en": "Daughter" } },
-        { "slug": "dhrishtadyumna", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "shikhandi", "relation": { "hi": "संतान", "en": "Child" } },
-        { "slug": "drona", "relation": { "hi": "बाल-सखा", "en": "Childhood friend" } },
-        { "slug": "arjuna", "relation": { "hi": "जामाता", "en": "Son-in-law" } }
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "पुत्री",
+            "en": "Daughter"
+          }
+        },
+        {
+          "slug": "dhrishtadyumna",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "shikhandi",
+          "relation": {
+            "hi": "संतान",
+            "en": "Child"
+          }
+        },
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "बाल-सखा",
+            "en": "Childhood friend"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "जामाता",
+            "en": "Son-in-law"
+          }
+        }
       ]
     },
     {
       "slug": "dhrishtadyumna",
-      "name": { "hi": "धृष्टद्युम्न", "en": "Dhrishtadyumna" },
-      "role": { "hi": "द्रुपद के पुत्र, पांडव सेनापति, द्रोण का वध करने वाले", "en": "Son of Drupada, commander of the Pandava army, slayer of Drona" },
+      "name": {
+        "hi": "धृष्टद्युम्न",
+        "en": "Dhrishtadyumna"
+      },
+      "role": {
+        "hi": "द्रुपद के पुत्र, पांडव सेनापति, द्रोण का वध करने वाले",
+        "en": "Son of Drupada, commander of the Pandava army, slayer of Drona"
+      },
       "side": "pandava",
       "bio": {
         "hi": "धृष्टद्युम्न राजा द्रुपद की यज्ञ-अग्नि से कवच और शस्त्र सहित प्रकट हुए, द्रोणाचार्य के वध के लिए नियत। यह जानते हुए भी द्रोण ने उदारता से उन्हें शिष्य बनाया और शस्त्र-विद्या सिखाई। स्वयंवर में उन्होंने द्रौपदी का परिचय दिया और वेश बदले पांडवों का पीछा कर उनकी पहचान जानी। कुरुक्षेत्र में पांडवों ने उन्हें अपनी सात अक्षौहिणी सेना का प्रधान सेनापति चुना और उन्होंने भीष्म, द्रोण और कर्ण के विरुद्ध व्यूह रचे। पंद्रहवें दिन अश्वत्थामा की मृत्यु के समाचार से द्रोण के शस्त्र त्यागने पर धृष्टद्युम्न ने उनका सिर काटा—जिसकी अर्जुन आदि ने निंदा की, पर जो उनके जन्म का उद्देश्य था। अठारहवीं रात अश्वत्थामा ने पांडव शिविर में घुसकर उन्हें सोते हुए मारा; तलवार से मरने की उनकी याचना ठुकराकर उसने उनका गला घोंट दिया।",
         "en": "Dhrishtadyumna rose fully armed from the sacrificial fire of King Drupada, destined to kill Dronacharya. Despite knowing this, Drona generously accepted him as a pupil and trained him in arms. He presented Draupadi at her swayamvara and followed the disguised Pandavas to discover their identity. At Kurukshetra the Pandavas chose him as supreme commander of their seven akshauhinis, and he arranged their battle formations against Bhishma, Drona and Karna. On the fifteenth day, after Drona laid down his arms at the news of Ashwatthama's death, Dhrishtadyumna beheaded him, an act that Arjuna and others condemned but that fulfilled the purpose of his birth. On the eighteenth night Ashwatthama crept into the Pandava camp and killed him in his sleep, strangling him as he begged to die by the sword."
       },
       "relations": [
-        { "slug": "drupada", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "draupadi", "relation": { "hi": "बहन", "en": "Sister" } },
-        { "slug": "shikhandi", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "drona", "relation": { "hi": "गुरु", "en": "Teacher" } }
+        {
+          "slug": "drupada",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        },
+        {
+          "slug": "shikhandi",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        }
       ]
     },
     {
       "slug": "shalya",
-      "name": { "hi": "शल्य", "en": "Shalya" },
-      "role": { "hi": "मद्र नरेश, नकुल-सहदेव के मामा, कर्ण के सारथी", "en": "King of Madra, maternal uncle of Nakula and Sahadeva, Karna's charioteer" },
+      "name": {
+        "hi": "शल्य",
+        "en": "Shalya"
+      },
+      "role": {
+        "hi": "मद्र नरेश, नकुल-सहदेव के मामा, कर्ण के सारथी",
+        "en": "King of Madra, maternal uncle of Nakula and Sahadeva, Karna's charioteer"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "शल्य मद्र देश के राजा और माद्री के भाई थे, इसलिए नकुल और सहदेव के मामा हुए। विशाल सेना लेकर पांडवों से मिलने निकले शल्य का मार्ग में दुर्योधन द्वारा गुप्त रूप से बनवाए शिविरों में भव्य स्वागत हुआ; उन्हें युधिष्ठिर का प्रबंध समझकर उन्होंने वरदान देने का वचन दिया और दुर्योधन ने युद्ध में उनका साथ माँग लिया। शल्य ने वचन निभाया, पर युधिष्ठिर से कहा कि समय आने पर वे कर्ण का मनोबल तोड़ेंगे। सत्रहवें दिन वे कर्ण के सारथी बने और उनके व्यंग्य ने कर्ण का आत्मविश्वास डिगाया, यद्यपि रथ उन्होंने कुशलता से हाँका। कर्ण की मृत्यु के बाद अठारहवें दिन वे कौरव सेना के अंतिम सेनापति बने, और सदा कोमल रहने वाले युधिष्ठिर ने द्वंद्व में शक्ति से उनका वध किया।",
         "en": "Shalya was king of the Madra kingdom and the brother of Madri, making him the maternal uncle of Nakula and Sahadeva. Marching to join the Pandavas with a large army, he was lavishly entertained on the way by camps that Duryodhana had secretly arranged; believing them to be Yudhishthira's, he promised a boon, and Duryodhana claimed his support in the war. Shalya kept his word, but told Yudhishthira he would dishearten Karna when the time came. On the seventeenth day he served as Karna's charioteer and his taunts weakened Karna's confidence, though he also drove the chariot skillfully. After Karna's death he was made the final commander of the Kaurava army on the eighteenth day, and Yudhishthira, normally gentle, killed him with a spear in single combat."
       },
       "relations": [
-        { "slug": "madri", "relation": { "hi": "बहन", "en": "Sister" } },
-        { "slug": "nakula", "relation": { "hi": "भांजा", "en": "Nephew" } },
-        { "slug": "sahadeva", "relation": { "hi": "भांजा", "en": "Nephew" } }
+        {
+          "slug": "madri",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        },
+        {
+          "slug": "nakula",
+          "relation": {
+            "hi": "भांजा",
+            "en": "Nephew"
+          }
+        },
+        {
+          "slug": "sahadeva",
+          "relation": {
+            "hi": "भांजा",
+            "en": "Nephew"
+          }
+        }
       ]
     },
     {
       "slug": "jayadratha",
-      "name": { "hi": "जयद्रथ", "en": "Jayadratha" },
-      "role": { "hi": "सिंधु नरेश, दुःशला के पति, चक्रव्यूह के द्वार पर पांडवों को रोकने वाला", "en": "King of Sindhu, husband of Dushala, who blocked the Pandavas at the chakravyuha" },
+      "name": {
+        "hi": "जयद्रथ",
+        "en": "Jayadratha"
+      },
+      "role": {
+        "hi": "सिंधु नरेश, दुःशला के पति, चक्रव्यूह के द्वार पर पांडवों को रोकने वाला",
+        "en": "King of Sindhu, husband of Dushala, who blocked the Pandavas at the chakravyuha"
+      },
       "side": "kaurava",
       "bio": {
         "hi": "जयद्रथ सिंधु और सौवीर देश का राजा था, जिसने धृतराष्ट्र और गांधारी की इकलौती पुत्री दुःशला से विवाह किया और इस प्रकार कौरवों का बहनोई बना। पांडवों के वनवास में उसने आश्रम में अकेली द्रौपदी को पाकर उनका हरण किया; भीम और अर्जुन ने उसे पकड़ा और भीम ने अपमान स्वरूप उसका सिर मुँड़वा दिया, पर युधिष्ठिर ने दुःशला के कारण उसके प्राण बख्शे। तब उसने शिव की आराधना कर वरदान पाया कि वह अर्जुन को छोड़ शेष चार पांडवों को एक दिन रोक सकेगा। युद्ध के तेरहवें दिन उसने यह वरदान प्रयोग कर चक्रव्यूह का द्वार रोका, जिससे अभिमन्यु घिरकर मारा गया। अर्जुन ने अगले सूर्यास्त से पहले उसके वध की प्रतिज्ञा की। चौदहवें दिन श्रीकृष्ण की अंधकार-माया के बाद अर्जुन ने बाण से जयद्रथ का सिर काट दिया।",
         "en": "Jayadratha, king of the Sindhu and Sauvira lands, married Dushala, the only daughter of Dhritarashtra and Gandhari, and so became brother-in-law to the Kauravas. During the Pandavas' exile he found Draupadi alone in the forest hermitage and abducted her; Bhima and Arjuna caught him, and Bhima shaved his head in humiliation, but Yudhishthira spared his life for Dushala's sake. He then worshipped Shiva and received the boon of holding back the four Pandavas other than Arjuna for a single day. He used it on the thirteenth day of the war, blocking the entrance of the chakravyuha so that Abhimanyu was trapped and killed. Arjuna vowed to kill him before the next sunset. On the fourteenth day, after Krishna's illusion of darkness, Arjuna beheaded Jayadratha with an arrow."
       },
       "relations": [
-        { "slug": "dhritarashtra", "relation": { "hi": "श्वसुर", "en": "Father-in-law" } },
-        { "slug": "gandhari", "relation": { "hi": "सास", "en": "Mother-in-law" } },
-        { "slug": "duryodhana", "relation": { "hi": "साला", "en": "Brother-in-law" } }
+        {
+          "slug": "dhritarashtra",
+          "relation": {
+            "hi": "श्वसुर",
+            "en": "Father-in-law"
+          }
+        },
+        {
+          "slug": "gandhari",
+          "relation": {
+            "hi": "सास",
+            "en": "Mother-in-law"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "साला",
+            "en": "Brother-in-law"
+          }
+        }
       ]
     },
     {
       "slug": "ekalavya",
-      "name": { "hi": "एकलव्य", "en": "Ekalavya" },
-      "role": { "hi": "निषाद राजकुमार, द्रोण के मानस-शिष्य, गुरुदक्षिणा में अँगूठा देने वाले", "en": "Nishada prince, self-taught disciple of Drona, who gave his thumb as fee" },
+      "name": {
+        "hi": "एकलव्य",
+        "en": "Ekalavya"
+      },
+      "role": {
+        "hi": "निषाद राजकुमार, द्रोण के मानस-शिष्य, गुरुदक्षिणा में अँगूठा देने वाले",
+        "en": "Nishada prince, self-taught disciple of Drona, who gave his thumb as fee"
+      },
       "side": "neutral",
       "bio": {
         "hi": "एकलव्य निषाद वनवासी जाति के प्रमुख हिरण्यधनु के पुत्र थे। वे धनुर्विद्या सीखने द्रोणाचार्य के पास आए, पर क्षत्रिय राजकुमार न होने के कारण द्रोण ने उन्हें अस्वीकार कर दिया। हार न मानकर एकलव्य ने वन में द्रोण की मिट्टी की मूर्ति बनाई, उसे गुरु मानकर पूजा और उसके सामने इतनी श्रद्धा से अभ्यास किया कि वे द्रोण के सभी शिष्यों से आगे निकल गए। एक दिन कुरु राजकुमारों का कुत्ता उन पर भौंका तो उन्होंने सात बाणों से उसका मुँह बिना घायल किए बंद कर दिया। अर्जुन यह देखकर व्याकुल हुए और द्रोण को बताया, जिन्होंने अर्जुन को अद्वितीय बनाने का वचन दिया था। द्रोण एकलव्य के पास गए और गुरुदक्षिणा में दाहिने हाथ का अँगूठा माँगा। एकलव्य ने बिना झिझक अँगूठा काटकर मुस्कुराते हुए अर्पित कर दिया—गुरुभक्ति का यह उदाहरण सदा के लिए अमर है।",
         "en": "Ekalavya was the son of Hiranyadhanus, chief of the Nishada forest tribe. He came to Dronacharya seeking to learn archery, but Drona refused him because he was not a Kshatriya prince. Undeterred, Ekalavya made a clay image of Drona in the forest, worshipped it as his teacher and practised before it with such devotion that he surpassed all of Drona's pupils. One day the Kuru princes' dog barked at him and he silenced it with seven arrows shot into its mouth without harming it. Arjuna, disturbed that another could excel him, told Drona, who had promised Arjuna he would have no equal. Drona went to Ekalavya and asked for his right thumb as gurudakshina. Ekalavya cut it off without hesitation and offered it with a smile, a story told for all time as the highest example of devotion to one's guru."
       },
       "relations": [
-        { "slug": "drona", "relation": { "hi": "गुरु", "en": "Teacher" } },
-        { "slug": "arjuna", "relation": { "hi": "प्रतिद्वंद्वी", "en": "Rival" } }
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "प्रतिद्वंद्वी",
+            "en": "Rival"
+          }
+        }
       ]
     },
     {
       "slug": "parashurama",
-      "name": { "hi": "परशुराम", "en": "Parashurama" },
-      "role": { "hi": "भगवान विष्णु के छठे अवतार, भीष्म, द्रोण और कर्ण के गुरु", "en": "Sixth avatar of Vishnu, teacher of Bhishma, Drona and Karna" },
+      "name": {
+        "hi": "परशुराम",
+        "en": "Parashurama"
+      },
+      "role": {
+        "hi": "भगवान विष्णु के छठे अवतार, भीष्म, द्रोण और कर्ण के गुरु",
+        "en": "Sixth avatar of Vishnu, teacher of Bhishma, Drona and Karna"
+      },
       "side": "divine",
       "bio": {
         "hi": "परशुराम, अर्थात \"परशु धारण करने वाले राम\", भगवान विष्णु के छठे अवतार हैं, जिनका जन्म महर्षि जमदग्नि और रेणुका के पुत्र रूप में हुआ। भगवान शिव से परशु पाकर उन्होंने राजा कार्तवीर्य अर्जुन के पुत्रों द्वारा पिता की हत्या का प्रतिशोध लिया और इक्कीस बार पृथ्वी को अभिमानी क्षत्रियों से रहित कर भूमि महर्षि कश्यप को दान कर दी। वे सात चिरंजीवियों में हैं और महेंद्र पर्वत पर तपस्या में लीन रहते हैं। महाभारत में उन्होंने भीष्म, द्रोण और कर्ण को शस्त्र-विद्या सिखाई। अंबा के लिए उन्होंने अपने ही शिष्य भीष्म से तेईस दिन युद्ध किया, पर विजय किसी की न हुई। अपना जन्म छिपाने वाले कर्ण को उन्होंने शाप दिया कि सबसे बड़ी आवश्यकता के समय वह विद्या भूल जाएगा। युद्ध से पहले उन्होंने कुरु सभा में शांति की सलाह दी।",
         "en": "Parashurama, the \"Rama with the axe,\" is the sixth avatar of Lord Vishnu, born as the son of the sage Jamadagni and Renuka. Granted an axe by Lord Shiva, he avenged his father's murder by the sons of King Kartavirya Arjuna and is said to have rid the earth of arrogant Kshatriyas twenty-one times, afterwards giving the land to the sage Kashyapa. He is one of the seven Chiranjivis and lives on in penance at Mount Mahendra. In the Mahabharata he taught the science of arms to Bhishma, Drona and Karna. For Amba's sake he fought his own disciple Bhishma for twenty-three days without victory. He cursed Karna, who had hidden his birth, to forget his learning at the hour of greatest need. Before the war he counselled peace in the Kuru assembly."
       },
       "relations": [
-        { "slug": "bhishma", "relation": { "hi": "शिष्य", "en": "Disciple" } },
-        { "slug": "drona", "relation": { "hi": "शिष्य", "en": "Disciple" } },
-        { "slug": "karna", "relation": { "hi": "शिष्य", "en": "Disciple" } }
+        {
+          "slug": "bhishma",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        },
+        {
+          "slug": "drona",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        },
+        {
+          "slug": "karna",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        }
       ]
     },
     {
       "slug": "balarama",
-      "name": { "hi": "बलराम", "en": "Balarama" },
-      "role": { "hi": "श्रीकृष्ण के बड़े भाई, हलधर, भीम और दुर्योधन के गदा-गुरु", "en": "Elder brother of Shri Krishna, bearer of the plough, mace teacher of Bhima and Duryodhana" },
+      "name": {
+        "hi": "बलराम",
+        "en": "Balarama"
+      },
+      "role": {
+        "hi": "श्रीकृष्ण के बड़े भाई, हलधर, भीम और दुर्योधन के गदा-गुरु",
+        "en": "Elder brother of Shri Krishna, bearer of the plough, mace teacher of Bhima and Duryodhana"
+      },
       "side": "neutral",
       "bio": {
         "hi": "बलराम, जिन्हें बलदेव, संकर्षण और हलायुध भी कहते हैं, श्रीकृष्ण के बड़े भाई थे, जिनका जन्म देवकी के गर्भ से रोहिणी के गर्भ में स्थानांतरित होकर वसुदेव और रोहिणी के पुत्र रूप में हुआ। वे भगवान विष्णु के शेषनाग के अवतार माने जाते हैं और उनके शस्त्र हल और गदा थे। गोकुल में श्रीकृष्ण के साथ उनका बचपन बीता और उन्होंने धेनुक असुर का वध किया। उन्होंने भीम और दुर्योधन दोनों को गदा-युद्ध सिखाया और शिष्य दुर्योधन पर उनका विशेष स्नेह था। कौरवों और पांडवों में किसी का पक्ष न लेकर उन्होंने युद्धकाल में सरस्वती नदी के तीर्थों की यात्रा की। अंतिम दिन लौटकर उन्होंने गदा-युद्ध देखा और भीम द्वारा कमर के नीचे प्रहार पर क्रोधित हुए; श्रीकृष्ण ने उन्हें शांत किया। बाद में प्रभास क्षेत्र में समुद्र-तट पर उन्होंने योग द्वारा देह त्यागी।",
         "en": "Balarama, also called Baladeva, Sankarshana and Halayudha, was the elder brother of Shri Krishna, born to Vasudeva and Rohini after being transferred from Devaki's womb. He is regarded as an incarnation of Shesha, the serpent of Vishnu, and his weapons were the plough and the mace. He shared Krishna's childhood in Gokul and killed the demon Dhenuka. He taught mace fighting to both Bhima and Duryodhana, and was fond of Duryodhana as his pupil. Refusing to take sides between Kauravas and Pandavas, he spent the war on a pilgrimage along the Saraswati river. He returned on the final day to witness the mace duel, and was enraged when Bhima struck Duryodhana below the waist; Krishna calmed him. He later left his body in yoga by the sea at Prabhasa."
       },
       "relations": [
-        { "slug": "krishna", "relation": { "hi": "भाई", "en": "Brother" } },
-        { "slug": "subhadra", "relation": { "hi": "बहन", "en": "Sister" } },
-        { "slug": "bhima", "relation": { "hi": "शिष्य", "en": "Disciple" } },
-        { "slug": "duryodhana", "relation": { "hi": "शिष्य", "en": "Disciple" } }
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "subhadra",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        },
+        {
+          "slug": "bhima",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        },
+        {
+          "slug": "duryodhana",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        }
       ]
     },
     {
       "slug": "uttara",
-      "name": { "hi": "उत्तरा", "en": "Uttara" },
-      "role": { "hi": "विराट की पुत्री, अभिमन्यु की पत्नी, परीक्षित की माता", "en": "Daughter of Virata, wife of Abhimanyu, mother of Parikshit" },
+      "name": {
+        "hi": "उत्तरा",
+        "en": "Uttara"
+      },
+      "role": {
+        "hi": "विराट की पुत्री, अभिमन्यु की पत्नी, परीक्षित की माता",
+        "en": "Daughter of Virata, wife of Abhimanyu, mother of Parikshit"
+      },
       "side": "pandava",
       "bio": {
         "hi": "उत्तरा मत्स्य देश के राजा विराट और रानी सुदेष्णा की पुत्री थीं। पांडवों के अज्ञातवास में बृहन्नला के वेश में अर्जुन ने उन्हें नृत्य और संगीत सिखाया। जब पांडवों ने अपना परिचय दिया, तो विराट ने उत्तरा का हाथ अर्जुन को देना चाहा; अर्जुन ने उन्हें अपनी शिष्या और पुत्रीतुल्य कहकर अस्वीकार किया और अपने पुत्र अभिमन्यु के लिए स्वीकार किया। उपप्लव्य में हुए इस विवाह ने मत्स्य राज्य को पांडवों के पक्ष से जोड़ा। जब उत्तरा गर्भवती थीं, तभी अभिमन्यु चक्रव्यूह में मारे गए। युद्ध के बाद अश्वत्थामा के ब्रह्मशिर अस्त्र ने उनके गर्भस्थ शिशु पर प्रहार किया और बालक मृत जन्मा, पर श्रीकृष्ण ने उसे जीवनदान दिया। यही बालक परीक्षित कुरुवंश का उत्तराधिकारी बना, और उत्तरा वंश को बचाने वाली माता के रूप में पूजनीय हैं।",
         "en": "Uttara was the daughter of King Virata of Matsya and Queen Sudeshna. During the Pandavas' year in hiding at Virata's court, Arjuna, disguised as Brihannala, taught her singing and dancing. When the Pandavas revealed themselves, Virata offered Uttara to Arjuna, who declined because she had been his pupil and was like a daughter, and instead accepted her for his son Abhimanyu. Their marriage at Upaplavya united the Matsya kingdom with the Pandava cause. Abhimanyu was killed in the chakravyuha while Uttara was carrying his child. After the war Ashwatthama's Brahmashira weapon struck her unborn son, and the child was born dead, but Shri Krishna restored him to life. That boy, Parikshit, became the heir of the Kurus, and Uttara is honored as the mother who preserved the line."
       },
       "relations": [
-        { "slug": "abhimanyu", "relation": { "hi": "पति", "en": "Husband" } },
-        { "slug": "parikshit", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "arjuna", "relation": { "hi": "श्वसुर", "en": "Father-in-law" } },
-        { "slug": "subhadra", "relation": { "hi": "सास", "en": "Mother-in-law" } }
+        {
+          "slug": "abhimanyu",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "parikshit",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "श्वसुर",
+            "en": "Father-in-law"
+          }
+        },
+        {
+          "slug": "subhadra",
+          "relation": {
+            "hi": "सास",
+            "en": "Mother-in-law"
+          }
+        }
       ]
     },
     {
       "slug": "parikshit",
-      "name": { "hi": "परीक्षित", "en": "Parikshit" },
-      "role": { "hi": "अभिमन्यु के पुत्र, पांडवों के उत्तराधिकारी, श्रीमद्भागवत के श्रोता", "en": "Son of Abhimanyu, heir of the Pandavas, hearer of the Shrimad Bhagavata" },
+      "name": {
+        "hi": "परीक्षित",
+        "en": "Parikshit"
+      },
+      "role": {
+        "hi": "अभिमन्यु के पुत्र, पांडवों के उत्तराधिकारी, श्रीमद्भागवत के श्रोता",
+        "en": "Son of Abhimanyu, heir of the Pandavas, hearer of the Shrimad Bhagavata"
+      },
       "side": "pandava",
       "bio": {
         "hi": "परीक्षित अभिमन्यु और उत्तरा के पुत्र थे, जो युद्ध के बाद कुरुवंश के अंतिम उत्तरजीवी रूप में जन्मे। अश्वत्थामा के अस्त्र ने उन्हें गर्भ में ही मार दिया था, पर श्रीकृष्ण ने उन्हें जीवित किया; अपने रक्षक प्रभु को हर मुख में खोजने के कारण उनका नाम परीक्षित पड़ा। पांडवों ने उन्हें पाला और कृपाचार्य ने शिक्षा दी। युधिष्ठिर और भाइयों के महाप्रस्थान पर वे हस्तिनापुर के राजा बने और धर्मपूर्वक राज्य किया। कलियुग के आरंभ पर उन्होंने कलि के प्रभाव को सीमित किया। एक दिन आखेट में क्रोधवश उन्होंने ध्यानमग्न ऋषि के गले में मरा सर्प डाल दिया, जिसके पुत्र ने शाप दिया कि सात दिन में तक्षक नाग के दंश से उनकी मृत्यु होगी। राज्य त्यागकर परीक्षित ने गंगा-तट पर शुकदेव से श्रीमद्भागवत सुना और मुक्ति पाई। उनके पुत्र जनमेजय उत्तराधिकारी हुए।",
         "en": "Parikshit was the son of Abhimanyu and Uttara, born after the war as the last survivor of the Kuru line. Ashwatthama's weapon had killed him in the womb, but Shri Krishna revived him, and he was named Parikshit, \"the one who examines,\" because he searched every face for the Lord who had saved him. Raised by the Pandavas and taught by Kripacharya, he was crowned king of Hastinapur when Yudhishthira and his brothers departed on their final journey, and he ruled righteously. When Kali Yuga began, he confined Kali's influence. One day while hunting, in anger he placed a dead snake around a meditating sage, whose son cursed him to die of the serpent Takshaka's bite within seven days. Parikshit renounced his kingdom and heard the Shrimad Bhagavata from Shuka on the banks of the Ganga, and so attained liberation. His son Janamejaya succeeded him."
       },
       "relations": [
-        { "slug": "abhimanyu", "relation": { "hi": "पिता", "en": "Father" } },
-        { "slug": "uttara", "relation": { "hi": "माता", "en": "Mother" } },
-        { "slug": "arjuna", "relation": { "hi": "पितामह", "en": "Grandfather" } },
-        { "slug": "kripa", "relation": { "hi": "गुरु", "en": "Teacher" } },
-        { "slug": "krishna", "relation": { "hi": "रक्षक", "en": "Protector" } }
+        {
+          "slug": "abhimanyu",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "uttara",
+          "relation": {
+            "hi": "माता",
+            "en": "Mother"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पितामह",
+            "en": "Grandfather"
+          }
+        },
+        {
+          "slug": "kripa",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "रक्षक",
+            "en": "Protector"
+          }
+        }
       ]
     },
     {
       "slug": "keechaka",
-      "name": { "hi": "कीचक", "en": "Keechaka" },
-      "role": { "hi": "विराट का सेनापति और साला, द्रौपदी पर कुदृष्टि डालने वाला", "en": "Commander and brother-in-law of Virata, who lusted after Draupadi" },
+      "name": {
+        "hi": "कीचक",
+        "en": "Keechaka"
+      },
+      "role": {
+        "hi": "विराट का सेनापति और साला, द्रौपदी पर कुदृष्टि डालने वाला",
+        "en": "Commander and brother-in-law of Virata, who lusted after Draupadi"
+      },
       "side": "neutral",
       "bio": {
         "hi": "कीचक मत्स्य देश का सेनापति और राजा विराट की रानी सुदेष्णा का भाई था; उसकी शक्ति से स्वयं राजा भी डरते थे। पांडवों के अज्ञातवास में द्रौपदी सैरंध्री बनकर रानी की सेवा करती थीं। कीचक उनके रूप पर मोहित होकर उनके पीछे पड़ गया; द्रौपदी ने पाँच गंधर्व पतियों की रक्षा का हवाला देकर मना किया, तो उसने सुदेष्णा से उन्हें अपने कक्ष में भिजवाया और भागने पर विराट की भरी सभा में उन्हें लात मारी। रात में द्रौपदी रोती हुई भीम के पास पहुँचीं। भीम ने उन्हें कीचक को अंधेरे में नृत्यशाला बुलाने को कहा; वहाँ द्रौपदी के स्थान पर प्रतीक्षा कर रहे भीम ने उसे अपने हाथों से कुचलकर मार डाला और उसके अंगों को मांस-पिंड बना दिया। उसकी मृत्यु का समाचार दुर्योधन तक पहुँचा और पांडवों का पता लगाने में सहायक बना।",
         "en": "Keechaka was the commander of the Matsya army and brother of Queen Sudeshna, wife of King Virata, and his power made even the king fear him. During the Pandavas' year in hiding, Draupadi served the queen as the maid Sairandhri. Keechaka was struck by her beauty and pursued her; when she refused, saying she was protected by five gandharva husbands, he had Sudeshna send her to his quarters, and when she fled he kicked her in Virata's open court. Draupadi went weeping to Bhima at night. Bhima told her to invite Keechaka to the dancing hall in the dark; there Bhima, waiting in her place, crushed him to death with his bare hands and rolled his limbs into a shapeless mass. News of his death reached Duryodhana and helped him guess where the Pandavas were hiding."
       },
       "relations": [
-        { "slug": "uttara", "relation": { "hi": "भांजी", "en": "Niece" } },
-        { "slug": "bhima", "relation": { "hi": "संहारक", "en": "Slayer" } }
+        {
+          "slug": "uttara",
+          "relation": {
+            "hi": "भांजी",
+            "en": "Niece"
+          }
+        },
+        {
+          "slug": "bhima",
+          "relation": {
+            "hi": "संहारक",
+            "en": "Slayer"
+          }
+        }
       ]
     },
     {
       "slug": "shishupala",
-      "name": { "hi": "शिशुपाल", "en": "Shishupala" },
-      "role": { "hi": "चेदि नरेश, श्रीकृष्ण के फुफेरे भाई और शत्रु, राजसूय में वध", "en": "King of Chedi, Krishna's cousin and enemy, slain at the Rajasuya" },
+      "name": {
+        "hi": "शिशुपाल",
+        "en": "Shishupala"
+      },
+      "role": {
+        "hi": "चेदि नरेश, श्रीकृष्ण के फुफेरे भाई और शत्रु, राजसूय में वध",
+        "en": "King of Chedi, Krishna's cousin and enemy, slain at the Rajasuya"
+      },
       "side": "neutral",
       "bio": {
         "hi": "शिशुपाल चेदि देश का राजा, दमघोष और श्रुतश्रवा का पुत्र था; श्रुतश्रवा वसुदेव की बहन थीं, इसलिए वह श्रीकृष्ण का फुफेरा भाई हुआ। वह तीन नेत्रों और चार भुजाओं के साथ जन्मा था और आकाशवाणी हुई कि जिसकी गोद में उसके अतिरिक्त अंग लुप्त हों, वही उसका वध करेगा; श्रीकृष्ण के गोद में लेते ही वे अंग लुप्त हो गए। माता की प्रार्थना पर श्रीकृष्ण ने उसके सौ अपराध क्षमा करने का वचन दिया। शिशुपाल श्रीकृष्ण से द्वेष रखता था, विशेषकर जब उसे वचन दी गई रुक्मिणी ने श्रीकृष्ण को वर लिया। वह जरासंध का मित्र था। युधिष्ठिर के राजसूय यज्ञ में श्रीकृष्ण की अग्रपूजा होने पर उसने भरी सभा में श्रीकृष्ण और भीष्म पर अपशब्दों की वर्षा की। सौवाँ अपराध पार होते ही श्रीकृष्ण ने सुदर्शन चक्र से उसका सिर काट दिया और उसका तेज श्रीकृष्ण में समा गया।",
         "en": "Shishupala was the king of Chedi, son of Damaghosha and Shrutashrava, who was the sister of Vasudeva, making him a cousin of Shri Krishna. He was born with three eyes and four arms, and a voice foretold that the man in whose lap the extra limbs vanished would kill him; when Krishna held the child they disappeared. His mother begged Krishna to forgive him, and Krishna promised to pardon a hundred offences. Shishupala hated Krishna, especially after Rukmini, promised to him, chose Krishna instead. He was an ally of Jarasandha. At Yudhishthira's Rajasuya sacrifice, when Krishna was honored first, Shishupala heaped insults on him and on Bhishma before the assembled kings. When he crossed the hundredth offence, Krishna released his Sudarshana discus and beheaded him, and his soul merged into Krishna."
       },
       "relations": [
-        { "slug": "krishna", "relation": { "hi": "फुफेरा भाई", "en": "Cousin" } },
-        { "slug": "balarama", "relation": { "hi": "फुफेरा भाई", "en": "Cousin" } }
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "फुफेरा भाई",
+            "en": "Cousin"
+          }
+        },
+        {
+          "slug": "balarama",
+          "relation": {
+            "hi": "फुफेरा भाई",
+            "en": "Cousin"
+          }
+        }
       ]
     },
     {
       "slug": "yaksha",
-      "name": { "hi": "यक्ष", "en": "The Yaksha" },
-      "role": { "hi": "सरोवर के रक्षक, युधिष्ठिर से प्रश्न करने वाले धर्मदेव का रूप", "en": "Guardian of the lake, Dharma in disguise who questioned Yudhishthira" },
+      "name": {
+        "hi": "यक्ष",
+        "en": "The Yaksha"
+      },
+      "role": {
+        "hi": "सरोवर के रक्षक, युधिष्ठिर से प्रश्न करने वाले धर्मदेव का रूप",
+        "en": "Guardian of the lake, Dharma in disguise who questioned Yudhishthira"
+      },
       "side": "divine",
       "bio": {
         "hi": "वन पर्व में एक ब्राह्मण ने पांडवों से मृग द्वारा ले जाई गई अरणी वापस लाने की प्रार्थना की। उसका पीछा करते थके भाइयों को प्यास लगी और नकुल को एक निर्मल सरोवर मिला। एक बगुले की वाणी ने जल पीने से पहले प्रश्नों के उत्तर देने की चेतावनी दी; उन्होंने अनसुना किया और मृत होकर गिर पड़े, फिर सहदेव, अर्जुन और भीम भी। अंत में युधिष्ठिर आए और उन्हें विशाल यक्ष दिखाई दिया, जिसने वही शर्त दोहराई। युधिष्ठिर ने धर्म, जीवन और मृत्यु पर हर प्रश्न का उत्तर दिया—जैसे सबसे बड़ा आश्चर्य यह है कि मनुष्य दूसरों को मरते देखकर भी स्वयं को अमर समझता है। प्रसन्न यक्ष ने एक भाई को जिलाने का वर दिया; युधिष्ठिर ने नकुल को चुना ताकि दोनों माताओं का एक-एक पुत्र जीवित रहे। तब यक्ष ने स्वयं को धर्मदेव के रूप में प्रकट किया, चारों को जीवित किया और आशीर्वाद दिया।",
         "en": "In the Vana Parva, during the Pandavas' exile, a brahmin asked them to recover his fire-sticks carried off by a deer. Pursuing it, the exhausted brothers sought water, and Nakula found a clear lake. A voice from a crane warned him to answer its questions before drinking; he ignored it and fell dead, as did Sahadeva, Arjuna and Bhima in turn. Yudhishthira came last and saw the Yaksha, a towering spirit, who repeated the condition. Yudhishthira answered every riddle on dharma, life and death, among them that the greatest wonder is that men see others die yet believe themselves immortal. Pleased, the Yaksha offered to revive one brother; Yudhishthira chose Nakula so that both his mothers would have a living son. The Yaksha revealed himself as Dharma, Yudhishthira's divine father, restored all four, and blessed them for the year in hiding."
       },
       "relations": [
-        { "slug": "dharma", "relation": { "hi": "वास्तविक स्वरूप", "en": "True form" } },
-        { "slug": "yudhishthira", "relation": { "hi": "पुत्र", "en": "Son" } }
+        {
+          "slug": "dharma",
+          "relation": {
+            "hi": "वास्तविक स्वरूप",
+            "en": "True form"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        }
       ]
     },
     {
       "slug": "dharma",
-      "name": { "hi": "धर्मदेव", "en": "Dharma Deva" },
-      "role": { "hi": "धर्म के देवता, युधिष्ठिर के पिता, यमराज", "en": "God of righteousness, father of Yudhishthira, Yama" },
+      "name": {
+        "hi": "धर्मदेव",
+        "en": "Dharma Deva"
+      },
+      "role": {
+        "hi": "धर्म के देवता, युधिष्ठिर के पिता, यमराज",
+        "en": "God of righteousness, father of Yudhishthira, Yama"
+      },
       "side": "divine",
       "bio": {
         "hi": "धर्मदेव, जिन्हें न्याय और मृत्यु के स्वामी यम के रूप में भी जाना जाता है, धर्म के देवता हैं जो सृष्टि की नैतिक व्यवस्था को धारण करते हैं। महाभारत में वे युधिष्ठिर के देव-पिता हैं; कुंती ने दुर्वासा के मंत्र से उनका आह्वान किया था, इसीलिए युधिष्ठिर धर्मपुत्र और धर्मराज कहलाते हैं। बालक माण्डव्य को अन्यायपूर्वक दंड देने के कारण ऋषि के शाप से धर्मदेव ने पृथ्वी पर विदुर के रूप में भी जन्म लिया। उन्होंने अपने पुत्र की तीन बार परीक्षा ली—मायावी सरोवर पर यक्ष बनकर, जहाँ युधिष्ठिर की बुद्धि ने भाइयों को जिलाया; महाप्रस्थान में कुत्ता बनकर, जब युधिष्ठिर ने उसे छोड़ने के बजाय स्वर्ग ठुकरा दिया; और स्वर्ग में, जहाँ माया हटने से पहले युधिष्ठिर ने भाइयों के साथ नरक में रहना चुना। हर बार युधिष्ठिर की दृढ़ता ने उन्हें धर्म का सच्चा पुत्र सिद्ध किया।",
         "en": "Dharma, also identified with Yama, the lord of justice and death, is the god of righteousness who upholds the moral order of the universe. In the Mahabharata he is the divine father of Yudhishthira, born to Kunti when she invoked him by Durvasa's mantra, which is why Yudhishthira is called Dharmaputra and Dharmaraja. Cursed by the sage Mandavya for punishing him unjustly as a child, Dharma was also born on earth as Vidura. He tested his son three times: as the Yaksha at the enchanted lake, where Yudhishthira's wisdom revived his brothers; as the dog that followed the Pandavas on their final journey, when Yudhishthira refused heaven rather than abandon it; and in heaven, where Yudhishthira chose to stay with his brothers in hell before the illusion was lifted. Each time Yudhishthira's steadfastness proved him the true son of Dharma."
       },
       "relations": [
-        { "slug": "yudhishthira", "relation": { "hi": "पुत्र", "en": "Son" } },
-        { "slug": "vidura", "relation": { "hi": "अवतार", "en": "Incarnation" } },
-        { "slug": "yaksha", "relation": { "hi": "धारण किया रूप", "en": "Form assumed" } }
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "vidura",
+          "relation": {
+            "hi": "अवतार",
+            "en": "Incarnation"
+          }
+        },
+        {
+          "slug": "yaksha",
+          "relation": {
+            "hi": "धारण किया रूप",
+            "en": "Form assumed"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "kritavarma",
+      "name": {
+        "hi": "कृतवर्मा",
+        "en": "Kritavarma"
+      },
+      "role": {
+        "hi": "यादव योद्धा, कौरव पक्ष से लड़े, नारायणी सेना के सेनापति",
+        "en": "Yadava warrior who fought for the Kauravas, leader of the Narayani Sena"
+      },
+      "side": "kaurava",
+      "bio": {
+        "hi": "कृतवर्मा भोज वंश के यादव राजा थे और श्रीकृष्ण की नारायणी सेना के सेनापति। जब दुर्योधन और अर्जुन दोनों युद्ध से पहले श्रीकृष्ण के पास सहायता माँगने आए, तब दुर्योधन ने नारायणी सेना चुनी और अर्जुन ने निःशस्त्र श्रीकृष्ण को। इस प्रकार कृतवर्मा अपनी सेना सहित कौरव पक्ष से लड़े। वे अठारह दिनों के युद्ध में जीवित बचे तीन कौरव योद्धाओं में से एक थे। सौप्तिक पर्व में उन्होंने अश्वत्थामा और कृपाचार्य के साथ पांडव शिविर पर रात्रि-प्रहार किया और शिविर के द्वार पर खड़े होकर भागने वालों का वध किया। वर्षों बाद मौसल पर्व में प्रभास क्षेत्र में यादवों के आपसी कलह में सात्यकि ने उसी रात्रि-प्रहार का स्मरण दिलाकर उनका वध किया।",
+        "en": "Kritavarma was a Yadava king of the Bhoja line and commander of Krishna's Narayani Sena. When Duryodhana and Arjuna both came to Krishna for help before the war, Duryodhana chose the army and Arjuna chose the unarmed Krishna. So Kritavarma fought on the Kaurava side with his whole force. He was one of only three Kaurava warriors to survive the eighteen days. In the Sauptika Parva he joined Ashwatthama and Kripa in the night raid on the Pandava camp, standing at the gate to cut down anyone who fled. Years later, in the Mausala Parva, during the drunken quarrel of the Yadavas at Prabhasa, Satyaki reminded him of that night and killed him."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "स्वामी",
+            "en": "Lord"
+          }
+        },
+        {
+          "slug": "ashwatthama",
+          "relation": {
+            "hi": "सहयोगी",
+            "en": "Ally"
+          }
+        },
+        {
+          "slug": "kripa",
+          "relation": {
+            "hi": "सहयोगी",
+            "en": "Ally"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "shiva",
+      "name": {
+        "hi": "भगवान शिव",
+        "en": "Lord Shiva"
+      },
+      "role": {
+        "hi": "महादेव, पाशुपतास्त्र के दाता",
+        "en": "Mahadeva, giver of the Pashupatastra"
+      },
+      "side": "divine",
+      "bio": {
+        "hi": "भगवान शिव महाभारत में अनेक निर्णायक क्षणों में प्रकट होते हैं। वन पर्व में अर्जुन ने इंद्रकील पर्वत पर उनकी घोर तपस्या की। शिव ने किरात का रूप धरकर एक वराह के लिए अर्जुन से युद्ध किया, उसके बल और दृढ़ता की परीक्षा ली और प्रसन्न होकर उसे पाशुपतास्त्र प्रदान किया। द्रौपदी के पूर्वजन्म में उसने शिव से पाँच बार पति की याचना की थी, जिसके फल से उसे पाँच पांडव पति मिले। अश्वत्थामा ने सौप्तिक पर्व में पांडव शिविर में प्रवेश से पहले शिव की आराधना की और उन्हीं की शक्ति से रात्रि-प्रहार किया। अंबा ने भी शिव से भीष्म के वध का वरदान पाया। शिव इस महाकाव्य में संहार, तप और वरदान, तीनों के देवता हैं।",
+        "en": "Lord Shiva appears at several turning points of the Mahabharat. In the Vana Parva Arjuna performed severe penance to him on Mount Indrakila. Shiva came disguised as a Kirata hunter, fought Arjuna over a boar to test his strength and resolve, and then, pleased, granted him the Pashupatastra. In her previous birth Draupadi had asked Shiva five times for a husband, and so received the five Pandavas. Before entering the Pandava camp in the Sauptika Parva, Ashwatthama worshipped Shiva and received his power for the night raid. Amba too won from Shiva the boon that she would cause Bhishma's death. In the epic Shiva is the god of destruction, austerity and boons alike."
+      },
+      "relations": [
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "वरदाता",
+            "en": "Granted a boon to"
+          }
+        },
+        {
+          "slug": "ashwatthama",
+          "relation": {
+            "hi": "आराध्य",
+            "en": "Worshipped by"
+          }
+        },
+        {
+          "slug": "amba",
+          "relation": {
+            "hi": "वरदाता",
+            "en": "Granted a boon to"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "narada",
+      "name": {
+        "hi": "देवर्षि नारद",
+        "en": "Devarshi Narada"
+      },
+      "role": {
+        "hi": "देवऋषि, तीनों लोकों के संदेशवाहक",
+        "en": "Celestial sage, messenger across the three worlds"
+      },
+      "side": "divine",
+      "bio": {
+        "hi": "देवर्षि नारद ब्रह्मा के मानस पुत्र और वीणा बजाते हुए तीनों लोकों में विचरण करने वाले ऋषि हैं। महाभारत में वे बार-बार हस्तिनापुर और इंद्रप्रस्थ आते हैं। उन्होंने ही युधिष्ठिर को राजसूय यज्ञ करने की प्रेरणा दी और पांडवों को द्रौपदी के साथ रहने का नियम बनाने की सलाह दी, ताकि भाइयों में कलह न हो। सभा पर्व में उन्होंने युधिष्ठिर को राजधर्म के अनेक प्रश्न पूछकर शासन की शिक्षा दी। शांति पर्व में वे भीष्म के पास उपस्थित रहे। मौसल पर्व से पहले वे अन्य ऋषियों के साथ द्वारका आए, जहाँ यादव कुमारों ने उनका उपहास किया और वह शाप यदुवंश के नाश का कारण बना। नारद ज्ञान, भक्ति और कभी-कभी कलह के भी निमित्त हैं।",
+        "en": "Devarshi Narada is the mind-born son of Brahma, the sage who wanders the three worlds playing his veena. In the Mahabharat he visits Hastinapur and Indraprastha again and again. It was Narada who inspired Yudhishthira to perform the Rajasuya sacrifice, and who advised the Pandavas to fix a rule for living with Draupadi so that no quarrel would arise among the brothers. In the Sabha Parva he taught Yudhishthira the duties of a king through a long series of questions. He sat with Bhishma in the Shanti Parva. Before the Mausala Parva he came to Dwarka with other sages, where the Yadava youths mocked him and his companions, and the resulting curse destroyed the Yadu clan. Narada is the instrument of knowledge, devotion and sometimes of strife."
+      },
+      "relations": [
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "मार्गदर्शक",
+            "en": "Guide to"
+          }
+        },
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "ऋषि-सखा",
+            "en": "Fellow sage"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "भक्त",
+            "en": "Devotee of"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "surya",
+      "name": {
+        "hi": "सूर्यदेव",
+        "en": "Surya"
+      },
+      "role": {
+        "hi": "सूर्य देवता, कर्ण के पिता",
+        "en": "The Sun god, father of Karna"
+      },
+      "side": "divine",
+      "bio": {
+        "hi": "सूर्यदेव कर्ण के पिता हैं। कुंती ने कुमारी अवस्था में दुर्वासा ऋषि से मिले मंत्र की परीक्षा करने के लिए सूर्य का आवाहन किया, और सूर्यदेव ने उसे जन्म से ही कवच और कुंडल धारण किए हुए पुत्र कर्ण दिया। कुंती ने लोकलाज के भय से उस शिशु को गंगा में बहा दिया। सूर्यदेव ने जीवन भर कर्ण की रक्षा का प्रयत्न किया। जब इंद्र ब्राह्मण के वेश में कर्ण से कवच-कुंडल माँगने वाले थे, तब सूर्य ने स्वप्न में आकर कर्ण को सावधान किया, किंतु दानवीर कर्ण ने फिर भी दान किया। वन पर्व में युधिष्ठिर ने सूर्य की उपासना से अक्षय पात्र पाया, जिससे वनवास में पांडवों और अतिथियों का भोजन चलता रहा। सूर्य तेज, दान और प्रतिदिन उदय होने वाले धर्म के प्रतीक हैं।",
+        "en": "Surya, the Sun god, is the father of Karna. As an unmarried girl Kunti tested the mantra given to her by the sage Durvasa by invoking the Sun, and Surya gave her a son born wearing divine armour and earrings. Fearing disgrace, Kunti set the infant afloat on the river. Surya tried all his life to protect Karna. When Indra was about to come disguised as a Brahmin to ask for the armour and earrings, Surya warned Karna in a dream, but the generous Karna gave them away regardless. In the Vana Parva Yudhishthira worshipped Surya and received the Akshaya Patra, the inexhaustible vessel that fed the Pandavas and their guests through the exile. Surya stands for radiance, generosity and the dharma that rises anew each day."
+      },
+      "relations": [
+        {
+          "slug": "karna",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "कर्ण की माता",
+            "en": "Mother of his son"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "वरदाता",
+            "en": "Granted a boon to"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "shukadeva",
+      "name": {
+        "hi": "शुकदेव",
+        "en": "Shukadeva"
+      },
+      "role": {
+        "hi": "महर्षि व्यास के पुत्र, परम वैरागी, परीक्षित को भागवत सुनाने वाले",
+        "en": "Son of Vyasa, the perfect renunciate who narrated the Bhagavata to Parikshit"
+      },
+      "side": "divine",
+      "bio": {
+        "hi": "शुकदेव महर्षि वेदव्यास के पुत्र हैं, जो जन्म से ही ज्ञानी और वैरागी थे। कहा जाता है कि वे बारह वर्ष तक माता के गर्भ में रहे और जन्म लेते ही तपस्या के लिए वन की ओर चल पड़े; व्यास पीछे-पीछे पुकारते रहे और वृक्षों तक ने उनके बदले उत्तर दिया। शांति पर्व में भीष्म के उपदेश और व्यास की शिक्षाओं में शुकदेव का उल्लेख मोक्ष-धर्म के आदर्श के रूप में आता है। व्यास ने उन्हें महाभारत का पाठ पढ़ाया और वे उसके प्रथम श्रोताओं में थे। जब परीक्षित को तक्षक के दंश से सात दिन में मृत्यु का शाप मिला, तब शुकदेव ने गंगा तट पर सात दिन तक उन्हें श्रीमद्भागवत सुनाया और उन्हें मृत्यु के भय से मुक्त कर दिया। शुकदेव निर्मल ज्ञान और निःस्वार्थ वैराग्य के प्रतीक हैं।",
+        "en": "Shukadeva is the son of the sage Vedavyasa, enlightened and detached from birth. Tradition says he stayed twelve years in his mother's womb and walked away to the forest for austerity the moment he was born; Vyasa followed calling after him, and even the trees answered on his behalf. In the Shanti Parva, in Bhishma's teaching and Vyasa's instruction, Shuka is held up as the ideal of the path of liberation. Vyasa taught him the Mahabharat and he was among its first hearers. When King Parikshit was cursed to die within seven days from the bite of the serpent Takshaka, Shukadeva sat with him on the bank of the Ganga and recited the Shrimad Bhagavata for seven days, freeing him from the fear of death. Shukadeva embodies pure knowledge and selfless renunciation."
+      },
+      "relations": [
+        {
+          "slug": "vyasa",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "parikshit",
+          "relation": {
+            "hi": "शिष्य",
+            "en": "Disciple"
+          }
+        }
       ]
     }
   ]
