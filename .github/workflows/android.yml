@@ -25,7 +25,7 @@ jobs:
       # Debug APK: installable on any phone for testing.
       - name: Build debug APK
         working-directory: android
-        run: ./gradlew assembleDebug --no-daemon
+        run: chmod +x gradlew && ./gradlew assembleDebug --no-daemon
       - uses: actions/upload-artifact@v4
         with:
           name: app-debug.apk
@@ -39,7 +39,7 @@ jobs:
       - name: Build release AAB
         if: env.HAS_KEYSTORE == 'true'
         working-directory: android
-        run: ./gradlew bundleRelease --no-daemon
+        run: chmod +x gradlew && ./gradlew bundleRelease --no-daemon
         env:
           KEYSTORE_FILE: release.keystore
           KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
