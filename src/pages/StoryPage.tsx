@@ -6,6 +6,7 @@ import { characterBySlug, parvaBySlug, parvas } from '../lib/content'
 import AudioButton from '../components/AudioButton'
 import BookmarkButton from '../components/BookmarkButton'
 import ShareButton from '../components/ShareButton'
+import ReportLink from '../components/ReportLink'
 import { Empty, Lesson, Paragraphs, SectionTitle } from '../components/Bits'
 import { ChevronLeft, ChevronRight } from '../components/Icons'
 
@@ -46,6 +47,10 @@ export default function StoryPage() {
       </div>
 
       <div className="card p-4 mt-4 text-[1.05em]"><Paragraphs text={t(story.body)} /></div>
+      <div className="mt-2 flex items-center justify-between px-1 text-xs text-ink-2 dark:text-cream/60">
+        <span>{t(UI.basedOn)}, {t(parva.title)}</span>
+        <ReportLink reference={`${t(parva.title)} / ${t(story.title)} (${parva.slug}/${story.slug})`} />
+      </div>
       <Lesson label={t(UI.lesson)} text={t(story.lesson)} />
 
       {people.length > 0 && (

@@ -13,10 +13,15 @@ import SearchPage from './pages/SearchPage'
 import MorePage from './pages/MorePage'
 import BookmarksPage from './pages/BookmarksPage'
 import { stop } from './lib/tts'
+import { useStore } from './lib/store'
+import { enableDaily, notificationsAvailable } from './lib/notify'
 
 export default function App() {
   const loc = useLocation()
+  const { dailyNotify, lang } = useStore()
   useEffect(() => { window.scrollTo(0, 0); stop() }, [loc.pathname])
+  // Keep the two-week notification window topped up every time the app opens.
+  useEffect(() => { if (dailyNotify && notificationsAvailable()) enableDaily(lang).catch(() => {}) }, [dailyNotify, lang])
   return (
     <Routes>
       <Route element={<Layout />}>

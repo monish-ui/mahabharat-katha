@@ -1,16 +1,30 @@
 import { Link } from 'react-router-dom'
+import { useState } from 'react'
 import { useStore, type Theme } from '../lib/store'
 import { UI } from '../lib/i18n'
 import { chapters, parvas } from '../lib/content'
 import { SectionTitle } from '../components/Bits'
 import { ChevronRight, HeartIcon } from '../components/Icons'
+import ReportLink from '../components/ReportLink'
+import { disableDaily, enableDaily, notificationsAvailable } from '../lib/notify'
 import type { Lang } from '../lib/types'
 
-const APP_VERSION = '0.1.0'
+const APP_VERSION = '0.2.0'
 
 export default function MorePage() {
-  const { t, lang, setLang, fontScale, setFontScale, theme, setTheme, readChapters, readStories, bookmarks } = useStore()
+  const { t, lang, setLang, fontScale, setFontScale, theme, setTheme, readChapters, readStories, bookmarks, dailyNotify, setDailyNotify } = useStore()
   const totalStories = parvas.reduce((a, p) => a + p.stories.length, 0)
+  const [busy, setBusy] = useState(false)
+
+  const toggleDaily = async () => {
+    if (busy) return
+    setBusy(true)
+    try {
+      if (dailyNotify) { await disableDaily(); setDailyNotify(false) }
+      else { const ok = await enableDaily(lang); setDailyNotify(ok) }
+    } finally { setBusy(false) }
+  }
+
   return (
     <div>
       <Link to="/bookmarks" className="card p-4 flex items-center gap-3">
@@ -41,19 +55,37 @@ export default function MorePage() {
         <Row label={t(UI.theme)}>
           <Seg value={theme} onChange={(v) => setTheme(v as Theme)} options={[{ v: 'light', l: t(UI.light) }, { v: 'dark', l: t(UI.dark) }, { v: 'system', l: t(UI.system) }]} />
         </Row>
+        {notificationsAvailable() && (
+          <Row label={t(UI.dailyNotification)} hint={t(UI.dailyNotificationHint)}>
+            <button role="switch" aria-checked={dailyNotify} onClick={toggleDaily} disabled={busy}
+              className={`relative w-12 h-7 rounded-full transition ${dailyNotify ? 'bg-maroon' : 'bg-saffron/30'}`}>
+              <span className={`absolute top-1 w-5 h-5 rounded-full bg-paper shadow transition ${dailyNotify ? 'left-6' : 'left-1'}`} />
+              <span className="sr-only">{dailyNotify ? t(UI.on) : t(UI.off)}</span>
+            </button>
+          </Row>
+        )}
       </div>
 
       <SectionTitle>{t(UI.about)}</SectionTitle>
       <div className="card p-4 text-sm leading-relaxed">
         <p>{t(UI.aboutText)}</p>
-        <p className="mt-3 text-ink-2 dark:text-cream/60">{t(UI.version)} {APP_VERSION}</p>
+        <p className="mt-3">{t(UI.scopeNote)}</p>
+        <div className="mt-3 flex items-center justify-between text-ink-2 dark:text-cream/60">
+          <span>{t(UI.version)} {APP_VERSION} • {t(UI.noAds)}</span>
+          <ReportLink reference={`App v${APP_VERSION}`} />
+        </div>
       </div>
     </div>
   )
 }
 
-function Row({ label, children }: { label: string; children: React.ReactNode }) {
-  return <div className="flex items-center justify-between gap-3 p-3"><span className="font-medium">{label}</span>{children}</div>
+function Row({ label, hint, children }: { label: string; hint?: string; children: React.ReactNode }) {
+  return (
+    <div className="flex items-center justify-between gap-3 p-3">
+      <div><p className="font-medium">{label}</p>{hint && <p className="text-xs text-ink-2 dark:text-cream/60">{hint}</p>}</div>
+      {children}
+    </div>
+  )
 }
 
 function Seg({ value, onChange, options }: { value: string; onChange: (v: string) => void; options: { v: string; l: string }[] }) {

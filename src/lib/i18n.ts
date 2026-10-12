@@ -63,7 +63,18 @@ export const UI = {
   share: { hi: 'साझा करें', en: 'Share' },
   comingSoon: { hi: 'सामग्री जल्द आ रही है', en: 'Content coming soon' },
   rateApp: { hi: 'ऐप को रेट करें', en: 'Rate the app' },
-  version: { hi: 'संस्करण', en: 'Version' }
+  version: { hi: 'संस्करण', en: 'Version' },
+  reportMistake: { hi: 'गलती बताएँ', en: 'Report a mistake' },
+  basedOn: { hi: 'आधार: व्यास महाभारत', en: 'Based on: Vyasa Mahabharata' },
+  scopeNote: {
+    hi: 'यह ऐप महाभारत के 18 पर्वों की 66 प्रमुख कथाएँ और गीता के प्रमुख श्लोक प्रस्तुत करता है। यह एक लाख श्लोकों वाला पूर्ण ग्रंथ नहीं है। हर कथा व्यास महाभारत पर आधारित है, टीवी धारावाहिक पर नहीं। कोई गलती दिखे तो "गलती बताएँ" दबाएँ, हम सुधारेंगे।',
+    en: 'This app presents 66 key stories from the 18 parvas of the Mahabharat and the key shlokas of the Gita. It is not the complete text of one lakh verses. Every story follows the Vyasa Mahabharata, not the TV serial. If you spot an error, tap "Report a mistake" and we will fix it.'
+  },
+  dailyNotification: { hi: 'रोज़ सुबह 7 बजे श्लोक', en: 'Daily shloka at 7 AM' },
+  dailyNotificationHint: { hi: 'क्रम से, हर दिन अगला', en: 'In order, one each day' },
+  on: { hi: 'चालू', en: 'On' },
+  off: { hi: 'बंद', en: 'Off' },
+  noAds: { hi: 'कोई विज्ञापन नहीं', en: 'No ads' }
 } satisfies Record<string, Bi>
 
 export type UIKey = keyof typeof UI

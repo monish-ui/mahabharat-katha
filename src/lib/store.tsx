@@ -12,6 +12,7 @@ type Settings = {
   lastRead: LastRead
   readStories: string[]
   readChapters: number[]
+  dailyNotify: boolean
 }
 
 const DEFAULTS: Settings = {
@@ -21,7 +22,8 @@ const DEFAULTS: Settings = {
   bookmarks: [],
   lastRead: null,
   readStories: [],
-  readChapters: []
+  readChapters: [],
+  dailyNotify: false
 }
 
 const KEY = 'mk.settings.v1'
@@ -47,6 +49,7 @@ type Store = Settings & {
   setLastRead: (l: LastRead) => void
   markStoryRead: (id: string) => void
   markChapterRead: (n: number) => void
+  setDailyNotify: (on: boolean) => void
 }
 
 const Ctx = createContext<Store | null>(null)
@@ -87,7 +90,8 @@ export function StoreProvider({ children }: { children: ReactNode }) {
     toggleBookmark: (id) => patch((prev) => ({ bookmarks: prev.bookmarks.includes(id) ? prev.bookmarks.filter((b) => b !== id) : [id, ...prev.bookmarks] })),
     setLastRead: (lastRead) => patch({ lastRead }),
     markStoryRead: (id) => patch((prev) => (prev.readStories.includes(id) ? {} : { readStories: [...prev.readStories, id] })),
-    markChapterRead: (n) => patch((prev) => (prev.readChapters.includes(n) ? {} : { readChapters: [...prev.readChapters, n] }))
+    markChapterRead: (n) => patch((prev) => (prev.readChapters.includes(n) ? {} : { readChapters: [...prev.readChapters, n] })),
+    setDailyNotify: (dailyNotify) => patch({ dailyNotify })
   }), [s, patch])
 
   return <Ctx.Provider value={value}>{children}</Ctx.Provider>
