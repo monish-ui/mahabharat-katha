@@ -17,9 +17,10 @@ export default function AudioButton({ text, lang, audioUrl, size = 'md' }: Props
   const active = playing && mine
   const onClick = async () => {
     if (active) { stop(); return }
-    setMine(true)
-    if (audioUrl && (await playAudio(audioUrl))) return
+    // playAudio/speak call stop() first, which fires a "not playing" event; claim ownership only after start.
+    if (audioUrl && (await playAudio(audioUrl))) { setMine(true); return }
     speak(text, lang ?? uiLang)
+    setMine(true)
   }
   const cls = size === 'sm' ? 'btn-ghost px-3 py-1.5 text-xs' : 'btn-primary'
   return (
