@@ -2407,6 +2407,315 @@
           }
         }
       ]
+    },
+    {
+      "slug": "satyaki",
+      "name": {
+        "hi": "सात्यकि",
+        "en": "Satyaki"
+      },
+      "role": {
+        "hi": "यादव महारथी, अर्जुन के शिष्य, पांडव पक्ष के योद्धा",
+        "en": "Yadava warrior, disciple of Arjuna, fought for the Pandavas"
+      },
+      "side": "pandava",
+      "bio": {
+        "hi": "सात्यकि, जिन्हें युयुधान भी कहते हैं, वृष्णि वंश के यादव महारथी और श्रीकृष्ण के अनन्य सखा थे। उन्होंने धनुर्विद्या अर्जुन से सीखी और उन्हीं के प्रति अटूट निष्ठा रखी। जब श्रीकृष्ण ने अपनी नारायणी सेना दुर्योधन को दे दी, तब सात्यकि अपनी एक अक्षौहिणी सेना लेकर पांडवों की ओर से लड़े। द्रोण पर्व में जयद्रथ-वध के दिन उन्होंने अकेले कौरव सेना को चीरकर अर्जुन तक पहुँचने का अद्भुत पराक्रम दिखाया और भूरिश्रवा से भीषण युद्ध किया। युद्ध में जीवित बचे सात पांडव-पक्ष योद्धाओं में वे एक थे। मौसल पर्व में प्रभास क्षेत्र में उन्होंने कृतवर्मा को रात्रि-प्रहार का दोषी कहकर मार डाला और उसी कलह में स्वयं भी मारे गए।",
+        "en": "Satyaki, also called Yuyudhana, was a great Yadava warrior of the Vrishni clan and Krishna's devoted friend. He learned archery from Arjuna and remained loyal to him for life. When Krishna gave his Narayani army to Duryodhana, Satyaki brought his own division to fight for the Pandavas. In the Drona Parva, on the day of Jayadratha's death, he cut alone through the Kaurava army to reach Arjuna and fought a terrible duel with Bhurishrava. He was one of the seven warriors on the Pandava side to survive the war. In the Mausala Parva at Prabhasa he killed Kritavarma, calling him guilty of the night raid, and died himself in the same quarrel."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "सखा",
+            "en": "Friend"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "गुरु",
+            "en": "Teacher"
+          }
+        },
+        {
+          "slug": "kritavarma",
+          "relation": {
+            "hi": "शत्रु",
+            "en": "Rival"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "vasudeva",
+      "name": {
+        "hi": "वसुदेव",
+        "en": "Vasudeva"
+      },
+      "role": {
+        "hi": "श्रीकृष्ण और बलराम के पिता, कुंती के भाई",
+        "en": "Father of Krishna and Balarama, brother of Kunti"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "वसुदेव यदुवंश के शूरसेन के पुत्र और मथुरा के राजकुल के सदस्य थे। उनकी बहन पृथा ही कुंतिभोज को गोद दी जाकर कुंती कहलाईं; इस प्रकार श्रीकृष्ण और पांडव ममेरे-फुफेरे भाई हुए। कंस ने आकाशवाणी सुनकर वसुदेव और देवकी को कारागार में डाला और उनके छह शिशुओं का वध किया। आठवें पुत्र श्रीकृष्ण को वसुदेव आधी रात को यमुना पार कर गोकुल में नंद के घर छोड़ आए। कंस-वध के बाद वे मुक्त हुए और द्वारका में यादवों के वरिष्ठ बने। मौसल पर्व में यादवों के नाश और श्रीकृष्ण-बलराम के देह-त्याग के बाद शोक में उन्होंने भी प्राण त्याग दिए, और अर्जुन ने उनका अंतिम संस्कार किया।",
+        "en": "Vasudeva was the son of Shurasena of the Yadu line and a member of the royal house of Mathura. His sister Pritha was given in adoption to Kuntibhoja and became Kunti, which made Krishna and the Pandavas cousins. After hearing the prophecy, Kamsa imprisoned Vasudeva and Devaki and killed their first six infants. On the night the eighth son, Krishna, was born, Vasudeva carried him across the Yamuna to Nanda's house in Gokul. Freed after Kamsa's death, he became an elder of the Yadavas at Dwarka. In the Mausala Parva, grieving the destruction of the Yadavas and the departure of Krishna and Balarama, he gave up his life, and Arjuna performed his last rites."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "balarama",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "kunti",
+          "relation": {
+            "hi": "बहन",
+            "en": "Sister"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ugrasena",
+      "name": {
+        "hi": "उग्रसेन",
+        "en": "Ugrasena"
+      },
+      "role": {
+        "hi": "मथुरा और द्वारका के यादव राजा, कंस के पिता",
+        "en": "Yadava king of Mathura and Dwarka, father of Kamsa"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "उग्रसेन मथुरा के भोजवंशी यादव राजा थे। उनके पुत्र कंस ने उन्हें बंदी बनाकर राज्य हड़प लिया और अत्याचार का शासन चलाया। श्रीकृष्ण ने कंस का वध करके उग्रसेन को पुनः सिंहासन पर बिठाया और स्वयं राजा बनने से इनकार कर दिया। जरासंध के बार-बार आक्रमण के बाद यादव मथुरा छोड़कर द्वारका चले गए, जहाँ उग्रसेन ही राजा रहे और श्रीकृष्ण उनके परामर्शदाता। सभा पर्व में युधिष्ठिर के राजसूय यज्ञ में यादवों की ओर से उग्रसेन का सम्मान हुआ। मौसल पर्व में ऋषियों के शाप के बाद उन्होंने मूसल को चूर्ण कर समुद्र में डलवाया और मदिरा पर प्रतिबंध लगाया, किंतु विधि के विधान को नहीं टाल सके। यादवों के नाश के बाद उन्होंने भी शरीर त्याग दिया।",
+        "en": "Ugrasena was the Yadava king of Mathura of the Bhoja line. His son Kamsa imprisoned him, seized the throne and ruled by terror. After killing Kamsa, Krishna restored Ugrasena to the throne and refused to be king himself. When Jarasandha attacked Mathura again and again, the Yadavas moved to Dwarka, where Ugrasena remained king with Krishna as his counsellor. In the Sabha Parva he was honoured on behalf of the Yadavas at Yudhishthira's Rajasuya. In the Mausala Parva, after the sages' curse, he had the iron club ground to powder and thrown into the sea and banned liquor, but could not turn aside fate. After the destruction of the Yadavas he too gave up his body."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "परामर्शदाता",
+            "en": "Counsellor"
+          }
+        },
+        {
+          "slug": "vasudeva",
+          "relation": {
+            "hi": "संबंधी",
+            "en": "Kinsman"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "pradyumna",
+      "name": {
+        "hi": "प्रद्युम्न",
+        "en": "Pradyumna"
+      },
+      "role": {
+        "hi": "श्रीकृष्ण और रुक्मिणी के पुत्र, कामदेव के अवतार",
+        "en": "Son of Krishna and Rukmini, incarnation of Kamadeva"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "प्रद्युम्न श्रीकृष्ण और रुक्मिणी के ज्येष्ठ पुत्र थे, जिन्हें कामदेव का अवतार माना जाता है। जन्म के कुछ दिन बाद ही शंबरासुर उन्हें चुरा ले गया और समुद्र में फेंक दिया; एक मछली के पेट से निकलकर वे मायावती के पालन में बड़े हुए और युवा होने पर शंबर का वध करके द्वारका लौटे। वे वृष्णियों के श्रेष्ठ महारथियों में थे और महाभारत युद्ध के समय श्रीकृष्ण के साथ न लड़ने के कारण द्वारका की रक्षा में रहे। अनिरुद्ध उनके पुत्र थे, जिनसे उषा-अनिरुद्ध की कथा जुड़ी है। मौसल पर्व में प्रभास क्षेत्र के यादव-संहार में प्रद्युम्न भी एरका घास से बने मूसलों से मारे गए।",
+        "en": "Pradyumna was the eldest son of Krishna and Rukmini, regarded as an incarnation of Kamadeva, the god of love. Days after his birth the demon Shambara stole him and threw him into the sea; he emerged from the belly of a fish, was raised by Mayavati, and on reaching youth killed Shambara and returned to Dwarka. He was among the foremost warriors of the Vrishnis and stayed to guard Dwarka during the Mahabharat war, since Krishna had vowed not to fight. His son was Aniruddha, hero of the Usha-Aniruddha tale. In the Mausala Parva Pradyumna too was slain in the slaughter of the Yadavas at Prabhasa, struck down by clubs of eraka grass."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "samba",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "samba",
+      "name": {
+        "hi": "साम्ब",
+        "en": "Samba"
+      },
+      "role": {
+        "hi": "श्रीकृष्ण और जाम्बवती के पुत्र, जिनके मज़ाक से यदुवंश का नाश हुआ",
+        "en": "Son of Krishna and Jambavati, whose prank brought the Yadu clan's doom"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "साम्ब श्रीकृष्ण और जाम्बवती के पुत्र थे, वीर किंतु उद्दंड स्वभाव के। जब दुर्योधन की पुत्री लक्ष्मणा के स्वयंवर से वे उसे हर ले गए तो कौरवों ने उन्हें बंदी बना लिया और बलराम ने हस्तिनापुर को हल से खींचकर उन्हें छुड़ाया। मौसल पर्व में यादव कुमारों ने विश्वामित्र, कण्व और नारद आदि ऋषियों का उपहास करने के लिए साम्ब को स्त्री के वेश में गर्भवती बनाकर पूछा कि इसे क्या होगा। क्रोधित ऋषियों ने शाप दिया कि यह एक लौह मूसल जनेगा जो वृष्णि और अंधक वंश का नाश करेगा। अगले दिन साम्ब के पेट से मूसल निकला; उसे चूर्ण करके समुद्र में फेंका गया, पर वही एरका घास बनकर यादवों के संहार का कारण बना। साम्ब भी उसी कलह में मारे गए।",
+        "en": "Samba was the son of Krishna and Jambavati, brave but reckless. When he carried off Duryodhana's daughter Lakshmana from her swayamvara, the Kauravas captured him, and Balarama freed him by dragging Hastinapur with his plough. In the Mausala Parva the Yadava youths, to mock the sages Vishvamitra, Kanva and Narada, dressed Samba as a pregnant woman and asked what she would bear. The angered sages cursed that he would bear an iron club that would destroy the Vrishni and Andhaka clans. The next day a club came from Samba's belly; it was ground to powder and thrown into the sea, yet it grew back as eraka grass that became the weapon of the Yadavas' slaughter. Samba died in that same quarrel."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "pradyumna",
+          "relation": {
+            "hi": "भाई",
+            "en": "Brother"
+          }
+        },
+        {
+          "slug": "narada",
+          "relation": {
+            "hi": "शापदाता",
+            "en": "Cursed by"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "daruka",
+      "name": {
+        "hi": "दारुक",
+        "en": "Daruka"
+      },
+      "role": {
+        "hi": "श्रीकृष्ण के सारथी",
+        "en": "Krishna's charioteer"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "दारुक श्रीकृष्ण के विश्वस्त सारथी थे, जो उनके दिव्य रथ और शैब्य, सुग्रीव, मेघपुष्प तथा बलाहक नामक चार अश्वों को संभालते थे। कुरुक्षेत्र में जब श्रीकृष्ण स्वयं अर्जुन का रथ हाँक रहे थे, तब दारुक रथ लेकर प्रतीक्षा में रहते और आवश्यकता पड़ने पर युद्धभूमि में पहुँचते। मौसल पर्व में प्रभास क्षेत्र के यादव-संहार के बाद श्रीकृष्ण ने दारुक को ही हस्तिनापुर भेजा कि वह अर्जुन को द्वारका बुला लाए ताकि बची हुई स्त्रियों और बालकों की रक्षा हो सके। दारुक ने यह अंतिम आज्ञा निभाई और अर्जुन को द्वारका ले आए। वे अपने स्वामी के प्रति निःस्वार्थ सेवा के प्रतीक हैं।",
+        "en": "Daruka was Krishna's trusted charioteer, keeper of his divine chariot and its four horses Shaibya, Sugriva, Meghapushpa and Balahaka. At Kurukshetra, while Krishna himself drove Arjuna's chariot, Daruka waited with Krishna's own chariot and brought it to the field whenever needed. In the Mausala Parva, after the slaughter of the Yadavas at Prabhasa, it was Daruka whom Krishna sent to Hastinapur to summon Arjuna to Dwarka, so that the surviving women and children could be protected. Daruka carried out this last command and brought Arjuna to Dwarka. He stands for selfless service to one's master."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "स्वामी",
+            "en": "Master"
+          }
+        },
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "संदेश ले गए",
+            "en": "Carried word to"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "jara",
+      "name": {
+        "hi": "जरा व्याध",
+        "en": "Jara the hunter"
+      },
+      "role": {
+        "hi": "वह शिकारी जिसके बाण से श्रीकृष्ण ने देह त्यागी",
+        "en": "The hunter whose arrow ended Krishna's earthly life"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "जरा एक व्याध था जो प्रभास क्षेत्र के वन में मृगों का शिकार करता था। यादवों के नाश के बाद श्रीकृष्ण एक पीपल के नीचे योगस्थ होकर लेटे थे। दूर से उनके पैर का रक्तिम तलवा मृग का मुख प्रतीत हुआ और जरा ने बाण चला दिया। पास आकर उसने देखा कि उसने चतुर्भुज पीतांबरधारी श्रीकृष्ण को बींध दिया है, और भय तथा पश्चाताप से उनके चरणों में गिर पड़ा। श्रीकृष्ण ने उसे सांत्वना दी कि यह विधि का विधान है, और उसे स्वर्ग का आश्वासन दिया। उस बाण की नोक उसी लौह मूसल के बचे टुकड़े से बनी थी जो साम्ब के शाप से उत्पन्न हुआ था। पुराणों में जरा को पूर्वजन्म का बालि बताया गया है, जिसे राम ने छिपकर मारा था।",
+        "en": "Jara was a hunter who stalked deer in the forest near Prabhasa. After the destruction of the Yadavas, Krishna lay in yogic rest beneath a peepal tree. From afar the reddish sole of his foot looked like the face of a deer, and Jara loosed his arrow. Coming near, he saw that he had pierced the four-armed, yellow-robed Krishna and fell at his feet in terror and remorse. Krishna comforted him, saying that this was the decree of fate, and assured him of heaven. The arrow's tip was made from the last fragment of the iron club born of the curse on Samba. The Puranas identify Jara as Vali of a former birth, whom Rama had slain from hiding."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "जिन्हें बाण मारा",
+            "en": "Shot"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "agni",
+      "name": {
+        "hi": "अग्निदेव",
+        "en": "Agni"
+      },
+      "role": {
+        "hi": "अग्नि देवता, खांडव-दाह और गांडीव के दाता",
+        "en": "God of fire, burner of Khandava and giver of the Gandiva"
+      },
+      "side": "divine",
+      "bio": {
+        "hi": "अग्निदेव महाभारत में अनेक बार प्रकट होते हैं। आदि पर्व में वे एक ब्राह्मण के रूप में अर्जुन और श्रीकृष्ण के पास आए और खांडव वन को भस्म करने में सहायता माँगी, क्योंकि इंद्र वर्षा करके उसे बचाते थे। अर्जुन और श्रीकृष्ण ने वन की रक्षा में इंद्र से युद्ध किया और अग्नि ने वन भस्म कर अपनी तृप्ति पाई। बदले में अग्नि ने वरुण से लेकर अर्जुन को गांडीव धनुष, अक्षय तूणीर और दिव्य रथ दिया तथा श्रीकृष्ण को सुदर्शन चक्र और कौमोदकी गदा। खांडव-दाह से बचे मय दानव ने ही पांडवों के लिए इंद्रप्रस्थ की मायासभा बनाई। अग्नि द्रौपदी के स्वयंवर में भी देवताओं के बीच उपस्थित थे और शुकदेव की कथा में भी आते हैं।",
+        "en": "Agni, the god of fire, appears many times in the Mahabharat. In the Adi Parva he came as a Brahmin to Arjuna and Krishna asking for help to burn the Khandava forest, which Indra kept protecting with rain. Arjuna and Krishna fought off Indra while the forest burned, and Agni was satisfied. In return Agni obtained from Varuna and gave Arjuna the Gandiva bow, the inexhaustible quivers and a divine chariot, and gave Krishna the Sudarshana discus and the Kaumodaki mace. The demon Maya, who escaped the fire, built the magical assembly hall of Indraprastha for the Pandavas. Agni was also present among the gods at Draupadi's swayamvara and appears in the tale of Shukadeva."
+      },
+      "relations": [
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "गांडीव के दाता",
+            "en": "Gave the Gandiva to"
+          }
+        },
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "सुदर्शन के दाता",
+            "en": "Gave the Sudarshana to"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "indra",
+      "name": {
+        "hi": "इंद्रदेव",
+        "en": "Indra"
+      },
+      "role": {
+        "hi": "देवराज, अर्जुन के पिता",
+        "en": "King of the gods, father of Arjuna"
+      },
+      "side": "divine",
+      "bio": {
+        "hi": "देवराज इंद्र अर्जुन के पिता हैं; कुंती ने पांडु की सहमति से इंद्र का आवाहन कर अर्जुन को जन्म दिया। वन पर्व में अर्जुन पाँच वर्ष इंद्रलोक में रहे, जहाँ इंद्र ने उन्हें दिव्यास्त्र दिए और उर्वशी के शाप को उन्होंने अज्ञातवास के लिए वरदान बना दिया। कर्ण की जन्मजात कवच-कुंडल को इंद्र ने ब्राह्मण के वेश में दान में माँग लिया ताकि अर्जुन सुरक्षित रहे, और बदले में एक बार चलने वाली अमोघ शक्ति दी, जो घटोत्कच पर चली। खांडव-दाह में वे अर्जुन से पराजित हुए और अंत में प्रसन्न होकर आशीर्वाद दिया। स्वर्गारोहण पर्व में इंद्र स्वयं रथ लेकर युधिष्ठिर को स्वर्ग ले जाने आए, जहाँ युधिष्ठिर ने कुत्ते को त्यागने से इनकार किया।",
+        "en": "Indra, king of the gods, is the father of Arjuna; with Pandu's consent Kunti invoked Indra and bore him. In the Vana Parva Arjuna spent five years in Indra's heaven, where Indra gave him celestial weapons, and Urvashi's curse was turned into a boon for the year of hiding. Disguised as a Brahmin, Indra begged from Karna his inborn armour and earrings to keep Arjuna safe, and in return gave him the Shakti weapon usable only once, which was spent on Ghatotkacha. At the burning of Khandava he was defeated by Arjuna and at last blessed him. In the Svargarohana Parva Indra himself came with his chariot to carry Yudhishthira to heaven, where Yudhishthira refused to abandon his dog."
+      },
+      "relations": [
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पुत्र",
+            "en": "Son"
+          }
+        },
+        {
+          "slug": "karna",
+          "relation": {
+            "hi": "कवच-कुंडल माँगे",
+            "en": "Took the armour from"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "स्वर्ग ले गए",
+            "en": "Carried to heaven"
+          }
+        }
+      ]
     }
   ]
 }

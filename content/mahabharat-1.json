@@ -1,0 +1,1131 @@
+{
+  "parvas": [
+    {
+      "number": 1,
+      "slug": "adi-parva",
+      "title": {
+        "hi": "आदि पर्व",
+        "en": "Adi Parva"
+      },
+      "subtitle": {
+        "hi": "कुरुवंश का आरंभ और पांडव-कौरवों का जन्म",
+        "en": "The origins of the Kuru dynasty and the birth of the Pandavas and Kauravas"
+      },
+      "summary": {
+        "hi": "आदि पर्व महाभारत का पहला और आधारभूत पर्व है। इसमें कुरुवंश की उत्पत्ति, राजा शांतनु और गंगा का विवाह, देवव्रत भीष्म का जन्म और उनकी भीषण प्रतिज्ञा का वर्णन है। सत्यवती के पुत्रों चित्रांगद और विचित्रवीर्य के निधन के बाद महर्षि व्यास के द्वारा धृतराष्ट्र, पांडु और विदुर का जन्म होता है। कुंती और माद्री से पाँच पांडवों तथा गांधारी से सौ कौरवों का जन्म होता है। बालकों की शिक्षा गुरु द्रोणाचार्य के पास होती है, जहाँ अर्जुन सर्वश्रेष्ठ धनुर्धर बनते हैं और कर्ण का प्रथम प्रवेश होता है। दुर्योधन की ईर्ष्या से लाक्षागृह का षड्यंत्र रचा जाता है, जिससे पांडव विदुर की सहायता से बच निकलते हैं। वनवास के दौरान भीम का हिडिंबा से विवाह और घटोत्कच का जन्म होता है। अंत में द्रौपदी के स्वयंवर में अर्जुन मत्स्यभेद करके द्रौपदी को जीतते हैं और पांडव इंद्रप्रस्थ के अधिपति बनते हैं। यह पर्व उस महान संघर्ष की नींव रखता है जो आगे कुरुक्षेत्र युद्ध में परिणत होता है।",
+        "en": "The Adi Parva is the first and foundational book of the Mahabharata. It narrates the origins of the Kuru dynasty, the marriage of King Shantanu and Ganga, the birth of Devavrata Bhishma and his terrible vow. After the deaths of Satyavati's sons Chitrangada and Vichitravirya, the sage Vyasa fathers Dhritarashtra, Pandu and Vidura. Kunti and Madri bear the five Pandavas, while Gandhari gives birth to the hundred Kauravas. The princes are trained by Guru Dronacharya, where Arjuna becomes the finest archer and Karna makes his first appearance. Duryodhana's envy leads to the plot of the house of lac, from which the Pandavas escape with Vidura's help. During their wanderings Bhima marries Hidimba and Ghatotkacha is born. Finally, at Draupadi's swayamvara, Arjuna pierces the fish-target and wins Draupadi, and the Pandavas become rulers of Indraprastha. This parva lays the foundation of the great conflict that culminates in the war of Kurukshetra."
+      },
+      "stories": [
+        {
+          "slug": "shantanu-ganga-birth-of-bhishma",
+          "title": {
+            "hi": "शांतनु-गंगा और भीष्म का जन्म",
+            "en": "Shantanu, Ganga and the Birth of Bhishma"
+          },
+          "body": {
+            "hi": "हस्तिनापुर के राजा शांतनु एक दिन गंगा के तट पर विचरण कर रहे थे। वहाँ उन्होंने एक अत्यंत रूपवती स्त्री को देखा, जिसके तेज से तट आलोकित हो रहा था। राजा उस पर मोहित हो गए और विवाह का प्रस्ताव रखा। उस स्त्री ने, जो स्वयं देवी गंगा थीं, एक शर्त रखी—'मैं जो भी करूँ, आप मुझसे कभी प्रश्न नहीं करेंगे। जिस दिन आपने प्रश्न किया, उसी दिन मैं आपको छोड़कर चली जाऊँगी।' प्रेम में डूबे शांतनु ने शर्त स्वीकार कर ली।\n\nसमय बीता और गंगा ने एक के बाद एक सात पुत्रों को जन्म दिया। किंतु हर पुत्र के जन्म लेते ही वह उसे गंगा की धारा में प्रवाहित कर देतीं। राजा का हृदय फटता था, पर वचन से बँधे होने के कारण वे मौन रहते। जब आठवाँ पुत्र जन्मा और गंगा उसे भी नदी में डालने चलीं, तो शांतनु से रहा न गया। उन्होंने पुकारा—'रुको! तुम कौन हो और अपने ही पुत्रों की हत्या क्यों करती हो?'\n\nगंगा ने तब अपना परिचय दिया और रहस्य खोला। ये आठों पुत्र वसु देवता थे, जिन्हें महर्षि वशिष्ठ के शाप के कारण मनुष्य योनि में जन्म लेना पड़ा था। गंगा उन्हें जन्म लेते ही मुक्त कर रही थीं। किंतु आठवाँ वसु, द्यौ, शापवश दीर्घ काल तक पृथ्वी पर रहने को बाध्य था। शर्त टूट चुकी थी, अतः गंगा उस पुत्र को लेकर चली गईं और कहा कि इसे योग्य बनाकर लौटा देंगी।\n\nवर्षों बाद गंगा ने देवव्रत को शांतनु को सौंपा। बालक ने वशिष्ठ से वेद, परशुराम से धनुर्विद्या और बृहस्पति से राजनीति सीखी थी। शांतनु ने प्रसन्न होकर उसे युवराज घोषित किया। यही देवव्रत आगे चलकर अपनी भीषण प्रतिज्ञा के कारण 'भीष्म' कहलाए और कुरुवंश के महान स्तंभ बने।",
+            "en": "King Shantanu of Hastinapura was once wandering along the banks of the Ganga when he beheld a woman of extraordinary beauty, whose radiance lit up the riverside. Enchanted, the king asked her to be his wife. The woman, who was none other than the goddess Ganga herself, laid down one condition: 'Whatever I do, you must never question me. The day you ask, I shall leave you.' Shantanu, deeply in love, accepted.\n\nIn time Ganga bore seven sons, one after another. But as soon as each child was born, she carried him to the river and let the waters take him. The king's heart broke each time, yet bound by his word he stayed silent. When the eighth son was born and Ganga again walked towards the river, Shantanu could bear it no longer. He cried out: 'Stop! Who are you, and why do you slay your own children?'\n\nGanga then revealed her identity and the secret behind her deeds. The eight sons were the Vasus, celestial beings cursed by the sage Vashishtha to be born as mortals. By releasing them at birth, Ganga was freeing them from the curse. But the eighth Vasu, Dyau, was destined by the curse to live a long life on earth. Since the king had broken his promise, Ganga departed, taking the child with her and promising to return him when he was ready.\n\nYears later Ganga brought Devavrata back to Shantanu. The boy had learnt the Vedas from Vashishtha, the science of arms from Parashurama and statecraft from Brihaspati. Overjoyed, Shantanu declared him heir to the throne. This Devavrata would later be known as Bhishma, 'the one of the terrible vow', and would become the great pillar of the Kuru dynasty."
+          },
+          "lesson": {
+            "hi": "दिया हुआ वचन निभाना कठिन होता है, पर धैर्य और विश्वास से ही बड़े रहस्य और बड़े वरदान प्रकट होते हैं।",
+            "en": "Keeping one's word is hard, but patience and trust are what allow great mysteries and great blessings to unfold."
+          },
+          "characters": [
+            "shantanu",
+            "ganga",
+            "bhishma",
+            "parashurama"
+          ]
+        },
+        {
+          "slug": "bhishma-pratigya",
+          "title": {
+            "hi": "भीष्म प्रतिज्ञा",
+            "en": "The Vow of Bhishma"
+          },
+          "body": {
+            "hi": "एक दिन राजा शांतनु यमुना के तट पर आखेट के लिए गए। वहाँ उन्हें एक दिव्य सुगंध ने आकर्षित किया। सुगंध का पीछा करते हुए वे एक नाव खेने वाली कन्या के पास पहुँचे। वह निषादराज की पुत्री सत्यवती थी। शांतनु उसके रूप और गुणों पर मुग्ध हो गए और निषादराज से उसका हाथ माँगा।\n\nनिषादराज ने एक कठोर शर्त रखी—'सत्यवती से उत्पन्न पुत्र ही हस्तिनापुर का राजा बनेगा।' शांतनु यह वचन नहीं दे सकते थे, क्योंकि देवव्रत पहले ही युवराज घोषित हो चुके थे। वे भारी मन से लौट आए और दिन-रात उदास रहने लगे। देवव्रत ने पिता की व्यथा देखी और मंत्रियों से उसका कारण जाना।\n\nबिना विलंब किए देवव्रत निषादराज के पास पहुँचे। उन्होंने घोषणा की—'मैं अपने राज्याधिकार का त्याग करता हूँ। सत्यवती का पुत्र ही राजा होगा।' निषादराज ने संदेह व्यक्त किया—'आप तो त्याग देंगे, किंतु आपके पुत्र अधिकार माँग सकते हैं।' तब देवव्रत ने वह प्रतिज्ञा की जिससे धरती और आकाश काँप उठे—'मैं आजीवन ब्रह्मचर्य का पालन करूँगा। मेरा कोई पुत्र नहीं होगा। मैं हस्तिनापुर के सिंहासन का सदा सेवक रहूँगा।'\n\nदेवताओं ने आकाश से पुष्पवर्षा की और घोषणा की—'यह भीष्म है!' भीषण प्रतिज्ञा करने के कारण देवव्रत उसी दिन से भीष्म कहलाए। शांतनु ने प्रसन्न होकर उन्हें इच्छामृत्यु का वरदान दिया—भीष्म की मृत्यु उनकी इच्छा के बिना नहीं हो सकती थी। देवव्रत स्वयं रथ चलाकर सत्यवती को लेकर पिता के पास आए और उनका विवाह संपन्न हुआ। समय आने पर सत्यवती से चित्रांगद और विचित्रवीर्य का जन्म हुआ। भीष्म की यह प्रतिज्ञा महाभारत की सबसे महान त्याग-गाथा है, जिसने पूरे कुरुवंश के भाग्य को दिशा दी।",
+            "en": "One day King Shantanu went hunting along the banks of the Yamuna, where a divine fragrance drew him onward. Following it, he came upon a maiden rowing a ferry. She was Satyavati, daughter of the chief of the fisherfolk. Shantanu was captivated by her beauty and grace, and asked her father for her hand.\n\nThe fisher-chief set a hard condition: 'Only the son born of Satyavati shall be king of Hastinapura.' Shantanu could not give such a promise, for Devavrata had already been declared heir. He returned home with a heavy heart and sank into gloom. Devavrata noticed his father's sorrow and learnt its cause from the ministers.\n\nWithout delay Devavrata went to the fisher-chief. He declared: 'I renounce my right to the throne. Satyavati's son shall be king.' The chief remained doubtful: 'You may renounce it, but your sons may one day claim it.' Then Devavrata took the vow that made heaven and earth tremble: 'I shall remain celibate all my life. I shall have no son. I shall forever serve the throne of Hastinapura.'\n\nThe gods showered flowers from the sky and proclaimed, 'This is Bhishma!' Because of this terrible vow, Devavrata was known from that day as Bhishma. A grateful Shantanu granted him the boon of choosing the moment of his own death. Devavrata himself drove the chariot that brought Satyavati to his father, and the marriage took place. In time Satyavati bore two sons, Chitrangada and Vichitravirya. Bhishma's vow is the greatest tale of sacrifice in the Mahabharata, one that shaped the destiny of the entire Kuru line."
+          },
+          "lesson": {
+            "hi": "माता-पिता के सुख के लिए अपने अधिकारों का त्याग ही सच्ची पितृभक्ति है; किंतु हर प्रतिज्ञा के दूरगामी परिणाम होते हैं।",
+            "en": "Renouncing one's own rights for a parent's happiness is true devotion; yet every vow carries consequences that reach far into the future."
+          },
+          "characters": [
+            "bhishma",
+            "shantanu",
+            "satyavati"
+          ]
+        },
+        {
+          "slug": "birth-of-pandavas-and-kauravas",
+          "title": {
+            "hi": "पांडवों और कौरवों का जन्म",
+            "en": "The Birth of the Pandavas and Kauravas"
+          },
+          "body": {
+            "hi": "सत्यवती के दोनों पुत्र चित्रांगद और विचित्रवीर्य निःसंतान ही स्वर्ग सिधार गए। कुरुवंश के विनाश की आशंका से सत्यवती ने अपने ज्येष्ठ पुत्र महर्षि वेदव्यास को बुलाया। व्यास के आशीर्वाद से अंबिका से धृतराष्ट्र, अंबालिका से पांडु और एक दासी से विदुर का जन्म हुआ। धृतराष्ट्र जन्म से अंधे थे, अतः पांडु हस्तिनापुर के राजा बने। धृतराष्ट्र का विवाह गांधार की राजकुमारी गांधारी से हुआ, जिन्होंने पति के अंधेपन को देखकर स्वयं भी आँखों पर पट्टी बाँध ली।\n\nपांडु का विवाह कुंती और माद्री से हुआ। एक दिन आखेट करते समय पांडु ने एक हिरण-जोड़े को बाण मारा। वह हिरण वास्तव में ऋषि किंदम थे, जिन्होंने मरते-मरते शाप दिया—'जब भी तुम पत्नी से मिलन करोगे, तुम्हारी मृत्यु हो जाएगी।' शोक-संतप्त पांडु राज्य छोड़कर वन में तपस्या करने चले गए।\n\nकुंती के पास कन्या अवस्था में ऋषि दुर्वासा से प्राप्त एक मंत्र था, जिससे वे किसी भी देवता का आह्वान कर पुत्र प्राप्त कर सकती थीं। पांडु की अनुमति से कुंती ने धर्मराज से युधिष्ठिर, वायुदेव से भीम और इंद्र से अर्जुन को प्राप्त किया। माद्री ने अश्विनीकुमारों का आह्वान करके नकुल और सहदेव को जन्म दिया। ये पाँचों 'पांडव' कहलाए।\n\nइधर हस्तिनापुर में गांधारी ने व्यास से सौ पुत्रों का वर पाया था। दो वर्ष तक गर्भ धारण के बाद उनसे एक मांस-पिंड निकला, जिसे व्यास ने सौ घड़ों में रखवाया। उनसे दुर्योधन, दुःशासन आदि सौ पुत्र और एक पुत्री दुःशला का जन्म हुआ। दुर्योधन के जन्म पर सियार रोने लगे और अपशकुन हुए। विदुर ने उसे त्यागने की सलाह दी, किंतु पुत्र-मोह में धृतराष्ट्र न माने। आगे चलकर पांडु की मृत्यु हुई, माद्री सती हुईं, और कुंती पाँचों बालकों को लेकर हस्तिनापुर लौटीं।",
+            "en": "Satyavati's two sons, Chitrangada and Vichitravirya, both died without heirs. Fearing the end of the Kuru line, Satyavati summoned her eldest son, the sage Vedavyasa. Through Vyasa's blessing, Ambika gave birth to Dhritarashtra, Ambalika to Pandu, and a maidservant to Vidura. Since Dhritarashtra was born blind, Pandu became king of Hastinapura. Dhritarashtra married Gandhari, princess of Gandhara, who, seeing her husband's blindness, bound her own eyes with a cloth for life.\n\nPandu married Kunti and Madri. One day while hunting, he shot a pair of deer. The stag was in truth the sage Kindama, who cursed him as he died: 'The moment you unite with your wife, you shall die.' Grief-stricken, Pandu renounced the kingdom and went to the forest to live a life of austerity.\n\nKunti possessed a mantra granted to her in her maidenhood by the sage Durvasa, by which she could invoke any god and receive a son. With Pandu's consent she invoked Dharma and bore Yudhishthira, Vayu and bore Bhima, and Indra and bore Arjuna. Madri invoked the twin Ashwini gods and gave birth to Nakula and Sahadeva. These five became known as the Pandavas.\n\nMeanwhile in Hastinapura, Gandhari had received from Vyasa the boon of a hundred sons. After carrying her pregnancy for two years, she delivered a lump of flesh, which Vyasa divided and placed in a hundred jars. From these were born Duryodhana, Dushasana and the others, a hundred sons and one daughter, Dushala. At Duryodhana's birth jackals howled and evil omens appeared. Vidura advised that the child be abandoned, but Dhritarashtra's love for his son would not permit it. In time Pandu died, Madri followed him onto the pyre, and Kunti returned to Hastinapura with the five boys."
+          },
+          "lesson": {
+            "hi": "संतान के प्रति अंधा मोह विवेक को ढक देता है; धृतराष्ट्र का पुत्र-मोह ही आगे चलकर पूरे वंश के विनाश का कारण बना।",
+            "en": "Blind attachment to one's children clouds judgement; Dhritarashtra's love for his son became the seed of his whole dynasty's ruin."
+          },
+          "characters": [
+            "vyasa",
+            "satyavati",
+            "dhritarashtra",
+            "pandu",
+            "vidura",
+            "gandhari",
+            "kunti",
+            "yudhishthira",
+            "bhima",
+            "arjuna",
+            "nakula",
+            "sahadeva",
+            "duryodhana",
+            "dushasana"
+          ]
+        },
+        {
+          "slug": "lakshagriha",
+          "title": {
+            "hi": "लाक्षागृह का षड्यंत्र",
+            "en": "The House of Lac"
+          },
+          "body": {
+            "hi": "हस्तिनापुर में पांडव और कौरव साथ-साथ बड़े हुए। बचपन से ही भीम के बल और अर्जुन के कौशल से दुर्योधन जलता था। गुरु द्रोणाचार्य की शिक्षा पूरी होने पर युधिष्ठिर को उनके गुणों के कारण युवराज बनाया गया। प्रजा उनसे प्रेम करती थी। यह देखकर दुर्योधन और शकुनि ने पांडवों को हमेशा के लिए रास्ते से हटाने की योजना बनाई।\n\nदुर्योधन ने धृतराष्ट्र को समझाकर पांडवों को वारणावत नगर के उत्सव में भेजने की अनुमति ली। वहाँ उसके मंत्री पुरोचन ने एक सुंदर भवन बनवाया, जो लाख, घी, राल और अन्य ज्वलनशील वस्तुओं से बना था। योजना थी कि पांडवों के सो जाने पर उस भवन में आग लगा दी जाए और इसे दुर्घटना बताया जाए।\n\nकिंतु विदुर को इस षड्यंत्र की भनक लग गई। विदाई के समय उन्होंने युधिष्ठिर को म्लेच्छ भाषा में सांकेतिक चेतावनी दी—'जो अग्नि से बचना जानता है, वह उसमें नहीं जलता; जंगल में रहने वाला सियार बिल बनाकर स्वयं को बचा लेता है।' युधिष्ठिर संकेत समझ गए। वारणावत पहुँचकर उन्होंने भवन की दीवारों को सूँघा और लाख की गंध पहचान ली। विदुर का भेजा एक खनक चुपचाप आया और उसने भवन के नीचे से जंगल तक एक सुरंग खोद दी।\n\nएक वर्ष तक पांडव सावधानी से वहाँ रहे। फिर एक रात कुंती ने ब्राह्मण-भोज कराया, जिसमें एक निषाद स्त्री अपने पाँच पुत्रों सहित आई और मद्यपान कर वहीं सो गई। उसी रात भीम ने पुरोचन के कक्ष में आग लगा दी और पांडव माता कुंती सहित सुरंग से निकल गए। प्रातः जले हुए भवन में छह शव मिले और सबने मान लिया कि पांडव मारे गए। हस्तिनापुर में शोक मनाया गया, किंतु विदुर और भीष्म के मन में संदेह बना रहा। पांडव वेश बदलकर वनों में भटकने लगे।",
+            "en": "The Pandavas and Kauravas grew up together in Hastinapura. From childhood Duryodhana burned with envy at Bhima's strength and Arjuna's skill. When their training under Guru Drona was complete, Yudhishthira was made crown prince on account of his virtues, and the people loved him. Seeing this, Duryodhana and Shakuni devised a plan to remove the Pandavas forever.\n\nDuryodhana persuaded Dhritarashtra to send the Pandavas to a festival in the town of Varanavata. There his minister Purochana built a splendid palace made of lac, ghee, resin and other inflammable materials. The plan was to set it ablaze while the Pandavas slept and present it as an accident.\n\nBut Vidura caught wind of the conspiracy. At the time of departure he warned Yudhishthira in a coded tongue: 'He who knows how to escape fire is not burnt by it; the jackal that lives in the forest digs a burrow and saves itself.' Yudhishthira understood. On reaching Varanavata, he smelt the walls and recognised the odour of lac. A miner sent by Vidura arrived quietly and dug a tunnel from beneath the house to the forest outside.\n\nFor a year the Pandavas lived there watchfully. Then one night Kunti hosted a feast for Brahmins, at which a Nishada woman and her five sons ate and drank heavily and fell asleep in the house. That same night Bhima set fire to Purochana's chamber, and the Pandavas with their mother slipped away through the tunnel. In the morning six charred bodies were found, and everyone believed the Pandavas had perished. Hastinapura mourned, though Vidura and Bhishma harboured doubts. The Pandavas, in disguise, began wandering through the forests."
+          },
+          "lesson": {
+            "hi": "सतर्कता और सच्चे हितैषी की सलाह बड़े से बड़े षड्यंत्र से बचा लेती है।",
+            "en": "Vigilance and the counsel of a true well-wisher can save one from even the deadliest conspiracy."
+          },
+          "characters": [
+            "duryodhana",
+            "shakuni",
+            "vidura",
+            "yudhishthira",
+            "bhima",
+            "kunti",
+            "dhritarashtra",
+            "arjuna"
+          ]
+        },
+        {
+          "slug": "draupadi-swayamvar",
+          "title": {
+            "hi": "द्रौपदी स्वयंवर",
+            "en": "The Swayamvara of Draupadi"
+          },
+          "body": {
+            "hi": "लाक्षागृह से बचने के बाद पांडव ब्राह्मण वेश में एकचक्रा नगरी में रह रहे थे। वहीं उन्हें समाचार मिला कि पांचाल नरेश द्रुपद अपनी पुत्री द्रौपदी का स्वयंवर रचा रहे हैं। द्रौपदी यज्ञ की अग्नि से उत्पन्न हुई थीं और उनके भाई धृष्टद्युम्न का जन्म द्रोणाचार्य के वध के लिए हुआ था। पांडव अन्य ब्राह्मणों के साथ पांचाल की ओर चल पड़े।\n\nस्वयंवर में द्रुपद ने एक अत्यंत कठिन शर्त रखी। एक विशाल धनुष को उठाकर उसकी प्रत्यंचा चढ़ानी थी और ऊपर घूमते यंत्र में लगी मछली की आँख को नीचे जल में उसकी परछाई देखकर बाण से बेधना था। देश-देश के राजा आए—दुर्योधन, शिशुपाल, जरासंध—किंतु कोई धनुष को उठा तक न सका। जब कर्ण उठे तो वे धनुष चढ़ाने में समर्थ थे, पर द्रौपदी ने उन्हें सूतपुत्र कहकर रोक दिया और वे अपमानित होकर बैठ गए।\n\nतब ब्राह्मणों के समूह में से एक तेजस्वी युवक उठा। राजाओं ने उपहास किया, किंतु उस ब्राह्मण ने सहज भाव से धनुष उठाया, प्रत्यंचा चढ़ाई और पलक झपकते मछली की आँख बेध दी। वह अर्जुन थे। द्रौपदी ने प्रसन्न होकर उनके गले में वरमाला डाल दी। श्रीकृष्ण, जो स्वयं वहाँ उपस्थित थे, पांडवों को पहचान गए।\n\nक्षत्रिय राजा क्रोधित हो उठे कि एक ब्राह्मण राजकुमारी को ले जाए। युद्ध छिड़ा, जिसमें भीम और अर्जुन ने सबको परास्त किया। पांडव द्रौपदी को लेकर कुटिया पहुँचे और भीतर से ही बोले—'माँ, देखो हम क्या लाए हैं!' भीतर से कुंती ने बिना देखे कहा—'जो भी लाए हो, पाँचों भाई मिलकर बाँट लो।' माता का वचन मिथ्या न हो, इसके लिए और व्यास के आश्वासन से द्रौपदी पाँचों पांडवों की पत्नी बनीं। इसके बाद पांडवों के जीवित होने का समाचार हस्तिनापुर पहुँचा और उन्हें खांडवप्रस्थ का राज्य दिया गया, जहाँ उन्होंने इंद्रप्रस्थ बसाया।",
+            "en": "After escaping the house of lac, the Pandavas lived disguised as Brahmins in the town of Ekachakra. There they heard that King Drupada of Panchala was holding a swayamvara for his daughter Draupadi. Draupadi had been born from the sacrificial fire, and her brother Dhrishtadyumna had been born to slay Dronacharya. The Pandavas set out for Panchala along with other Brahmins.\n\nDrupada had set an extremely difficult test. A mighty bow had to be lifted and strung, and the eye of a fish revolving on a wheel above had to be pierced by looking only at its reflection in the water below. Kings came from every land, among them Duryodhana, Shishupala and Jarasandha, but none could even lift the bow. When Karna rose, he was able to string it, but Draupadi stopped him, calling him the son of a charioteer, and he sat down humiliated.\n\nThen a radiant young man rose from among the Brahmins. The kings mocked him, but he lifted the bow with ease, strung it, and in the blink of an eye pierced the fish's eye. It was Arjuna. Draupadi joyfully placed the garland around his neck. Shri Krishna, who was present, recognised the Pandavas.\n\nThe Kshatriya kings rose in fury that a Brahmin should carry away the princess. A fight broke out, in which Bhima and Arjuna defeated them all. The Pandavas brought Draupadi to their hut and called from outside, 'Mother, see what we have brought!' Without looking, Kunti replied from within, 'Whatever it is, share it among the five of you.' So that their mother's word would not prove false, and with Vyasa's assurance, Draupadi became the wife of all five Pandavas. News that the Pandavas were alive then reached Hastinapura, and they were given the territory of Khandavaprastha, where they built the city of Indraprastha."
+          },
+          "lesson": {
+            "hi": "सच्ची योग्यता वेश से नहीं, कर्म से पहचानी जाती है; अर्जुन का कौशल ब्राह्मण के वेश में भी छिप न सका।",
+            "en": "True merit is known by deeds, not by appearance; Arjuna's skill could not be hidden even under a Brahmin's garb."
+          },
+          "characters": [
+            "draupadi",
+            "arjuna",
+            "drupada",
+            "dhrishtadyumna",
+            "karna",
+            "krishna",
+            "bhima",
+            "kunti",
+            "duryodhana",
+            "shishupala",
+            "vyasa"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "sabha-parva",
+      "title": {
+        "hi": "सभा पर्व",
+        "en": "Sabha Parva"
+      },
+      "subtitle": {
+        "hi": "राजसूय यज्ञ का वैभव और द्यूत का विनाश",
+        "en": "The glory of the Rajasuya and the ruin of the dice game"
+      },
+      "summary": {
+        "hi": "सभा पर्व में पांडवों के उत्कर्ष और उनके पतन दोनों का वर्णन है। मय दानव इंद्रप्रस्थ में अद्भुत सभा-भवन का निर्माण करता है। श्रीकृष्ण की सलाह पर युधिष्ठिर राजसूय यज्ञ का संकल्प लेते हैं। भीम जरासंध का वध करते हैं और चारों भाई दिग्विजय करके आते हैं। यज्ञ में श्रीकृष्ण की अग्रपूजा का विरोध करने वाले शिशुपाल का श्रीकृष्ण सुदर्शन चक्र से वध करते हैं। मयसभा में दुर्योधन उपहास का पात्र बनता है और ईर्ष्या से जल उठता है। शकुनि की कुटिल योजना से द्यूत-क्रीड़ा का आयोजन होता है, जिसमें युधिष्ठिर राज्य, भाई, स्वयं और द्रौपदी तक को हार जाते हैं। भरी सभा में दुःशासन द्रौपदी का चीरहरण करने का प्रयास करता है, किंतु श्रीकृष्ण की कृपा से उनकी लाज बचती है। द्रौपदी के प्रश्न और भीम-अर्जुन की प्रतिज्ञाओं से सभा काँप उठती है। धृतराष्ट्र सब लौटा देते हैं, पर पुनः द्यूत में हारकर पांडवों को बारह वर्ष वनवास और एक वर्ष अज्ञातवास स्वीकार करना पड़ता है।",
+        "en": "The Sabha Parva describes both the rise and the fall of the Pandavas. The demon architect Maya builds a wondrous assembly hall at Indraprastha. On Shri Krishna's counsel, Yudhishthira resolves to perform the Rajasuya sacrifice. Bhima slays Jarasandha, and the four brothers return from conquering the directions. At the sacrifice, Shishupala objects to Krishna receiving the first honour and is slain by the Sudarshana discus. In the Maya hall Duryodhana becomes an object of ridicule and burns with envy. Through Shakuni's cunning, a game of dice is arranged in which Yudhishthira loses his kingdom, his brothers, himself and finally Draupadi. In the full assembly Dushasana tries to strip Draupadi, but by Krishna's grace her honour is saved. Draupadi's question and the vows of Bhima and Arjuna shake the court. Dhritarashtra restores everything, but a second game is lost and the Pandavas must accept twelve years of exile and one year in hiding."
+      },
+      "stories": [
+        {
+          "slug": "mayasabha-and-rajasuya",
+          "title": {
+            "hi": "मयसभा और राजसूय यज्ञ",
+            "en": "The Maya Hall and the Rajasuya Sacrifice"
+          },
+          "body": {
+            "hi": "खांडव वन के दहन के समय अर्जुन ने मय दानव को प्राणदान दिया था। कृतज्ञ मय ने इंद्रप्रस्थ में पांडवों के लिए एक ऐसा सभा-भवन बनाया जिसकी तुलना संसार में कहीं न थी। उसमें स्फटिक के फर्श जल जैसे दिखते थे और जल के कुंड फर्श जैसे। स्वर्ण और मणियों से जड़ित यह मयसभा देवताओं की सभा को भी लज्जित करती थी।\n\nसभा में बैठे युधिष्ठिर के पास एक दिन देवर्षि नारद आए। उन्होंने बताया कि पांडु की आत्मा चाहती है कि युधिष्ठिर राजसूय यज्ञ करके सम्राट बनें। युधिष्ठिर ने इस विषय में श्रीकृष्ण से परामर्श किया। श्रीकृष्ण ने कहा कि यज्ञ से पहले मगध के महाबली राजा जरासंध को परास्त करना आवश्यक है, जिसने छियासी राजाओं को बंदी बना रखा है और सौ पूरे होने पर उनकी बलि देने वाला है।\n\nश्रीकृष्ण, भीम और अर्जुन ब्राह्मण वेश में मगध पहुँचे। जरासंध ने उन्हें पहचान लिया और द्वंद्व युद्ध की चुनौती स्वीकार की। उसने भीम को प्रतिद्वंद्वी चुना। तेरह दिन तक दोनों महाबली लड़ते रहे। अंत में श्रीकृष्ण ने एक तिनका बीच से चीरकर दो दिशाओं में फेंका। भीम संकेत समझ गए—जरासंध का जन्म दो टुकड़ों के जुड़ने से हुआ था। भीम ने उसके शरीर को चीरकर दोनों भागों को विपरीत दिशाओं में फेंक दिया और जरासंध मारा गया। बंदी राजा मुक्त हुए।\n\nइसके बाद अर्जुन उत्तर, भीम पूर्व, सहदेव दक्षिण और नकुल पश्चिम दिशा में विजय करने निकले। सभी राजाओं ने युधिष्ठिर की अधीनता स्वीकार की और कर भेजा। फिर महान राजसूय यज्ञ का आयोजन हुआ, जिसमें भीष्म, द्रोण, धृतराष्ट्र, दुर्योधन सहित संसार भर के राजा और ऋषि पधारे। स्वयं श्रीकृष्ण ने ब्राह्मणों के चरण धोने का कार्य सँभाला। युधिष्ठिर धर्मपूर्वक चक्रवर्ती सम्राट बने।",
+            "en": "When the Khandava forest was burnt, Arjuna had spared the life of the demon Maya. In gratitude, Maya built for the Pandavas at Indraprastha an assembly hall without equal in the world. Its crystal floors looked like water and its pools looked like floors. Studded with gold and gems, the Maya Sabha put even the halls of the gods to shame.\n\nOne day the divine sage Narada visited Yudhishthira in this hall. He said that the soul of Pandu wished his son to perform the Rajasuya sacrifice and become emperor. Yudhishthira consulted Shri Krishna. Krishna explained that before the sacrifice, the mighty Jarasandha of Magadha had to be defeated, for he had imprisoned eighty-six kings and intended to sacrifice them once the number reached a hundred.\n\nKrishna, Bhima and Arjuna went to Magadha disguised as Brahmins. Jarasandha recognised them and accepted a challenge to single combat, choosing Bhima as his opponent. For thirteen days the two giants wrestled. At last Krishna picked up a blade of grass, split it down the middle and threw the halves in opposite directions. Bhima understood the sign: Jarasandha had been born as two halves joined together. Bhima tore his body apart and flung the two pieces in opposite directions, and Jarasandha died. The captive kings were freed.\n\nThen Arjuna set out to conquer the north, Bhima the east, Sahadeva the south and Nakula the west. All the kings accepted Yudhishthira's sovereignty and sent tribute. The great Rajasuya sacrifice was then performed, attended by Bhishma, Drona, Dhritarashtra, Duryodhana and kings and sages from all over the world. Krishna himself took up the task of washing the feet of the Brahmins. Yudhishthira was righteously crowned emperor of the world."
+          },
+          "lesson": {
+            "hi": "सच्ची सफलता के लिए सामर्थ्य के साथ-साथ श्रीकृष्ण जैसे ज्ञानी मार्गदर्शक का परामर्श आवश्यक है।",
+            "en": "Real success needs not only strength but the guidance of a wise counsellor like Shri Krishna."
+          },
+          "characters": [
+            "yudhishthira",
+            "krishna",
+            "bhima",
+            "arjuna",
+            "nakula",
+            "sahadeva"
+          ]
+        },
+        {
+          "slug": "shishupala-vadh",
+          "title": {
+            "hi": "शिशुपाल वध",
+            "en": "The Slaying of Shishupala"
+          },
+          "body": {
+            "hi": "राजसूय यज्ञ की समाप्ति पर अग्रपूजा का प्रश्न उठा—सभा में उपस्थित सबसे श्रेष्ठ व्यक्ति को पहले सम्मानित किया जाना था। पितामह भीष्म ने कहा कि इस सभा में श्रीकृष्ण ही सर्वश्रेष्ठ हैं; वे ज्ञान, बल, तप और यश में सबसे बढ़कर हैं। सहदेव ने श्रीकृष्ण के चरण धोकर उनकी पूजा की। सभा ने इसे स्वीकार किया।\n\nकिंतु चेदिराज शिशुपाल क्रोध से उबल पड़ा। वह उठकर भीष्म और पांडवों का अपमान करने लगा—'यहाँ इतने बड़े-बड़े राजा और ऋषि बैठे हैं, और तुमने एक ग्वाले की पूजा की है? यह कृष्ण न राजा है, न ऋषि। भीष्म बूढ़ा हो गया है और उसकी बुद्धि भ्रष्ट हो गई है।' वह श्रीकृष्ण को गालियाँ देने लगा। अनेक राजा उसका साथ देने लगे।\n\nश्रीकृष्ण शांत बैठे रहे। उनकी बुआ का पुत्र होने के नाते शिशुपाल उनका भाई था। जन्म के समय शिशुपाल की माता ने श्रीकृष्ण से वचन लिया था कि वे उसके सौ अपराध क्षमा करेंगे। श्रीकृष्ण प्रत्येक अपशब्द को गिनते रहे। भीम क्रोध से उठना चाहते थे, पर भीष्म ने उन्हें रोक दिया।\n\nजब शिशुपाल के अपराध सौ से अधिक हो गए, तब श्रीकृष्ण उठे। उन्होंने सभा से कहा—'मैंने अपनी बुआ को दिया वचन निभाया। इसके सौ अपराध क्षमा किए। अब और नहीं।' उन्होंने सुदर्शन चक्र का आह्वान किया और शिशुपाल का सिर धड़ से अलग कर दिया। सबने देखा कि शिशुपाल के शरीर से एक ज्योति निकलकर श्रीकृष्ण में समा गई, क्योंकि वह वैकुंठ का द्वारपाल जय था जो शापवश असुर योनि में जन्मा था। श्रीकृष्ण ने उसे मोक्ष दिया। यज्ञ सकुशल संपन्न हुआ।",
+            "en": "At the close of the Rajasuya sacrifice, the question arose of who should receive the first honour, the agra-puja offered to the most eminent person in the assembly. Grandsire Bhishma declared that Shri Krishna was the greatest among all present, surpassing everyone in wisdom, strength, austerity and glory. Sahadeva washed Krishna's feet and worshipped him. The assembly accepted this.\n\nBut Shishupala, king of Chedi, boiled over with rage. He rose and began insulting Bhishma and the Pandavas: 'With so many great kings and sages present, you honour a cowherd? This Krishna is neither a king nor a sage. Bhishma has grown old and his mind is corrupt.' He hurled abuse after abuse at Krishna, and several kings began to side with him.\n\nKrishna sat calmly. Shishupala was his cousin, the son of his father's sister. At Shishupala's birth, his mother had extracted from Krishna a promise that he would forgive a hundred offences of her son. Krishna kept count of every insult. Bhima wished to rise in fury, but Bhishma restrained him.\n\nWhen Shishupala's offences exceeded a hundred, Krishna rose. He told the assembly: 'I have kept the word I gave my aunt. I have forgiven a hundred offences. No more.' He summoned the Sudarshana discus and severed Shishupala's head from his body. All present saw a light leave Shishupala's body and merge into Krishna, for he had been Jaya, the gatekeeper of Vaikuntha, born as a demon through a curse. Krishna granted him liberation, and the sacrifice was completed in peace."
+          },
+          "lesson": {
+            "hi": "धैर्य की भी एक सीमा होती है; भगवान क्षमाशील हैं, पर अधर्म की अति होने पर दंड अवश्य देते हैं।",
+            "en": "Even patience has a limit; the Lord is forgiving, but when wickedness exceeds all bounds, punishment surely follows."
+          },
+          "characters": [
+            "krishna",
+            "shishupala",
+            "bhishma",
+            "sahadeva",
+            "bhima",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "game-of-dice",
+          "title": {
+            "hi": "द्यूत-क्रीड़ा",
+            "en": "The Game of Dice"
+          },
+          "body": {
+            "hi": "राजसूय यज्ञ के बाद दुर्योधन मयसभा में घूम रहा था। स्फटिक के फर्श को जल समझकर उसने वस्त्र समेटे, और जल को फर्श समझकर उसमें गिर पड़ा। भीम और द्रौपदी हँस पड़े। दासियों ने भी उपहास किया। दुर्योधन ने इसे अपने जीवन का सबसे बड़ा अपमान माना। हस्तिनापुर लौटकर वह ईर्ष्या से जलता रहा—'मैं पांडवों का वैभव सहन नहीं कर सकता।'\n\nमामा शकुनि ने उसे ढाढ़स बँधाया—'युद्ध में तुम पांडवों को नहीं जीत सकते, किंतु युधिष्ठिर को द्यूत का व्यसन है और वह मना नहीं करेगा। मेरे पासे मेरी इच्छा से चलते हैं। मैं उसका सब कुछ जीत लूँगा।' दुर्योधन ने धृतराष्ट्र से अनुरोध किया। विदुर ने कड़ा विरोध किया, पर पुत्र-मोह में धृतराष्ट्र ने एक नई सभा बनवाई और विदुर को ही पांडवों को निमंत्रण देने भेजा।\n\nयुधिष्ठिर जानते थे कि द्यूत विनाश का मूल है, किंतु क्षत्रिय-धर्म के अनुसार चुनौती ठुकराना उन्होंने उचित न समझा। खेल आरंभ हुआ। युधिष्ठिर दाँव लगाते और शकुनि कहता—'जीत लिया!' रत्न, स्वर्ण, रथ, हाथी, सेना, दास-दासी, और फिर पूरा राज्य—एक-एक करके सब हारते गए। सभा में भीष्म, द्रोण, विदुर सब मौन देखते रहे।\n\nमोहग्रस्त युधिष्ठिर ने फिर नकुल, सहदेव, अर्जुन और भीम को दाँव पर लगाया और हार गए। फिर स्वयं को लगाया और हारे। तब शकुनि ने कहा—'अभी एक धन शेष है—द्रौपदी। उसे लगाओ, सब वापस मिल सकता है।' सभा में हाहाकार मच गया, विदुर चीख पड़े, पर युधिष्ठिर ने द्रौपदी को दाँव पर लगा दिया। शकुनि ने पासे फेंके और कहा—'जीत लिया!' दुर्योधन उल्लास से उछल पड़ा। पांडव सिर झुकाए बैठे रहे—वे अब दास थे, और द्रौपदी कौरवों की दासी।",
+            "en": "After the Rajasuya, Duryodhana wandered through the Maya hall. Mistaking the crystal floor for water, he lifted his garments; mistaking a pool for the floor, he fell into it. Bhima and Draupadi laughed, and the maidservants mocked him too. Duryodhana took this as the greatest insult of his life. Back in Hastinapura he burned with envy: 'I cannot bear the prosperity of the Pandavas.'\n\nHis uncle Shakuni consoled him: 'You cannot defeat the Pandavas in battle, but Yudhishthira has a weakness for dice and will not refuse. My dice obey my will. I shall win everything he owns.' Duryodhana pleaded with Dhritarashtra. Vidura objected strongly, but out of love for his son Dhritarashtra had a new hall built and sent Vidura himself to invite the Pandavas.\n\nYudhishthira knew that gambling was the root of ruin, yet by the Kshatriya code he did not think it right to refuse a challenge. The game began. Yudhishthira would stake, and Shakuni would say, 'Won!' Jewels, gold, chariots, elephants, armies, servants and at last the whole kingdom were lost one by one. Bhishma, Drona and Vidura watched in silence.\n\nCaught in the grip of the game, Yudhishthira then staked Nakula, Sahadeva, Arjuna and Bhima, and lost them. He staked himself, and lost. Then Shakuni said, 'One treasure remains, Draupadi. Stake her, and you may win everything back.' A cry of horror rose in the hall and Vidura protested, but Yudhishthira staked Draupadi. Shakuni threw the dice and said, 'Won!' Duryodhana leapt up in delight. The Pandavas sat with bowed heads; they were slaves now, and Draupadi a slave of the Kauravas."
+          },
+          "lesson": {
+            "hi": "जुआ और लोभ विवेकी से विवेकी पुरुष का भी विनाश कर देते हैं; व्यसन के आगे धर्मराज भी हार गए।",
+            "en": "Gambling and greed can destroy even the wisest; before addiction even Dharmaraja Yudhishthira fell."
+          },
+          "characters": [
+            "yudhishthira",
+            "shakuni",
+            "duryodhana",
+            "dhritarashtra",
+            "vidura",
+            "draupadi",
+            "bhima",
+            "arjuna",
+            "nakula",
+            "sahadeva"
+          ]
+        },
+        {
+          "slug": "draupadi-cheer-haran",
+          "title": {
+            "hi": "द्रौपदी चीरहरण",
+            "en": "The Disrobing of Draupadi"
+          },
+          "body": {
+            "hi": "दुर्योधन ने विदुर को आदेश दिया कि द्रौपदी को सभा में लाया जाए। विदुर ने इनकार कर दिया। तब दुर्योधन ने दुःशासन को भेजा। द्रौपदी एकवस्त्रा और रजस्वला थीं। दुःशासन उनके केश पकड़कर घसीटता हुआ सभा में ले आया—वही केश जो राजसूय यज्ञ में पवित्र जल से अभिषिक्त हुए थे।\n\nद्रौपदी ने भरी सभा में प्रश्न किया—'युधिष्ठिर ने पहले स्वयं को हारा या मुझे? जो स्वयं दास बन चुका है, क्या उसे दूसरे को दाँव पर लगाने का अधिकार है?' भीष्म ने कहा कि धर्म का यह प्रश्न बहुत सूक्ष्म है और वे उत्तर नहीं दे सकते। कर्ण ने द्रौपदी को अपमानित करते हुए कहा कि पाँच पतियों वाली स्त्री दासी ही है। दुर्योधन ने अपनी जाँघ ठोंककर द्रौपदी को उस पर बैठने का संकेत किया। विकर्ण ने अकेले विरोध किया, पर उसे चुप करा दिया गया।\n\nदुर्योधन के आदेश पर दुःशासन ने द्रौपदी का वस्त्र खींचना आरंभ किया। द्रौपदी ने सभा में सबसे सहायता माँगी, पर सब मौन थे। तब उन्होंने दोनों हाथ ऊपर उठाकर पुकारा—'हे गोविंद! हे द्वारकावासी! हे कृष्ण! मैं कौरवों के बीच डूब रही हूँ, मेरी रक्षा करो!' और श्रीकृष्ण की कृपा से चमत्कार हुआ—दुःशासन जितना वस्त्र खींचता, उतना ही वस्त्र बढ़ता जाता। सभा में वस्त्रों का ढेर लग गया और दुःशासन थककर बैठ गया।\n\nक्रोध से काँपते भीम ने प्रतिज्ञा की—'मैं दुःशासन की छाती फाड़कर उसका रक्त पिऊँगा, और दुर्योधन की वह जाँघ गदा से तोड़ूँगा।' अर्जुन ने कर्ण-वध की प्रतिज्ञा की। तभी धृतराष्ट्र के महल में सियार रोने लगे और अपशकुन होने लगे। भयभीत धृतराष्ट्र ने द्रौपदी से वर माँगने को कहा। द्रौपदी ने पहले युधिष्ठिर और फिर चारों पांडवों की दासता से मुक्ति माँगी। धृतराष्ट्र ने उनका राज्य भी लौटा दिया। किंतु दुर्योधन ने फिर से द्यूत का आग्रह किया, और इस बार हारने पर पांडवों को बारह वर्ष वनवास और एक वर्ष अज्ञातवास की शर्त स्वीकार करनी पड़ी।",
+            "en": "Duryodhana ordered Vidura to bring Draupadi into the hall. Vidura refused. Duryodhana then sent Dushasana. Draupadi was clad in a single garment and in her monthly period. Dushasana dragged her by her hair into the assembly, the same hair that had been anointed with sacred water at the Rajasuya.\n\nBefore the full court, Draupadi asked: 'Did Yudhishthira lose himself first or me? Does one who has already become a slave have the right to stake another?' Bhishma said the question of dharma was too subtle for him to answer. Karna insulted her, saying a woman with five husbands was no better than a slave. Duryodhana slapped his thigh and gestured for Draupadi to sit on it. Only Vikarna protested, and he was silenced.\n\nAt Duryodhana's command, Dushasana began to pull at Draupadi's garment. She begged the assembly for help, but all were silent. Then she raised both arms and cried out: 'O Govinda! O Lord of Dwaraka! O Krishna! I am drowning in the midst of the Kauravas, save me!' And by Shri Krishna's grace a miracle occurred: the more Dushasana pulled, the more cloth there was. A mountain of garments piled up in the hall, and Dushasana sank down exhausted.\n\nTrembling with rage, Bhima vowed: 'I shall tear open Dushasana's chest and drink his blood, and I shall break that thigh of Duryodhana with my mace.' Arjuna vowed to kill Karna. At that moment jackals howled in Dhritarashtra's palace and evil omens appeared. The frightened king asked Draupadi to name a boon. She asked first for Yudhishthira's freedom, then for that of the other four Pandavas. Dhritarashtra returned their kingdom as well. But Duryodhana insisted on one more game, and on losing it the Pandavas had to accept twelve years of exile in the forest and a thirteenth year in disguise."
+          },
+          "lesson": {
+            "hi": "जहाँ नारी का अपमान हो और सज्जन मौन रहें, वहाँ विनाश निश्चित है; किंतु सच्चे मन से पुकारने पर भगवान अवश्य रक्षा करते हैं।",
+            "en": "Where a woman is dishonoured and good men stay silent, destruction is certain; yet when one calls on the Lord with a sincere heart, he surely protects."
+          },
+          "characters": [
+            "draupadi",
+            "dushasana",
+            "duryodhana",
+            "krishna",
+            "bhima",
+            "arjuna",
+            "karna",
+            "bhishma",
+            "vidura",
+            "dhritarashtra",
+            "yudhishthira"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "vana-parva",
+      "title": {
+        "hi": "वन पर्व",
+        "en": "Vana Parva"
+      },
+      "subtitle": {
+        "hi": "बारह वर्ष का वनवास, तप, कथाएँ और धर्म की परीक्षा",
+        "en": "Twelve years of forest exile, austerity, tales and the test of dharma"
+      },
+      "summary": {
+        "hi": "वन पर्व (आरण्यक पर्व) महाभारत का सबसे विस्तृत पर्वों में से एक है। द्यूत में हारकर पांडव द्रौपदी के साथ बारह वर्ष के वनवास पर निकलते हैं। सूर्यदेव से प्राप्त अक्षय पात्र से वे ऋषियों और ब्राह्मणों का भरण-पोषण करते हैं। श्रीकृष्ण उनसे मिलने आते हैं और द्रौपदी को सांत्वना देते हैं। अर्जुन दिव्यास्त्र प्राप्त करने के लिए हिमालय जाते हैं, जहाँ किरात वेश में भगवान शिव से युद्ध करके पाशुपतास्त्र पाते हैं और फिर इंद्रलोक जाते हैं। भीम हनुमान जी से मिलते हैं। ऋषि मार्कंडेय और अन्य मुनि पांडवों को नल-दमयंती, राम कथा, सावित्री-सत्यवान जैसी कथाएँ सुनाकर धैर्य देते हैं। दुर्योधन घोषयात्रा में गंधर्वों से बंदी बनता है और पांडव ही उसे छुड़ाते हैं। जयद्रथ द्रौपदी का हरण करने का प्रयास करता है और दंडित होता है। कर्ण इंद्र को कवच-कुंडल दान कर देते हैं। अंत में यक्ष-प्रश्न में युधिष्ठिर की धर्मबुद्धि से चारों भाई पुनर्जीवित होते हैं और पांडव अज्ञातवास की तैयारी करते हैं।",
+        "en": "The Vana Parva (also called Aranyaka Parva) is one of the longest books of the Mahabharata. Having lost at dice, the Pandavas set out with Draupadi on twelve years of forest exile. With the inexhaustible vessel granted by the Sun god, they feed the sages and Brahmins who accompany them. Shri Krishna visits and consoles Draupadi. Arjuna travels to the Himalayas for celestial weapons, where he fights Lord Shiva disguised as a hunter, obtains the Pashupata weapon and then goes to Indra's realm. Bhima meets Hanuman. Sage Markandeya and other seers sustain the Pandavas with tales such as Nala and Damayanti, the story of Rama, and Savitri and Satyavan. Duryodhana is captured by Gandharvas during his cattle expedition and is rescued by the very Pandavas he came to mock. Jayadratha tries to abduct Draupadi and is punished. Karna gives away his armour and earrings to Indra. Finally, at the Yaksha's questioning, Yudhishthira's wisdom restores his four brothers to life, and the Pandavas prepare for their year in hiding."
+      },
+      "stories": [
+        {
+          "slug": "kirata-arjuna",
+          "title": {
+            "hi": "किरात-अर्जुन और पाशुपतास्त्र",
+            "en": "Arjuna and the Hunter: The Pashupata Weapon"
+          },
+          "body": {
+            "hi": "वनवास के दिनों में महर्षि व्यास पांडवों से मिलने आए। उन्होंने युधिष्ठिर को समझाया कि आने वाला युद्ध भीषण होगा और भीष्म, द्रोण, कर्ण जैसे योद्धाओं का सामना करने के लिए अर्जुन को दिव्यास्त्र प्राप्त करने होंगे। युधिष्ठिर के आदेश से अर्जुन अकेले हिमालय की ओर चल पड़े। इंद्रकील पर्वत पर उन्होंने भगवान शिव की कठोर तपस्या आरंभ की। महीनों तक वे केवल वायु पर रहे और एक पैर पर खड़े होकर तप करते रहे।\n\nउनके तप के तेज से ऋषि व्याकुल हो गए और शिव के पास गए। शिव ने अर्जुन की परीक्षा लेने का निश्चय किया। वे किरात यानी वनवासी शिकारी का वेश धारण करके पार्वती के साथ उस वन में आए। उसी समय मूक नामक दानव सूअर का रूप धरकर अर्जुन पर टूट पड़ा। अर्जुन ने उस पर बाण चलाया, और उसी क्षण किरात ने भी अपना बाण मारा। सूअर मरकर गिर पड़ा।\n\nअब विवाद हुआ कि शिकार किसका है। किरात ने कहा कि उसने पहले बाण मारा था, अर्जुन ने इसे अपना अधिकार बताया। बात बढ़ी और युद्ध छिड़ गया। अर्जुन ने अपने सारे बाण किरात पर चला दिए, पर किरात पर कोई प्रभाव न हुआ और अर्जुन का तरकश खाली हो गया। अर्जुन ने धनुष से प्रहार किया, तो किरात ने धनुष छीन लिया। तलवार टूट गई। फिर मल्लयुद्ध हुआ, जिसमें किरात ने अर्जुन को मूर्छित कर दिया।\n\nहोश में आने पर अर्जुन ने मिट्टी का शिवलिंग बनाया और उस पर पुष्प चढ़ाए। आश्चर्य! वे पुष्प किरात के सिर पर दिखाई दिए। अर्जुन समझ गए कि यह किरात कोई और नहीं, स्वयं भगवान शंकर हैं। वे उनके चरणों में गिर पड़े। शिव ने प्रसन्न होकर उन्हें दर्शन दिए और उनकी वीरता की प्रशंसा की। उन्होंने अर्जुन को अपना दिव्य पाशुपतास्त्र प्रदान किया, जिसके प्रयोग की विधि केवल अर्जुन जानते थे। इसके बाद इंद्र ने अर्जुन को अपने लोक में बुलाया, जहाँ उन्होंने पाँच वर्ष रहकर अनेक दिव्यास्त्र और नृत्य-संगीत की शिक्षा ली।",
+            "en": "During the exile, the sage Vyasa came to visit the Pandavas. He told Yudhishthira that the coming war would be terrible, and that to face warriors like Bhishma, Drona and Karna, Arjuna would need celestial weapons. At Yudhishthira's command Arjuna set out alone for the Himalayas. On Mount Indrakila he began severe austerities to Lord Shiva. For months he lived on air alone, standing on one foot in meditation.\n\nThe heat of his penance troubled the sages, who went to Shiva. Shiva decided to test Arjuna. Taking the form of a Kirata, a forest hunter, he came to that forest with Parvati. At that moment a demon named Muka, in the form of a wild boar, charged at Arjuna. Arjuna shot an arrow at it, and at the same instant the hunter also loosed his arrow. The boar fell dead.\n\nA dispute arose over whose kill it was. The hunter claimed he had shot first; Arjuna claimed the right as his. Words led to blows and a fight began. Arjuna shot all his arrows at the hunter, but they had no effect and his quiver was soon empty. He struck with his bow, and the hunter snatched it away. His sword broke. Then they wrestled, and the hunter struck Arjuna senseless.\n\nOn regaining consciousness, Arjuna made a Shiva-linga of clay and offered flowers to it. To his amazement, the flowers appeared on the hunter's head. Arjuna realised that the hunter was none other than Lord Shankara himself, and fell at his feet. Pleased, Shiva revealed his true form and praised Arjuna's valour. He granted him the divine Pashupata weapon, whose secret of use was known to Arjuna alone. After this, Indra summoned Arjuna to his heaven, where he stayed five years, learning many celestial weapons as well as music and dance."
+          },
+          "lesson": {
+            "hi": "अहंकार के टूटने पर ही भगवान की कृपा प्रकट होती है; अर्जुन की पराजय ही उनकी सबसे बड़ी विजय बनी।",
+            "en": "Divine grace reveals itself only when pride is broken; Arjuna's defeat became his greatest victory."
+          },
+          "characters": [
+            "arjuna",
+            "vyasa",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "nala-damayanti",
+          "title": {
+            "hi": "नल-दमयंती की कथा",
+            "en": "The Tale of Nala and Damayanti"
+          },
+          "body": {
+            "hi": "अर्जुन के हिमालय जाने के बाद युधिष्ठिर बहुत दुखी रहते थे। वे स्वयं को द्यूत की हानि का दोषी मानते थे। तब बृहदश्व मुनि ने उन्हें सांत्वना देने के लिए निषध देश के राजा नल की कथा सुनाई, जो द्यूत में उनसे भी अधिक हार गए थे।\n\nनल अत्यंत रूपवान, धर्मात्मा और अश्वविद्या में निपुण राजा थे। विदर्भ की राजकुमारी दमयंती उनके गुणों को सुनकर उन पर मोहित हो गई। एक सुनहरे हंस ने दोनों के बीच संदेशवाहक का कार्य किया। दमयंती के स्वयंवर में इंद्र, अग्नि, वरुण और यम चारों देवता नल का रूप धरकर आए, किंतु दमयंती ने अपने प्रेम की शक्ति से असली नल को पहचान लिया और उन्हें वरमाला पहनाई। देवताओं ने प्रसन्न होकर नल को वरदान दिए। किंतु कलियुग, जो दमयंती को चाहता था, ईर्ष्या से जल उठा और नल को नष्ट करने की ठान ली।\n\nवर्षों बाद एक दिन नल ने संध्या के समय आचमन में एक चूक की, और कलि उनके शरीर में प्रवेश कर गया। कलि ने नल के भाई पुष्कर को द्यूत के लिए उकसाया। कलि के प्रभाव में नल खेलते गए और सारा राज्य हार गए। एक वस्त्र में नल और दमयंती वन में चले गए। वहाँ एक रात कलि के वश में आकर नल ने सोई हुई दमयंती को त्याग दिया और चले गए। दमयंती वन में भटकती हुई चेदि देश और फिर अपने पिता के घर पहुँची।\n\nनल ने एक नाग कर्कोटक को आग से बचाया, जिसने उन्हें डसकर उनका रूप कुरूप कर दिया ताकि वे पहचाने न जाएँ। बाहुक नाम से नल अयोध्या के राजा ऋतुपर्ण के सारथी बन गए। दमयंती ने चतुराई से एक झूठे स्वयंवर की घोषणा करवाई, जिसमें ऋतुपर्ण बाहुक के साथ एक ही दिन में सौ योजन दौड़कर पहुँचे। दमयंती ने बाहुक के पकाए भोजन के स्वाद और घोड़ों को हाँकने के ढंग से नल को पहचान लिया। कर्कोटक के दिए वस्त्र पहनकर नल ने अपना असली रूप पाया। उन्होंने ऋतुपर्ण से सीखी द्यूतविद्या से पुष्कर को हराकर राज्य वापस जीता और दमयंती के साथ सुखपूर्वक राज्य किया। बृहदश्व ने युधिष्ठिर से कहा—'तुम तो भाइयों और द्रौपदी के साथ हो, नल तो सब कुछ खोकर भी पुनः सुखी हुए।'",
+            "en": "After Arjuna left for the Himalayas, Yudhishthira was consumed by grief, blaming himself for the loss at dice. To console him the sage Brihadashva narrated the tale of King Nala of Nishadha, who had lost even more at gambling than he had.\n\nNala was a king of great beauty and virtue, a master of horses. Princess Damayanti of Vidarbha fell in love with him on hearing of his qualities, and a golden swan carried messages between them. At Damayanti's swayamvara the gods Indra, Agni, Varuna and Yama all appeared in the form of Nala, but Damayanti, through the power of her love, recognised the true Nala and garlanded him. The pleased gods granted Nala boons. But Kali, the spirit of the dark age, who had desired Damayanti, burned with jealousy and resolved to destroy Nala.\n\nYears later, Nala one evening failed to complete his ritual purification properly, and Kali entered his body. Kali incited Nala's brother Pushkara to challenge him to dice. Under Kali's influence Nala played on and lost his entire kingdom. Wearing a single garment, Nala and Damayanti went into the forest. One night, possessed by Kali, Nala abandoned the sleeping Damayanti and wandered away. Damayanti roamed the forest, reached the kingdom of Chedi and finally her father's home.\n\nNala rescued the serpent Karkotaka from a fire; the serpent bit him and made him ugly so that he would not be recognised. Under the name Bahuka, Nala became charioteer to King Rituparna of Ayodhya. Damayanti cleverly announced a false second swayamvara, and Rituparna, driven by Bahuka, covered a hundred yojanas in a single day to reach it. Damayanti recognised Nala by the taste of the food he cooked and his way with horses. Putting on the garment Karkotaka had given him, Nala regained his true form. With the art of dice he had learnt from Rituparna, he defeated Pushkara, won back his kingdom, and ruled happily with Damayanti. Brihadashva told Yudhishthira: 'You at least have your brothers and Draupadi; Nala lost everything, yet found happiness again.'"
+          },
+          "lesson": {
+            "hi": "विपत्ति चाहे कितनी भी बड़ी हो, धैर्य, निष्ठा और प्रेम से व्यक्ति अपना खोया हुआ सब कुछ पुनः पा सकता है।",
+            "en": "However great the calamity, patience, loyalty and love can restore all that was lost."
+          },
+          "characters": [
+            "nala",
+            "damayanti",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "ghosha-yatra-and-jayadratha",
+          "title": {
+            "hi": "घोषयात्रा और जयद्रथ का दंड",
+            "en": "The Cattle Expedition and the Punishment of Jayadratha"
+          },
+          "body": {
+            "hi": "वनवास के दौरान पांडव द्वैतवन में रह रहे थे। शकुनि और कर्ण ने दुर्योधन को सुझाया कि वह अपनी गौशालाओं के निरीक्षण के बहाने द्वैतवन जाए और वहाँ पांडवों को अपना वैभव दिखाकर उन्हें दीन-हीन अवस्था में देखने का सुख ले। दुर्योधन अपनी रानियों, सेना और भाइयों के साथ बड़े ठाठ से घोषयात्रा पर निकला।\n\nद्वैतवन के सरोवर के पास गंधर्वराज चित्रसेन अपनी अप्सराओं के साथ विहार कर रहे थे। दुर्योधन के सैनिकों ने वहाँ डेरा डालने की कोशिश की, तो गंधर्वों ने रोका। दुर्योधन ने अहंकार में युद्ध छेड़ दिया। गंधर्वों ने कौरव सेना को खदेड़ दिया; कर्ण रणभूमि छोड़कर भाग गए और दुर्योधन, दुःशासन तथा रानियाँ बंदी बना लिए गए। कौरव सैनिक भागकर युधिष्ठिर के पास पहुँचे और सहायता माँगी।\n\nभीम हँसे—'जो काम हमें करना था, गंधर्वों ने कर दिया।' किंतु युधिष्ठिर ने कहा—'आपस में हम सौ और पाँच हैं, पर बाहरी शत्रु के सामने हम एक सौ पाँच हैं। कुल की स्त्रियों का अपमान हम नहीं सह सकते।' उनके आदेश पर अर्जुन और भीम ने गंधर्वों से युद्ध किया। चित्रसेन अर्जुन के मित्र थे; उन्होंने बताया कि इंद्र ने ही उन्हें दुर्योधन को दंड देने भेजा था। युधिष्ठिर के अनुरोध पर दुर्योधन को मुक्त कर दिया गया। लज्जा से गड़ा दुर्योधन प्राण त्यागने को तैयार हो गया, पर कर्ण और शकुनि ने उसे समझाकर हस्तिनापुर लौटाया।\n\nकुछ समय बाद जब पांडव आखेट पर गए थे, सिंधु नरेश जयद्रथ, जो दुर्योधन का बहनोई था, आश्रम के पास से निकला। द्रौपदी को अकेली देखकर वह मोहित हो गया और बलपूर्वक उन्हें रथ में बिठाकर ले गया। लौटने पर पांडवों ने पीछा किया। भीम और अर्जुन ने उसकी सेना को नष्ट किया और भीम ने उसे पकड़ लिया। भीम उसे मारना चाहते थे, पर युधिष्ठिर ने कहा कि वह बहन दुःशला का पति है। तब भीम ने उसका सिर मूँड़कर पाँच चोटियाँ छोड़ दीं और उससे कहलवाया—'मैं पांडवों का दास हूँ।' अपमानित जयद्रथ ने शिव की तपस्या करके वर पाया कि वह एक दिन अर्जुन को छोड़ चारों पांडवों को रोक सकेगा—यही वर अभिमन्यु की मृत्यु का कारण बना।",
+            "en": "During the exile the Pandavas were living in the Dvaita forest. Shakuni and Karna suggested to Duryodhana that he visit the forest on the pretext of inspecting his cattle stations, to flaunt his wealth before the Pandavas and enjoy the sight of their poverty. Duryodhana set out in grand style with his queens, army and brothers on this cattle expedition.\n\nNear a lake in the forest the Gandharva king Chitrasena was sporting with his celestial nymphs. When Duryodhana's soldiers tried to camp there, the Gandharvas stopped them. In his arrogance Duryodhana started a battle. The Gandharvas routed the Kaurava army; Karna fled the field, and Duryodhana, Dushasana and the queens were taken captive. The fleeing soldiers reached Yudhishthira and begged for help.\n\nBhima laughed: 'The Gandharvas have done our work for us.' But Yudhishthira said: 'Among ourselves we are a hundred and five, but against an outside enemy we are one hundred and five together. We cannot bear the dishonour of the women of our family.' At his command Arjuna and Bhima fought the Gandharvas. Chitrasena was Arjuna's friend and revealed that Indra himself had sent him to punish Duryodhana. At Yudhishthira's request Duryodhana was released. Sunk in shame, Duryodhana resolved to give up his life, but Karna and Shakuni persuaded him to return to Hastinapura.\n\nSome time later, while the Pandavas were out hunting, Jayadratha, king of Sindhu and husband of Duryodhana's sister, passed by the hermitage. Seeing Draupadi alone, he was smitten and forced her into his chariot. The Pandavas gave chase on their return. Bhima and Arjuna destroyed his army and Bhima seized him. Bhima wanted to kill him, but Yudhishthira reminded him that Jayadratha was the husband of their sister Dushala. So Bhima shaved his head, leaving five tufts, and made him declare, 'I am a slave of the Pandavas.' The humiliated Jayadratha performed austerities to Shiva and won a boon that for one day he could hold back the four Pandavas other than Arjuna. That very boon later led to the death of Abhimanyu."
+          },
+          "lesson": {
+            "hi": "अपनों से मतभेद हो सकता है, पर बाहरी संकट में कुल की रक्षा सर्वोपरि है; और अपमान का प्रतिशोध प्रायः और बड़े अनर्थ को जन्म देता है।",
+            "en": "One may quarrel with one's own, but in the face of an outside threat the family's honour comes first; and revenge for humiliation often breeds a greater tragedy."
+          },
+          "characters": [
+            "duryodhana",
+            "karna",
+            "shakuni",
+            "yudhishthira",
+            "bhima",
+            "arjuna",
+            "draupadi",
+            "jayadratha",
+            "dushasana"
+          ]
+        },
+        {
+          "slug": "karna-kavach-kundal",
+          "title": {
+            "hi": "कर्ण का कवच-कुंडल दान",
+            "en": "Karna's Gift of Armour and Earrings"
+          },
+          "body": {
+            "hi": "वनवास के अंतिम दिनों में देवराज इंद्र को चिंता हुई। उन्हें ज्ञात था कि कर्ण सूर्यपुत्र है और जन्म से ही दिव्य कवच और कुंडल धारण किए है। जब तक ये कवच-कुंडल कर्ण के शरीर पर हैं, उसे कोई मार नहीं सकता। अपने पुत्र अर्जुन की रक्षा के लिए इंद्र ने ब्राह्मण का वेश बनाकर कर्ण से कवच-कुंडल माँगने का निश्चय किया।\n\nसूर्यदेव को इंद्र की योजना का पता चला। वे रात में स्वप्न में कर्ण के पास आए और बोले—'पुत्र, कल इंद्र ब्राह्मण बनकर तुमसे तुम्हारे कवच-कुंडल माँगेंगे। तुम उन्हें मत देना। ये तुम्हारे प्राणों की रक्षा करते हैं।' कर्ण ने विनम्रता से उत्तर दिया—'देव, मैंने व्रत लिया है कि मध्याह्न में सूर्य-पूजा के बाद जो भी ब्राह्मण मुझसे जो कुछ माँगेगा, मैं अवश्य दूँगा। मेरे प्राण जाएँ तो जाएँ, पर मेरा यश और मेरा व्रत नहीं जाना चाहिए।' सूर्यदेव ने कहा—'यदि देना ही है तो बदले में इंद्र से उनकी अमोघ शक्ति माँग लेना।'\n\nअगले दिन मध्याह्न में जब कर्ण सूर्य-पूजा करके उठे, एक ब्राह्मण सामने खड़ा था। उसने कहा—'मुझे तुम्हारे कवच और कुंडल चाहिए।' कर्ण मुस्कुराए—'मैं जानता हूँ आप कौन हैं, देवराज। आप मेरे प्राण लेने आए हैं। किंतु मैं अपना वचन नहीं तोड़ूँगा।' उन्होंने तलवार उठाई और अपने शरीर से चिपके हुए कवच को काटना शुरू किया। रक्त की धाराएँ बहने लगीं, पर कर्ण के चेहरे पर पीड़ा का कोई चिह्न न था। उन्होंने कवच और कुंडल काटकर इंद्र के हाथों में रख दिए।\n\nइंद्र स्तब्ध रह गए। देवताओं ने आकाश से पुष्पवर्षा की। इंद्र ने लज्जित होकर कहा—'कर्ण, तुम्हारे जैसा दानी न हुआ, न होगा। माँगो, क्या चाहिए?' कर्ण ने इंद्र की अमोघ शक्ति माँगी। इंद्र ने दी, पर शर्त रखी कि वह केवल एक बार चलेगी और फिर लौट आएगी। उसी दिन से कर्ण 'वैकर्तन' कहलाए—जिसने अपना कवच काट दिया। यही शक्ति कर्ण ने अर्जुन के लिए रखी थी, पर युद्ध में उन्हें वह घटोत्कच पर चलानी पड़ी।",
+            "en": "In the final days of the exile, Indra, king of the gods, grew anxious. He knew that Karna was the son of the Sun god, born with a divine armour and earrings fused to his body. As long as Karna wore them, no one could kill him. To protect his own son Arjuna, Indra resolved to disguise himself as a Brahmin and beg the armour and earrings from Karna.\n\nThe Sun god learnt of Indra's plan. He came to Karna in a dream that night and said: 'My son, tomorrow Indra will come as a Brahmin and ask for your armour and earrings. Do not give them. They guard your life.' Karna replied humbly: 'Lord, I have taken a vow that whatever any Brahmin asks of me after my midday worship of the Sun, I shall give. Let my life go if it must, but not my honour and my vow.' The Sun god said: 'If you must give them, then ask Indra in return for his infallible weapon, the Shakti.'\n\nThe next day at noon, as Karna rose from his worship of the Sun, a Brahmin stood before him. He said: 'I want your armour and earrings.' Karna smiled: 'I know who you are, king of the gods. You have come for my life. But I will not break my word.' He took his sword and began to cut away the armour that was part of his very flesh. Blood streamed down, yet no trace of pain crossed Karna's face. He cut away the armour and the earrings and placed them in Indra's hands.\n\nIndra stood dumbstruck. The gods showered flowers from the heavens. Ashamed, Indra said: 'Karna, there has never been, nor will be, a giver like you. Ask what you will.' Karna asked for Indra's infallible Shakti. Indra gave it, but on the condition that it could be used only once and would then return to him. From that day Karna was called Vaikartana, 'he who cut away his armour'. Karna saved that weapon for Arjuna, but in the war he was forced to use it on Ghatotkacha instead."
+          },
+          "lesson": {
+            "hi": "जो अपने व्रत और वचन के लिए प्राणों की भी चिंता न करे, वही सच्चा दानवीर है; कर्ण का दान आज भी त्याग का पर्याय है।",
+            "en": "He who does not count even his life against his vow and word is the true hero of giving; Karna's gift remains a byword for sacrifice."
+          },
+          "characters": [
+            "karna",
+            "arjuna"
+          ]
+        },
+        {
+          "slug": "yaksha-prashna",
+          "title": {
+            "hi": "यक्ष-प्रश्न",
+            "en": "The Questions of the Yaksha"
+          },
+          "body": {
+            "hi": "वनवास का बारहवाँ वर्ष पूरा होने को था। एक दिन एक ब्राह्मण पांडवों के पास आया और बोला कि एक हिरण उसकी अरणी लेकर भाग गया है, जिससे वह अग्नि उत्पन्न करता है। पांडव हिरण के पीछे दौड़े, पर वह ओझल हो गया। थके-प्यासे पांडव एक वृक्ष के नीचे बैठे। युधिष्ठिर ने नकुल को जल लाने भेजा।\n\nनकुल एक सुंदर सरोवर पर पहुँचे। जैसे ही उन्होंने जल पीने के लिए हाथ बढ़ाया, एक आवाज आई—'रुको! यह सरोवर मेरा है। पहले मेरे प्रश्नों के उत्तर दो, फिर जल पीना।' प्यास से व्याकुल नकुल ने ध्यान नहीं दिया, जल पिया और प्राणहीन होकर गिर पड़े। उन्हें ढूँढ़ने सहदेव आए, फिर अर्जुन, फिर भीम—सबने उस चेतावनी की अवहेलना की और सब मृत होकर गिर पड़े।\n\nअंत में युधिष्ठिर स्वयं वहाँ पहुँचे। अपने चारों भाइयों को मृत देखकर वे शोक से व्याकुल हो गए। तभी वही आवाज आई। युधिष्ठिर ने विनम्रता से कहा—'आप जो भी हैं, पूछिए। मैं यथाशक्ति उत्तर दूँगा।' एक विशाल यक्ष प्रकट हुआ और उसने प्रश्न पूछने शुरू किए। 'सूर्य को कौन उदित करता है?'—'ब्रह्म।' 'पृथ्वी से भारी क्या है?'—'माता।' 'आकाश से ऊँचा कौन?'—'पिता।' 'वायु से तेज क्या?'—'मन।' 'कौन सा शत्रु दुर्जेय है?'—'क्रोध।' 'सुख क्या है?'—'संतोष।' 'धर्म का मार्ग क्या है?'—'जिस पर महापुरुष चलें।' 'संसार का सबसे बड़ा आश्चर्य क्या है?'—'प्रतिदिन लोग मरते देखकर भी मनुष्य सोचता है कि वह अमर है।'\n\nयक्ष युधिष्ठिर के उत्तरों से प्रसन्न हुआ और बोला—'तुम्हारे किसी एक भाई को जीवित कर दूँगा। चुनो।' युधिष्ठिर ने नकुल को चुना। यक्ष ने आश्चर्य से पूछा—'भीम और अर्जुन जैसे महाबली को छोड़कर नकुल क्यों?' युधिष्ठिर बोले—'मेरे पिता की दो पत्नियाँ थीं। कुंती का पुत्र मैं जीवित हूँ; माद्री का भी एक पुत्र जीवित रहना चाहिए।' यक्ष इस न्यायप्रियता से गद्गद हो गया। उसने अपना असली रूप प्रकट किया—वह युधिष्ठिर के पिता धर्मराज थे। उन्होंने चारों भाइयों को जीवित किया और वर दिया कि अज्ञातवास में पांडवों को कोई पहचान नहीं सकेगा।",
+            "en": "The twelfth year of exile was drawing to a close. One day a Brahmin came to the Pandavas and said that a deer had run off with his fire-sticks, the arani with which he kindled his sacred fire. The Pandavas chased the deer, but it vanished. Weary and thirsty, they sat beneath a tree, and Yudhishthira sent Nakula to fetch water.\n\nNakula came upon a beautiful lake. As he reached for the water a voice rang out: 'Stop! This lake is mine. Answer my questions first, then drink.' Maddened by thirst, Nakula ignored it, drank, and fell down lifeless. Sahadeva came in search of him, then Arjuna, then Bhima; each disregarded the warning, and each fell dead.\n\nAt last Yudhishthira himself arrived. Seeing his four brothers dead, he was overwhelmed with grief. Then the same voice spoke. Yudhishthira replied humbly: 'Whoever you are, ask. I shall answer as best I can.' A towering Yaksha appeared and began his questions. 'What makes the sun rise?' 'Brahman.' 'What is heavier than the earth?' 'A mother.' 'What is higher than the sky?' 'A father.' 'What is swifter than the wind?' 'The mind.' 'Which enemy is hardest to conquer?' 'Anger.' 'What is happiness?' 'Contentment.' 'What is the path of dharma?' 'The path the great ones have walked.' 'What is the greatest wonder in the world?' 'Day after day people see others die, yet each man believes he himself is immortal.'\n\nPleased with the answers, the Yaksha said: 'I shall restore one of your brothers to life. Choose.' Yudhishthira chose Nakula. The Yaksha asked in surprise, 'Why Nakula, and not the mighty Bhima or Arjuna?' Yudhishthira answered: 'My father had two wives. I, Kunti's son, am alive; one son of Madri should also live.' Moved by this fairness, the Yaksha revealed his true form: he was Dharma, Yudhishthira's own father. He restored all four brothers to life and granted the boon that no one would recognise the Pandavas during their year in hiding."
+          },
+          "lesson": {
+            "hi": "धर्म और निष्पक्षता पर अडिग रहने वाले की रक्षा स्वयं धर्म करता है; प्यास और भूख में भी विवेक नहीं छोड़ना चाहिए।",
+            "en": "Dharma itself protects the one who stands firm in righteousness and fairness; even in hunger and thirst, one must not abandon discernment."
+          },
+          "characters": [
+            "yudhishthira",
+            "yaksha",
+            "nakula",
+            "sahadeva",
+            "bhima",
+            "arjuna"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "slug": "virata-parva",
+      "title": {
+        "hi": "विराट पर्व",
+        "en": "Virata Parva"
+      },
+      "subtitle": {
+        "hi": "अज्ञातवास का एक वर्ष मत्स्य देश में",
+        "en": "The year in hiding at the court of King Virata"
+      },
+      "summary": {
+        "hi": "विराट पर्व में पांडवों के तेरहवें वर्ष, अर्थात् अज्ञातवास की कथा है। शर्त के अनुसार यदि इस वर्ष में कौरव उन्हें पहचान लेते, तो उन्हें फिर बारह वर्ष वन में बिताने पड़ते। पांडव मत्स्य देश के राजा विराट की राजधानी में वेश बदलकर रहते हैं—युधिष्ठिर ब्राह्मण कंक बनकर, भीम रसोइया वल्लभ, अर्जुन नपुंसक नृत्य-शिक्षक बृहन्नला, नकुल अश्वपाल ग्रंथिक, सहदेव गोपाल तंतिपाल और द्रौपदी रानी सुदेष्णा की सैरंध्री। रानी का भाई सेनापति कीचक द्रौपदी पर आसक्त होकर उन्हें अपमानित करता है, और भीम रात्रि में नृत्यशाला में उसका वध कर देते हैं। कीचक की मृत्यु से कौरवों को पांडवों का संदेह होता है। दुर्योधन और त्रिगर्त नरेश सुशर्मा विराट की गायें हरने आते हैं। एक ओर भीम और युधिष्ठिर सुशर्मा को हराते हैं, दूसरी ओर अर्जुन बृहन्नला के वेश में राजकुमार उत्तर के सारथी बनकर अकेले ही भीष्म, द्रोण, कर्ण सहित पूरी कौरव सेना को परास्त करते हैं। अज्ञातवास पूर्ण होने पर पांडव प्रकट होते हैं और अभिमन्यु का विवाह राजकुमारी उत्तरा से होता है।",
+        "en": "The Virata Parva tells of the Pandavas' thirteenth year, the year in hiding. By the terms of the wager, if the Kauravas discovered them during this year, they would have to spend another twelve years in exile. The Pandavas live in disguise at the capital of King Virata of Matsya: Yudhishthira as the Brahmin courtier Kanka, Bhima as the cook Vallabha, Arjuna as the eunuch dance-teacher Brihannala, Nakula as the horse-keeper Granthika, Sahadeva as the cowherd Tantipala, and Draupadi as Sairandhri, maid to Queen Sudeshna. The queen's brother, the commander Keechaka, lusts after Draupadi and humiliates her, and Bhima kills him at night in the dancing hall. Keechaka's death makes the Kauravas suspect the Pandavas are near. Duryodhana and King Susharma of Trigarta raid Virata's cattle. While Bhima and Yudhishthira defeat Susharma, Arjuna, still disguised as Brihannala, drives Prince Uttara's chariot and single-handedly routs the entire Kaurava army including Bhishma, Drona and Karna. With the year complete, the Pandavas reveal themselves and Abhimanyu is married to Princess Uttara."
+      },
+      "stories": [
+        {
+          "slug": "agyatvas-in-virata-nagar",
+          "title": {
+            "hi": "विराट नगर में अज्ञातवास",
+            "en": "The Year in Disguise at Virata's Court"
+          },
+          "body": {
+            "hi": "बारह वर्ष का वनवास पूरा हुआ। अब सबसे कठिन शर्त सामने थी—एक वर्ष का अज्ञातवास। यदि इस वर्ष में कौरवों ने पांडवों को पहचान लिया, तो पूरा वनवास दोबारा भोगना पड़ता। पांडवों ने विचार किया कि कहाँ छिपा जाए। युधिष्ठिर ने मत्स्य देश को चुना, जहाँ का राजा विराट धर्मात्मा, वृद्ध और शक्तिशाली था।\n\nनगर में प्रवेश से पहले पांडवों ने अपने दिव्य शस्त्र—गांडीव धनुष, भीम की गदा और अन्य आयुध—श्मशान के पास एक शमी वृक्ष पर एक शव के साथ बाँधकर छिपा दिए, ताकि कोई उस ओर न जाए। फिर सबने अपने-अपने वेश तय किए। युधिष्ठिर कंक नाम के ब्राह्मण बने, जो राजा के साथ द्यूत खेलने और सलाह देने का काम करते। भीम वल्लभ नामक रसोइया बने, जो पहलवानों से कुश्ती भी लड़ते। अर्जुन, जिन्हें उर्वशी के शाप से एक वर्ष के लिए नपुंसकता का वरदान मिला था, बृहन्नला बनकर राजकुमारी उत्तरा को नृत्य और संगीत सिखाने लगे। नकुल ग्रंथिक बनकर घोड़ों की देखभाल करते, सहदेव तंतिपाल बनकर गायों की। द्रौपदी सैरंध्री बनकर रानी सुदेष्णा की केश-सज्जा करने लगीं।\n\nपांडवों ने एक नियम बनाया—कोई किसी को पहचानेगा नहीं, और संकट में भी एक-दूसरे की सहायता तभी करेंगे जब अत्यंत आवश्यक हो। द्रौपदी ने रानी से कहा कि उनके पाँच गंधर्व पति हैं जो अदृश्य रहकर उनकी रक्षा करते हैं, इसलिए कोई उन्हें अपमानित न करे।\n\nइस प्रकार राजकुमार और रानी सेवकों के रूप में रहने लगे। युधिष्ठिर राजा के प्रिय सलाहकार बन गए। भीम ने ब्रह्मोत्सव में जीमूत नामक महाबली पहलवान को मारकर राजा का मन जीत लिया। बृहन्नला के नृत्य और उत्तरा के प्रति उनके स्नेह ने अंतःपुर को मोह लिया। इधर हस्तिनापुर में दुर्योधन ने चारों ओर गुप्तचर भेजे, किंतु धर्मराज के वरदान से किसी को पांडवों का सुराग न मिला। दस महीने इसी तरह बीत गए।",
+            "en": "The twelve years of forest exile were over. Now came the hardest condition: one year in hiding. If the Kauravas recognised the Pandavas in this year, the whole exile would have to be endured again. The brothers debated where to hide. Yudhishthira chose the kingdom of Matsya, whose king, Virata, was righteous, elderly and powerful.\n\nBefore entering the city, the Pandavas hid their divine weapons, the Gandiva bow, Bhima's mace and the rest, by tying them to a shami tree near the cremation ground alongside a corpse, so that no one would go near. Then each chose a disguise. Yudhishthira became Kanka, a Brahmin who would play dice with the king and advise him. Bhima became Vallabha the cook, who also wrestled. Arjuna, blessed through Urvashi's curse with a year of eunuchhood, became Brihannala and began teaching dance and music to Princess Uttara. Nakula became Granthika, keeper of the horses; Sahadeva became Tantipala, keeper of the cows. Draupadi became Sairandhri, the hairdresser and maid of Queen Sudeshna.\n\nThe Pandavas agreed on a rule: no one would acknowledge another, and they would come to each other's aid only in the direst need. Draupadi told the queen that she had five Gandharva husbands who protected her invisibly, so that no one should dare dishonour her.\n\nThus the princes and their queen lived as servants. Yudhishthira became the king's favourite counsellor. Bhima won the king's heart by killing the mighty wrestler Jimuta at the Brahma festival. Brihannala's dancing and tender affection for Uttara charmed the inner palace. Meanwhile in Hastinapura, Duryodhana sent spies in every direction, but by the boon of Dharma no one could find a trace of the Pandavas. Ten months passed in this way."
+          },
+          "lesson": {
+            "hi": "राजकुमार होकर भी सेवक का कार्य विनम्रता से करना सच्चे धैर्य और अनुशासन का प्रमाण है।",
+            "en": "To serve humbly even when born a prince is the mark of true patience and discipline."
+          },
+          "characters": [
+            "yudhishthira",
+            "bhima",
+            "arjuna",
+            "nakula",
+            "sahadeva",
+            "draupadi",
+            "uttara",
+            "duryodhana"
+          ]
+        },
+        {
+          "slug": "keechaka-vadh",
+          "title": {
+            "hi": "कीचक वध",
+            "en": "The Slaying of Keechaka"
+          },
+          "body": {
+            "hi": "रानी सुदेष्णा का भाई कीचक विराट की सेना का सेनापति था। वह इतना बलशाली था कि वास्तव में राज्य उसी के बल पर टिका था। एक दिन उसने अपनी बहन के कक्ष में सैरंध्री को देखा और उसके रूप पर मोहित हो गया। उसने द्रौपदी से अनुचित प्रस्ताव रखा। द्रौपदी ने कहा कि वह विवाहिता है और उसके गंधर्व पति उसका अपमान करने वाले को जीवित नहीं छोड़ेंगे। कीचक नहीं माना।\n\nउसने सुदेष्णा को विवश किया कि वह सैरंध्री को उसके कक्ष में मदिरा लाने भेजे। द्रौपदी काँपती हुई गईं। कीचक ने उनका हाथ पकड़ना चाहा; द्रौपदी छुड़ाकर राजसभा की ओर भागीं। कीचक ने पीछा करके भरी सभा में उन्हें लात मारकर गिरा दिया। सभा में राजा विराट बैठे थे, और कंक बने युधिष्ठिर भी। भीम क्रोध से काँप उठे और एक वृक्ष उखाड़ने को बढ़े, पर युधिष्ठिर ने संकेत से रोका—'वल्लभ, तुम्हें लकड़ी चाहिए तो बाहर जाओ।' राजा कीचक के भय से मौन रहे। द्रौपदी ने अपमान सहकर सभा छोड़ी।\n\nउस रात द्रौपदी रोती हुई भीम की रसोई में गईं। उन्होंने भीम से कहा—'जिस पत्नी को भरी सभा में लात मारी गई, उसके पति जीवित हैं? मैं कीचक की मृत्यु देखना चाहती हूँ या स्वयं मर जाऊँगी।' भीम ने उन्हें शांत किया और योजना बनाई। द्रौपदी ने अगले दिन कीचक से कहा कि वह रात में नृत्यशाला में अकेले आए, वह वहाँ उसकी प्रतीक्षा करेगी।\n\nरात्रि में कीचक सज-धजकर अंधेरी नृत्यशाला में पहुँचा। वहाँ बिछौने पर कोई लेटा था। कीचक ने प्रेम से हाथ बढ़ाया, तो उस 'सैरंध्री' ने उसे पकड़ लिया—वह भीम थे। दोनों महाबलियों में भीषण मल्लयुद्ध हुआ। भीम ने उसे उठाकर पटका और इतना मसल डाला कि उसके हाथ-पैर और सिर धड़ में घुस गए। उसका शरीर मांस का एक गोला बन गया। प्रातः जब यह शव मिला, तो सबने कहा कि गंधर्वों ने उसे मारा है। कीचक के भाइयों ने क्रोध में द्रौपदी को उसके शव के साथ जलाने के लिए श्मशान ले जाना चाहा, पर भीम ने एक वृक्ष उखाड़कर उन सभी को मार डाला। राजा और रानी ने भयभीत होकर द्रौपदी से एक माह बाद नगर छोड़ने का अनुरोध किया—अज्ञातवास पूरा होने तक द्रौपदी ने उतनी ही अवधि माँगी।",
+            "en": "Keechaka, brother of Queen Sudeshna, was commander of Virata's army. So mighty was he that the kingdom in truth rested on his strength. One day he saw Sairandhri in his sister's chambers and was consumed by desire. He made an improper proposal to Draupadi. She told him she was a married woman and that her Gandharva husbands would not spare anyone who dishonoured her. Keechaka would not listen.\n\nHe forced Sudeshna to send Sairandhri to his quarters with wine. Draupadi went trembling. Keechaka tried to seize her hand; she broke free and ran towards the royal court. Keechaka chased her and, in the full assembly, kicked her to the ground. King Virata sat there, and so did Yudhishthira as Kanka. Bhima shook with rage and moved to uproot a tree, but Yudhishthira stopped him with a hint: 'Vallabha, if you need firewood, go outside.' The king stayed silent out of fear of Keechaka. Draupadi left the hall, swallowing the insult.\n\nThat night Draupadi went weeping to Bhima's kitchen. She said: 'Are the husbands of a wife kicked in open court still alive? I wish to see Keechaka dead, or I shall die myself.' Bhima calmed her and made a plan. The next day Draupadi told Keechaka to come alone to the dancing hall that night, where she would wait for him.\n\nAt night Keechaka, dressed and perfumed, entered the darkened dancing hall. Someone lay on the couch. As he reached out lovingly, that 'Sairandhri' seized him: it was Bhima. A terrible wrestling match followed between the two giants. Bhima lifted him, dashed him down and crushed him until his limbs and head were driven into his trunk; his body became a ball of flesh. When the corpse was found in the morning, everyone said the Gandharvas had killed him. Keechaka's brothers, in fury, tried to carry Draupadi to the cremation ground to burn her with his body, but Bhima uprooted a tree and slew them all. The frightened king and queen asked Draupadi to leave the city after a month; Draupadi asked for just that much time, for the year of hiding would then be complete."
+          },
+          "lesson": {
+            "hi": "काम और अहंकार से अंधा व्यक्ति अपने विनाश को स्वयं निमंत्रण देता है; नारी के सम्मान पर आघात कभी अदंडित नहीं रहता।",
+            "en": "One blinded by lust and arrogance invites his own destruction; an assault on a woman's honour never goes unpunished."
+          },
+          "characters": [
+            "keechaka",
+            "draupadi",
+            "bhima",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "go-harana-and-uttara-gau-raksha",
+          "title": {
+            "hi": "गोहरण और उत्तर का भय",
+            "en": "The Cattle Raid and Prince Uttara's Fear"
+          },
+          "body": {
+            "hi": "कीचक की मृत्यु का समाचार हस्तिनापुर पहुँचा। दुर्योधन ने विचार किया—कीचक को गंधर्व नहीं, केवल भीम मार सकता है। इसका अर्थ है कि पांडव मत्स्य देश में छिपे हैं। अज्ञातवास के कुछ ही दिन शेष थे। दुर्योधन ने योजना बनाई कि विराट की गायें हर ली जाएँ, जिससे पांडव सहायता के लिए निकलें और पहचाने जाएँ।\n\nत्रिगर्त नरेश सुशर्मा, जो कीचक से बार-बार हारा था, दक्षिण दिशा से विराट की गायों पर आक्रमण करने आया। राजा विराट स्वयं सेना लेकर निकले। कंक, वल्लभ, ग्रंथिक और तंतिपाल भी उनके साथ गए। युद्ध में सुशर्मा ने विराट को बंदी बना लिया। तब भीम ने अपनी असली शक्ति दिखाई—उन्होंने सुशर्मा को पकड़कर पछाड़ा और विराट को मुक्त कराया। युधिष्ठिर की सलाह पर सुशर्मा को प्राणदान देकर छोड़ दिया गया। विराट कृतज्ञ हुए।\n\nइसी बीच उत्तर दिशा से भीष्म, द्रोण, कृपाचार्य, कर्ण, अश्वत्थामा और दुर्योधन की विशाल सेना ने विराट की दूसरी गौशाला पर आक्रमण किया। राजा और सेना दक्षिण में थे। नगर में केवल युवा राजकुमार उत्तर था। गोपों ने आकर गुहार लगाई। उत्तर ने अंतःपुर में शेखी बघारी—'मैं अकेला पूरी कौरव सेना को हरा दूँगा, बस मेरे पास कोई योग्य सारथी नहीं है।' द्रौपदी ने सैरंध्री के रूप में सुझाया—'बृहन्नला पहले अर्जुन का सारथी रह चुका है।'\n\nउत्तर बृहन्नला को सारथी बनाकर रणभूमि की ओर चला। किंतु कौरव सेना का विस्तार देखकर उसके हाथ-पाँव फूल गए। वह रथ से कूदकर नगर की ओर भागा। बृहन्नला ने पीछा करके उसे पकड़ा। उत्तर गिड़गिड़ाया—'मुझे जाने दो, मैं लड़ नहीं सकता।' तब बृहन्नला ने कहा—'डरो मत। तुम सारथी बनो, मैं युद्ध करूँगा।' रथ को शमी वृक्ष के पास ले जाकर उन्होंने उत्तर से शस्त्र उतरवाए। गांडीव को देखकर उत्तर विस्मित रह गया। तब अर्जुन ने अपना परिचय दिया और अपने भाइयों के असली नाम बताए। उत्तर उनके चरणों में गिर पड़ा।",
+            "en": "News of Keechaka's death reached Hastinapura. Duryodhana reasoned: no Gandharva could kill Keechaka; only Bhima could. That meant the Pandavas were hiding in Matsya. Only a few days of the year of hiding remained. Duryodhana planned to raid Virata's cattle so that the Pandavas would come out to help and be recognised.\n\nKing Susharma of Trigarta, who had often been beaten by Keechaka, attacked Virata's cattle from the south. King Virata himself marched out with his army, and Kanka, Vallabha, Granthika and Tantipala went with him. In the battle Susharma captured Virata. Then Bhima showed his true strength: he seized Susharma, flung him down and freed Virata. On Yudhishthira's advice Susharma was spared and released. Virata was deeply grateful.\n\nMeanwhile from the north, the vast army of Bhishma, Drona, Kripa, Karna, Ashwatthama and Duryodhana attacked Virata's other cattle station. The king and army were in the south. Only the young prince Uttara was in the city. The cowherds came crying for help. Uttara boasted in the women's quarters: 'I alone could defeat the whole Kaurava army, if only I had a worthy charioteer.' Draupadi, as Sairandhri, suggested: 'Brihannala was once Arjuna's charioteer.'\n\nUttara set out with Brihannala as his charioteer. But at the sight of the sprawling Kaurava host, his limbs went weak. He leapt from the chariot and ran towards the city. Brihannala chased and caught him. Uttara pleaded: 'Let me go, I cannot fight.' Then Brihannala said: 'Do not fear. You drive the chariot; I shall fight.' Taking the chariot to the shami tree, Arjuna had Uttara bring down the weapons. Seeing the Gandiva, Uttara was astonished. Then Arjuna revealed who he was and told him the true names of his brothers. Uttara fell at his feet."
+          },
+          "lesson": {
+            "hi": "शेखी बघारना सरल है, संकट में खड़े रहना कठिन; सच्चा वीर वही है जो भयभीत साथी को भी साहस दे।",
+            "en": "Boasting is easy, standing firm in danger is hard; the true hero is one who gives courage even to a frightened companion."
+          },
+          "characters": [
+            "duryodhana",
+            "bhima",
+            "yudhishthira",
+            "arjuna",
+            "uttara",
+            "draupadi",
+            "bhishma",
+            "drona",
+            "karna"
+          ]
+        },
+        {
+          "slug": "arjuna-defeats-kauravas-and-abhimanyu-uttara-vivah",
+          "title": {
+            "hi": "अर्जुन की विजय और अभिमन्यु-उत्तरा विवाह",
+            "en": "Arjuna's Victory and the Wedding of Abhimanyu and Uttara"
+          },
+          "body": {
+            "hi": "अर्जुन ने गांडीव पर प्रत्यंचा चढ़ाई और देवदत्त शंख फूँका। उस ध्वनि से कौरव सेना काँप उठी। द्रोणाचार्य ने कहा—'यह गांडीव की टंकार है। अर्जुन आ गया है।' दुर्योधन प्रसन्न हुआ—'अज्ञातवास पूरा होने से पहले अर्जुन प्रकट हो गया, अब पांडवों को फिर वन जाना होगा!' किंतु भीष्म ने गणना करके बताया कि तेरह वर्ष पूरे हो चुके हैं; अब कौरवों का दावा व्यर्थ है।\n\nअर्जुन ने उत्तर से कहा कि रथ को सीधे कौरवों की ओर ले चलें। पहले कर्ण से भिड़ंत हुई; अर्जुन के बाणों से घायल होकर कर्ण रणभूमि से हट गए। फिर द्रोण और अश्वत्थामा से युद्ध हुआ। कृपाचार्य भी परास्त हुए। भीष्म से भीषण युद्ध हुआ, जिसमें अर्जुन ने पितामह के सारथी को गिरा दिया। दुर्योधन सामने आया तो अर्जुन के बाणों से उसका मुकुट गिर गया और वह भाग निकला। अंत में अर्जुन ने सम्मोहनास्त्र चलाया, जिससे पूरी कौरव सेना मूर्छित हो गई। अर्जुन ने उत्तर से कहा कि वह जाकर द्रोण, कृप और भीष्म के वस्त्रों को सम्मानस्वरूप स्पर्श करे और दुर्योधन व कर्ण के वस्त्र उत्तरा की गुड़ियों के लिए ले आए। गायें वापस आईं, कौरव लौट गए।\n\nउत्तर ने अर्जुन से कहा कि वह उनकी पहचान प्रकट नहीं करेगा और विजय का श्रेय स्वयं लेगा। विराट नगर लौटे तो चारों ओर उत्तर की वीरता की चर्चा थी। गर्व में राजा ने कंक को द्यूत खेलने बुलाया। जब कंक ने बार-बार कहा कि बृहन्नला का सारथी होना ही विजय का कारण है, तो क्रुद्ध राजा ने पासा फेंककर मारा, जिससे युधिष्ठिर की नाक से रक्त बहने लगा। द्रौपदी ने स्वर्ण पात्र में वह रक्त रोका ताकि वह भूमि पर न गिरे। तभी उत्तर आया और सारा सत्य बताया।\n\nतीसरे दिन पांडव राजसी वस्त्रों में विराट की सभा में प्रकट हुए। विराट लज्जित और विस्मित हुए और अपना राज्य ही उन्हें अर्पित कर दिया। उन्होंने उत्तरा का विवाह अर्जुन से करने का प्रस्ताव रखा, पर अर्जुन ने कहा—'मैं वर्ष भर उसका गुरु रहा हूँ, वह मेरी पुत्री के समान है। मैं उसे अपने पुत्र अभिमन्यु के लिए स्वीकार करता हूँ।' द्वारका से श्रीकृष्ण, बलराम, सुभद्रा और अभिमन्यु पधारे। द्रुपद, धृष्टद्युम्न सहित सभी मित्र राजा एकत्र हुए और अभिमन्यु-उत्तरा का विवाह धूमधाम से हुआ। यही सभा आगे चलकर युद्ध की तैयारी का आरंभ बनी।",
+            "en": "Arjuna strung the Gandiva and blew the conch Devadatta. The Kaurava army trembled at the sound. Drona said: 'That is the twang of the Gandiva. Arjuna has come.' Duryodhana rejoiced: 'Arjuna has shown himself before the year of hiding is over; the Pandavas must go back to the forest!' But Bhishma calculated the time and declared that thirteen years were complete; the Kaurava claim was void.\n\nArjuna told Uttara to drive straight at the Kauravas. First he clashed with Karna, who withdrew wounded by Arjuna's arrows. Then he fought Drona and Ashwatthama, and Kripa too was defeated. A fierce duel followed with Bhishma, in which Arjuna felled the grandsire's charioteer. When Duryodhana came forward, Arjuna's arrows knocked the crown from his head and he fled. At last Arjuna released the Sammohana weapon, which stupefied the entire Kaurava host. He told Uttara to go and touch the garments of Drona, Kripa and Bhishma as a mark of respect, and to bring back the robes of Duryodhana and Karna for Uttara's dolls. The cattle were recovered and the Kauravas returned home.\n\nUttara told Arjuna he would not reveal his identity and would take credit for the victory himself. When they returned, the city was abuzz with Uttara's bravery. The proud king called Kanka to play dice. When Kanka kept insisting that Brihannala's driving was the real cause of victory, the angry king threw a die at him, and blood flowed from Yudhishthira's nose. Draupadi caught the blood in a golden vessel so that it would not fall to the ground. Just then Uttara arrived and told the whole truth.\n\nOn the third day the Pandavas appeared in Virata's court in royal robes. Ashamed and amazed, Virata offered them his entire kingdom. He proposed Uttara's marriage to Arjuna, but Arjuna said: 'I have been her teacher for a year; she is like a daughter to me. I accept her for my son Abhimanyu.' Krishna, Balarama, Subhadra and Abhimanyu came from Dwaraka. Drupada, Dhrishtadyumna and all the allied kings gathered, and the wedding of Abhimanyu and Uttara was celebrated with great splendour. This same gathering became the beginning of preparations for war."
+          },
+          "lesson": {
+            "hi": "सच्चा पराक्रमी श्रेय का भूखा नहीं होता; अर्जुन ने विजय का यश उत्तर को देकर और उत्तरा को पुत्री मानकर अपनी महानता सिद्ध की।",
+            "en": "The truly valiant do not hunger for credit; Arjuna proved his greatness by giving Uttara the glory and treating the princess as his daughter."
+          },
+          "characters": [
+            "arjuna",
+            "uttara",
+            "bhishma",
+            "drona",
+            "karna",
+            "duryodhana",
+            "kripa",
+            "ashwatthama",
+            "yudhishthira",
+            "draupadi",
+            "abhimanyu",
+            "krishna",
+            "balarama",
+            "subhadra",
+            "drupada",
+            "dhrishtadyumna"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "udyoga-parva",
+      "title": {
+        "hi": "उद्योग पर्व",
+        "en": "Udyoga Parva"
+      },
+      "subtitle": {
+        "hi": "शांति के अंतिम प्रयास और युद्ध की तैयारी",
+        "en": "The last efforts for peace and the preparations for war"
+      },
+      "summary": {
+        "hi": "उद्योग पर्व में युद्ध से पहले के प्रयासों का वर्णन है। अज्ञातवास पूरा होने पर पांडव अपना राज्य वापस माँगते हैं। द्रुपद के पुरोहित को दूत बनाकर हस्तिनापुर भेजा जाता है। दुर्योधन और अर्जुन दोनों द्वारका पहुँचकर श्रीकृष्ण से सहायता माँगते हैं—दुर्योधन नारायणी सेना चुनता है और अर्जुन निःशस्त्र श्रीकृष्ण को। शल्य को दुर्योधन छल से अपने पक्ष में कर लेता है। संजय को दूत बनाकर धृतराष्ट्र पांडवों के पास भेजते हैं। रात्रि में चिंतित धृतराष्ट्र को विदुर 'विदुर नीति' का उपदेश देते हैं। अंत में श्रीकृष्ण स्वयं शांतिदूत बनकर हस्तिनापुर जाते हैं और केवल पाँच गाँव माँगते हैं, पर दुर्योधन सुई की नोक बराबर भूमि देने से भी इनकार करता है और श्रीकृष्ण को बंदी बनाने का प्रयास करता है। श्रीकृष्ण विराट रूप दिखाते हैं। लौटते समय वे कर्ण को उसके जन्म का रहस्य बताते हैं, और फिर कुंती स्वयं कर्ण से मिलकर उसे पांडवों के पक्ष में आने को कहती हैं; कर्ण अर्जुन के अतिरिक्त चार भाइयों को न मारने का वचन देते हैं। दोनों सेनाएँ कुरुक्षेत्र में एकत्र होती हैं, भीष्म सेनापति बनते हैं और अंबा-शिखंडी की कथा सुनाई जाती है।",
+        "en": "The Udyoga Parva describes the efforts made before the war. When the year of hiding is over, the Pandavas demand their kingdom back. Drupada's priest is sent as envoy to Hastinapura. Duryodhana and Arjuna both reach Dwaraka to seek Krishna's help; Duryodhana chooses the Narayani army, Arjuna chooses the unarmed Krishna himself. Duryodhana wins over Shalya by a trick. Dhritarashtra sends Sanjaya as envoy to the Pandavas. To the sleepless, anxious Dhritarashtra, Vidura delivers the teachings known as Vidura Niti. Finally Krishna himself goes to Hastinapura as the messenger of peace and asks for just five villages, but Duryodhana refuses to give even a needle-point of land and tries to imprison Krishna, who reveals his cosmic form. On his way back Krishna tells Karna the secret of his birth, and then Kunti herself meets Karna and asks him to join the Pandavas; Karna promises not to kill any of her sons except Arjuna. The two armies gather at Kurukshetra, Bhishma is made commander, and the tale of Amba and Shikhandi is told."
+      },
+      "stories": [
+        {
+          "slug": "krishna-and-the-narayani-sena",
+          "title": {
+            "hi": "श्रीकृष्ण या नारायणी सेना",
+            "en": "Krishna or the Narayani Army"
+          },
+          "body": {
+            "hi": "अभिमन्यु के विवाह के बाद विराट की सभा में श्रीकृष्ण ने प्रस्ताव रखा कि पहले शांति का प्रयास किया जाए। द्रुपद के पुरोहित को हस्तिनापुर भेजा गया। उधर दोनों पक्षों ने मित्र राजाओं को अपनी ओर करने के लिए दूत भेजने शुरू किए। सबसे महत्त्वपूर्ण थे द्वारकाधीश श्रीकृष्ण, जिनकी नारायणी सेना दस हजार योद्धाओं की थी और जो स्वयं अजेय थे।\n\nदुर्योधन और अर्जुन दोनों एक ही दिन द्वारका पहुँचे। श्रीकृष्ण उस समय शयन कर रहे थे। दुर्योधन पहले पहुँचा और सिरहाने रखे आसन पर बैठ गया। अर्जुन बाद में आए और हाथ जोड़कर श्रीकृष्ण के चरणों की ओर खड़े रहे। श्रीकृष्ण की आँख खुली तो पहले अर्जुन दिखे, फिर मुड़कर दुर्योधन। दोनों ने सहायता माँगी। श्रीकृष्ण ने कहा—'मैंने पहले अर्जुन को देखा, और दुर्योधन पहले आया। अतः दोनों की सहायता करूँगा। एक ओर मेरी नारायणी सेना है, दूसरी ओर मैं अकेला, और मैं युद्ध में शस्त्र नहीं उठाऊँगा। अर्जुन छोटा है, इसलिए पहले वह चुने।'\n\nअर्जुन ने एक क्षण भी नहीं सोचा—'मुझे आप चाहिए, केशव। आप शस्त्र न उठाएँ, केवल मेरे रथ पर रहें।' दुर्योधन मन ही मन हँसा—उसे पूरी सेना मिल गई थी और अर्जुन ने एक निःशस्त्र पुरुष को चुना था। वह प्रसन्न होकर लौटा। बलराम ने कहा कि वे दोनों पक्षों के प्रिय हैं, अतः किसी ओर से नहीं लड़ेंगे।\n\nश्रीकृष्ण ने अर्जुन से पूछा—'तुमने मुझे क्यों चुना?' अर्जुन बोले—'जहाँ आप हैं वहाँ धर्म है, और जहाँ धर्म है वहाँ विजय है। मेरी इच्छा है कि आप मेरे सारथी बनें।' श्रीकृष्ण ने स्वीकार किया। उधर दुर्योधन ने लौटते हुए मद्रराज शल्य, जो नकुल-सहदेव के मामा थे और पांडवों से मिलने जा रहे थे, के मार्ग में भव्य पड़ाव बनवाए। शल्य ने समझा कि यह युधिष्ठिर का प्रबंध है और प्रसन्न होकर वर देने की बात कही। तब दुर्योधन प्रकट हुआ और शल्य को अपने पक्ष में युद्ध करने का वचन माँग लिया। धर्मबद्ध शल्य कौरवों की ओर से लड़ने को विवश हुए, पर उन्होंने युधिष्ठिर से वचन दिया कि कर्ण के सारथी बनकर वे उसका मनोबल तोड़ेंगे।",
+            "en": "After Abhimanyu's wedding, Krishna proposed in Virata's court that peace be attempted first. Drupada's priest was sent to Hastinapura. Meanwhile both sides began sending envoys to win over allied kings. The most important of all was Krishna, lord of Dwaraka, whose Narayani army numbered ten thousand warriors and who was himself invincible.\n\nDuryodhana and Arjuna reached Dwaraka on the same day. Krishna was asleep. Duryodhana arrived first and sat on a seat at the head of the bed. Arjuna came later and stood with folded hands at Krishna's feet. When Krishna opened his eyes he saw Arjuna first, and then, turning, Duryodhana. Both asked for his help. Krishna said: 'I saw Arjuna first, and Duryodhana came first. So I shall help both. On one side is my Narayani army; on the other, I alone, and I shall not take up arms in the war. Arjuna is the younger, so let him choose first.'\n\nArjuna did not hesitate for a moment: 'I want you, Keshava. Do not take up arms; only be on my chariot.' Duryodhana laughed inwardly: he had got an entire army while Arjuna had chosen an unarmed man. He went home delighted. Balarama declared that since he loved both sides, he would fight for neither.\n\nKrishna asked Arjuna: 'Why did you choose me?' Arjuna said: 'Where you are, there is dharma, and where dharma is, there is victory. I wish you to be my charioteer.' Krishna agreed. On his way home, Duryodhana had splendid rest-camps set up along the route of Shalya, king of Madra, the maternal uncle of Nakula and Sahadeva, who was travelling to join the Pandavas. Shalya assumed the hospitality was Yudhishthira's and, pleased, offered a boon to his host. Then Duryodhana revealed himself and asked Shalya to fight on his side. Bound by his word, Shalya was compelled to fight for the Kauravas, but he promised Yudhishthira that as Karna's charioteer he would break Karna's spirit."
+          },
+          "lesson": {
+            "hi": "संख्या और साधन से बड़ा है भगवान का साथ; जिसने निःशस्त्र श्रीकृष्ण को चुना, विजय उसी की हुई।",
+            "en": "The Lord's presence outweighs numbers and resources; victory went to the one who chose the unarmed Krishna."
+          },
+          "characters": [
+            "krishna",
+            "arjuna",
+            "duryodhana",
+            "balarama",
+            "shalya",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "vidura-niti",
+          "title": {
+            "hi": "विदुर नीति",
+            "en": "Vidura Niti: The Counsel of Vidura"
+          },
+          "body": {
+            "hi": "धृतराष्ट्र ने संजय को पांडवों के पास दूत बनाकर भेजा था, पर संजय ने लौटकर कहा कि वे अगले दिन सभा में सबके सामने पांडवों का संदेश सुनाएँगे। उस रात धृतराष्ट्र को नींद नहीं आई। चिंता और भय से व्याकुल होकर उन्होंने विदुर को बुलाया और कहा—'विदुर, मुझे नींद नहीं आ रही। मुझे धर्म और नीति की बातें सुनाओ, जिससे मेरा मन शांत हो।'\n\nविदुर ने कहा—'महाराज, नींद उसे नहीं आती जो दुर्बल होकर बलवान से बैर करता है, जिसका सर्वस्व छिन गया हो, जो कामी हो या चोर हो। क्या आपने पांडवों का धन नहीं छीना है?' फिर उन्होंने पंडित के लक्षण बताए—जो अपने सामर्थ्य के अनुसार कार्य करता है, जो क्रोध, हर्ष, अहंकार, लज्जा और घमंड से विचलित नहीं होता, जिसके निश्चय को दूसरे न जान सकें, वही पंडित है। और मूर्ख वह है जो बिना बुलाए आता है, बिना पूछे बोलता है, और अविश्वसनीय पर विश्वास करता है।\n\nविदुर ने छह दोषों का त्याग बताया—निद्रा, तंद्रा, भय, क्रोध, आलस्य और दीर्घसूत्रता। उन्होंने कहा—'एक अकेला स्वादिष्ट भोजन न करे, अकेले किसी कार्य का निश्चय न करे, अकेले मार्ग न चले और अकेले सोए हुओं के बीच न जागे। सत्य से बढ़कर कोई तप नहीं, क्षमा से बढ़कर कोई बल नहीं।' विदुर ने समझाया कि जिस घर में धर्मात्मा का अपमान हो वह घर नष्ट होता है, और जो राजा अपने दुष्ट पुत्र के लिए सज्जनों की उपेक्षा करता है, उसका कुल डूब जाता है।\n\nअंत में विदुर ने स्पष्ट कहा—'महाराज, दुर्योधन, कर्ण, शकुनि और दुःशासन को राज्य सौंपकर आप कल्याण की आशा कैसे कर सकते हैं? पांडव आपके ही पुत्र हैं। उन्हें उनका भाग दे दीजिए, तो कुल सुरक्षित रहेगा।' धृतराष्ट्र ने सब सुना, स्वीकार भी किया, पर बोले—'विदुर, तुम जो कहते हो सब सत्य है। किंतु जब मैं दुर्योधन के पास जाता हूँ तो मेरी बुद्धि पलट जाती है। मैं उसे छोड़ नहीं सकता। भाग्य में जो लिखा है वही होगा।' विदुर की यह शिक्षा आज 'विदुर नीति' के नाम से भारतीय राजनीति और नैतिकता का आधार ग्रंथ है।",
+            "en": "Dhritarashtra had sent Sanjaya as envoy to the Pandavas, but on his return Sanjaya said he would deliver the Pandavas' reply before the full court the next day. That night Dhritarashtra could not sleep. Tormented by anxiety and fear, he summoned Vidura and said: 'Vidura, sleep will not come to me. Speak to me of dharma and right conduct, so that my mind may be at peace.'\n\nVidura said: 'O King, sleep eludes the weak man who makes an enemy of the strong, the man whose all has been taken, the lustful and the thief. Have you not taken the wealth of the Pandavas?' Then he described the marks of the wise: one who acts according to his capacity, who is not shaken by anger, joy, pride, shame or conceit, and whose resolve others cannot read, is wise. The fool is he who comes unbidden, speaks unasked, and trusts the untrustworthy.\n\nVidura spoke of six faults to be given up: sleep, drowsiness, fear, anger, laziness and procrastination. He said: 'One should not eat delicacies alone, decide a matter alone, travel alone, or stay awake alone among the sleeping. There is no austerity greater than truth, no strength greater than forgiveness.' He explained that a house where a righteous person is insulted perishes, and that a king who neglects good men for the sake of a wicked son drags his whole line to ruin.\n\nAt last Vidura spoke plainly: 'O King, how can you hope for welfare after handing the kingdom to Duryodhana, Karna, Shakuni and Dushasana? The Pandavas are your sons too. Give them their share and the family will be safe.' Dhritarashtra heard it all and even agreed, but said: 'Vidura, everything you say is true. But when I go near Duryodhana, my judgement turns. I cannot abandon him. What is written in fate will happen.' These teachings of Vidura, known as the Vidura Niti, remain to this day a foundational text of Indian statecraft and ethics."
+          },
+          "lesson": {
+            "hi": "सत्य जानकर भी मोहवश उस पर न चलना सबसे बड़ी दुर्बलता है; नीति सुनना पर्याप्त नहीं, उसका पालन आवश्यक है।",
+            "en": "Knowing the truth yet failing to act on it out of attachment is the greatest weakness; hearing wise counsel is not enough, it must be followed."
+          },
+          "characters": [
+            "vidura",
+            "dhritarashtra",
+            "sanjaya",
+            "duryodhana"
+          ]
+        },
+        {
+          "slug": "krishna-shanti-doot",
+          "title": {
+            "hi": "श्रीकृष्ण का शांति-दूत बनना",
+            "en": "Krishna's Mission of Peace"
+          },
+          "body": {
+            "hi": "संजय का दूत-कार्य विफल रहा। तब युधिष्ठिर ने श्रीकृष्ण से अंतिम प्रयास करने का अनुरोध किया। द्रौपदी ने अपने खुले केश दिखाकर कहा—'गोविंद, संधि करते समय इन केशों को मत भूलना, जिन्हें दुःशासन ने खींचा था।' श्रीकृष्ण ने कहा—'मैं शांति का प्रयास करूँगा, पर यदि दुर्योधन न माना, तो तुम कौरवों का नाश देखोगी।' भीम ने भी, आश्चर्यजनक रूप से, संधि का पक्ष लिया, पर श्रीकृष्ण जानते थे कि यह उनकी कोमलता है।\n\nश्रीकृष्ण हस्तिनापुर पहुँचे। दुर्योधन ने उनके लिए भव्य महल और भोजन की व्यवस्था की, पर श्रीकृष्ण ने उसका आतिथ्य अस्वीकार कर दिया और विदुर के घर गए। वहाँ उन्होंने विदुर की पत्नी के हाथों सादा साग प्रेम से खाया। दुर्योधन ने पूछा तो श्रीकृष्ण ने कहा—'दूत का भोजन या तो प्रेम से मिलता है या विपत्ति में। तुम्हारा भोजन न प्रेम का है, न मैं विपत्ति में हूँ।'\n\nअगले दिन भरी सभा में श्रीकृष्ण ने धृतराष्ट्र से कहा—'महाराज, कुल का नाश मत होने दीजिए। पांडव आपके चरणों में हैं। उन्हें इंद्रप्रस्थ दीजिए।' दुर्योधन ने इनकार किया। श्रीकृष्ण ने कहा—'तो केवल पाँच गाँव दे दो—अविस्थल, वृकस्थल, माकंदी, वारणावत और पाँचवाँ कोई भी। पांडव संतुष्ट हो जाएँगे।' दुर्योधन गरजा—'सुई की नोक बराबर भूमि भी बिना युद्ध के नहीं दूँगा!' भीष्म, द्रोण, विदुर, गांधारी सबने उसे समझाया, पर वह सभा छोड़कर चला गया।\n\nदुर्योधन ने शकुनि, कर्ण और दुःशासन के साथ श्रीकृष्ण को बंदी बनाने की योजना बनाई। सात्यकि को इसका पता चला। श्रीकृष्ण हँसे और बोले—'दुर्योधन, तू मुझे अकेला समझता है?' उसी क्षण उन्होंने अपना विराट रूप प्रकट किया। उनके शरीर से सभी देवता, पांडव, वृष्णि और समस्त लोक प्रकट हुए। उनके तेज से सभा के नेत्र चौंधिया गए; केवल भीष्म, द्रोण, विदुर, संजय और दिव्य दृष्टि पाए धृतराष्ट्र ही उसे देख सके। धृतराष्ट्र ने गद्गद होकर कहा—'मैं धन्य हूँ कि आपका यह रूप देख सका।' श्रीकृष्ण ने रूप समेटा और घोषणा की—'अब युद्ध निश्चित है।' वे रथ पर सवार होकर हस्तिनापुर से निकल गए।",
+            "en": "Sanjaya's mission had failed. Then Yudhishthira asked Krishna to make one final attempt. Draupadi showed her loose hair and said: 'Govinda, when you make peace, do not forget this hair that Dushasana dragged.' Krishna replied: 'I shall try for peace, but if Duryodhana refuses, you will see the destruction of the Kauravas.' Even Bhima, surprisingly, spoke for peace, but Krishna knew that was only his tender heart.\n\nKrishna arrived in Hastinapura. Duryodhana had prepared a grand palace and feast for him, but Krishna declined his hospitality and went to Vidura's house. There he lovingly ate simple greens served by Vidura's wife. When Duryodhana asked why, Krishna said: 'A messenger eats another's food either out of love or in distress. Your food is not offered in love, and I am not in distress.'\n\nThe next day, in the full court, Krishna said to Dhritarashtra: 'O King, do not let the family be destroyed. The Pandavas are at your feet. Give them Indraprastha.' Duryodhana refused. Krishna said: 'Then give just five villages, Avisthala, Vrikasthala, Makandi, Varanavata and any fifth. The Pandavas will be content.' Duryodhana roared: 'I will not give even a needle-point of land without war!' Bhishma, Drona, Vidura and Gandhari all tried to reason with him, but he stormed out of the court.\n\nDuryodhana then plotted with Shakuni, Karna and Dushasana to seize Krishna and imprison him. Satyaki learnt of the plan. Krishna laughed and said: 'Duryodhana, do you think I am alone?' In that instant he revealed his cosmic form. From his body emerged all the gods, the Pandavas, the Vrishnis and all the worlds. The assembly was blinded by his radiance; only Bhishma, Drona, Vidura, Sanjaya and Dhritarashtra, who was granted divine sight, could behold it. Overcome, Dhritarashtra said: 'I am blessed to have seen this form of yours.' Krishna withdrew the vision and declared: 'Now war is certain.' He mounted his chariot and left Hastinapura."
+          },
+          "lesson": {
+            "hi": "भगवान स्वयं शांति का प्रस्ताव लेकर आएँ और अहंकार उसे ठुकरा दे, तो विनाश को कोई नहीं रोक सकता।",
+            "en": "When the Lord himself brings an offer of peace and pride rejects it, nothing can hold back destruction."
+          },
+          "characters": [
+            "krishna",
+            "duryodhana",
+            "dhritarashtra",
+            "vidura",
+            "draupadi",
+            "bhishma",
+            "drona",
+            "gandhari",
+            "sanjaya",
+            "shakuni",
+            "karna",
+            "dushasana",
+            "yudhishthira",
+            "bhima"
+          ]
+        },
+        {
+          "slug": "karna-kunti-milan",
+          "title": {
+            "hi": "कर्ण और कुंती की भेंट",
+            "en": "The Meeting of Karna and Kunti"
+          },
+          "body": {
+            "hi": "हस्तिनापुर से लौटते समय श्रीकृष्ण ने कर्ण को अपने रथ पर बिठाया। नगर के बाहर उन्होंने कर्ण से कहा—'कर्ण, तुम जानते हो कि तुम सूतपुत्र नहीं हो? तुम कुंती के कानीन पुत्र हो, सूर्य के अंश। धर्म के अनुसार तुम पांडवों के ज्येष्ठ भाई हो। मेरे साथ चलो—युधिष्ठिर तुम्हें राजा बनाएँगे, पाँचों भाई तुम्हारे पीछे चलेंगे, द्रौपदी भी तुम्हें पति मानेगी।' कर्ण स्तब्ध रह गए, पर बोले—'केशव, मैं यह जानता हूँ। किंतु जिस कुंती ने मुझे जन्म देते ही त्याग दिया, उससे अधिक मेरे माता-पिता अधिरथ और राधा हैं। जिस दुर्योधन ने अपमान के समय मुझे अंग देश का राज्य दिया, उसके साथ विश्वासघात मैं नहीं कर सकता। मैं जानता हूँ कि इस युद्ध में पांडवों की जीत होगी, क्योंकि आप उनके साथ हैं। मुझे मेरा कर्तव्य निभाने दीजिए। यह बात युधिष्ठिर को मत बताइएगा—वे जान गए तो राज्य मुझे सौंप देंगे, और मैं उसे दुर्योधन को दे दूँगा।'\n\nकुंती को जब पता चला कि श्रीकृष्ण का प्रयास विफल हुआ, तो वे व्याकुल हो गईं। उन्हें डर था कि कर्ण और अर्जुन आमने-सामने होंगे, और उनमें से एक अवश्य मरेगा। वे गंगा तट पर गईं, जहाँ कर्ण प्रतिदिन मध्याह्न में सूर्य-उपासना करते थे। कर्ण की पीठ उनकी ओर थी; कुंती घंटों धूप में उनके पीछे खड़ी रहीं।\n\nपूजा समाप्त कर कर्ण मुड़े। उन्होंने कहा—'राधेय कर्ण, अधिरथ का पुत्र, आपको प्रणाम करता है। आज्ञा दीजिए।' कुंती बोलीं—'तुम राधेय नहीं, कौंतेय हो। तुम मेरे पुत्र हो, सूर्य से उत्पन्न। मैंने लोकलाज के भय से तुम्हें गंगा में बहा दिया था। अब अपने भाइयों के पास चलो।' उसी समय आकाश से सूर्यदेव की वाणी हुई—'कर्ण, कुंती सत्य कह रही है।'\n\nकर्ण के नेत्र भर आए, पर वे अडिग रहे—'माता, आपने मुझे जन्म दिया पर क्षत्रिय का सम्मान नहीं दिया। आज आप अपने हित के लिए आई हैं, मेरे लिए नहीं। मैं दुर्योधन को नहीं छोड़ सकता।' फिर उन्होंने कहा—'किंतु आप खाली हाथ नहीं लौटेंगी। मैं वचन देता हूँ कि अर्जुन के सिवा आपके किसी पुत्र को नहीं मारूँगा। युधिष्ठिर, भीम, नकुल, सहदेव मेरे सामने आएँगे तो मैं उन्हें छोड़ दूँगा। अर्जुन और मुझमें से कोई एक ही रहेगा—दोनों दशाओं में आपके पाँच पुत्र बने रहेंगे।' कुंती ने काँपते हुए उन्हें आशीर्वाद दिया और लौट गईं।",
+            "en": "On his way back from Hastinapura, Krishna took Karna onto his chariot. Outside the city he said: 'Karna, do you know that you are not the son of a charioteer? You are Kunti's son, born before her marriage, a portion of the Sun. By dharma you are the eldest of the Pandavas. Come with me: Yudhishthira will make you king, the five brothers will follow you, and Draupadi too will accept you as husband.' Karna was stunned, but said: 'Keshava, I know this. But Adhiratha and Radha, who raised me, are more my parents than the Kunti who abandoned me at birth. I cannot betray Duryodhana, who gave me the kingdom of Anga in my hour of humiliation. I know the Pandavas will win this war, because you are with them. Let me do my duty. Do not tell Yudhishthira: if he knew, he would give me the throne, and I would hand it to Duryodhana.'\n\nWhen Kunti learnt that Krishna's mission had failed, she was distraught. She feared that Karna and Arjuna would face each other and one would surely die. She went to the bank of the Ganga, where Karna performed his midday worship of the Sun every day. His back was to her; Kunti stood behind him for hours in the sun.\n\nFinishing his worship, Karna turned. He said: 'Karna, son of Radha and Adhiratha, salutes you. Command me.' Kunti said: 'You are not Radheya; you are Kaunteya. You are my son, born of the Sun. For fear of the world's censure I set you afloat on the Ganga. Now come to your brothers.' At that moment the voice of the Sun god spoke from the sky: 'Karna, Kunti speaks the truth.'\n\nKarna's eyes filled with tears, but he stood firm: 'Mother, you gave me birth but not the honour of a Kshatriya. Today you have come for your own sake, not mine. I cannot abandon Duryodhana.' Then he said: 'But you shall not return empty-handed. I promise that I will not kill any of your sons except Arjuna. If Yudhishthira, Bhima, Nakula or Sahadeva come before me, I shall spare them. Between Arjuna and me only one will survive; either way, you will still have five sons.' Trembling, Kunti blessed him and went away."
+          },
+          "lesson": {
+            "hi": "कर्ण का जीवन सिखाता है कि कृतज्ञता और दिए गए वचन का मूल्य राज्य और रक्त-संबंध से भी बढ़कर हो सकता है।",
+            "en": "Karna's life teaches that gratitude and a promise once given can outweigh even a throne and the bonds of blood."
+          },
+          "characters": [
+            "karna",
+            "kunti",
+            "krishna",
+            "arjuna",
+            "duryodhana",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "amba-shikhandi",
+          "title": {
+            "hi": "अंबा और शिखंडी",
+            "en": "Amba and Shikhandi"
+          },
+          "body": {
+            "hi": "दोनों सेनाएँ कुरुक्षेत्र में एकत्र हुईं। पांडवों की सात अक्षौहिणी और कौरवों की ग्यारह। धृष्टद्युम्न पांडवों के और भीष्म कौरवों के सेनापति बने। भीष्म ने दुर्योधन से कहा—'मैं पांडवों से युद्ध करूँगा, पर शिखंडी पर शस्त्र नहीं उठाऊँगा, क्योंकि वह पहले स्त्री था।' दुर्योधन ने कारण पूछा, तो भीष्म ने एक पुरानी कथा सुनाई।\n\nवर्षों पहले, अपने भाई विचित्रवीर्य के विवाह के लिए भीष्म काशी नरेश की तीन पुत्रियों—अंबा, अंबिका और अंबालिका—के स्वयंवर में गए थे। उन्होंने तीनों का हरण किया और सब राजाओं को हराकर हस्तिनापुर ले आए। वहाँ अंबा ने बताया कि वह मन से शाल्व नरेश को पति मान चुकी है। भीष्म ने उसे सम्मानपूर्वक शाल्व के पास भेज दिया। किंतु शाल्व ने कहा—'तुम्हें भीष्म जीतकर ले गया था; मैं तुम्हें स्वीकार नहीं कर सकता।'\n\nअपमानित अंबा हस्तिनापुर लौटी और भीष्म से विवाह करने को कहा। ब्रह्मचर्य-व्रत के कारण भीष्म ने इनकार किया। अंबा का हृदय प्रतिशोध से भर गया। वह भीष्म के गुरु परशुराम के पास गई। परशुराम ने भीष्म से अंबा से विवाह करने को कहा, पर भीष्म अडिग रहे। गुरु और शिष्य में तेईस दिन तक भीषण युद्ध हुआ, जो अनिर्णीत रहा। परशुराम ने अंबा से कहा—'मैं भीष्म को हरा नहीं सकता।'\n\nतब अंबा ने कठोर तपस्या की। भगवान शिव ने प्रकट होकर वर दिया कि वह अगले जन्म में भीष्म की मृत्यु का कारण बनेगी। अंबा ने उसी क्षण चिता बनाकर प्राण त्याग दिए। वह द्रुपद के घर कन्या शिखंडिनी के रूप में जन्मी, जिसे पुत्र की तरह पाला गया। विवाह के बाद जब भेद खुला, तो वह वन में जाकर मरने चली। वहाँ स्थूणाकर्ण नामक यक्ष ने दया करके अपना पुरुषत्व उसे दे दिया, और वह शिखंडी बन गया। भीष्म ने कहा—'मैं जानता हूँ कि वह अंबा ही है। स्त्री पर, या जो स्त्री रह चुका हो, उस पर मैं बाण नहीं चलाऊँगा।' यही रहस्य आगे चलकर पांडवों की विजय की कुंजी बना।",
+            "en": "The two armies gathered at Kurukshetra: seven akshauhinis for the Pandavas and eleven for the Kauravas. Dhrishtadyumna was made commander of the Pandava forces and Bhishma of the Kaurava host. Bhishma told Duryodhana: 'I will fight the Pandavas, but I will not raise a weapon against Shikhandi, for he was born a woman.' When Duryodhana asked why, Bhishma told an old story.\n\nYears earlier, to find wives for his brother Vichitravirya, Bhishma had gone to the swayamvara of the three daughters of the king of Kashi: Amba, Ambika and Ambalika. He carried all three away, defeating every king, and brought them to Hastinapura. There Amba revealed that she had already given her heart to King Shalva. Bhishma sent her to Shalva with honour. But Shalva said: 'Bhishma won you and carried you off; I cannot accept you.'\n\nHumiliated, Amba returned to Hastinapura and asked Bhishma to marry her. Bound by his vow of celibacy, he refused. Amba's heart filled with vengeance. She went to Parashurama, Bhishma's teacher. Parashurama ordered Bhishma to marry Amba, but Bhishma stood firm. Teacher and disciple fought a terrible battle for twenty-three days that ended without a victor. Parashurama told Amba: 'I cannot defeat Bhishma.'\n\nThen Amba performed severe austerities. Lord Shiva appeared and granted that in her next birth she would be the cause of Bhishma's death. Amba built a pyre at once and gave up her life. She was reborn in Drupada's house as a girl, Shikhandini, who was raised as a son. When the secret came out after her marriage, she went to the forest to die. There a Yaksha named Sthunakarna took pity and gave her his manhood, and she became Shikhandi. Bhishma said: 'I know that he is Amba. I will not shoot an arrow at a woman, or at one who was once a woman.' This secret later became the key to the Pandavas' victory."
+          },
+          "lesson": {
+            "hi": "अन्याय का बीज, चाहे अनजाने में बोया गया हो, समय आने पर फल देता है; भीष्म की प्रतिज्ञा ही उनके अंत का कारण बनी।",
+            "en": "A seed of injustice, even sown unknowingly, bears fruit in time; Bhishma's own vow became the cause of his end."
+          },
+          "characters": [
+            "bhishma",
+            "amba",
+            "shikhandi",
+            "parashurama",
+            "duryodhana",
+            "drupada",
+            "dhrishtadyumna"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "bhishma-parva",
+      "title": {
+        "hi": "भीष्म पर्व",
+        "en": "Bhishma Parva"
+      },
+      "subtitle": {
+        "hi": "श्रीमद्भगवद्गीता का उपदेश और पितामह का शरशय्या पर गिरना",
+        "en": "The teaching of the Bhagavad Gita and the fall of the grandsire"
+      },
+      "summary": {
+        "hi": "भीष्म पर्व में कुरुक्षेत्र युद्ध के पहले दस दिनों का वर्णन है, जब भीष्म कौरव सेना के सेनापति थे। युद्ध के आरंभ में महर्षि व्यास संजय को दिव्य दृष्टि देते हैं ताकि वे धृतराष्ट्र को युद्ध का वृत्तांत सुना सकें। युद्ध से ठीक पहले अर्जुन दोनों सेनाओं के बीच अपने गुरुजनों और भाइयों को देखकर विषाद में डूब जाते हैं और शस्त्र त्याग देते हैं। तब श्रीकृष्ण उन्हें श्रीमद्भगवद्गीता का अमर उपदेश देते हैं—आत्मा की अमरता, निष्काम कर्मयोग, भक्ति और ज्ञान का मार्ग—और अपना विश्वरूप दिखाते हैं। युद्ध आरंभ होता है; भीष्म प्रतिदिन हजारों योद्धाओं का संहार करते हैं। श्रीकृष्ण एक दिन प्रतिज्ञा तोड़कर चक्र उठाने को दौड़ पड़ते हैं। रात में पांडव स्वयं भीष्म से उनके वध का उपाय पूछते हैं। दसवें दिन शिखंडी को आगे करके अर्जुन भीष्म को बाणों से बींध देते हैं, और पितामह शरशय्या पर गिर पड़ते हैं। वे उत्तरायण तक अपनी मृत्यु को रोक लेते हैं और शरशय्या पर लेटे हुए ही युद्ध देखते हैं।",
+        "en": "The Bhishma Parva covers the first ten days of the Kurukshetra war, when Bhishma commanded the Kaurava army. At the outset, the sage Vyasa grants Sanjaya divine sight so that he may narrate the war to Dhritarashtra. Just before battle, Arjuna, seeing his teachers and kinsmen arrayed between the two armies, sinks into despair and lays down his weapons. Then Shri Krishna delivers the immortal teaching of the Bhagavad Gita: the immortality of the soul, selfless action, the paths of devotion and knowledge, and reveals his universal form. The war begins; Bhishma slays thousands each day. One day Krishna, breaking his own vow, rushes forward with the discus. At night the Pandavas themselves go to Bhishma to ask how he may be felled. On the tenth day, with Shikhandi placed in front, Arjuna pierces Bhishma with arrows, and the grandsire falls onto a bed of arrows. Holding back his death until the sun's northward course, he lies on the bed of arrows and watches the war unfold."
+      },
+      "stories": [
+        {
+          "slug": "arjuna-vishada",
+          "title": {
+            "hi": "अर्जुन का विषाद",
+            "en": "The Despair of Arjuna"
+          },
+          "body": {
+            "hi": "युद्ध से पहले महर्षि व्यास धृतराष्ट्र के पास आए और उन्हें युद्ध देखने के लिए दिव्य दृष्टि देने का प्रस्ताव रखा। धृतराष्ट्र ने कहा कि वे अपने कुल का संहार नहीं देखना चाहते, केवल सुनना चाहते हैं। तब व्यास ने संजय को दिव्य दृष्टि दी, जिससे वे हस्तिनापुर में बैठे-बैठे कुरुक्षेत्र का एक-एक दृश्य देख और सुन सकते थे। महाभारत युद्ध का पूरा वृत्तांत संजय ने ही धृतराष्ट्र को सुनाया।\n\nकुरुक्षेत्र में दोनों सेनाएँ आमने-सामने खड़ी थीं। युधिष्ठिर ने कवच उतारकर पैदल चलकर भीष्म, द्रोण, कृप और शल्य से युद्ध की आज्ञा और आशीर्वाद माँगा। चारों ने कहा कि वे कौरवों के अन्न से बँधे हैं, पर विजय पांडवों की होगी। युधिष्ठिर ने घोषणा की—'जो हमारी ओर आना चाहे, आ जाए।' धृतराष्ट्र का पुत्र युयुत्सु पांडवों की ओर चला आया।\n\nअर्जुन ने श्रीकृष्ण से कहा—'हे अच्युत, मेरा रथ दोनों सेनाओं के बीच ले चलिए, मैं देखना चाहता हूँ कि मुझे किनसे युद्ध करना है।' श्रीकृष्ण ने रथ भीष्म और द्रोण के सामने खड़ा किया। अर्जुन ने देखा—सामने पितामह भीष्म, जिनकी गोद में वे खेले थे; गुरु द्रोण, जिन्होंने उन्हें धनुर्विद्या दी; मामा शल्य, भाई, पुत्र, मित्र और संबंधी। उनका शरीर काँपने लगा, मुख सूख गया, गांडीव हाथ से फिसलने लगा।\n\nअर्जुन बोले—'केशव, मैं इन्हें मारकर राज्य नहीं चाहता। तीनों लोकों के राज्य के लिए भी नहीं, पृथ्वी के लिए तो क्या। अपने ही कुल का नाश करके हम सुखी कैसे होंगे? कुल के नाश से कुलधर्म नष्ट होता है, स्त्रियाँ दूषित होती हैं, और नरक का द्वार खुलता है। अच्छा होगा कि धृतराष्ट्र के पुत्र मुझ निःशस्त्र को मार डालें।' यह कहकर अर्जुन धनुष-बाण छोड़कर रथ के पिछले भाग में बैठ गए। उनकी आँखों में आँसू थे। यहीं से श्रीमद्भगवद्गीता का आरंभ होता है—एक मोहग्रस्त वीर और उसके सारथी बने भगवान का संवाद।",
+            "en": "Before the war, the sage Vyasa came to Dhritarashtra and offered him divine sight to witness the battle. Dhritarashtra said he did not wish to see the slaughter of his family, only to hear of it. So Vyasa granted divine sight to Sanjaya, who could then see and hear every scene at Kurukshetra while seated in Hastinapura. It was Sanjaya who narrated the entire war to Dhritarashtra.\n\nAt Kurukshetra the two armies stood face to face. Yudhishthira took off his armour, walked on foot to Bhishma, Drona, Kripa and Shalya, and asked their permission and blessing to fight. Each said that they were bound by the Kauravas' salt, but that victory would be the Pandavas'. Yudhishthira proclaimed, 'Whoever wishes to join us may come,' and Dhritarashtra's son Yuyutsu crossed over to the Pandava side.\n\nArjuna said to Krishna: 'O Achyuta, drive my chariot between the two armies; I wish to see whom I must fight.' Krishna placed the chariot before Bhishma and Drona. Arjuna looked: there stood grandsire Bhishma, in whose lap he had played; Guru Drona, who had taught him archery; his uncle Shalya, brothers, sons, friends and kinsmen. His body trembled, his mouth went dry, and the Gandiva began to slip from his hand.\n\nArjuna said: 'Keshava, I do not want a kingdom won by killing these men, not even for lordship of the three worlds, let alone the earth. How can we be happy after destroying our own family? When a family is destroyed, its dharma perishes, its women are corrupted, and the gates of hell open. It would be better if the sons of Dhritarashtra slew me, unarmed and unresisting.' With these words Arjuna cast aside his bow and arrows and sank down at the back of the chariot, his eyes full of tears. Here begins the Bhagavad Gita: the dialogue between a hero overcome by delusion and the Lord who had become his charioteer."
+          },
+          "lesson": {
+            "hi": "कर्तव्य के क्षण में मोह और शोक सबसे बड़े शत्रु हैं; अर्जुन जैसे वीर को भी ज्ञान की आवश्यकता पड़ी।",
+            "en": "In the moment of duty, attachment and grief are the greatest enemies; even a hero like Arjuna needed wisdom."
+          },
+          "characters": [
+            "arjuna",
+            "krishna",
+            "vyasa",
+            "sanjaya",
+            "dhritarashtra",
+            "yudhishthira",
+            "bhishma",
+            "drona",
+            "kripa",
+            "shalya"
+          ]
+        },
+        {
+          "slug": "bhagavad-gita-updesh",
+          "title": {
+            "hi": "श्रीमद्भगवद्गीता का उपदेश",
+            "en": "The Teaching of the Bhagavad Gita"
+          },
+          "body": {
+            "hi": "शोक में डूबे अर्जुन को देखकर श्रीकृष्ण ने कहा—'अर्जुन, यह कायरता तुम्हें शोभा नहीं देती। हृदय की इस दुर्बलता को त्यागकर उठो।' अर्जुन ने कहा—'मैं आपका शिष्य हूँ, आपकी शरण में हूँ। मुझे बताइए कि मेरे लिए क्या श्रेयस्कर है।' तब श्रीकृष्ण ने वह उपदेश दिया जो गीता के नाम से अमर हो गया।\n\nपहले उन्होंने आत्मा का ज्ञान दिया—'आत्मा न जन्म लेती है, न मरती है। जैसे मनुष्य पुराने वस्त्र त्यागकर नए पहनता है, वैसे ही आत्मा पुराने शरीर छोड़कर नया धारण करती है। इसे शस्त्र काट नहीं सकते, अग्नि जला नहीं सकती, जल भिगो नहीं सकता, वायु सुखा नहीं सकती। जो जन्मा है उसकी मृत्यु निश्चित है, अतः शोक मत करो।' फिर उन्होंने क्षत्रिय धर्म की याद दिलाई—'धर्मयुद्ध से बढ़कर क्षत्रिय के लिए कुछ नहीं। मरे तो स्वर्ग, जीते तो पृथ्वी—दोनों ओर कल्याण है।'\n\nफिर श्रीकृष्ण ने कर्मयोग का सार बताया—'कर्मण्येवाधिकारस्ते मा फलेषु कदाचन—तुम्हारा अधिकार केवल कर्म पर है, फल पर कभी नहीं। फल की आसक्ति छोड़कर, सिद्धि-असिद्धि में समान रहकर कर्म करो—यही योग है।' उन्होंने बताया कि जब-जब धर्म की हानि होती है, वे स्वयं अवतार लेते हैं—साधुओं की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए। उन्होंने ज्ञानयोग, ध्यानयोग और भक्तियोग का मार्ग दिखाया और कहा—'जो मुझे पत्र, पुष्प, फल या जल भी भक्ति से अर्पित करता है, मैं उसे स्वीकार करता हूँ।'\n\nअर्जुन ने उनका ऐश्वर्य देखने की इच्छा की। श्रीकृष्ण ने दिव्य दृष्टि देकर अपना विश्वरूप दिखाया—असंख्य मुख, नेत्र, भुजाएँ; सूर्य के सहस्र तेज के समान प्रकाश; सभी देवता, लोक और योद्धा उनके मुखों में समाते हुए। अर्जुन भयभीत होकर स्तुति करने लगे। श्रीकृष्ण ने कहा—'मैं काल हूँ, लोकों का नाश करने वाला। ये सब योद्धा मेरे द्वारा पहले ही मारे जा चुके हैं; तुम केवल निमित्त बनो।' अंत में उन्होंने सबसे गुह्य वचन कहा—'सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज—सब धर्मों को छोड़कर मेरी शरण में आओ, मैं तुम्हें सब पापों से मुक्त कर दूँगा, शोक मत करो।' अर्जुन का मोह नष्ट हो गया। वे बोले—'मेरा संदेह मिट गया, मैं आपकी आज्ञा का पालन करूँगा।' उन्होंने गांडीव उठाया। संजय ने कहा—'जहाँ योगेश्वर कृष्ण और धनुर्धर अर्जुन हैं, वहीं श्री, विजय और नीति है।'",
+            "en": "Seeing Arjuna sunk in grief, Krishna said: 'Arjuna, this cowardice does not befit you. Cast off this weakness of heart and arise.' Arjuna said: 'I am your disciple; I take refuge in you. Tell me what is truly good for me.' Then Krishna gave the teaching that became immortal as the Gita.\n\nFirst he taught the nature of the soul: 'The soul is never born and never dies. As a man discards worn-out clothes and puts on new ones, so the soul discards worn-out bodies and takes on new ones. Weapons cannot cut it, fire cannot burn it, water cannot wet it, wind cannot dry it. For one who is born, death is certain; therefore do not grieve.' Then he reminded Arjuna of his duty as a warrior: 'For a Kshatriya there is nothing higher than a righteous war. Slain, you win heaven; victorious, you enjoy the earth; either way there is good.'\n\nNext Krishna gave the essence of karma yoga: 'Karmanye vadhikaraste ma phaleshu kadachana: your right is to action alone, never to its fruits. Act without attachment to results, remaining even in success and failure; that evenness is yoga.' He revealed that whenever dharma declines, he himself takes birth to protect the good, destroy the wicked and re-establish dharma. He showed the paths of knowledge, meditation and devotion, and said: 'Whoever offers me with devotion a leaf, a flower, a fruit or water, I accept it.'\n\nArjuna wished to see his divine glory. Granting him divine sight, Krishna revealed his universal form: countless faces, eyes and arms; a radiance like a thousand suns; all the gods, worlds and warriors entering his mouths. Terrified, Arjuna broke into praise. Krishna said: 'I am Time, the destroyer of worlds. All these warriors have already been slain by me; be merely my instrument.' Finally he spoke the most secret words: 'Sarva-dharman parityajya mam ekam sharanam vraja: abandon all other paths and take refuge in me alone; I shall free you from all sins, do not grieve.' Arjuna's delusion was destroyed. He said: 'My doubt is gone; I shall do as you command.' He lifted the Gandiva. Sanjaya declared: 'Wherever there is Krishna, the lord of yoga, and Arjuna, the archer, there are fortune, victory and righteousness.'"
+          },
+          "lesson": {
+            "hi": "फल की चिंता छोड़कर अपना कर्तव्य करना और भगवान की शरण में जाना—यही गीता का सार और जीवन का मार्ग है।",
+            "en": "Do your duty without clinging to results and take refuge in the Lord: this is the essence of the Gita and the way of life."
+          },
+          "characters": [
+            "krishna",
+            "arjuna",
+            "sanjaya"
+          ]
+        },
+        {
+          "slug": "krishna-lifts-the-chakra",
+          "title": {
+            "hi": "श्रीकृष्ण का चक्र उठाना",
+            "en": "Krishna Takes Up the Discus"
+          },
+          "body": {
+            "hi": "युद्ध आरंभ हुआ। भीष्म के नेतृत्व में कौरव सेना ने प्रचंड आक्रमण किया। पहले ही दिन विराट के पुत्र उत्तर और श्वेत मारे गए। भीष्म प्रतिदिन दस हजार योद्धाओं का संहार करते थे। उनके बाणों की वर्षा से पांडव सेना में हाहाकार मचा रहता। दूसरे दिन अर्जुन ने भीष्म से भीषण युद्ध किया, पर अर्जुन का हृदय पितामह के विरुद्ध पूरी शक्ति से लड़ने को तैयार नहीं था।\n\nतीसरे दिन युद्ध में भीष्म ने पांडव सेना को इस प्रकार तहस-नहस किया कि श्रीकृष्ण का धैर्य टूट गया। उन्होंने अर्जुन से कहा—'पार्थ, तुम पूरी शक्ति से नहीं लड़ रहे। देखो भीष्म हमारी सेना को किस तरह काट रहे हैं।' अर्जुन लड़े, पर उनके बाणों में वह तीव्रता न थी। भीष्म के बाणों से श्रीकृष्ण स्वयं घायल हुए, उनका कवच टूटा और रक्त बहने लगा।\n\nतब श्रीकृष्ण ने रथ की लगाम छोड़ दी। वे रथ से कूद पड़े और हाथ में चाबुक लिए, कुछ कथाओं में रथ का पहिया उठाकर, भीष्म की ओर दौड़े। उनका मुख क्रोध से लाल था और पृथ्वी उनके पैरों से काँप रही थी। भीष्म ने यह देखा और उनके हाथ से धनुष छूट गया। उन्होंने हाथ जोड़कर कहा—'आइए, आइए, देवकीनंदन! आपके हाथों मृत्यु पाकर मैं धन्य हो जाऊँगा। आपके द्वारा मारा जाना तीनों लोकों में मेरा सम्मान है।'\n\nअर्जुन रथ से कूदकर दौड़े और श्रीकृष्ण के पैर पकड़ लिए—'रुकिए, केशव! आपने शस्त्र न उठाने की प्रतिज्ञा की है। संसार कहेगा कि कृष्ण ने वचन तोड़ा। मैं प्रतिज्ञा करता हूँ कि अब पूरी शक्ति से लड़ूँगा।' श्रीकृष्ण रुक गए और रथ पर लौट आए। उस दिन अर्जुन ने इतना भीषण युद्ध किया कि कौरव सेना भाग खड़ी हुई। यह प्रसंग बताता है कि अपने भक्त की रक्षा के लिए भगवान अपनी प्रतिज्ञा तक भूल जाते हैं। भीष्म ने स्वयं कहा था—'मैं कृष्ण को प्रतिज्ञा तोड़ने पर विवश कर दूँगा'—और उनका यह व्रत पूरा हुआ।",
+            "en": "The war began. Under Bhishma's command the Kaurava army attacked with fury. On the very first day Virata's sons Uttara and Shveta were killed. Bhishma slew ten thousand warriors each day, and his rain of arrows spread terror through the Pandava ranks. On the second day Arjuna fought Bhishma fiercely, yet his heart was not in fighting his grandsire with full force.\n\nOn the third day Bhishma wrought such havoc on the Pandava army that Krishna's patience broke. He said to Arjuna: 'Partha, you are not fighting with all your strength. See how Bhishma is cutting down our army.' Arjuna fought, but his arrows lacked their usual fire. Bhishma's arrows wounded Krishna himself; his armour was pierced and blood flowed.\n\nThen Krishna dropped the reins. He leapt from the chariot and, whip in hand, or in some tellings lifting a chariot wheel, rushed towards Bhishma. His face was red with anger and the earth shook beneath his feet. Bhishma saw him coming and the bow slipped from his hands. He folded his palms and said: 'Come, come, son of Devaki! To die at your hands will make me blessed. To be slain by you is my honour in all three worlds.'\n\nArjuna leapt down, ran after Krishna and clasped his feet: 'Stop, Keshava! You vowed not to take up arms. The world will say Krishna broke his word. I swear I will now fight with all my strength.' Krishna stopped and returned to the chariot. That day Arjuna fought so terribly that the Kaurava army fled. This episode shows that to protect his devotee the Lord will forget even his own vow. Bhishma himself had declared, 'I shall force Krishna to break his vow,' and that resolve was fulfilled."
+          },
+          "lesson": {
+            "hi": "भक्त के लिए भगवान अपनी प्रतिज्ञा भी भूल जाते हैं; और भक्त के लिए भगवान के हाथों मृत्यु भी वरदान है।",
+            "en": "For his devotee the Lord forgets even his own vow; and for the devotee, death at the Lord's hands is a blessing."
+          },
+          "characters": [
+            "krishna",
+            "arjuna",
+            "bhishma"
+          ]
+        },
+        {
+          "slug": "bhishma-fall-on-bed-of-arrows",
+          "title": {
+            "hi": "भीष्म का शरशय्या पर गिरना",
+            "en": "Bhishma Falls on the Bed of Arrows"
+          },
+          "body": {
+            "hi": "नौ दिन बीत गए। भीष्म अजेय थे। दुर्योधन उन्हें प्रतिदिन ताना देता कि वे पांडवों से स्नेह के कारण पूरी शक्ति से नहीं लड़ रहे। नौवें दिन भीष्म ने ऐसा संहार किया कि पांडव सेना विनाश के कगार पर आ गई। उस रात श्रीकृष्ण ने युधिष्ठिर से कहा—'जब तक भीष्म खड़े हैं, विजय असंभव है। पितामह ने स्वयं कहा था कि वे पांडवों को उनके वध का उपाय बताएँगे। चलो, उन्हीं से पूछें।'\n\nपाँचों पांडव और श्रीकृष्ण निःशस्त्र होकर रात में भीष्म के शिविर में गए। भीष्म ने स्नेह से उनका स्वागत किया। युधिष्ठिर ने हाथ जोड़कर पूछा—'पितामह, हम आपको कैसे जीतें? आप हमें ही मार्ग बताइए।' भीष्म ने कहा—'जब तक मैं युद्ध में शस्त्र लिए खड़ा हूँ, मुझे कोई नहीं हरा सकता। किंतु मैं स्त्री पर, जो स्त्री रह चुका हो, या जिसने शस्त्र डाल दिए हों, उस पर बाण नहीं चलाता। शिखंडी को आगे करके अर्जुन मुझ पर बाण चलाए। शिखंडी के सामने मैं धनुष नहीं उठाऊँगा।' यह कहते हुए पितामह की आँखें भर आईं।\n\nदसवें दिन अर्जुन ने शिखंडी को अपने रथ के आगे रखा और भीष्म पर आक्रमण किया। शिखंडी को सामने देखकर भीष्म ने धनुष नीचे कर लिया। शिखंडी की आड़ से अर्जुन ने बाणों की ऐसी वर्षा की कि भीष्म का कवच टूट गया और उनका पूरा शरीर बाणों से बिंध गया। भीष्म ने कहा—'ये बाण शिखंडी के नहीं, अर्जुन के हैं। ये मेरे मर्म को वज्र की तरह बेध रहे हैं।' सूर्यास्त के समय वे रथ से गिरे, पर उनका शरीर पृथ्वी को नहीं छू सका—बाणों की शय्या पर वे टिके रहे, सिर पूर्व की ओर।\n\nदोनों सेनाओं ने युद्ध रोक दिया। कौरव और पांडव सब पितामह के चारों ओर एकत्र हुए। भीष्म ने कहा—'मेरा सिर लटक रहा है, तकिया चाहिए।' राजाओं ने कोमल तकिए लाए, पर भीष्म ने अर्जुन की ओर देखा। अर्जुन ने तीन बाण मारकर उनके सिर को सहारा दिया। फिर प्यास लगने पर अर्जुन ने भूमि में बाण मारा और गंगा की धारा फूटकर भीष्म के मुख तक पहुँची। भीष्म ने दुर्योधन से अंतिम बार कहा—'अब भी संधि कर लो। मेरे गिरने के साथ यह युद्ध समाप्त हो जाए।' पर दुर्योधन मौन रहा। भीष्म ने घोषणा की कि वे उत्तरायण तक प्राण नहीं त्यागेंगे। अट्ठावन दिन वे शरशय्या पर लेटे रहे और युद्ध का परिणाम देखा।",
+            "en": "Nine days passed and Bhishma remained invincible. Duryodhana taunted him daily that his affection for the Pandavas kept him from fighting with full strength. On the ninth day Bhishma wrought such slaughter that the Pandava army stood on the brink of destruction. That night Krishna said to Yudhishthira: 'While Bhishma stands, victory is impossible. The grandsire himself said he would tell the Pandavas how he could be felled. Let us go and ask him.'\n\nThe five Pandavas and Krishna went unarmed to Bhishma's tent at night. Bhishma welcomed them with affection. Yudhishthira asked with folded hands: 'Grandsire, how can we defeat you? Show us the way yourself.' Bhishma said: 'As long as I stand in battle with weapon in hand, no one can defeat me. But I do not shoot at a woman, at one who was once a woman, or at one who has laid down arms. Let Arjuna place Shikhandi in front and shoot at me. Before Shikhandi I will not lift my bow.' As he said this, the grandsire's eyes filled with tears.\n\nOn the tenth day Arjuna placed Shikhandi at the front of his chariot and attacked Bhishma. Seeing Shikhandi before him, Bhishma lowered his bow. From behind Shikhandi, Arjuna loosed such a storm of arrows that Bhishma's armour broke and his whole body was pierced. Bhishma said: 'These arrows are not Shikhandi's; they are Arjuna's. They pierce my vitals like thunderbolts.' At sunset he fell from his chariot, but his body did not touch the ground; he lay suspended on a bed of arrows, his head towards the east.\n\nBoth armies stopped fighting. Kauravas and Pandavas alike gathered around the grandsire. Bhishma said: 'My head hangs down; I need a pillow.' The kings brought soft pillows, but Bhishma looked at Arjuna. Arjuna shot three arrows into the ground to support his head. Then, when Bhishma was thirsty, Arjuna shot an arrow into the earth and a stream of Ganga rose to his lips. Bhishma spoke to Duryodhana one last time: 'Make peace even now. Let this war end with my fall.' But Duryodhana stayed silent. Bhishma declared that he would not give up his life until the sun turned north. For fifty-eight days he lay on the bed of arrows and watched the outcome of the war."
+          },
+          "lesson": {
+            "hi": "महान से महान योद्धा भी धर्म और अपनी प्रतिज्ञा से बँधा होता है; भीष्म ने अपने ही वध का मार्ग बताकर धर्म की रक्षा की।",
+            "en": "Even the mightiest warrior is bound by dharma and his vow; Bhishma upheld dharma by revealing the way to his own fall."
+          },
+          "characters": [
+            "bhishma",
+            "arjuna",
+            "shikhandi",
+            "krishna",
+            "yudhishthira",
+            "duryodhana",
+            "bhima",
+            "nakula",
+            "sahadeva"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "drona-parva",
+      "title": {
+        "hi": "द्रोण पर्व",
+        "en": "Drona Parva"
+      },
+      "subtitle": {
+        "hi": "अभिमन्यु का बलिदान, जयद्रथ वध और गुरु द्रोण का अंत",
+        "en": "The sacrifice of Abhimanyu, the slaying of Jayadratha and the end of Guru Drona"
+      },
+      "summary": {
+        "hi": "द्रोण पर्व में युद्ध के ग्यारहवें से पंद्रहवें दिन का वर्णन है, जब द्रोणाचार्य कौरव सेनापति बने। दुर्योधन उनसे युधिष्ठिर को जीवित बंदी बनाने का वचन लेता है। संशप्तक योद्धा अर्जुन को दूर ले जाते हैं और तेरहवें दिन द्रोण चक्रव्यूह रचते हैं। सोलह वर्ष के अभिमन्यु अकेले व्यूह में प्रवेश करते हैं, क्योंकि उन्हें निकलना नहीं आता। जयद्रथ चारों पांडवों को बाहर रोक देता है और भीतर सात महारथी मिलकर अभिमन्यु का वध कर देते हैं। अर्जुन प्रतिज्ञा करते हैं कि अगले सूर्यास्त से पहले जयद्रथ को मारेंगे, अन्यथा अग्नि में प्रवेश करेंगे। चौदहवें दिन श्रीकृष्ण की माया से सूर्य ढकता है और अर्जुन जयद्रथ का वध करते हैं। युद्ध रात में भी चलता है, जिसमें घटोत्कच कौरव सेना को तहस-नहस करता है और कर्ण को इंद्र की अमोघ शक्ति उस पर चलानी पड़ती है। पंद्रहवें दिन 'अश्वत्थामा मारा गया' सुनकर द्रोण शस्त्र त्याग देते हैं और धृष्टद्युम्न उनका सिर काट देते हैं। क्रुद्ध अश्वत्थामा नारायणास्त्र चलाता है, जिसे श्रीकृष्ण की युक्ति से शांत किया जाता है।",
+        "en": "The Drona Parva covers days eleven to fifteen of the war, when Dronacharya became commander of the Kaurava army. Duryodhana extracts from him a promise to capture Yudhishthira alive. The Samshaptaka warriors draw Arjuna away, and on the thirteenth day Drona forms the Chakravyuha. Sixteen-year-old Abhimanyu enters the formation alone, knowing how to break in but not how to come out. Jayadratha holds the four Pandavas outside, and within, seven great warriors together slay Abhimanyu. Arjuna vows to kill Jayadratha before the next sunset or enter the fire. On the fourteenth day Krishna's illusion hides the sun and Arjuna slays Jayadratha. Fighting continues into the night, when Ghatotkacha ravages the Kaurava host and Karna is forced to use Indra's infallible Shakti on him. On the fifteenth day, hearing that 'Ashwatthama is dead', Drona lays down his weapons and Dhrishtadyumna beheads him. The enraged Ashwatthama releases the Narayana weapon, which is neutralised by Krishna's counsel."
+      },
+      "stories": [
+        {
+          "slug": "abhimanyu-chakravyuha",
+          "title": {
+            "hi": "अभिमन्यु और चक्रव्यूह",
+            "en": "Abhimanyu and the Chakravyuha"
+          },
+          "body": {
+            "hi": "भीष्म के गिरने के बाद द्रोणाचार्य सेनापति बने। दुर्योधन ने उनसे युधिष्ठिर को जीवित पकड़ने का वचन लिया, ताकि उन्हें फिर द्यूत में हराया जा सके। द्रोण ने कहा—'जब तक अर्जुन युधिष्ठिर के पास है, यह असंभव है।' तब त्रिगर्त के संशप्तक योद्धाओं ने प्रतिज्ञा की कि वे अर्जुन को युद्धभूमि से दूर ले जाएँगे या मर जाएँगे। तेरहवें दिन अर्जुन संशप्तकों से लड़ने दक्षिण दिशा में चले गए।\n\nउनके जाते ही द्रोण ने चक्रव्यूह रचा—एक घूमता हुआ चक्र जैसा व्यूह, जिसे तोड़ने की विद्या केवल श्रीकृष्ण, अर्जुन, प्रद्युम्न और कुछ ही योद्धा जानते थे। पांडव सेना विचलित हो गई। तब सोलह वर्ष के अभिमन्यु ने कहा—'तात, मैं व्यूह भेदना जानता हूँ। माता के गर्भ में पिता से सुना था। किंतु निकलने की विद्या मैंने नहीं सुनी।' युधिष्ठिर ने कहा—'तुम द्वार तोड़ो, हम तुम्हारे पीछे-पीछे आकर व्यूह नष्ट कर देंगे।'\n\nअभिमन्यु ने सिंह की तरह व्यूह के द्वार पर आक्रमण किया और उसे भेदकर भीतर घुस गए। किंतु उनके पीछे आ रहे भीम, युधिष्ठिर, नकुल, सहदेव, सात्यकि और धृष्टद्युम्न को द्वार पर जयद्रथ ने रोक दिया। शिव के वरदान से उस दिन जयद्रथ अर्जुन के सिवा किसी से भी हारने वाला नहीं था। अभिमन्यु अकेले व्यूह में घिर गए।\n\nकिंतु उस बालक ने ऐसा पराक्रम दिखाया जो महाभारत में अद्वितीय है। उन्होंने दुर्योधन के पुत्र लक्ष्मण, शल्य के भाई, और सहस्रों योद्धाओं को मारा। द्रोण, कर्ण, कृप, अश्वत्थामा, शल्य, दुर्योधन—कोई उन्हें रोक न सका। तब द्रोण ने कहा—'जब तक इसके हाथ में धनुष है, यह अजेय है।' कर्ण ने पीछे से उनका धनुष काटा। उनका रथ तोड़ा गया, सारथी मारा गया, तलवार और ढाल टूट गई। अभिमन्यु ने रथ का पहिया उठाकर युद्ध किया। अंत में सात महारथियों ने मिलकर उन पर आक्रमण किया, और दुःशासन के पुत्र ने गदा से प्रहार कर उन्हें मार डाला। युद्ध के नियमों के विरुद्ध एक बालक को सातों ने घेरकर मारा था। सूर्यास्त हो गया। लौटते हुए अर्जुन को रास्ते में अपशकुन दिखे; शिविर में सन्नाटा था। जब उन्होंने सुना कि अभिमन्यु मारा गया और जयद्रथ ने भाइयों को रोका था, तो वे मूर्छित हो गए।",
+            "en": "After Bhishma's fall, Dronacharya became commander. Duryodhana made him promise to capture Yudhishthira alive, so that he could be beaten at dice once more. Drona said: 'While Arjuna is beside Yudhishthira, it is impossible.' Then the Samshaptaka warriors of Trigarta vowed to draw Arjuna away from the field or die. On the thirteenth day Arjuna went south to fight the Samshaptakas.\n\nAs soon as he left, Drona formed the Chakravyuha, a rotating wheel-like array that only Krishna, Arjuna, Pradyumna and a handful of warriors knew how to break. The Pandava army faltered. Then sixteen-year-old Abhimanyu said: 'Uncle, I know how to pierce the formation. I heard it from my father while in my mother's womb. But I did not hear how to come out.' Yudhishthira said: 'You break the gate; we shall follow close behind and destroy the formation.'\n\nAbhimanyu attacked the entrance like a lion, broke through and plunged inside. But Bhima, Yudhishthira, Nakula, Sahadeva, Satyaki and Dhrishtadyumna, following behind, were held at the gate by Jayadratha. By Shiva's boon, on that day Jayadratha could not be defeated by anyone but Arjuna. Abhimanyu was trapped alone within the formation.\n\nYet that boy displayed valour unmatched in the Mahabharata. He killed Duryodhana's son Lakshmana, Shalya's brother and thousands of warriors. Drona, Karna, Kripa, Ashwatthama, Shalya, Duryodhana: none could stop him. Then Drona said: 'While the bow is in his hand, he is invincible.' Karna cut his bow from behind. His chariot was shattered, his charioteer killed, his sword and shield broken. Abhimanyu fought on with a chariot wheel. At last seven great warriors attacked him together, and the son of Dushasana struck him down with a mace. Against every rule of war, seven men had surrounded and killed a boy. The sun set. Returning, Arjuna saw evil omens on the way; the camp was silent. When he heard that Abhimanyu was dead and that Jayadratha had held back his brothers, he fell senseless."
+          },
+          "lesson": {
+            "hi": "अधूरा ज्ञान भी साहस के साथ महान पराक्रम को जन्म देता है; किंतु अधर्म से किया गया वध कभी क्षमा नहीं होता।",
+            "en": "Even partial knowledge joined with courage can produce great heroism; but a killing done through adharma is never forgiven."
+          },
+          "characters": [
+            "abhimanyu",
+            "drona",
+            "duryodhana",
+            "yudhishthira",
+            "jayadratha",
+            "karna",
+            "kripa",
+            "ashwatthama",
+            "shalya",
+            "bhima",
+            "dushasana",
+            "arjuna",
+            "dhrishtadyumna"
+          ]
+        },
+        {
+          "slug": "jayadratha-vadh",
+          "title": {
+            "hi": "जयद्रथ वध",
+            "en": "The Slaying of Jayadratha"
+          },
+          "body": {
+            "hi": "अभिमन्यु की मृत्यु का समाचार सुनकर अर्जुन ने अग्नि को साक्षी मानकर प्रतिज्ञा की—'कल सूर्यास्त से पहले मैं जयद्रथ का वध करूँगा। यदि न कर सका, तो स्वयं अग्नि में प्रवेश करूँगा।' यह सुनकर कौरव शिविर में जयद्रथ भयभीत हो गया और घर लौटना चाहा। किंतु द्रोण ने उसे आश्वासन दिया—'मैं ऐसा व्यूह रचूँगा कि अर्जुन तुम तक नहीं पहुँच सकेगा।' दुर्योधन ने उसकी रक्षा के लिए कर्ण, अश्वत्थामा, शल्य, कृप और भूरिश्रवा सहित छह महारथी नियुक्त किए और जयद्रथ को सेना के सबसे पीछे बारह कोस दूर रखा।\n\nचौदहवें दिन श्रीकृष्ण अर्जुन का रथ लेकर द्रोण के शकट-व्यूह और उसके पीछे पद्म-व्यूह और सूची-व्यूह को चीरते हुए आगे बढ़े। द्रोण ने अर्जुन को रोकना चाहा, पर अर्जुन ने उन्हें प्रणाम करके बगल से निकल गए। श्रुतायुध, भूरिश्रवा और अनेक राजा मारे गए। युधिष्ठिर ने चिंतित होकर सात्यकि और फिर भीम को अर्जुन की सहायता के लिए भेजा। श्रीकृष्ण के घोड़े थक गए तो अर्जुन ने बाणों से शत्रु को रोके रखा और श्रीकृष्ण ने मैदान में ही घोड़ों को पानी पिलाया।\n\nसंध्या निकट आई। जयद्रथ अभी भी छह महारथियों के घेरे में था और सूर्य डूबने को था। तब श्रीकृष्ण ने अपनी योगमाया से सूर्य को ढक दिया। चारों ओर अंधकार छा गया। कौरवों ने समझा सूर्यास्त हो गया और अर्जुन को अब अग्नि में जलना होगा। वे हर्ष से चिल्लाए। जयद्रथ भी छिपने से बाहर आकर डूबते सूर्य को देखने लगा।\n\nश्रीकृष्ण ने कहा—'पार्थ, वह रहा जयद्रथ! शीघ्र बाण चलाओ। पर सावधान—उसके पिता वृद्धक्षत्र ने वर दिया है कि जो इसका सिर भूमि पर गिराएगा, उसका सिर सौ टुकड़े हो जाएगा। बाण ऐसे चलाओ कि इसका सिर समंतपंचक में तप कर रहे उसके पिता की गोद में जा गिरे।' अर्जुन ने पाशुपतास्त्र का अभिमंत्रण कर बाण छोड़ा। जयद्रथ का सिर कटकर आकाश में उड़ा और दूर उसके पिता की गोद में गिरा। वृद्धक्षत्र चौंककर उठे, सिर भूमि पर गिरा और उनका अपना सिर सौ टुकड़े हो गया। उसी क्षण श्रीकृष्ण ने माया हटाई—सूर्य अभी आकाश में था। अर्जुन की प्रतिज्ञा पूरी हुई।",
+            "en": "On hearing of Abhimanyu's death, Arjuna made a vow with fire as witness: 'Before sunset tomorrow I shall kill Jayadratha. If I fail, I shall enter the fire myself.' In the Kaurava camp Jayadratha was terrified and wished to go home. But Drona assured him: 'I shall arrange such a formation that Arjuna cannot reach you.' Duryodhana appointed six great warriors to guard him, including Karna, Ashwatthama, Shalya, Kripa and Bhurishrava, and placed Jayadratha at the very rear of the army, twelve kosas away.\n\nOn the fourteenth day Krishna drove Arjuna's chariot through Drona's cart-formation and the lotus and needle formations behind it. Drona tried to stop Arjuna, but Arjuna saluted him and passed by. Shrutayudha, Bhurishrava and many kings were killed. Anxious, Yudhishthira sent Satyaki and then Bhima to Arjuna's aid. When Krishna's horses grew weary, Arjuna held off the enemy with his arrows while Krishna watered the horses on the battlefield itself.\n\nEvening drew near. Jayadratha was still ringed by six great warriors and the sun was about to set. Then Krishna veiled the sun with his yoga-maya. Darkness spread over the field. The Kauravas believed the sun had set and that Arjuna would now have to burn himself. They shouted with joy. Jayadratha too came out of hiding to look at the setting sun.\n\nKrishna said: 'Partha, there is Jayadratha! Shoot quickly. But beware: his father Vriddhakshatra has given a boon that whoever causes his son's head to fall to the ground will have his own head burst into a hundred pieces. Shoot so that his head falls into the lap of his father, who sits in meditation at Samantapanchaka.' Arjuna charged his arrow with the Pashupata and released it. Jayadratha's severed head flew through the sky and fell far away into his father's lap. Vriddhakshatra started up, the head fell to the ground, and his own head shattered into a hundred pieces. At that instant Krishna withdrew the illusion: the sun was still in the sky. Arjuna's vow was fulfilled."
+          },
+          "lesson": {
+            "hi": "प्रतिज्ञा का पालन करने वाले के साथ स्वयं भगवान खड़े होते हैं; संकल्प दृढ़ हो तो सूर्य भी रुक जाता है।",
+            "en": "The Lord himself stands with one who honours his vow; when resolve is firm, even the sun will wait."
+          },
+          "characters": [
+            "arjuna",
+            "krishna",
+            "jayadratha",
+            "drona",
+            "duryodhana",
+            "karna",
+            "ashwatthama",
+            "shalya",
+            "kripa",
+            "yudhishthira",
+            "bhima"
+          ]
+        },
+        {
+          "slug": "ghatotkacha-vadh",
+          "title": {
+            "hi": "घटोत्कच का बलिदान",
+            "en": "The Sacrifice of Ghatotkacha"
+          },
+          "body": {
+            "hi": "जयद्रथ के वध के बाद दुर्योधन क्रोध से पागल हो उठा। उसने द्रोण पर आरोप लगाया और द्रोण ने क्रोध में कहा—'अब सूर्यास्त के बाद भी युद्ध चलेगा।' चौदहवें दिन की रात को मशालों के प्रकाश में भीषण युद्ध होने लगा। कौरवों की ओर से कर्ण ने विकराल रूप धरा और पांडव सेना का संहार करने लगा। तब श्रीकृष्ण ने भीम के पुत्र घटोत्कच को बुलाया। हिडिंबा का यह पुत्र राक्षस था, और रात में राक्षसों की शक्ति कई गुना बढ़ जाती है।\n\nघटोत्कच ने मायावी युद्ध आरंभ किया। वह कभी आकाश में उड़ता, कभी अदृश्य हो जाता, कभी पर्वत के समान विशाल हो जाता। उसने आकाश से शिलाओं, वृक्षों और अग्नि की वर्षा की। कौरव सेना में हाहाकार मच गया। उसने अलंबुष और अलायुध जैसे राक्षसों को मारा और दुर्योधन के अनेक भाइयों का वध किया। कर्ण ने अपनी समस्त शक्ति लगाई, पर घटोत्कच की माया के आगे वे असमर्थ थे। घटोत्कच ने कर्ण के रथ को तोड़ा और उन्हें घायल किया।\n\nकौरव सेना भागने लगी। दुर्योधन और सभी योद्धा कर्ण से चिल्लाकर कहने लगे—'कर्ण! इंद्र की शक्ति चलाओ, नहीं तो आज सारी सेना नष्ट हो जाएगी।' कर्ण दुविधा में पड़ गए। वह अमोघ शक्ति, जिसे इंद्र ने कवच-कुंडल के बदले दिया था और जो केवल एक बार चलती थी, उन्होंने अर्जुन के लिए सँभालकर रखी थी। किंतु सेना का विनाश सामने था। कर्ण ने भारी मन से वह शक्ति निकाली और घटोत्कच पर चला दी।\n\nशक्ति ज्वाला की तरह घटोत्कच की छाती को चीरती निकल गई। मरते हुए भी घटोत्कच ने अपना शरीर पर्वत जैसा विशाल कर लिया और कौरव सेना के ऊपर गिरकर एक अक्षौहिणी सेना को कुचल दिया। पांडव शिविर में शोक छा गया; भीम रो पड़े। किंतु श्रीकृष्ण आनंद से नाचने लगे। अर्जुन ने चकित होकर पूछा—'जनार्दन, यह हर्ष क्यों?' श्रीकृष्ण ने कहा—'आज अर्जुन बच गया! जब तक वह शक्ति कर्ण के पास थी, तुम्हें बचाने का मेरे पास कोई उपाय न था। घटोत्कच ने अपने प्राण देकर तुम्हें जीवन दिया है।' उन्होंने यह भी कहा कि राक्षस होने के कारण घटोत्कच का वध लोकहित में था, और उसे वीरगति प्राप्त हुई।",
+            "en": "After Jayadratha's death, Duryodhana went mad with rage. He accused Drona, and Drona in anger declared: 'Now the battle shall go on even after sunset.' On the night of the fourteenth day a terrible battle raged by torchlight. On the Kaurava side Karna took on a fearsome aspect and began slaughtering the Pandava army. Then Krishna summoned Ghatotkacha, Bhima's son. This son of Hidimba was a rakshasa, and the powers of rakshasas multiply many times at night.\n\nGhatotkacha began a battle of illusion. Now he flew through the sky, now he vanished, now he grew vast as a mountain. He rained rocks, trees and fire from the heavens. Panic spread through the Kaurava host. He killed the rakshasas Alambusha and Alayudha and slew many of Duryodhana's brothers. Karna used all his strength, but was helpless before Ghatotkacha's magic. Ghatotkacha smashed Karna's chariot and wounded him.\n\nThe Kaurava army began to flee. Duryodhana and every warrior shouted to Karna: 'Karna! Use Indra's Shakti, or tonight the whole army will perish.' Karna was torn. That infallible weapon, which Indra had given in exchange for the armour and earrings and which could be used only once, he had saved for Arjuna. But the army's destruction was before his eyes. With a heavy heart Karna drew out the Shakti and hurled it at Ghatotkacha.\n\nThe weapon tore through Ghatotkacha's chest like a flame. Even as he died, Ghatotkacha made his body vast as a mountain and fell upon the Kaurava army, crushing an entire division. Grief spread through the Pandava camp; Bhima wept. But Krishna began to dance with joy. Astonished, Arjuna asked: 'Janardana, why this joy?' Krishna said: 'Tonight Arjuna has been saved! While that Shakti was with Karna, I had no means to protect you. Ghatotkacha has given you life by giving his own.' He added that, being a rakshasa, Ghatotkacha's death served the welfare of the world, and that he had won a hero's end."
+          },
+          "lesson": {
+            "hi": "कभी-कभी एक का बलिदान अनेक की रक्षा करता है; भगवान की लीला में प्रत्येक हानि के पीछे एक गहरा प्रयोजन होता है।",
+            "en": "Sometimes one sacrifice protects many; in the Lord's play, behind every loss lies a deeper purpose."
+          },
+          "characters": [
+            "ghatotkacha",
+            "karna",
+            "krishna",
+            "arjuna",
+            "bhima",
+            "duryodhana",
+            "drona",
+            "hidimba"
+          ]
+        },
+        {
+          "slug": "drona-vadh",
+          "title": {
+            "hi": "द्रोणाचार्य का अंत",
+            "en": "The Death of Dronacharya"
+          },
+          "body": {
+            "hi": "पंद्रहवें दिन द्रोणाचार्य ने भीषण संहार आरंभ किया। उन्होंने द्रुपद और विराट को मार डाला और ब्रह्मास्त्र का प्रयोग करके साधारण सैनिकों को भस्म करने लगे। ऋषियों ने आकाश से प्रकट होकर कहा—'द्रोण, तुम ब्राह्मण होकर अधर्म का युद्ध कर रहे हो। अब शस्त्र त्यागने का समय आ गया है।' पर द्रोण रुके नहीं। श्रीकृष्ण ने पांडवों से कहा—'जब तक द्रोण के हाथ में धनुष है, देवता भी उन्हें नहीं जीत सकते। किंतु यदि उन्हें पता चले कि अश्वत्थामा मर गया, तो वे शस्त्र त्याग देंगे।'\n\nअर्जुन ने इस छल का विरोध किया। युधिष्ठिर भी असत्य बोलने में हिचकिचाए। तब भीम ने मालवराज इंद्रवर्मा के अश्वत्थामा नामक हाथी को गदा से मार डाला और द्रोण के पास जाकर चिल्लाए—'अश्वत्थामा मारा गया!' द्रोण काँप उठे, पर उन्हें विश्वास न हुआ। उन्होंने कहा—'मैं युधिष्ठिर से पूछूँगा, वह कभी झूठ नहीं बोलता।'\n\nयुधिष्ठिर के पास आकर द्रोण ने पूछा—'धर्मराज, क्या मेरा पुत्र मारा गया?' श्रीकृष्ण ने युधिष्ठिर से कहा कि अब धर्म की रक्षा के लिए यह कहना आवश्यक है। युधिष्ठिर ने ऊँचे स्वर में कहा—'अश्वत्थामा हतः'—और फिर धीमे स्वर में—'नरो वा कुंजरो वा' (मनुष्य या हाथी)। उसी समय श्रीकृष्ण ने शंख बजाया जिससे अंतिम शब्द द्रोण तक नहीं पहुँचे। कहा जाता है कि युधिष्ठिर का रथ, जो उनकी सत्यनिष्ठा के कारण भूमि से चार अंगुल ऊपर चलता था, उसी क्षण धरती पर आ गया।\n\nद्रोण का हृदय टूट गया। जीने की इच्छा समाप्त हो गई। उन्होंने धनुष-बाण रथ में रख दिए, 'कर्ण, कृप, दुर्योधन—अब तुम लड़ो' कहकर रथ पर पद्मासन में बैठ गए और योग में लीन हो गए। उनकी आत्मा ब्रह्मलोक की ओर चल पड़ी। उसी क्षण धृष्टद्युम्न, जिसका जन्म ही द्रोण-वध के लिए हुआ था, तलवार लेकर रथ पर चढ़ा। अर्जुन चिल्लाए—'गुरु को जीवित पकड़ो, मारो मत!' पर धृष्टद्युम्न ने योगस्थ द्रोण का सिर काट लिया। पांडव शिविर में भी इस कृत्य पर दुख और विवाद हुआ; अर्जुन, सात्यकि और स्वयं युधिष्ठिर को गहरा पश्चात्ताप था। क्रोध से उन्मत्त अश्वत्थामा ने पिता की मृत्यु का समाचार सुनकर नारायणास्त्र छोड़ा, जो हथियार उठाने वाले हर व्यक्ति को भस्म करने वाला था। श्रीकृष्ण ने सबको शस्त्र नीचे रखकर रथ से उतरने को कहा; भीम अड़े रहे तो श्रीकृष्ण और अर्जुन ने बलपूर्वक उन्हें नीचे खींचा। अस्त्र शांत हो गया।",
+            "en": "On the fifteenth day Dronacharya began a terrible slaughter. He killed Drupada and Virata and started using the Brahmastra to burn ordinary soldiers. Sages appeared in the sky and said: 'Drona, you are a Brahmin fighting an unrighteous war. The time has come to lay down your weapons.' But Drona did not stop. Krishna told the Pandavas: 'While Drona holds a bow, even the gods cannot defeat him. But if he learns that Ashwatthama is dead, he will lay down his arms.'\n\nArjuna objected to this deceit. Yudhishthira too hesitated to speak a falsehood. Then Bhima killed with his mace an elephant named Ashwatthama belonging to King Indravarma of Malava, went up to Drona and shouted: 'Ashwatthama is slain!' Drona trembled, but could not believe it. He said: 'I shall ask Yudhishthira; he never lies.'\n\nComing to Yudhishthira, Drona asked: 'Dharmaraja, has my son been killed?' Krishna told Yudhishthira that for the protection of dharma it was now necessary to say so. Yudhishthira said aloud, 'Ashwatthama hatah' (Ashwatthama is dead), and then softly, 'naro va kunjaro va' (whether man or elephant). At that moment Krishna blew his conch so that the last words did not reach Drona. It is said that Yudhishthira's chariot, which had always moved four fingers above the ground because of his truthfulness, touched the earth at that instant.\n\nDrona's heart broke. His will to live was gone. He placed his bow and arrows in the chariot, said, 'Karna, Kripa, Duryodhana, fight on now,' sat in the lotus posture on his chariot and entered deep meditation. His soul set out for the world of Brahma. At that moment Dhrishtadyumna, born for the very purpose of killing Drona, climbed onto the chariot with his sword. Arjuna shouted: 'Take the teacher alive, do not kill him!' But Dhrishtadyumna severed the head of the meditating Drona. Even in the Pandava camp the deed caused grief and bitter argument; Arjuna, Satyaki and Yudhishthira himself were filled with remorse. Maddened with rage at the news of his father's death, Ashwatthama released the Narayana weapon, which would destroy anyone who held a weapon. Krishna told everyone to lay down their arms and step off their chariots; when Bhima refused, Krishna and Arjuna dragged him down by force. The weapon subsided."
+          },
+          "lesson": {
+            "hi": "आधा सत्य भी असत्य के समान पतन करता है; धर्मराज का एक छोटा सा छल उनके रथ को धरती पर ले आया।",
+            "en": "Even a half-truth brings a fall like a lie; one small deception brought Dharmaraja's chariot down to earth."
+          },
+          "characters": [
+            "drona",
+            "yudhishthira",
+            "krishna",
+            "bhima",
+            "arjuna",
+            "dhrishtadyumna",
+            "ashwatthama",
+            "drupada",
+            "duryodhana",
+            "karna",
+            "kripa"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "slug": "karna-parva",
+      "title": {
+        "hi": "कर्ण पर्व",
+        "en": "Karna Parva"
+      },
+      "subtitle": {
+        "hi": "दानवीर कर्ण के सेनापतित्व के दो दिन और कर्ण-अर्जुन का महायुद्ध",
+        "en": "Karna's two days as commander and the great duel of Karna and Arjuna"
+      },
+      "summary": {
+        "hi": "कर्ण पर्व में युद्ध के सोलहवें और सत्रहवें दिन का वर्णन है, जब द्रोण की मृत्यु के बाद कर्ण कौरव सेना के सेनापति बने। कर्ण ने दुर्योधन से माँग की कि मद्रराज शल्य उनके सारथी बनें, क्योंकि श्रीकृष्ण के समान कुशल सारथी ही अर्जुन का सामना करा सकता था। शल्य ने अनिच्छा से स्वीकार किया, पर युद्ध के दौरान वे कर्ण की निंदा और अर्जुन की प्रशंसा करके उनका मनोबल तोड़ते रहे। सोलहवें दिन कर्ण ने पांडव सेना का भारी संहार किया और नकुल, सहदेव, युधिष्ठिर को हराकर भी कुंती को दिए वचन के कारण छोड़ दिया। सत्रहवें दिन भीम ने दुःशासन की छाती फाड़कर अपनी प्रतिज्ञा पूरी की। अंत में कर्ण और अर्जुन का वह महायुद्ध हुआ जिसकी प्रतीक्षा सारा संसार कर रहा था। कर्ण का नागास्त्र श्रीकृष्ण की युक्ति से अर्जुन का केवल मुकुट काट सका। फिर परशुराम और ब्राह्मण के शाप फलित हुए—कर्ण का रथ-चक्र धरती में धँस गया और वे ब्रह्मास्त्र भूल गए। श्रीकृष्ण के कहने पर अर्जुन ने निःशस्त्र कर्ण का अंजलिकास्त्र से वध किया।",
+        "en": "The Karna Parva narrates the sixteenth and seventeenth days of the war, when Karna became commander of the Kaurava army after Drona's death. Karna asked Duryodhana that Shalya, king of Madra, be his charioteer, for only a driver as skilled as Krishna could help him face Arjuna. Shalya reluctantly agreed, but throughout the battle he mocked Karna and praised Arjuna, sapping his spirit. On the sixteenth day Karna wrought great slaughter among the Pandava forces and, having defeated Nakula, Sahadeva and Yudhishthira, spared them because of his promise to Kunti. On the seventeenth day Bhima tore open Dushasana's chest and fulfilled his vow. Then came the great duel between Karna and Arjuna that the whole world had awaited. Karna's serpent-arrow, thanks to Krishna's quick action, cut off only Arjuna's crown. Then the curses of Parashurama and the Brahmin took effect: Karna's chariot-wheel sank into the earth and he forgot the Brahmastra. At Krishna's urging, Arjuna slew the weaponless Karna with the Anjalika arrow."
+      },
+      "stories": [
+        {
+          "slug": "karna-senapati-and-shalya-sarathi",
+          "title": {
+            "hi": "कर्ण सेनापति और शल्य सारथी",
+            "en": "Karna as Commander and Shalya as Charioteer"
+          },
+          "body": {
+            "hi": "द्रोणाचार्य की मृत्यु के बाद कौरव सेना शोक में डूबी थी। दुर्योधन ने कर्ण को सेनापति बनाया। कर्ण ने कहा—'मित्र, मैं अर्जुन को मार सकता हूँ, किंतु उसका सारथी श्रीकृष्ण है, जो अश्वविद्या में सबसे श्रेष्ठ है। मुझे भी वैसा ही सारथी चाहिए। मद्रराज शल्य श्रीकृष्ण के समान अश्वों को जानते हैं। उन्हें मेरा सारथी बनाइए।'\n\nदुर्योधन शल्य के पास गया। शल्य क्रोधित हो उठे—'मैं क्षत्रिय राजा हूँ, और तुम मुझे एक सूतपुत्र का सारथी बनाना चाहते हो?' दुर्योधन ने विनय से समझाया कि जैसे श्रीकृष्ण अर्जुन के सारथी बनकर छोटे नहीं हुए, वैसे ही शल्य भी नहीं होंगे; वे कर्ण से भी श्रेष्ठ माने जाएँगे। शल्य ने इस शर्त पर स्वीकार किया कि युद्ध में वे जो चाहें कह सकेंगे और कर्ण उस पर आपत्ति नहीं करेगा।\n\nसोलहवें दिन कर्ण का रथ शल्य के हाथों निकला। किंतु शल्य, जो युधिष्ठिर को वचन दे चुके थे कि वे कर्ण का तेज कम करेंगे, पूरे रास्ते कर्ण को नीचा दिखाते रहे—'तुम अर्जुन के सामने ऐसे हो जैसे सिंह के सामने सियार। विराट नगर में अर्जुन ने अकेले तुम सबको हराया था, याद है?' कर्ण ने क्रोध में शल्य और मद्र देश की निंदा की, पर रथ को रोका नहीं। दोनों में कटु संवाद चलता रहा।\n\nउस दिन कर्ण ने पांडव सेना में भीषण संहार किया। उन्होंने नकुल को हराया, उसका धनुष काटा और गले में धनुष की डोरी डालकर कहा—'बालक, जाओ, अपने से बड़े से मत लड़ो।' सहदेव को भी परास्त कर छोड़ दिया। युधिष्ठिर को घायल करके, उनका कवच तोड़कर कर्ण ने उन्हें भी अपमानित कर छोड़ दिया—कुंती को दिया वचन वे भूले नहीं थे। युधिष्ठिर अपमान से व्याकुल होकर शिविर लौटे। जब अर्जुन उनका हाल पूछने आए, तो युधिष्ठिर ने क्रोध में कहा—'तुम कर्ण को नहीं मार सकते तो गांडीव किसी और को दे दो!' अर्जुन, जिनकी प्रतिज्ञा थी कि गांडीव का अपमान करने वाले को मारेंगे, तलवार खींच बैठे। श्रीकृष्ण ने बीच में आकर समझाया कि बड़े का अपमान करना उसे मारने के समान है; अर्जुन ने युधिष्ठिर को कठोर शब्द कहकर प्रतिज्ञा निभाई और फिर क्षमा माँगकर प्रण किया कि आज कर्ण का वध होगा।",
+            "en": "After Drona's death the Kaurava army was sunk in grief. Duryodhana made Karna its commander. Karna said: 'Friend, I can kill Arjuna, but his charioteer is Krishna, the greatest master of horses. I need a charioteer to match him. Shalya, king of Madra, knows horses as well as Krishna does. Make him my charioteer.'\n\nDuryodhana went to Shalya. Shalya flared up: 'I am a Kshatriya king, and you want to make me the charioteer of a charioteer's son?' Duryodhana humbly argued that just as Krishna was not lessened by driving Arjuna's chariot, Shalya would not be lessened either; he would be regarded as even greater than Karna. Shalya agreed on one condition: that in battle he could say whatever he wished and Karna would not object.\n\nOn the sixteenth day Karna's chariot rolled out with Shalya at the reins. But Shalya, who had promised Yudhishthira to dampen Karna's fire, belittled him all the way: 'Before Arjuna you are like a jackal before a lion. Remember how Arjuna alone defeated all of you at Virata's city?' Karna angrily reviled Shalya and the land of Madra, but did not halt the chariot. The bitter exchange went on between them.\n\nThat day Karna wrought terrible slaughter in the Pandava army. He defeated Nakula, cut his bow, looped the bowstring around his neck and said: 'Go, boy; do not fight those greater than you.' He defeated Sahadeva too and let him go. He wounded Yudhishthira, broke his armour and released him with harsh words; he had not forgotten his promise to Kunti. Humiliated, Yudhishthira returned to camp. When Arjuna came to ask after him, Yudhishthira said in anger: 'If you cannot kill Karna, give the Gandiva to someone else!' Arjuna, who had vowed to kill anyone who insulted the Gandiva, drew his sword. Krishna intervened and explained that to insult an elder is as good as killing him; Arjuna fulfilled his vow by speaking harsh words to Yudhishthira, then begged his forgiveness and swore that Karna would die that day."
+          },
+          "lesson": {
+            "hi": "सारथी यदि मन से साथ न हो तो महारथी भी दुर्बल पड़ जाता है; साथ ही क्रोध में बोले शब्द तलवार से गहरा घाव करते हैं।",
+            "en": "Even a great warrior falters when his charioteer is not with him in spirit; and words spoken in anger cut deeper than a sword."
+          },
+          "characters": [
+            "karna",
+            "shalya",
+            "duryodhana",
+            "nakula",
+            "sahadeva",
+            "yudhishthira",
+            "arjuna",
+            "krishna",
+            "kunti"
+          ]
+        },
+        {
+          "slug": "dushasana-vadh",
+          "title": {
+            "hi": "दुःशासन वध और भीम की प्रतिज्ञा",
+            "en": "The Slaying of Dushasana and Bhima's Vow"
+          },
+          "body": {
+            "hi": "सत्रहवें दिन युद्ध अपनी चरम सीमा पर था। भीम ने रणभूमि में दुःशासन को देखा—वही दुःशासन जिसने द्रौपदी के केश खींचे थे और भरी सभा में उनका वस्त्र खींचा था। तेरह वर्ष से भीम के हृदय में यह आग जल रही थी। उन्होंने सिंहनाद किया और अपना रथ दुःशासन की ओर बढ़ाया।\n\nदोनों में भीषण युद्ध हुआ। दुःशासन ने भी वीरता से लड़ा और भीम को बाणों से घायल किया। किंतु भीम ने गदा उठाई और ऐसा प्रहार किया कि दुःशासन रथ से नीचे गिर पड़ा। भीम रथ से कूदे, उसे पकड़कर भूमि पर पटका और उसकी छाती पर पैर रखकर खड़े हो गए। उन्होंने कौरव सेना की ओर देखकर गरजकर कहा—'देखो, कौरवो! जिस हाथ से इसने द्रौपदी के केश खींचे थे, वह हाथ आज मैं उखाड़ता हूँ।' और उन्होंने दुःशासन का हाथ उखाड़कर फेंक दिया।\n\nफिर भीम ने तलवार से उसकी छाती फाड़ दी और उसका गरम रक्त अंजलि में लेकर पिया—ठीक वैसे ही जैसे द्यूत सभा में प्रतिज्ञा की थी। उनका मुख रक्त से रंग गया और वे उन्मत्त की तरह नाचने लगे। यह दृश्य देखकर कौरव सेना भय से काँप उठी। कर्ण भी एक क्षण के लिए स्तब्ध रह गए और शल्य ने उन्हें सँभाला। कहा जाता है कि भीम ने रक्त होंठों से नीचे नहीं जाने दिया, पर उस दृश्य ने सबके हृदय में भय भर दिया।\n\nभीम ने दुर्योधन को ललकारा—'दुर्योधन! अब तेरी बारी है। जिस जाँघ पर तूने द्रौपदी को बैठने का संकेत किया था, वह जाँघ मेरी गदा से टूटेगी।' दुर्योधन अपने भाई के शव के पास शोक से बेहाल हो गया। उसके सौ भाइयों में अब केवल वह और कुछ ही बचे थे; भीम ने इसी युद्ध में धृतराष्ट्र के अधिकांश पुत्रों का वध किया था। श्रीकृष्ण ने पांडवों से कहा कि भीम ने धर्मसभा में की हुई प्रतिज्ञा पूरी की है। अब केवल कर्ण और दुर्योधन शेष थे, और उसी दिन कर्ण-अर्जुन का निर्णायक युद्ध होने वाला था।",
+            "en": "On the seventeenth day the war reached its peak. On the battlefield Bhima saw Dushasana, the same Dushasana who had dragged Draupadi by her hair and tried to strip her in the open court. For thirteen years this fire had burned in Bhima's heart. He roared like a lion and drove his chariot at Dushasana.\n\nA fierce fight followed. Dushasana too fought bravely and wounded Bhima with his arrows. But Bhima raised his mace and struck such a blow that Dushasana fell from his chariot. Bhima leapt down, seized him, hurled him to the ground and stood with his foot on his chest. Turning to the Kaurava army, he thundered: 'Look, Kauravas! The arm with which he dragged Draupadi's hair, I tear out today.' And he wrenched off Dushasana's arm and flung it away.\n\nThen Bhima ripped open his chest with his sword, cupped the warm blood in his palms and drank it, exactly as he had vowed in the gambling hall. His face was smeared with blood and he danced like one possessed. The Kaurava army shook with terror at the sight. Even Karna stood stunned for a moment, and Shalya had to steady him. It is said that Bhima did not let the blood pass his lips, but the sight filled every heart with dread.\n\nBhima challenged Duryodhana: 'Duryodhana! Now it is your turn. The thigh you bared for Draupadi to sit on will be broken by my mace.' Duryodhana collapsed in grief beside his brother's body. Of his hundred brothers, only he and a handful now remained; in this war Bhima had slain most of Dhritarashtra's sons. Krishna told the Pandavas that Bhima had fulfilled the vow he made in the assembly hall. Only Karna and Duryodhana were left, and that very day the decisive battle between Karna and Arjuna was to be fought."
+          },
+          "lesson": {
+            "hi": "भरी सभा में किया गया अपमान कभी भुलाया नहीं जाता; अधर्म का प्रत्येक कृत्य समय आने पर अपना मूल्य वसूल करता है।",
+            "en": "An insult inflicted in open court is never forgotten; every act of adharma exacts its price when the time comes."
+          },
+          "characters": [
+            "bhima",
+            "dushasana",
+            "duryodhana",
+            "draupadi",
+            "karna",
+            "shalya",
+            "krishna"
+          ]
+        },
+        {
+          "slug": "karna-arjuna-yuddha",
+          "title": {
+            "hi": "कर्ण-अर्जुन महायुद्ध",
+            "en": "The Great Duel of Karna and Arjuna"
+          },
+          "body": {
+            "hi": "सत्रहवें दिन दोपहर में कर्ण और अर्जुन आमने-सामने आए। दोनों सेनाएँ ठहर गईं; देवता भी आकाश से देखने लगे। सूर्यपुत्र कर्ण और इंद्रपुत्र अर्जुन—दोनों धनुर्विद्या के शिखर पर थे। बाणों की ऐसी वर्षा हुई कि आकाश ढक गया। कर्ण ने अर्जुन के दिव्यास्त्रों को अपने अस्त्रों से काटा; अर्जुन ने कर्ण के अस्त्रों को।\n\nतब कर्ण ने अपना सबसे भयानक अस्त्र निकाला—नागास्त्र, जिसमें अश्वसेन नाग स्वयं बैठा था, जो खांडव दहन में अर्जुन से अपनी माता की मृत्यु का बदला लेना चाहता था। शल्य ने कहा—'कर्ण, लक्ष्य थोड़ा नीचे करो, यह सिर से ऊपर जाएगा।' पर कर्ण ने क्रोध में उत्तर दिया—'कर्ण एक बार लक्ष्य साधकर दोबारा नहीं साधता।' बाण छूटा। श्रीकृष्ण ने उसी क्षण रथ को पैर से दबाकर पृथ्वी में एक हाथ नीचे धँसा दिया। नागास्त्र अर्जुन के सिर से नहीं, केवल उनके मुकुट से टकराया और वह दिव्य किरीट चूर-चूर हो गया। अर्जुन ने लौटते अश्वसेन को मार डाला।\n\nयुद्ध और तीव्र हुआ। अर्जुन के बाणों से कर्ण घायल हुए, और तभी वह घड़ी आई जब शाप फलित होने लगे। कर्ण के रथ का बायाँ पहिया पृथ्वी में धँस गया—उस ब्राह्मण का शाप, जिसकी गाय कर्ण के बाण से अनजाने में मरी थी। कर्ण ने ब्रह्मास्त्र का स्मरण करना चाहा, पर मंत्र भूल गए—गुरु परशुराम का शाप, जिन्होंने उन्हें ब्राह्मण बताकर विद्या लेने के छल पर कहा था कि अंतिम समय में यह विद्या काम नहीं आएगी।\n\nकर्ण रथ से उतरे और पहिया उठाने लगे। उन्होंने अर्जुन से कहा—'पार्थ, एक क्षण रुको। मैं पहिया निकाल लूँ। निःशस्त्र पर प्रहार धर्म नहीं है।' तब श्रीकृष्ण बोले—'कर्ण, आज तुम्हें धर्म याद आया? जब द्रौपदी को सभा में घसीटा गया, तब धर्म कहाँ था? जब सात महारथियों ने बालक अभिमन्यु को घेरकर मारा, तब धर्म कहाँ था? जब लाक्षागृह में पांडवों को जलाने का षड्यंत्र हुआ, तब?' कर्ण का सिर झुक गया। वे पुनः धनुष उठाकर लड़े और अर्जुन को मूर्छित कर दिया। फिर पहिया निकालने झुके। श्रीकृष्ण ने अर्जुन से कहा—'अभी! इससे पहले कि वह रथ पर चढ़े।' अर्जुन ने अंजलिकास्त्र का संधान किया और कर्ण का सिर काट दिया। सूर्य अस्त हो रहा था। कर्ण के शरीर से एक तेज निकलकर सूर्यमंडल में समा गया। उस रात कुंती ने अपने ज्येष्ठ पुत्र के लिए चुपचाप आँसू बहाए।",
+            "en": "At midday on the seventeenth day Karna and Arjuna came face to face. Both armies halted; even the gods watched from the sky. Karna, son of the Sun, and Arjuna, son of Indra, both stood at the summit of archery. Such a rain of arrows fell that the sky was hidden. Karna countered Arjuna's celestial weapons with his own; Arjuna countered Karna's.\n\nThen Karna drew his most terrible weapon, the Nagastra, in which sat the serpent Ashwasena himself, who sought revenge on Arjuna for his mother's death in the burning of the Khandava forest. Shalya said: 'Karna, aim a little lower; this will pass over his head.' But Karna replied angrily: 'Karna does not take aim twice.' The arrow flew. In that instant Krishna pressed the chariot down with his foot, sinking it a cubit into the earth. The Nagastra missed Arjuna's head and struck only his crown, shattering the divine diadem. Arjuna then killed the returning Ashwasena.\n\nThe battle grew fiercer. Karna was wounded by Arjuna's arrows, and then came the hour when the curses began to work. The left wheel of Karna's chariot sank into the earth: the curse of the Brahmin whose cow had been killed unknowingly by Karna's arrow. Karna tried to recall the Brahmastra, but the mantra escaped him: the curse of his teacher Parashurama, who, on discovering that Karna had posed as a Brahmin to learn from him, had declared that the knowledge would fail him in his final hour.\n\nKarna climbed down and tried to lift the wheel. He called to Arjuna: 'Partha, wait a moment. Let me free the wheel. It is not dharma to strike an unarmed man.' Then Krishna spoke: 'Karna, you remember dharma today? Where was dharma when Draupadi was dragged into the assembly? Where was it when seven great warriors surrounded and killed the boy Abhimanyu? Where was it when the Pandavas were to be burnt in the house of lac?' Karna's head sank. He took up his bow again and fought on, then bent once more to free the wheel. Krishna said to Arjuna: 'Now! Before he mounts the chariot.' Arjuna fitted the Anjalika arrow and cut off Karna's head. The sun was setting. A radiance left Karna's body and merged into the orb of the Sun. That night Kunti wept silently for her eldest son."
+          },
+          "lesson": {
+            "hi": "धर्म का स्मरण केवल अपने संकट में नहीं, दूसरों के संकट में भी होना चाहिए; कर्ण की महानता और उसकी गलत संगति, दोनों ने उसका भाग्य लिखा।",
+            "en": "Dharma must be remembered not only in one's own distress but in the distress of others; Karna's greatness and his wrong allegiance together wrote his fate."
+          },
+          "characters": [
+            "karna",
+            "arjuna",
+            "krishna",
+            "shalya",
+            "parashurama",
+            "kunti",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "karna-shaap-katha",
+          "title": {
+            "hi": "कर्ण के शाप और उसका भाग्य",
+            "en": "The Curses of Karna and His Destiny"
+          },
+          "body": {
+            "hi": "कर्ण का जीवन आरंभ से ही संघर्ष और शापों से घिरा था। कुंती ने कन्या अवस्था में दुर्वासा के मंत्र की परीक्षा लेते हुए सूर्यदेव का आह्वान किया, और कवच-कुंडल सहित कर्ण का जन्म हुआ। लोकलाज से डरकर कुंती ने उन्हें मंजूषा में रखकर गंगा में बहा दिया। धृतराष्ट्र के सारथी अधिरथ और उनकी पत्नी राधा ने उन्हें पाला। बालक कर्ण का मन धनुर्विद्या में रमता था, पर सूतपुत्र होने के कारण द्रोणाचार्य ने उन्हें राजकुमारों के साथ शिक्षा नहीं दी।\n\nकर्ण तब परशुराम के पास गए, जो केवल ब्राह्मणों को शिक्षा देते थे। कर्ण ने स्वयं को ब्राह्मण बताकर शिक्षा ली और ब्रह्मास्त्र तक प्राप्त किया। एक दिन परशुराम कर्ण की जाँघ पर सिर रखकर सो रहे थे, तभी एक कीड़े ने कर्ण की जाँघ में छेद कर दिया। गुरु की नींद न टूटे, इसलिए कर्ण पीड़ा सहते रहे। जब रक्त बहकर परशुराम तक पहुँचा, तो वे जागे और बोले—'ब्राह्मण ऐसी पीड़ा नहीं सह सकता। तुम क्षत्रिय हो, तुमने मुझसे छल किया है। मेरा शाप है कि जब तुम्हें इस विद्या की सबसे अधिक आवश्यकता होगी, तुम इसे भूल जाओगे।'\n\nलौटते समय कर्ण ने अभ्यास करते हुए एक बाण चलाया जो एक ब्राह्मण की गाय को लगा और वह मर गई। क्रुद्ध ब्राह्मण ने शाप दिया—'जैसे तुमने मेरी असहाय गाय को मारा, वैसे ही जब तुम असहाय होगे, तुम्हारे रथ का पहिया धरती में धँस जाएगा और तुम्हारा शत्रु तुम्हें मारेगा।' एक अन्य कथा के अनुसार पृथ्वी देवी ने भी कर्ण को शाप दिया था, क्योंकि उन्होंने एक कन्या के गिरे हुए घी को मिट्टी निचोड़कर निकाला था, जिससे पृथ्वी को पीड़ा हुई।\n\nहस्तिनापुर के रंगभूमि-प्रदर्शन में कर्ण ने अर्जुन को चुनौती दी, पर कृपाचार्य ने उनके कुल का प्रश्न उठाया। उसी क्षण दुर्योधन ने उन्हें अंग देश का राजा बना दिया—यही वह कृतज्ञता थी जिसने कर्ण को जीवन भर दुर्योधन से बाँधे रखा। इंद्र ने कवच-कुंडल लिए, श्रीकृष्ण और कुंती ने उनका जन्म-रहस्य बताया, शल्य ने उनका मनोबल तोड़ा, और अंत में दोनों शाप एक साथ फलित हुए। महाभारत कर्ण को ऐसे नायक के रूप में याद करता है जिसमें असीम दानशीलता और वीरता थी, किंतु जिसने अपमान के घाव और गलत मित्रता के कारण अधर्म का साथ दिया। श्रीकृष्ण ने स्वयं कहा कि कर्ण के समान दानवीर कोई नहीं हुआ।",
+            "en": "Karna's life was surrounded by struggle and curses from its very beginning. As a maiden, Kunti tested Durvasa's mantra by invoking the Sun god, and Karna was born with his armour and earrings. Fearing disgrace, Kunti placed him in a basket and set him afloat on the Ganga. Adhiratha, charioteer of Dhritarashtra, and his wife Radha raised him. The boy's heart was set on archery, but being a charioteer's son, he was not taught alongside the princes by Dronacharya.\n\nKarna then went to Parashurama, who taught only Brahmins. Claiming to be a Brahmin, Karna learnt from him and even obtained the Brahmastra. One day Parashurama lay asleep with his head on Karna's thigh when an insect bored into Karna's flesh. So as not to wake his teacher, Karna bore the pain. When the blood reached Parashurama, he woke and said: 'No Brahmin could endure such pain. You are a Kshatriya and have deceived me. My curse is that when you need this knowledge most, you shall forget it.'\n\nOn his way home, Karna, while practising, loosed an arrow that struck and killed a Brahmin's cow. The furious Brahmin cursed him: 'As you killed my helpless cow, so when you are helpless your chariot-wheel will sink into the earth and your enemy will slay you.' According to another tale, the Earth goddess also cursed Karna, because he had wrung spilt ghee out of the soil for a girl, causing the Earth pain.\n\nAt the tournament in Hastinapura Karna challenged Arjuna, but Kripa questioned his lineage. In that instant Duryodhana made him king of Anga; it was this gratitude that bound Karna to Duryodhana for life. Indra took his armour and earrings, Krishna and Kunti revealed the secret of his birth, Shalya broke his spirit, and at the end both curses struck together. The Mahabharata remembers Karna as a hero of boundless generosity and valour, who nonetheless, because of the wounds of humiliation and a misplaced friendship, stood on the side of adharma. Krishna himself said that there had never been a giver equal to Karna."
+          },
+          "lesson": {
+            "hi": "छल से पाई विद्या और अपमान से जन्मा बैर अंत में साथ छोड़ देते हैं; गुण चाहे कितने भी हों, गलत पक्ष का चुनाव जीवन को दुखांत बना देता है।",
+            "en": "Knowledge gained by deceit and enmity born of humiliation abandon one in the end; however great one's virtues, choosing the wrong side turns life into tragedy."
+          },
+          "characters": [
+            "karna",
+            "kunti",
+            "parashurama",
+            "duryodhana",
+            "kripa",
+            "drona",
+            "arjuna",
+            "krishna",
+            "shalya"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "slug": "shalya-parva",
+      "title": {
+        "hi": "शल्य पर्व",
+        "en": "Shalya Parva"
+      },
+      "subtitle": {
+        "hi": "युद्ध का अंतिम दिन और दुर्योधन-भीम का गदा युद्ध",
+        "en": "The final day of the war and the mace duel of Duryodhana and Bhima"
+      },
+      "summary": {
+        "hi": "शल्य पर्व में कुरुक्षेत्र युद्ध के अठारहवें और अंतिम दिन का वर्णन है। कर्ण की मृत्यु के बाद दुर्योधन मद्रराज शल्य को सेनापति बनाता है। शल्य वीरता से लड़ते हैं और युधिष्ठिर स्वयं शक्ति से उनका वध करते हैं। सहदेव अपनी प्रतिज्ञा के अनुसार शकुनि का वध करते हैं और भीम दुर्योधन के शेष भाइयों को मारते हैं। ग्यारह अक्षौहिणी सेना का स्वामी दुर्योधन अकेला रह जाता है और द्वैपायन सरोवर के जल में छिप जाता है। पांडव उसे खोज लेते हैं और युधिष्ठिर उसे किसी एक पांडव से द्वंद्व की चुनौती देते हैं। दुर्योधन भीम को चुनता है। तीर्थयात्रा से लौटे बलराम इस गदा युद्ध के साक्षी बनते हैं। भीम युद्ध में पीछे पड़ते दिखते हैं, तब श्रीकृष्ण अपनी जाँघ ठोंककर अर्जुन के माध्यम से भीम को उनकी प्रतिज्ञा स्मरण कराते हैं। भीम गदा से दुर्योधन की जाँघ तोड़ देते हैं। बलराम इस नियम-भंग पर क्रोधित होते हैं, पर श्रीकृष्ण उन्हें शांत करते हैं। टूटी जाँघ के साथ पड़ा दुर्योधन श्रीकृष्ण को धिक्कारता है, और अश्वत्थामा उससे मिलकर अंतिम बदले की प्रतिज्ञा करता है।",
+        "en": "The Shalya Parva narrates the eighteenth and final day of the Kurukshetra war. After Karna's death, Duryodhana appoints Shalya, king of Madra, as commander. Shalya fights valiantly and is slain by Yudhishthira himself with a spear. Sahadeva kills Shakuni in accordance with his vow, and Bhima kills the remaining brothers of Duryodhana. The master of eleven armies, Duryodhana is left alone and hides in the waters of the Dvaipayana lake. The Pandavas find him, and Yudhishthira challenges him to single combat with any one Pandava. Duryodhana chooses Bhima. Balarama, returning from pilgrimage, witnesses the mace duel. When Bhima seems to be losing, Krishna slaps his thigh and, through Arjuna, reminds Bhima of his vow. Bhima shatters Duryodhana's thighs with his mace. Balarama is enraged at this breach of the rules, but Krishna calms him. Lying with broken thighs, Duryodhana reviles Krishna, and Ashwatthama comes to him and vows a final revenge."
+      },
+      "stories": [
+        {
+          "slug": "shalya-senapati-and-vadh",
+          "title": {
+            "hi": "शल्य सेनापति और उनका वध",
+            "en": "Shalya as Commander and His Death"
+          },
+          "body": {
+            "hi": "कर्ण की मृत्यु के बाद कौरव शिविर में घोर निराशा छा गई। सत्रह दिनों में भीष्म, द्रोण और कर्ण—तीनों महान सेनापति गिर चुके थे। कृपाचार्य ने दुर्योधन को संधि की सलाह दी, पर उसने कहा—'इतने योद्धाओं की मृत्यु के बाद अब संधि नहीं, केवल युद्ध।' कौरवों के पास अब केवल शल्य, कृप, अश्वत्थामा, कृतवर्मा और शकुनि शेष थे। दुर्योधन ने अश्वत्थामा की सलाह पर मद्रराज शल्य को सेनापति बनाया।\n\nअठारहवें दिन का सूर्य निकला। शल्य ने, जो अब तक कर्ण के सारथी के रूप में कटु वचन कहते रहे थे, एक सच्चे क्षत्रिय की तरह युद्ध किया। उन्होंने पांडव सेना में भीषण संहार किया, भीम को घायल किया और युधिष्ठिर पर टूट पड़े। श्रीकृष्ण ने युधिष्ठिर से कहा—'धर्मराज, शल्य का वध आपके ही हाथों लिखा है। आज आपको स्वयं युद्ध करना होगा।' युधिष्ठिर, जो युद्ध में प्रायः पीछे रहते थे, आज सामने आए।\n\nमामा और भांजे में घमासान हुआ। शल्य ने युधिष्ठिर का धनुष काटा और उन्हें घायल किया। युधिष्ठिर ने भी शल्य के सारथी और अश्वों को मार गिराया। अंत में युधिष्ठिर ने एक दिव्य शक्ति उठाई, जो स्वर्ण और रत्नों से जड़ी थी। उन्होंने उसे मंत्रों से अभिमंत्रित किया और पूरी शक्ति से शल्य पर फेंका। शक्ति शल्य के कवच और हृदय को भेदकर पार निकल गई। मद्रराज शल्य भूमि पर गिरे—मानो युद्धभूमि की देवी ने उन्हें अपने आँचल में समेट लिया हो।\n\nउसी दिन सहदेव ने शकुनि को ललकारा—वही शकुनि जिसके पासों ने पांडवों का सर्वस्व छीना था। सहदेव ने वनवास में प्रतिज्ञा की थी कि वे शकुनि का वध करेंगे। भीषण युद्ध के बाद सहदेव ने स्वर्णपंख वाले बाण से शकुनि का सिर काट दिया और कहा—'मामा, अब पासे खेलो!' भीम ने दुर्योधन के बचे हुए भाइयों को मार डाला। दोपहर ढलते-ढलते कौरवों की ग्यारह अक्षौहिणी सेना समाप्त हो चुकी थी। दुर्योधन अकेला रह गया—न भाई, न सेनापति, न सेना। गदा उठाए वह रणभूमि से दूर द्वैपायन सरोवर की ओर चल पड़ा।",
+            "en": "After Karna's death, deep despair settled over the Kaurava camp. In seventeen days the three great commanders, Bhishma, Drona and Karna, had all fallen. Kripa advised Duryodhana to make peace, but he replied: 'After the death of so many warriors there can be no peace, only war.' The Kauravas now had only Shalya, Kripa, Ashwatthama, Kritavarma and Shakuni left. On Ashwatthama's advice Duryodhana made Shalya, king of Madra, the commander.\n\nThe sun rose on the eighteenth day. Shalya, who until then had spoken bitter words as Karna's charioteer, now fought like a true Kshatriya. He wrought terrible slaughter in the Pandava army, wounded Bhima and fell upon Yudhishthira. Krishna said to Yudhishthira: 'Dharmaraja, Shalya's death is written at your hands alone. Today you yourself must fight.' Yudhishthira, who usually stayed behind in battle, now came to the front.\n\nA fierce fight raged between uncle and nephew. Shalya cut Yudhishthira's bow and wounded him. Yudhishthira in turn killed Shalya's charioteer and horses. Finally Yudhishthira took up a divine spear, inlaid with gold and jewels. He charged it with mantras and hurled it with all his strength at Shalya. The spear pierced Shalya's armour and heart and passed through. The king of Madra fell to the earth, as if the goddess of the battlefield had gathered him into her lap.\n\nThe same day Sahadeva challenged Shakuni, the very Shakuni whose dice had stripped the Pandavas of everything. In the forest Sahadeva had vowed to kill him. After a hard fight Sahadeva severed Shakuni's head with a gold-feathered arrow and cried: 'Uncle, now play your dice!' Bhima killed Duryodhana's remaining brothers. By late afternoon the eleven armies of the Kauravas were gone. Duryodhana was left alone, with no brothers, no commander, no army. Mace in hand, he walked away from the battlefield towards the Dvaipayana lake."
+          },
+          "lesson": {
+            "hi": "जो विनाश के मार्ग पर अडिग रहता है, उसके साथी एक-एक करके छूट जाते हैं और अंत में वह अकेला खड़ा रहता है।",
+            "en": "One who stubbornly walks the path of destruction loses his companions one by one, until at last he stands alone."
+          },
+          "characters": [
+            "shalya",
+            "yudhishthira",
+            "duryodhana",
+            "sahadeva",
+            "shakuni",
+            "bhima",
+            "krishna",
+            "kripa",
+            "ashwatthama"
+          ]
+        },
+        {
+          "slug": "duryodhana-in-dvaipayana-lake",
+          "title": {
+            "hi": "सरोवर में छिपा दुर्योधन",
+            "en": "Duryodhana Hidden in the Lake"
+          },
+          "body": {
+            "hi": "थका और घायल दुर्योधन द्वैपायन सरोवर पहुँचा। उसने अपनी माया-विद्या से जल को स्तंभित किया और उसके भीतर छिपकर विश्राम करने लगा। उसका शरीर बाणों से बिंधा था और मन शोक से भरा। कृपाचार्य, अश्वत्थामा और कृतवर्मा—कौरव पक्ष के केवल तीन योद्धा—उसे खोजते हुए वहाँ पहुँचे और उसे पुनः युद्ध के लिए उत्साहित किया। दुर्योधन ने कहा—'आज रात विश्राम करने दो, कल लड़ूँगा।'\n\nकुछ शिकारी, जो उस सरोवर के पास थे, ने यह बातचीत सुन ली। उन्होंने भीम के पास जाकर समाचार दिया और पुरस्कार पाया। पांडव श्रीकृष्ण के साथ सरोवर पर आए। युधिष्ठिर ने जल की ओर देखकर कहा—'दुर्योधन! तुम जिसने पूरे कुल को नष्ट करवाया, आज जल में क्यों छिपे हो? क्षत्रिय की तरह बाहर आओ और युद्ध करो।'\n\nदुर्योधन ने भीतर से उत्तर दिया—'मैं भय से नहीं छिपा हूँ। मैं थका हूँ। मेरे सब मित्र और भाई मारे गए। अब मुझे राज्य की इच्छा नहीं। तुम पृथ्वी का राज्य करो, मैं वल्कल पहनकर वन में चला जाऊँगा।' युधिष्ठिर ने कहा—'जब हमने पाँच गाँव माँगे थे, तब तुमने सुई की नोक बराबर भूमि देने से इनकार किया था। आज तुम हमें राज्य दान करने चले हो? हम दान नहीं, युद्ध से जीतेंगे।'\n\nतब दुर्योधन ने कहा—'मैं अकेला हूँ और तुम पाँच। मुझे एक-एक करके लड़ने दो।' युधिष्ठिर ने, अपनी स्वाभाविक उदारता में, एक ऐसी बात कह दी जिससे श्रीकृष्ण चिंतित हो उठे—'ठीक है, तुम हम पाँचों में से किसी एक को चुनो और जो अस्त्र चाहो चुनो। यदि तुम उसे हरा दोगे, तो राज्य तुम्हारा।' श्रीकृष्ण ने बाद में युधिष्ठिर को फटकारा—'यह आपने क्या किया? दुर्योधन ने तेरह वर्ष लोहे की मूर्ति पर गदा चलाने का अभ्यास किया है। यदि वह नकुल या सहदेव को चुन लेता तो? गदा युद्ध में भीम भी उससे कौशल में कम हैं।' दुर्योधन सरोवर से निकला। उसने गदा उठाई और गर्व से कहा—'मैं भीम को चुनता हूँ।'",
+            "en": "Exhausted and wounded, Duryodhana reached the Dvaipayana lake. Using his power of illusion he solidified the waters and hid within them to rest. His body was riddled with arrows and his heart full of grief. Kripa, Ashwatthama and Kritavarma, the only three warriors left on the Kaurava side, found him there and urged him to fight again. Duryodhana said: 'Let me rest tonight; I shall fight tomorrow.'\n\nSome hunters near the lake overheard this conversation. They went to Bhima with the news and were rewarded. The Pandavas came to the lake with Krishna. Yudhishthira called out towards the water: 'Duryodhana! You who caused the destruction of the whole clan, why do you hide in the water today? Come out like a Kshatriya and fight.'\n\nFrom within, Duryodhana answered: 'I am not hiding out of fear. I am weary. All my friends and brothers are dead. I no longer desire the kingdom. Rule the earth; I shall put on bark garments and go to the forest.' Yudhishthira replied: 'When we asked for five villages, you refused us even a needle-point of land. Today you offer to gift us the kingdom? We shall not take it as a gift; we shall win it in battle.'\n\nThen Duryodhana said: 'I am alone and you are five. Let me fight you one at a time.' Yudhishthira, in his natural generosity, said something that alarmed Krishna: 'Very well. Choose any one of us five and any weapon you like. If you defeat him, the kingdom is yours.' Krishna later rebuked Yudhishthira: 'What have you done? For thirteen years Duryodhana has practised the mace on an iron statue. What if he had chosen Nakula or Sahadeva? Even Bhima is less skilled than he in mace-fighting.' Duryodhana rose out of the lake. He lifted his mace and said proudly: 'I choose Bhima.'"
+          },
+          "lesson": {
+            "hi": "अहंकार हार के क्षण में भी नहीं झुकता; और अति-उदारता कभी-कभी धर्मात्मा को भी संकट में डाल देती है।",
+            "en": "Pride does not bend even in the moment of defeat; and excessive generosity can sometimes endanger even the righteous."
+          },
+          "characters": [
+            "duryodhana",
+            "yudhishthira",
+            "krishna",
+            "bhima",
+            "kripa",
+            "ashwatthama",
+            "nakula",
+            "sahadeva"
+          ]
+        },
+        {
+          "slug": "duryodhana-bhima-gada-yuddha",
+          "title": {
+            "hi": "दुर्योधन-भीम गदा युद्ध",
+            "en": "The Mace Duel of Duryodhana and Bhima"
+          },
+          "body": {
+            "hi": "गदा युद्ध से ठीक पहले बलराम वहाँ पहुँचे। वे युद्ध में भाग न लेकर तीर्थयात्रा पर गए थे और बयालीस दिन बाद लौटे थे। भीम और दुर्योधन दोनों उनके शिष्य थे। उन्होंने कहा कि यह युद्ध कुरुक्षेत्र के पवित्र समंतपंचक क्षेत्र में हो। सब वहाँ गए। बलराम ने दोनों को आशीर्वाद दिया और नियम याद दिलाया—गदा युद्ध में नाभि के नीचे प्रहार वर्जित है।\n\nदोनों महाबली आमने-सामने खड़े हुए। गदाओं के टकराने से चिंगारियाँ उठने लगीं। दुर्योधन गदा युद्ध में भीम से अधिक कुशल था—उसकी गति, उसके दाँव-पेंच अद्भुत थे। भीम बलवान थे, पर उनके प्रहार दुर्योधन चतुराई से बचा लेता था। कई घंटे युद्ध चलता रहा। दोनों घायल हुए, दोनों गिरे और उठे। एक बार दुर्योधन ने भीम की छाती पर ऐसा प्रहार किया कि वे मूर्छित होकर गिर पड़े। देखने वाले काँप गए।\n\nश्रीकृष्ण ने अर्जुन से कहा—'भीम बल में बड़ा है, पर दुर्योधन कौशल में। यदि भीम धर्मयुद्ध करेगा तो हारेगा। भीम ने द्यूत सभा में इसकी जाँघ तोड़ने की प्रतिज्ञा की थी। उसे याद दिलाओ।' अर्जुन ने भीम की ओर देखकर अपनी जाँघ पर हाथ मारा। भीम संकेत समझ गए।\n\nदुर्योधन ने एक छलाँग लगाई—आकाश में उछलकर भीम पर प्रहार करने को। उसी क्षण भीम ने पूरी शक्ति से गदा घुमाई और दुर्योधन की दोनों जाँघों पर मारी। जाँघें टूट गईं और दुर्योधन चीखकर धरती पर गिर पड़ा। भीम ने उसके सिर पर पैर रखा और कहा—'याद है द्रौपदी का अपमान? याद है 'गाय, गाय' कहकर हमारा उपहास?' युधिष्ठिर ने उन्हें रोका—'वह हमारा भाई है, अब राजा है, अब उसका अपमान मत करो।' बलराम क्रोध से हल उठाकर भीम की ओर बढ़े—'यह अधर्म है! नाभि के नीचे प्रहार!' श्रीकृष्ण ने उन्हें थामा और कहा—'दादा, भीम ने अपनी प्रतिज्ञा पूरी की है। दुर्योधन ने जीवन भर अधर्म किया—लाक्षागृह, चीरहरण, अभिमन्यु वध। जो छल से जीता हो, वह छल से ही हारता है। कलियुग का आरंभ हो चुका है।' बलराम बिना बोले द्वारका चले गए। पांडवों की विजय हुई, पर श्रीकृष्ण ने कहा—'यह जीत तुम्हारे पराक्रम से नहीं, धर्म और भाग्य से हुई है।'",
+            "en": "Just before the mace duel, Balarama arrived. He had refused to take part in the war and had gone on pilgrimage, returning after forty-two days. Both Bhima and Duryodhana were his pupils. He asked that the fight take place at the sacred Samantapanchaka ground at Kurukshetra, and all went there. Balarama blessed both and reminded them of the rule: in a mace fight, striking below the navel is forbidden.\n\nThe two mighty warriors faced each other. Sparks flew as their maces clashed. Duryodhana was more skilled with the mace than Bhima; his speed and his moves were extraordinary. Bhima was stronger, but Duryodhana cleverly evaded his blows. The fight went on for hours. Both were wounded; both fell and rose again. Once Duryodhana struck Bhima's chest so hard that he fell senseless, and the onlookers trembled.\n\nKrishna said to Arjuna: 'Bhima is greater in strength, but Duryodhana in skill. If Bhima fights by the rules he will lose. In the gambling hall Bhima vowed to break this man's thigh. Remind him.' Arjuna looked at Bhima and slapped his own thigh. Bhima understood the sign.\n\nDuryodhana leapt high into the air to strike Bhima. In that instant Bhima swung his mace with all his strength and smashed it into both of Duryodhana's thighs. The thighs broke and Duryodhana fell screaming to the ground. Bhima placed his foot on his head and said: 'Remember Draupadi's humiliation? Remember mocking us as cows?' Yudhishthira stopped him: 'He is our brother, and a king; do not insult him now.' Balarama, enraged, raised his plough and advanced on Bhima: 'This is adharma! A blow below the navel!' Krishna held him back and said: 'Brother, Bhima has fulfilled his vow. Duryodhana practised adharma all his life: the house of lac, the disrobing, the killing of Abhimanyu. One who won by deceit is defeated by deceit. The age of Kali has begun.' Balarama left for Dwaraka without a word. The Pandavas had won, but Krishna said: 'This victory came not from your valour alone, but from dharma and destiny.'"
+          },
+          "lesson": {
+            "hi": "अधर्म से की गई जीत अंततः अधर्म से ही हारती है; जो दूसरों के लिए नियम तोड़ता है, उसके लिए भी नियम नहीं रहते।",
+            "en": "A victory gained by adharma is finally lost by adharma; for one who breaks the rules for others, no rules remain."
+          },
+          "characters": [
+            "duryodhana",
+            "bhima",
+            "krishna",
+            "balarama",
+            "arjuna",
+            "yudhishthira",
+            "draupadi"
+          ]
+        },
+        {
+          "slug": "duryodhana-last-words-and-ashwatthama",
+          "title": {
+            "hi": "दुर्योधन के अंतिम वचन और अश्वत्थामा की प्रतिज्ञा",
+            "en": "Duryodhana's Last Words and Ashwatthama's Vow"
+          },
+          "body": {
+            "hi": "टूटी जाँघों के साथ धूल में पड़ा दुर्योधन मरणासन्न था, पर उसका अभिमान जीवित था। उसने श्रीकृष्ण की ओर देखकर कहा—'कंस के दास के पुत्र! तुम्हें लज्जा नहीं आती? भीष्म को शिखंडी की आड़ में, द्रोण को झूठ से, कर्ण को निःशस्त्र अवस्था में और मुझे नियम तोड़कर मारा गया। यह सब तुम्हारी ही करतूत है। यदि तुमने छल न किया होता, तो पांडव कभी नहीं जीत सकते थे।'\n\nश्रीकृष्ण ने शांत भाव से उत्तर दिया—'दुर्योधन, तुम अपने लोभ और ईर्ष्या से मरे हो। तुमने अबोध बालक अभिमन्यु को सात महारथियों से घिरवाकर मरवाया, तुमने द्रौपदी को सभा में घसीटा, तुमने पांडवों को जलाने का षड्यंत्र रचा, तुमने विष देकर भीम को मारने की चेष्टा की। जो व्यक्ति इतने पापों के बाद भी धर्म की बात करे, उसकी बातों का कोई मूल्य नहीं।' दुर्योधन ने कहा—'मैंने वेद पढ़े, दान दिए, पृथ्वी पर राज्य किया, शत्रुओं के सिर पर पैर रखा और अब क्षत्रिय की तरह युद्ध में मर रहा हूँ। मैं स्वर्ग जाऊँगा, और तुम लोग जीवित रहकर शोक भोगोगे।' आकाश से उस पर पुष्पवर्षा हुई, क्योंकि उसने अपने धर्म का पालन करते हुए वीरगति पाई थी। पांडव यह देखकर लज्जित हुए।\n\nपांडव और श्रीकृष्ण विजय के बाद कौरव शिविर की ओर चले। श्रीकृष्ण के कहने पर उस रात पांडवों ने अपने शिविर से बाहर नदी तट पर विश्राम किया—यह निर्णय उनकी जान बचाने वाला सिद्ध हुआ। उसी संध्या अश्वत्थामा, कृपाचार्य और कृतवर्मा रणभूमि में दुर्योधन को खोजते हुए पहुँचे। अपने प्रिय मित्र को रक्त और धूल में सना, कराहते हुए देखकर अश्वत्थामा फूट-फूटकर रोया।\n\nउसने कहा—'मित्र, मेरे पिता को छल से मारा गया, तुम्हें छल से मारा गया। मैं प्रतिज्ञा करता हूँ कि आज रात पांचालों और पांडवों का नाश कर दूँगा।' दुर्योधन ने अंतिम शक्ति जुटाकर कृपाचार्य से जल मँगवाया और अश्वत्थामा का सेनापति के रूप में अभिषेक किया—कौरवों का अंतिम सेनापति, जिसके पास अब कोई सेना नहीं थी। उसने अश्वत्थामा को गले लगाया और कहा—'जाओ, मेरा बदला लो।' अश्वत्थामा ने उसी रात सोते हुए पांडव शिविर पर आक्रमण किया, जिसकी कथा सौप्तिक पर्व में है। दुर्योधन ने उसकी वापसी की प्रतीक्षा की और उसके लौटने पर पांचालों और द्रौपदी के पुत्रों के वध का समाचार सुनकर संतुष्ट होकर प्राण त्यागे। इस प्रकार अठारह दिन का महाभारत युद्ध समाप्त हुआ, जिसमें अठारह अक्षौहिणी सेना में से कुछ ही योद्धा जीवित बचे।",
+            "en": "Lying in the dust with broken thighs, Duryodhana was dying, but his pride was alive. He looked at Krishna and said: 'Son of a slave of Kamsa! Have you no shame? Bhishma was killed from behind Shikhandi, Drona by a lie, Karna while unarmed, and I by breaking the rules. All this is your doing. Had you not used deceit, the Pandavas could never have won.'\n\nKrishna replied calmly: 'Duryodhana, you have died of your own greed and envy. You had the innocent boy Abhimanyu surrounded and killed by seven great warriors, you dragged Draupadi into the assembly, you plotted to burn the Pandavas alive, you tried to poison Bhima. The words of a man who speaks of dharma after such sins have no worth.' Duryodhana said: 'I studied the Vedas, gave gifts, ruled the earth, set my foot on the heads of my enemies, and now I die in battle like a Kshatriya. I shall go to heaven, while you live on to suffer grief.' Flowers rained on him from the sky, for he had died a hero's death in the performance of his duty. The Pandavas were abashed at the sight.\n\nAfter the victory the Pandavas and Krishna went towards the Kaurava camp. At Krishna's word the Pandavas spent that night outside their own camp, by the riverbank; this decision proved to save their lives. That same evening Ashwatthama, Kripa and Kritavarma came searching for Duryodhana on the battlefield. Seeing his dear friend smeared with blood and dust and groaning in pain, Ashwatthama wept bitterly.\n\nHe said: 'Friend, my father was killed by deceit, and you have been killed by deceit. I vow that tonight I shall destroy the Panchalas and the Pandavas.' Gathering his last strength, Duryodhana had Kripa bring water and anointed Ashwatthama as commander, the last commander of the Kauravas, who now had no army at all. He embraced Ashwatthama and said: 'Go, avenge me.' That night Ashwatthama attacked the sleeping Pandava camp, a tale told in the Sauptika Parva. Duryodhana waited for his return and, on hearing that the Panchalas and the sons of Draupadi had been slain, gave up his life in satisfaction. Thus ended the eighteen-day war of the Mahabharata, in which only a handful of warriors survived out of eighteen great armies."
+          },
+          "lesson": {
+            "hi": "विनाश के अंतिम क्षण में भी अहंकार अपने दोष नहीं देखता, दूसरों पर दोष मढ़ता है; और बदले की आग सदा नए विनाश को जन्म देती है।",
+            "en": "Even in the final moment of ruin, pride sees no fault in itself and blames others; and the fire of revenge always gives birth to fresh destruction."
+          },
+          "characters": [
+            "duryodhana",
+            "krishna",
+            "ashwatthama",
+            "kripa",
+            "bhima",
+            "yudhishthira",
+            "arjuna",
+            "draupadi"
+          ]
+        }
+      ]
+    }
+  ]
+}
