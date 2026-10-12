@@ -9,7 +9,7 @@ import ReportLink from '../components/ReportLink'
 import { disableDaily, enableDaily, notificationsAvailable } from '../lib/notify'
 import type { Lang } from '../lib/types'
 
-const APP_VERSION = '0.2.0'
+const APP_VERSION = '1.0.0'
 
 export default function MorePage() {
   const { t, lang, setLang, fontScale, setFontScale, theme, setTheme, readChapters, readStories, bookmarks, dailyNotify, setDailyNotify } = useStore()
@@ -71,7 +71,7 @@ export default function MorePage() {
         <p>{t(UI.aboutText)}</p>
         <p className="mt-3">{t(UI.scopeNote)}</p>
         <div className="mt-3 flex items-center justify-between text-ink-2 dark:text-cream/60">
-          <span>{t(UI.version)} {APP_VERSION} • {t(UI.noAds)}</span>
+          <span>{t(UI.version)} {APP_VERSION} • {t(UI.noAds)} • <a className="underline underline-offset-2" href="https://mahabharat-katha.vercel.app/privacy.html" target="_blank" rel="noreferrer">Privacy</a></span>
           <ReportLink reference={`App v${APP_VERSION}`} />
         </div>
       </div>

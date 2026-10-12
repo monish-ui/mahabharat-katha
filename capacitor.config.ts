@@ -7,7 +7,8 @@ const config: CapacitorConfig = {
   android: { allowMixedContent: false },
   plugins: {
     SplashScreen: { launchShowDuration: 800, backgroundColor: '#7a1f1f', showSpinner: false },
-    StatusBar: { style: 'DARK', backgroundColor: '#7a1f1f' }
+    StatusBar: { style: 'DARK' },
+    SystemBars: { insetsHandling: 'css', style: 'DARK' }
   }
 }
 

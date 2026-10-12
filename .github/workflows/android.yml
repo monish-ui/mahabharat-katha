@@ -2,7 +2,7 @@ name: Android build
 
 on:
   push:
-    branches: [main]
+    branches: ['**']
   workflow_dispatch:
 
 permissions:
@@ -13,17 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HAS_KEYSTORE: ${{ secrets.ANDROID_KEYSTORE_BASE64 != '' }}
+      # Every Play upload needs a higher versionCode; the run number always increases.
+      VERSION_CODE: ${{ github.run_number }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: 20, cache: npm }
+        with: { node-version: 22, cache: npm }
       - uses: actions/setup-java@v4
-        with: { distribution: temurin, java-version: 17 }
+        with: { distribution: temurin, java-version: 21 }
 
       - run: npm ci
       - run: npm run content:check
       - run: npm run build
       - run: npx cap sync android
+      - name: Version name from package.json
+        run: echo "VERSION_NAME=$(node -p "require('./package.json').version")" >> "$GITHUB_ENV"
 
       # Debug APK: installable on any phone for testing.
       - name: Build debug APK
@@ -34,34 +38,55 @@ jobs:
           name: app-debug.apk
           path: android/app/build/outputs/apk/debug/app-debug.apk
 
-      # Stable phone-friendly download link:
-      # https://github.com/monish-ui/mahabharat-katha/releases/latest/download/mahabharat-katha.apk
-      - name: Publish APK to the "latest" GitHub Release
-        if: github.ref == 'refs/heads/main'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          cp android/app/build/outputs/apk/debug/app-debug.apk mahabharat-katha.apk
-          gh release view latest >/dev/null 2>&1 || gh release create latest mahabharat-katha.apk --title "Latest build" --notes "Auto-built from main. Install on Android: allow unknown apps, then open." --latest
-          gh release upload latest mahabharat-katha.apk --clobber
-          gh release edit latest --notes "Auto-built from main at $(date -u +%Y-%m-%dT%H:%MZ), commit ${GITHUB_SHA::7}. Install on Android: allow unknown apps, then open."
-
-      # Signed release AAB for Play Store, only when signing secrets are configured.
-      - name: Decode keystore
+      # Signed release AAB (what Play Console wants) + signed release APK.
+      - name: Decode upload keystore
         if: env.HAS_KEYSTORE == 'true'
         run: echo "$KS" | base64 -d > android/app/release.keystore
         env: { KS: "${{ secrets.ANDROID_KEYSTORE_BASE64 }}" }
-      - name: Build release AAB
+      - name: Build signed release AAB and APK
         if: env.HAS_KEYSTORE == 'true'
         working-directory: android
-        run: chmod +x gradlew && ./gradlew bundleRelease --no-daemon
+        run: chmod +x gradlew && ./gradlew bundleRelease assembleRelease --no-daemon
         env:
           KEYSTORE_FILE: release.keystore
           KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
           KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
           KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+      - name: Verify release signature
+        if: env.HAS_KEYSTORE == 'true'
+        run: |
+          ls -la android/app/build/outputs/apk/release/ android/app/build/outputs/bundle/release/
+          APKSIGNER=$(ls "$ANDROID_HOME"/build-tools/*/apksigner | sort -V | tail -1)
+          echo "using $APKSIGNER"
+          "$APKSIGNER" verify --verbose --print-certs android/app/build/outputs/apk/release/app-release.apk 2>&1 | grep -iE "verifies|signer|scheme" || true
+          "$APKSIGNER" verify android/app/build/outputs/apk/release/app-release.apk
+          # The AAB is jar-signed; keytool prints its signer fingerprint.
+          keytool -printcert -jarfile android/app/build/outputs/bundle/release/app-release.aab | grep -E "Owner|SHA256"
+      - name: Remove keystore from runner
+        if: always()
+        run: rm -f android/app/release.keystore
       - uses: actions/upload-artifact@v4
         if: env.HAS_KEYSTORE == 'true'
         with:
           name: app-release.aab
           path: android/app/build/outputs/bundle/release/app-release.aab
+
+      # Stable phone-friendly links (main only):
+      #   .../releases/latest/download/mahabharat-katha.apk   signed APK for sideloading
+      #   .../releases/latest/download/mahabharat-katha.aab   bundle to upload to Play Console
+      - name: Publish to the "latest" GitHub Release
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$HAS_KEYSTORE" = "true" ]; then
+            cp android/app/build/outputs/apk/release/app-release.apk mahabharat-katha.apk
+            cp android/app/build/outputs/bundle/release/app-release.aab mahabharat-katha.aab
+            FILES="mahabharat-katha.apk mahabharat-katha.aab"
+          else
+            cp android/app/build/outputs/apk/debug/app-debug.apk mahabharat-katha.apk
+            FILES="mahabharat-katha.apk"
+          fi
+          gh release view latest >/dev/null 2>&1 || gh release create latest $FILES --title "Latest build" --notes "Auto-built from main." --latest
+          gh release upload latest $FILES --clobber
+          gh release edit latest --notes "v${VERSION_NAME} (versionCode ${VERSION_CODE}), built $(date -u +%Y-%m-%dT%H:%MZ) from ${GITHUB_SHA::7}. APK: install on Android (allow unknown apps). AAB: upload to Play Console."

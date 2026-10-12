@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="40%" r="90%">
+      <stop offset="0" stop-color="#9a2a2a"/>
+      <stop offset="1" stop-color="#4a1010"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f3b24c" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f3b24c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="500" fill="url(#bg)"/>
+  <circle cx="250" cy="250" r="230" fill="url(#glow)"/>
+  <circle cx="250" cy="250" r="165" fill="none" stroke="#e08a1e" stroke-width="6" opacity=".9"/>
+  <circle cx="250" cy="250" r="140" fill="none" stroke="#f3b24c" stroke-width="2" opacity=".6"/>
+  <text x="250" y="300" text-anchor="middle" font-family="Nirmala UI, Mangal, serif" font-size="190" fill="#f8d98b">ॐ</text>
+  <text x="470" y="200" font-family="Nirmala UI, Mangal, serif" font-size="68" font-weight="700" fill="#fff8ec">महाभारत कथा</text>
+  <text x="470" y="262" font-family="Nirmala UI, Segoe UI, sans-serif" font-size="40" font-weight="600" fill="#f3b24c">&amp; श्रीमद्भगवद्गीता</text>
+  <text x="472" y="322" font-family="Segoe UI, sans-serif" font-size="26" fill="#fff8ec" opacity=".9">18 parvas · 66 stories · full Gita · audio</text>
+  <text x="472" y="362" font-family="Segoe UI, sans-serif" font-size="26" fill="#fff8ec" opacity=".9">Hindi + English · offline · no ads</text>
+</svg>
