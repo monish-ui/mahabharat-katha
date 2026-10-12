@@ -8,3 +8,22 @@ export const audioUrl = {
   chapter: (n: number) => `${AUDIO_BASE}/gita-ch_${n}.mp3`,
   story: (parvaSlug: string, storySlug: string) => `${AUDIO_BASE}/katha_${parvaSlug}--${storySlug}.mp3`
 }
+
+// Narrated videos (scripts/make-video.py), hosted on release "video-v1".
+// Only ids listed here show a video button; add an id after uploading its MP4.
+export const VIDEO_BASE = 'https://github.com/monish-ui/mahabharat-katha/releases/download/video-v1'
+const VIDEO_IDS = new Set([
+  'gita_2.47',
+  'gita-ch_2',
+  'katha_adi-parva--bhishma-pratigya'
+])
+
+function video(id: string): string | undefined {
+  return VIDEO_IDS.has(id) ? `${VIDEO_BASE}/${id}.mp4` : undefined
+}
+
+export const videoUrl = {
+  shloka: (verse: string) => video(`gita_${verse}`),
+  chapter: (n: number) => video(`gita-ch_${n}`),
+  story: (parvaSlug: string, storySlug: string) => video(`katha_${parvaSlug}--${storySlug}`)
+}

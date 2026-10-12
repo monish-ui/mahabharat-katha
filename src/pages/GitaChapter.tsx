@@ -7,7 +7,8 @@ import ShlokaCard from '../components/ShlokaCard'
 import AudioButton from '../components/AudioButton'
 import { Empty, Lesson, Paragraphs, SectionTitle } from '../components/Bits'
 import { ChevronLeft, ChevronRight } from '../components/Icons'
-import { audioUrl } from '../lib/audio'
+import { audioUrl, videoUrl } from '../lib/audio'
+import VideoButton from '../components/VideoButton'
 
 export default function GitaChapter() {
   const { number } = useParams()
@@ -34,7 +35,7 @@ export default function GitaChapter() {
       <h2 className="text-2xl font-bold text-maroon dark:text-saffron-2 shloka">{t(chapter.title)}</h2>
       <p className="text-ink-2 dark:text-cream/70">{t(chapter.subtitle)}</p>
 
-      <SectionTitle action={<AudioButton size="sm" text={`${t(chapter.title)}. ${t(chapter.summary)}. ${t(chapter.lesson)}`} audioUrl={lang === 'hi' ? audioUrl.chapter(chapter.number) : undefined} />}>{t(UI.summary)}</SectionTitle>
+      <SectionTitle action={<div className="flex gap-2"><AudioButton size="sm" text={`${t(chapter.title)}. ${t(chapter.summary)}. ${t(chapter.lesson)}`} audioUrl={lang === 'hi' ? audioUrl.chapter(chapter.number) : undefined} /><VideoButton size="sm" url={videoUrl.chapter(chapter.number)} /></div>}>{t(UI.summary)}</SectionTitle>
       <div className="card p-4"><Paragraphs text={t(chapter.summary)} /></div>
       <Lesson label={t(UI.lesson)} text={t(chapter.lesson)} />
 

@@ -7,7 +7,8 @@ import AudioButton from '../components/AudioButton'
 import BookmarkButton from '../components/BookmarkButton'
 import ShareButton from '../components/ShareButton'
 import ReportLink from '../components/ReportLink'
-import { audioUrl } from '../lib/audio'
+import { audioUrl, videoUrl } from '../lib/audio'
+import VideoButton from '../components/VideoButton'
 import { Empty, Lesson, Paragraphs, SectionTitle } from '../components/Bits'
 import { ChevronLeft, ChevronRight } from '../components/Icons'
 
@@ -43,6 +44,7 @@ export default function StoryPage() {
 
       <div className="mt-3 flex items-center gap-2">
         <AudioButton text={`${t(story.title)}. ${t(story.body)}. ${t(UI.lesson)}: ${t(story.lesson)}`} audioUrl={lang === 'hi' ? audioUrl.story(parva.slug, story.slug) : undefined} />
+        <VideoButton url={videoUrl.story(parva.slug, story.slug)} />
         <BookmarkButton id={id} compact />
         <ShareButton text={`${t(story.title)}\n\n${t(story.lesson)}`} title={t(story.title)} />
       </div>
