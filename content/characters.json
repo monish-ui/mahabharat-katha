@@ -2229,6 +2229,184 @@
           }
         }
       ]
+    },
+    {
+      "slug": "nala",
+      "name": {
+        "hi": "राजा नल",
+        "en": "King Nala"
+      },
+      "role": {
+        "hi": "निषध नरेश, दमयंती के पति, नल-दमयंती कथा के नायक",
+        "en": "King of Nishadha, husband of Damayanti, hero of the Nala-Damayanti tale"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "नल निषध देश के धर्मात्मा और रूपवान राजा थे, अश्व-विद्या और पाक-कला में निपुण। एक हंस के माध्यम से विदर्भ की राजकुमारी दमयंती से उनका प्रेम हुआ और स्वयंवर में दमयंती ने देवताओं को छोड़कर नल को चुना। इससे रुष्ट कलि ने नल के शरीर में प्रवेश किया और उन्हें द्यूत में भाई पुष्कर से राज्य हारने को विवश किया। वन में उन्होंने दमयंती को सोते हुए त्याग दिया, नागराज कर्कोटक के दंश से कुरूप हुए और बाहुक नाम से अयोध्या के राजा ऋतुपर्ण के सारथी बने। अंत में द्यूत-विद्या सीखकर उन्होंने पुष्कर से राज्य जीता और दमयंती से पुनः मिले। वन पर्व में बृहदश्व ऋषि ने यह कथा युधिष्ठिर को सुनाई, यह बताने के लिए कि द्यूत से नष्ट हुआ राज्य धैर्य से लौट सकता है।",
+        "en": "Nala was the righteous and handsome king of Nishadha, skilled in horsemanship and cooking. Through a golden swan he fell in love with Damayanti, princess of Vidarbha, who chose him at her swayamvara over the gods themselves. The angered Kali entered Nala and drove him to lose his kingdom at dice to his brother Pushkara. In the forest he abandoned the sleeping Damayanti, was deformed by the bite of the serpent Karkotaka, and served King Rituparna of Ayodhya as the charioteer Bahuka. At last he learned the secret of dice, won back his kingdom from Pushkara and was reunited with Damayanti. The sage Brihadashva told this tale to Yudhishthira in the Vana Parva to show that a kingdom lost at dice can be regained through patience."
+      },
+      "relations": [
+        {
+          "slug": "damayanti",
+          "relation": {
+            "hi": "पत्नी",
+            "en": "Wife"
+          }
+        },
+        {
+          "slug": "yudhishthira",
+          "relation": {
+            "hi": "कथा के श्रोता",
+            "en": "Heard his tale"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "damayanti",
+      "name": {
+        "hi": "दमयंती",
+        "en": "Damayanti"
+      },
+      "role": {
+        "hi": "विदर्भ की राजकुमारी, नल की पतिव्रता पत्नी",
+        "en": "Princess of Vidarbha, devoted wife of Nala"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "दमयंती विदर्भ नरेश भीम की पुत्री थीं, जिनके सौंदर्य और गुणों की चर्चा सुनकर नल उनसे प्रेम कर बैठे। स्वयंवर में इंद्र, अग्नि, वरुण और यम नल का रूप धरकर आए, किंतु दमयंती ने अपनी बुद्धि और भक्ति से असली नल को पहचान लिया। जब नल राज्य हारकर वन में उन्हें सोता छोड़ गए, तब दमयंती ने अकेले घोर कष्ट सहे, अपने पिता के घर पहुँचीं और नल को खोजने के लिए चतुर उपाय रचे। उन्होंने झूठे दूसरे स्वयंवर की घोषणा कर राजा ऋतुपर्ण को बुलाया, जिनके सारथी के रूप में कुरूप नल आए, और दमयंती ने उनके पाक-कौशल और अश्व-विद्या से उन्हें पहचान लिया। वन पर्व में द्रौपदी को सांत्वना देने के लिए यह कथा सुनाई गई। दमयंती धैर्य, बुद्धि और अटूट पातिव्रत्य की प्रतिमूर्ति हैं।",
+        "en": "Damayanti was the daughter of King Bhima of Vidarbha, whose beauty and virtue won Nala's heart before they ever met. At her swayamvara Indra, Agni, Varuna and Yama all came in Nala's form, but through her wit and devotion she recognised the real Nala. When Nala lost his kingdom and left her sleeping in the forest, she endured terrible hardship alone, reached her father's house, and devised clever schemes to find him. She announced a false second swayamvara to summon King Rituparna, whose charioteer was the disfigured Nala, and recognised him by his cooking and his mastery of horses. The tale was told in the Vana Parva to comfort Draupadi. Damayanti embodies patience, intelligence and unbreakable fidelity."
+      },
+      "relations": [
+        {
+          "slug": "nala",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "draupadi",
+          "relation": {
+            "hi": "कथा की श्रोता",
+            "en": "Heard her tale"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "ulupi",
+      "name": {
+        "hi": "उलूपी",
+        "en": "Ulupi"
+      },
+      "role": {
+        "hi": "नाग राजकुमारी, अर्जुन की पत्नी, इरावान की माता",
+        "en": "Naga princess, wife of Arjuna, mother of Iravan"
+      },
+      "side": "pandava",
+      "bio": {
+        "hi": "उलूपी नागराज कौरव्य की पुत्री थीं। जब अर्जुन इंद्रप्रस्थ के नियम का पालन करते हुए बारह वर्ष के तीर्थाटन पर निकले, तब गंगा में स्नान करते समय उलूपी उन्हें नागलोक ले गईं और विवाह का प्रस्ताव रखा। उनसे अर्जुन का पुत्र इरावान हुआ, जो कुरुक्षेत्र युद्ध के आठवें दिन वीरगति को प्राप्त हुआ। अश्वमेधिक पर्व में जब मणिपुर में अर्जुन अपने ही पुत्र बभ्रुवाहन के बाण से मारे गए, तब उलूपी ने संजीवनी मणि से उन्हें जीवित किया। उन्होंने बताया कि यह सब भीष्म-वध के कारण वसुओं द्वारा दिए गए शाप से अर्जुन को मुक्त करने के लिए उन्होंने ही रचा था। उलूपी महाप्रस्थान से पहले गंगा में समा गईं। वे प्रेम, दूरदर्शिता और रक्षा की प्रतीक हैं।",
+        "en": "Ulupi was the daughter of the Naga king Kauravya. When Arjuna went on his twelve-year pilgrimage after breaking the rule of Indraprastha, she drew him down to the Naga realm while he bathed in the Ganga and asked him to marry her. Their son Iravan died a hero on the eighth day of the Kurukshetra war. In the Ashvamedhika Parva, when Arjuna was killed at Manipur by the arrow of his own son Babhruvahana, Ulupi revived him with the Sanjivani gem. She revealed that she had arranged the whole event to free Arjuna from the curse of the Vasus for the slaying of Bhishma. Before the Pandavas' final journey she entered the Ganga. Ulupi stands for love, foresight and protection."
+      },
+      "relations": [
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पति",
+            "en": "Husband"
+          }
+        },
+        {
+          "slug": "babhruvahana",
+          "relation": {
+            "hi": "सौतेला पुत्र",
+            "en": "Stepson"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "babhruvahana",
+      "name": {
+        "hi": "बभ्रुवाहन",
+        "en": "Babhruvahana"
+      },
+      "role": {
+        "hi": "मणिपुर के राजा, अर्जुन और चित्रांगदा के पुत्र",
+        "en": "King of Manipur, son of Arjuna and Chitrangada"
+      },
+      "side": "pandava",
+      "bio": {
+        "hi": "बभ्रुवाहन अर्जुन और मणिपुर की राजकुमारी चित्रांगदा के पुत्र थे, जो अपने नाना के राज्य के उत्तराधिकारी बने। अश्वमेधिक पर्व में जब युधिष्ठिर के अश्वमेध यज्ञ का घोड़ा मणिपुर पहुँचा और अर्जुन उसके रक्षक बनकर आए, तब बभ्रुवाहन विनम्रता से पिता का स्वागत करने निकले। किंतु अर्जुन ने उन्हें क्षत्रिय-धर्म का स्मरण दिलाकर युद्ध के लिए ललकारा। उलूपी की प्रेरणा से बभ्रुवाहन ने युद्ध किया और उनके बाण से अर्जुन मूर्छित होकर गिर पड़े। पिता को मृत समझकर बभ्रुवाहन प्राण त्यागने को तैयार हुए, तब उलूपी ने संजीवनी मणि से अर्जुन को जीवित किया। यह घटना अर्जुन को वसुओं के शाप से मुक्त करने के लिए हुई थी। बभ्रुवाहन ने बाद में हस्तिनापुर आकर यज्ञ में भाग लिया।",
+        "en": "Babhruvahana was the son of Arjuna and Chitrangada, princess of Manipur, and became heir to his grandfather's kingdom. In the Ashvamedhika Parva, when the horse of Yudhishthira's Ashvamedha sacrifice reached Manipur with Arjuna as its guardian, Babhruvahana came out humbly to welcome his father. But Arjuna rebuked him, reminding him of the duty of a Kshatriya, and challenged him to fight. Urged by Ulupi, Babhruvahana fought, and his arrow felled Arjuna senseless. Believing his father dead, he prepared to give up his own life, until Ulupi revived Arjuna with the Sanjivani gem. The episode was arranged to free Arjuna from the curse of the Vasus. Babhruvahana later came to Hastinapur to take part in the sacrifice."
+      },
+      "relations": [
+        {
+          "slug": "arjuna",
+          "relation": {
+            "hi": "पिता",
+            "en": "Father"
+          }
+        },
+        {
+          "slug": "ulupi",
+          "relation": {
+            "hi": "सौतेली माता",
+            "en": "Stepmother"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "utanka",
+      "name": {
+        "hi": "ऋषि उत्तंक",
+        "en": "Sage Utanka"
+      },
+      "role": {
+        "hi": "तपस्वी ऋषि, जिन्हें श्रीकृष्ण ने विश्वरूप दिखाया",
+        "en": "Ascetic sage to whom Krishna showed his universal form"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "उत्तंक एक महान तपस्वी ऋषि थे, जो मरुभूमि में तप करते थे। अश्वमेधिक पर्व में युद्ध के बाद द्वारका लौटते समय श्रीकृष्ण उनसे मिले। जब उत्तंक को पता चला कि श्रीकृष्ण कौरवों और पांडवों के बीच युद्ध रोक नहीं सके, तो वे क्रोधित होकर शाप देने लगे। श्रीकृष्ण ने उन्हें शांत कर अपना विश्वरूप दिखाया और समझाया कि उन्होंने शांति का पूरा प्रयत्न किया था। प्रसन्न होकर उत्तंक ने वरदान माँगा कि मरुभूमि में जब भी उन्हें प्यास लगे, जल मिल जाए। बाद में इंद्र चांडाल के वेश में अमृत लेकर आए, किंतु उत्तंक ने घृणा से उसे ठुकरा दिया। तब श्रीकृष्ण ने वरदान दिया कि मरुभूमि में जब भी वे जल का स्मरण करेंगे, वर्षा होगी; वे बादल आज भी 'उत्तंक मेघ' कहलाते हैं।",
+        "en": "Utanka was a great ascetic who performed penance in the desert. In the Ashvamedhika Parva, Krishna met him while returning to Dwarka after the war. When Utanka learned that Krishna had not prevented the war between the Kauravas and Pandavas, he grew angry and prepared to curse him. Krishna calmed him, revealed his universal form, and explained that he had tried everything for peace. Pleased, Utanka asked for the boon that water would appear whenever he was thirsty in the desert. Later Indra came disguised as an outcaste offering him nectar, but Utanka refused it in disgust. Krishna then granted that rain would fall in the desert whenever he thought of water; those clouds are still called the Utanka clouds."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "आराध्य",
+            "en": "Lord"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "nriga",
+      "name": {
+        "hi": "राजा नृग",
+        "en": "King Nriga"
+      },
+      "role": {
+        "hi": "दानी राजा, जो एक गाय के दान की भूल से गिरगिट बने",
+        "en": "Charitable king turned into a lizard over one mistaken cow"
+      },
+      "side": "neutral",
+      "bio": {
+        "hi": "नृग इक्ष्वाकु वंश के अत्यंत दानी राजा थे, जिन्होंने असंख्य गायें ब्राह्मणों को दान कीं। एक बार एक ब्राह्मण की दान की हुई गाय भटककर उनके गोधन में मिल गई और उन्होंने अनजाने में वही गाय दूसरे ब्राह्मण को दान कर दी। दोनों ब्राह्मण उस गाय पर अपना अधिकार जताने लगे और राजा के बदले में अनेक गायें देने का प्रस्ताव किसी ने स्वीकार नहीं किया। मृत्यु के बाद यमराज ने नृग से पूछा कि वे पहले पाप का फल भोगेंगे या पुण्य का; नृग ने पहले पाप चुना और गिरगिट बनकर एक कुएँ में सहस्रों वर्ष पड़े रहे। अंत में द्वारका में श्रीकृष्ण ने उन्हें उस कुएँ से निकालकर उद्धार किया। महाभारत में यह कथा अनुशासन पर्व में दान-धर्म की सूक्ष्मता समझाने के लिए आती है।",
+        "en": "Nriga was an exceedingly charitable king of the Ikshvaku line who gave away countless cows to Brahmins. Once a cow already gifted to one Brahmin wandered back into his herd, and he unknowingly gave the same cow to another. Both Brahmins claimed her, and neither would accept any number of cows in exchange. After death, Yama asked Nriga whether he would first enjoy the fruit of his merit or suffer for his sin; Nriga chose the sin first and lay as a lizard in a well for thousands of years. At last Krishna lifted him from that well at Dwarka and freed him. In the Mahabharat the tale appears in the Anushasana Parva to teach the subtlety of the duty of giving."
+      },
+      "relations": [
+        {
+          "slug": "krishna",
+          "relation": {
+            "hi": "उद्धारक",
+            "en": "Liberator"
+          }
+        }
+      ]
     }
   ]
 }
