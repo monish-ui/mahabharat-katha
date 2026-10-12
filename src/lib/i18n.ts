@@ -74,7 +74,9 @@ export const UI = {
   dailyNotificationHint: { hi: 'क्रम से, हर दिन अगला', en: 'In order, one each day' },
   on: { hi: 'चालू', en: 'On' },
   off: { hi: 'बंद', en: 'Off' },
-  noAds: { hi: 'कोई विज्ञापन नहीं', en: 'No ads' }
+  noAds: { hi: 'कोई विज्ञापन नहीं', en: 'No ads' },
+  watchVideo: { hi: 'वीडियो देखें', en: 'Watch video' },
+  close: { hi: 'बंद करें', en: 'Close' }
 } satisfies Record<string, Bi>
 
 export type UIKey = keyof typeof UI
