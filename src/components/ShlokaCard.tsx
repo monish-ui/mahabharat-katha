@@ -5,6 +5,7 @@ import AudioButton from './AudioButton'
 import BookmarkButton from './BookmarkButton'
 import ShareButton from './ShareButton'
 import ReportLink from './ReportLink'
+import { audioUrl } from '../lib/audio'
 
 export default function ShlokaCard({ shloka, showMeaningLabel = true }: { shloka: Shloka; showMeaningLabel?: boolean }) {
   const { t, lang } = useStore()
@@ -27,7 +28,7 @@ export default function ShlokaCard({ shloka, showMeaningLabel = true }: { shloka
         <p className="leading-relaxed">{t(shloka.meaning)}</p>
       </div>
       <div className="mt-3 flex items-center justify-between gap-2">
-        <AudioButton size="sm" text={`${shloka.sanskrit}. ${t(shloka.meaning)}`} />
+        <AudioButton size="sm" text={`${shloka.sanskrit}. ${t(shloka.meaning)}`} audioUrl={lang === 'hi' ? audioUrl.shloka(shloka.verse) : undefined} />
         <ReportLink reference={`Gita ${shloka.verse}`} />
       </div>
     </article>

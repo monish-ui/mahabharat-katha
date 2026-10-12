@@ -13,15 +13,21 @@ export function ttsSupported(): boolean {
   return typeof window !== 'undefined' && 'speechSynthesis' in window
 }
 
+// Prefer an Indian voice. Hindi voices read Devanagari Sanskrit far better than English ones,
+// so even in English mode the Sanskrit line is spoken by the Hindi voice (see speak()).
 function pickVoice(lang: Lang): SpeechSynthesisVoice | undefined {
   const voices = window.speechSynthesis.getVoices()
-  const want = lang === 'hi' ? ['hi-IN', 'hi'] : ['en-IN', 'en-GB', 'en-US', 'en']
+  const want = lang === 'hi' ? ['hi-IN', 'hi', 'mr-IN', 'en-IN'] : ['en-IN', 'hi-IN', 'en-GB', 'en-US', 'en']
   for (const w of want) {
-    const v = voices.find((v) => v.lang.toLowerCase().startsWith(w.toLowerCase()))
+    // Google's and Microsoft's voices are much more natural than the generic ones.
+    const pref = voices.filter((v) => v.lang.toLowerCase().replace('_', '-').startsWith(w.toLowerCase()))
+    const v = pref.find((v) => /google|microsoft|natural|neural/i.test(v.name)) ?? pref[0]
     if (v) return v
   }
   return undefined
 }
+
+const DEVANAGARI = /[ऀ-ॿ]/
 
 export function stop() {
   if (ttsSupported()) window.speechSynthesis.cancel()
@@ -35,7 +41,7 @@ export function isPlaying(): boolean {
 }
 
 // Speak long text in chunks so Android TTS does not cut off mid-paragraph.
-export function speak(text: string, lang: Lang, rate = 0.95) {
+export function speak(text: string, lang: Lang, rate = 0.85) {
   if (!ttsSupported()) return
   stop()
   const chunks = text
@@ -44,13 +50,19 @@ export function speak(text: string, lang: Lang, rate = 0.95) {
     .filter(Boolean)
   if (chunks.length === 0) return
   const voice = pickVoice(lang)
+  const hindiVoice = lang === 'hi' ? voice : pickVoice('hi')
   let i = 0
   const next = () => {
     if (i >= chunks.length) { notify(false); return }
-    const u = new SpeechSynthesisUtterance(chunks[i++])
-    u.lang = lang === 'hi' ? 'hi-IN' : 'en-IN'
-    if (voice) u.voice = voice
-    u.rate = rate
+    const chunk = chunks[i++]
+    const u = new SpeechSynthesisUtterance(chunk)
+    const sanskrit = DEVANAGARI.test(chunk)
+    // Sanskrit/Hindi text always goes to the Hindi voice, read slowly and a little lower, like a katha vachak.
+    u.lang = sanskrit ? 'hi-IN' : lang === 'hi' ? 'hi-IN' : 'en-IN'
+    const v = sanskrit ? hindiVoice : voice
+    if (v) u.voice = v
+    u.rate = sanskrit ? Math.min(rate, 0.75) : rate
+    u.pitch = 0.9
     u.onend = next
     u.onerror = () => notify(false)
 

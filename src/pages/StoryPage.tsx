@@ -7,6 +7,7 @@ import AudioButton from '../components/AudioButton'
 import BookmarkButton from '../components/BookmarkButton'
 import ShareButton from '../components/ShareButton'
 import ReportLink from '../components/ReportLink'
+import { audioUrl } from '../lib/audio'
 import { Empty, Lesson, Paragraphs, SectionTitle } from '../components/Bits'
 import { ChevronLeft, ChevronRight } from '../components/Icons'
 
@@ -15,7 +16,7 @@ export default function StoryPage() {
   const parva = pslug ? parvaBySlug.get(pslug) : undefined
   const idx = parva?.stories.findIndex((s) => s.slug === sslug) ?? -1
   const story = idx >= 0 ? parva!.stories[idx] : undefined
-  const { t, setLastRead, markStoryRead } = useStore()
+  const { t, lang, setLastRead, markStoryRead } = useStore()
 
   useEffect(() => {
     if (!parva || !story) return
@@ -41,7 +42,7 @@ export default function StoryPage() {
       <h2 className="text-2xl font-bold text-maroon dark:text-saffron-2 shloka">{t(story.title)}</h2>
 
       <div className="mt-3 flex items-center gap-2">
-        <AudioButton text={`${t(story.title)}. ${t(story.body)}. ${t(UI.lesson)}: ${t(story.lesson)}`} />
+        <AudioButton text={`${t(story.title)}. ${t(story.body)}. ${t(UI.lesson)}: ${t(story.lesson)}`} audioUrl={lang === 'hi' ? audioUrl.story(parva.slug, story.slug) : undefined} />
         <BookmarkButton id={id} compact />
         <ShareButton text={`${t(story.title)}\n\n${t(story.lesson)}`} title={t(story.title)} />
       </div>
