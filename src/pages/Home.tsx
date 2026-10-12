@@ -61,7 +61,7 @@ function Tile({ to, Icon, title, sub, progress }: { to: string; Icon: (p: { clas
         <p className="font-bold text-maroon dark:text-saffron-2">{title}</p>
         <p className="text-sm text-ink-2 dark:text-cream/60">{sub}</p>
         {progress !== undefined && progress > 0 && (
-          <div className="mt-2 h-1.5 rounded-full bg-saffron/20 overflow-hidden"><div className="h-full bg-saffron" style={{ width: `${Math.round(progress * 100)}%` }} /></div>
+          <div className="mt-2 h-1.5 rounded-full bg-saffron/20 overflow-hidden"><div className="h-full bg-maroon dark:bg-saffron-2" style={{ width: `${Math.round(progress * 100)}%` }} /></div>
         )}
       </div>
       <ChevronRight className="w-5 h-5 text-ink-2/60" />
