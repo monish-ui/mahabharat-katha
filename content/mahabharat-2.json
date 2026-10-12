@@ -1,0 +1,308 @@
+{
+  "parvas": [
+    {
+      "number": 10,
+      "slug": "sauptika-parva",
+      "title": {
+        "hi": "सौप्तिक पर्व",
+        "en": "Sauptika Parva"
+      },
+      "subtitle": {
+        "hi": "सोते हुए योद्धाओं पर अश्वत्थामा का रात्रि-प्रहार",
+        "en": "Ashwatthama's night attack on the sleeping warriors"
+      },
+      "summary": {
+        "hi": "सौप्तिक पर्व महाभारत के सबसे अंधकारमय अध्यायों में से एक है। अठारहवें दिन के युद्ध के बाद जब भीम की गदा से जंघा टूटने पर दुर्योधन मरणासन्न पड़ा था, तब कौरव पक्ष में केवल तीन योद्धा शेष रह गए थे — अश्वत्थामा, कृपाचार्य और कृतवर्मा। अपने पिता द्रोणाचार्य के वध और दुर्योधन के अन्यायपूर्ण पतन से जलता हुआ अश्वत्थामा आधी रात को पांडवों के शिविर में घुस गया और उसने सोते हुए धृष्टद्युम्न, शिखंडी, द्रौपदी के पाँचों पुत्रों तथा समस्त पांचाल सेना का वध कर डाला। पांडव और श्रीकृष्ण उस रात शिविर से बाहर थे, इसलिए बच गए। प्रातः भीम अश्वत्थामा का पीछा करते हैं, और अश्वत्थामा भयंकर ब्रह्मशिर अस्त्र छोड़ देता है। व्यास और नारद के कहने पर अर्जुन अपना अस्त्र लौटा लेते हैं, परंतु अश्वत्थामा उसे पांडव-स्त्रियों के गर्भ पर चला देता है। श्रीकृष्ण उत्तरा के गर्भस्थ शिशु परीक्षित को जीवित करने का वचन देते हैं और अश्वत्थामा को तीन हज़ार वर्ष तक पृथ्वी पर भटकने का शाप देते हैं। पर्व का अंत अश्वत्थामा की मणि द्रौपदी को मिलने और इस महाविनाश में रुद्र की भूमिका के वर्णन से होता है।",
+        "en": "Sauptika Parva, the Book of the Sleeping Warriors, is one of the darkest chapters of the Mahabharata. On the eighteenth night, after Duryodhana has been struck down by Bhima and lies dying beside the lake, only three Kaurava warriors remain: Ashwatthama, Kripacharya and Kritavarma. Burning with rage at the killing of his father Drona and the unfair fall of Duryodhana, Ashwatthama creeps into the Pandava camp at midnight and slaughters Dhrishtadyumna, Shikhandi, the five sons of Draupadi and the whole sleeping Panchala army. The Pandavas and Shri Krishna, who were away from the camp that night, survive. In the morning Bhima pursues Ashwatthama, who releases the terrible Brahmashira weapon. On the advice of Vyasa and Narada, Arjuna withdraws his counter-weapon, but Ashwatthama turns his own upon the wombs of the Pandava women. Shri Krishna promises to revive Uttara's unborn child, Parikshit, and curses Ashwatthama to wander the earth for three thousand years. The parva ends with the jewel from Ashwatthama's forehead being given to Draupadi, and with Krishna explaining the part played by Rudra in this great destruction."
+      },
+      "stories": [
+        {
+          "slug": "ashwatthama-night-raid",
+          "title": {
+            "hi": "अश्वत्थामा का रात्रि-प्रहार",
+            "en": "Ashwatthama's Night Raid"
+          },
+          "body": {
+            "hi": "अठारहवें दिन का युद्ध समाप्त हो चुका था। द्वैपायन सरोवर के तट पर दुर्योधन भीम की गदा से टूटी जंघाओं के साथ धरती पर पड़ा था। संध्या के समय तीन योद्धा उसके पास पहुँचे — द्रोणपुत्र अश्वत्थामा, कृपाचार्य और कृतवर्मा। अपने राजा की यह दशा देखकर अश्वत्थामा फूट-फूटकर रोया और उसने प्रतिज्ञा की कि जब तक वह पांचालों और पांडवों का नाश नहीं कर देता, उसे चैन नहीं मिलेगा। दुर्योधन ने प्रसन्न होकर कृपाचार्य से उसका अंतिम सेनापति के रूप में अभिषेक करवाया।\n\nतीनों वन में एक विशाल वटवृक्ष के नीचे विश्राम करने लगे। कृपाचार्य और कृतवर्मा सो गए, किंतु अश्वत्थामा की आँखों में नींद नहीं थी। अंधकार में उसने देखा कि एक उल्लू चुपचाप आकर डालियों पर सोए हुए कौओं को एक-एक करके मार रहा है। उसके मन में क्रूर विचार उत्पन्न हुआ — यदि शत्रु को खुले युद्ध में नहीं जीता जा सकता, तो उसे नींद में ही मारा जाए।\n\nउसने साथियों को जगाकर अपनी योजना बताई। कृपाचार्य काँप उठे। उन्होंने समझाया कि सोते हुए और शस्त्र त्यागे हुए मनुष्यों का वध क्षत्रिय-धर्म के सर्वथा विरुद्ध है; आज रात विश्राम करो और प्रातः धर्मपूर्वक युद्ध करो। किंतु शोक ने अश्वत्थामा का विवेक जला दिया था। उसे स्मरण था कि उसके पिता का धनुष रखने के बाद शिरच्छेद किया गया था। उसने कहा कि इसके लिए यदि उसे कीट बनकर भी जन्म लेना पड़े तो स्वीकार है। दोनों वृद्ध विवश होकर उसके पीछे चल पड़े।\n\nपांडव-शिविर के द्वार पर एक विशालकाय तेजोमय पुरुष ने उसका मार्ग रोक लिया। अश्वत्थामा ने जितने अस्त्र चलाए, वह सबको निगल गया। तब वह समझ गया कि ये स्वयं महादेव हैं। उसने वहीं वेदी बनाकर अपने शरीर की आहुति देनी चाही और शिव की स्तुति की। प्रसन्न होकर भगवान शंकर ने उसे एक देदीप्यमान खड्ग दिया और स्वयं उसके शरीर में प्रविष्ट हो गए।\n\nफिर अश्वत्थामा साक्षात् काल की भाँति सोते हुए शिविर में घुसा। उसने धृष्टद्युम्न को लात मारकर जगाया और गला घोंटकर मार डाला — शस्त्र से मरने की उसकी प्रार्थना भी ठुकरा दी। उसने शिखंडी, उत्तमौजा, युधामन्यु और द्रौपदी के पाँचों सुकुमार पुत्रों का वध किया। जो द्वार की ओर भागे, उन्हें कृपाचार्य और कृतवर्मा ने काट डाला। भोर होते-होते शिविर में आग लगा दी गई। अश्वत्थामा दुर्योधन के पास लौटा और बोला कि पांचाल और द्रौपदी के पुत्र सब मारे गए। दुर्योधन ने प्रसन्न होकर कहा कि आज शत्रुओं से बदला पूरा हुआ, और इन्हीं शब्दों के साथ उसने प्राण त्याग दिए।",
+            "en": "The battle of the eighteenth day was over. On the shore of the Dvaipayana lake Duryodhana lay with his thighs shattered by Bhima's mace. At dusk three warriors came to him: Ashwatthama the son of Drona, Kripacharya and Kritavarma. Seeing their king in that state, Ashwatthama wept bitterly and swore that he would not rest until he had destroyed the Panchalas and the sons of Pandu. Duryodhana was pleased, and had Kripa anoint him as the last commander of the Kaurava army.\n\nThe three lay down in a forest beneath a great banyan tree. Kripa and Kritavarma slept, but there was no sleep in Ashwatthama's eyes. Staring into the darkness he saw an owl glide silently into the branches and kill the roosting crows one by one as they slept. The sight planted a cruel idea in his heart: if the enemy could not be beaten in open battle, he would strike them in their sleep.\n\nHe woke his companions and told them his plan. Kripa trembled. Killing sleeping men who had laid down their weapons, he said, was against every law of the Kshatriya; rest tonight and fight honourably in the morning. But grief had burned away Ashwatthama's judgement. He remembered how his father had been beheaded after setting aside his bow, and declared he would do this deed even if he had to be born as a worm for it. Helpless, the two elders followed.\n\nAt the gate of the Pandava camp a huge blazing figure barred his way. Every weapon Ashwatthama hurled at it was swallowed up. He understood that this was Mahadeva himself. He built an altar on the spot, offered his own body into the fire, and sang the praises of Shiva. Pleased, the Lord gave him a radiant sword and entered into his body.\n\nThen Ashwatthama walked among the sleeping tents like Death itself. He kicked Dhrishtadyumna awake and strangled him, refusing his plea to be killed by a weapon. He slew Shikhandi, Uttamaujas, Yudhamanyu and the five young sons of Draupadi. Those who ran towards the gates were cut down by Kripa and Kritavarma waiting there with drawn swords. As dawn came, the camp was set ablaze. Ashwatthama returned to Duryodhana and told him that the Panchalas and the sons of Draupadi were all dead. Duryodhana rejoiced that his enemies had at last been repaid, and with those words he breathed his last."
+          },
+          "lesson": {
+            "hi": "शोक और प्रतिशोध जब विवेक पर हावी हो जाते हैं, तो मनुष्य धर्म की सीमाएँ लाँघकर ऐसा पाप कर बैठता है जिसका बोझ उसे युगों तक ढोना पड़ता है।",
+            "en": "When grief and revenge overpower judgement, a person crosses the limits of dharma and commits a sin whose burden he must carry for ages."
+          },
+          "characters": [
+            "ashwatthama",
+            "kripa",
+            "kritavarma",
+            "duryodhana",
+            "dhrishtadyumna",
+            "draupadi",
+            "shiva"
+          ]
+        },
+        {
+          "slug": "brahmastra-and-uttaras-child",
+          "title": {
+            "hi": "ब्रह्मशिर अस्त्र और उत्तरा का गर्भ",
+            "en": "The Brahmashira and Uttara's Unborn Child"
+          },
+          "body": {
+            "hi": "प्रातः धृष्टद्युम्न के सारथि ने युधिष्ठिर को रात के संहार का समाचार दिया। अपने पुत्रों के शव देखकर द्रौपदी का शोक असीम हो उठा। उसने प्रतिज्ञा की कि जब तक द्रोणपुत्र का वध नहीं होता और उसके मस्तक की जन्मजात मणि उसे नहीं मिलती, वह अन्न-जल त्यागकर यहीं बैठी रहेगी। पति का नाम सुनते ही भीम रथ पर चढ़े और नकुल को सारथि बनाकर अश्वत्थामा की खोज में निकल पड़े।\n\nश्रीकृष्ण ने युधिष्ठिर से कहा कि भीम को अकेले नहीं जाने देना चाहिए, क्योंकि अश्वत्थामा के पास ब्रह्मशिर अस्त्र है। एक बार द्वारका में उसने उनसे सुदर्शन चक्र माँगा था और उठाने का प्रयत्न भी किया था, पर उसे हिला तक न सका था; ऐसा लोभी और अहंकारी व्यक्ति कुछ भी कर सकता है। तब श्रीकृष्ण, अर्जुन और युधिष्ठिर भी भीम के पीछे चल पड़े।\n\nअश्वत्थामा भागीरथी के तट पर महर्षि व्यास और अन्य ऋषियों के बीच बैठा था। भीम को गर्जना करते आते देखकर उसने अपनी मृत्यु निकट जानी। उसने बाएँ हाथ से एक सींक उठाई, मंत्रों से उसे ब्रह्मशिर अस्त्र में बदल दिया और ‘पांडवों के विनाश के लिए’ कहकर छोड़ दिया। उससे एक प्रचंड अग्नि प्रकट हुई जो सब कुछ भस्म करने को उद्यत थी।\n\nश्रीकृष्ण ने तुरंत अर्जुन से कहा कि वे द्रोणाचार्य से प्राप्त ब्रह्मास्त्र से इस अस्त्र को शांत करें। अर्जुन ने गुरु को, श्रीकृष्ण को और समस्त लोकों को प्रणाम किया और यह कहकर अस्त्र छोड़ा कि यह केवल उस अस्त्र को शांत करे। दोनों अस्त्र आकाश में टकराए, पृथ्वी काँपने लगी और हाहाकार मच गया। तभी व्यास और नारद दोनों अस्त्रों के बीच प्रकट हुए और उन्होंने दोनों योद्धाओं को अपने-अपने अस्त्र लौटा लेने का आदेश दिया।\n\nसत्यव्रती अर्जुन ने तुरंत अपना अस्त्र वापस खींच लिया, क्योंकि ऐसा अस्त्र लौटाना केवल शुद्ध आत्मा ही कर सकती है। किंतु अश्वत्थामा में वह शक्ति नहीं थी। उसने कहा कि यह अस्त्र व्यर्थ नहीं जा सकता, और उसे पांडव-स्त्रियों के गर्भ की ओर मोड़ दिया — ताकि पांडवों का वंश ही न रहे। अभिमन्यु की पत्नी उत्तरा के गर्भ में पल रहा शिशु उस अस्त्र का लक्ष्य बना। तब श्रीकृष्ण ने गंभीर स्वर में कहा — ‘यह बालक गर्भ में ही मरकर भी जीवित होगा। मैं उसे जीवन दूँगा, और वह परीक्षित के नाम से साठ वर्ष तक कुरुवंश का राज्य करेगा।’ द्रोणपुत्र का अंतिम प्रहार भी इस प्रकार भगवान के संकल्प से निष्फल हो गया।",
+            "en": "At dawn Dhrishtadyumna's charioteer brought Yudhishthira the news of the night's slaughter. When Draupadi saw the bodies of her sons, her grief knew no bounds. She vowed that until the son of Drona was slain and the jewel he was born with on his forehead was placed in her hands, she would sit there without food or water. Hearing his wife's words, Bhima mounted his chariot with Nakula as his driver and set out in pursuit of Ashwatthama.\n\nShri Krishna warned Yudhishthira that Bhima must not go alone, for Ashwatthama possessed the Brahmashira weapon. In Dwarka, he recalled, Ashwatthama had once asked him for the Sudarshana discus and tried to lift it, but could not move it at all; such a greedy and arrogant man was capable of anything. So Krishna, Arjuna and Yudhishthira followed Bhima.\n\nAshwatthama was sitting on the bank of the Ganga among Maharishi Vyasa and other sages. When he saw Bhima charging towards him with a roar, he knew his death was near. With his left hand he picked up a blade of grass, charged it with mantras into the Brahmashira weapon, and released it with the words, for the destruction of the Pandavas. From it a terrible fire blazed up, ready to consume everything.\n\nKrishna at once told Arjuna to neutralise it with the Brahmastra he had received from Drona. Arjuna bowed to his teacher, to Krishna and to all the worlds, and released his weapon with the prayer that it should only pacify the other. The two weapons clashed in the sky; the earth trembled and people cried out in terror. Then Vyasa and Narada appeared between the weapons and commanded both warriors to withdraw them.\n\nArjuna, devoted to truth, withdrew his weapon at once, for only a soul of great purity can recall such a weapon. But Ashwatthama had no such power. He said the weapon could not be wasted, and directed it at the wombs of the Pandava women, so that the line of the Pandavas would be wiped out. The child in the womb of Uttara, Abhimanyu's widow, became its target. Then Shri Krishna spoke solemnly: this child, though dead in the womb, shall live. I will give him life, and as Parikshit he shall rule the Kuru kingdom for sixty years. Thus even the last stroke of Drona's son was made fruitless by the resolve of the Lord."
+          },
+          "lesson": {
+            "hi": "दिव्य शक्ति को वापस लेने के लिए जो संयम और शुद्धता चाहिए, वह क्रोध से भरे मन में नहीं होती; किंतु भगवान का संकल्प हर विनाश पर भारी है।",
+            "en": "The restraint and purity needed to recall a divine power are absent in a mind full of anger; yet the resolve of the Lord outweighs every destruction."
+          },
+          "characters": [
+            "ashwatthama",
+            "bhima",
+            "krishna",
+            "arjuna",
+            "yudhishthira",
+            "draupadi",
+            "vyasa",
+            "narada",
+            "uttara",
+            "parikshit"
+          ]
+        },
+        {
+          "slug": "ashwatthama-curse",
+          "title": {
+            "hi": "अश्वत्थामा को शाप और मणि",
+            "en": "The Curse on Ashwatthama and the Jewel"
+          },
+          "body": {
+            "hi": "व्यासजी ने अश्वत्थामा से कहा कि अर्जुन ने पहले भी अनेक बार ब्रह्मास्त्र का प्रयोग किया है, पर कभी किसी निर्दोष पर नहीं चलाया, जबकि तुमने निष्पाप गर्भ पर प्रहार किया है। अब अपनी मणि पांडवों को दे दो और अपने प्राण बचाओ। अश्वत्थामा ने कहा कि यह मणि पृथ्वी के सारे रत्नों से अधिक मूल्यवान है — इसे धारण करने वाले को भय, रोग, भूख और शस्त्र का कोई डर नहीं रहता — किंतु व्यासजी की आज्ञा मानकर उसने उसे मस्तक से निकालकर दे दिया।\n\nतब श्रीकृष्ण ने कहा — ‘अश्वत्थामा! तुमने सोते हुए बालकों का वध किया और गर्भस्थ शिशु पर अस्त्र चलाया। इसलिए तीन हज़ार वर्ष तक तुम इस पृथ्वी पर भटकोगे — अकेले, किसी से बात न कर सकोगे, कोई तुम्हारा साथ न देगा। तुम्हारे शरीर से रक्त और पीब की दुर्गंध निकलती रहेगी और तुम दुर्गम वनों में रहोगे। और उत्तरा का यह बालक जीवित होकर महान राजा बनेगा — यह तुम स्वयं देखोगे।’ व्यासजी ने कहा कि तुमने ब्राह्मण होकर भी अधर्म किया है, अतः श्रीकृष्ण के ये वचन अवश्य पूर्ण होंगे। अश्वत्थामा मौन होकर वन की ओर चला गया।\n\nसब शिविर में लौटे और भीम ने वह मणि द्रौपदी के हाथ में रख दी। द्रौपदी ने कहा कि गुरु-पुत्र होने के कारण उसका वध उचित नहीं था; अब जब उसका मस्तक मणिहीन हो गया है, उसका अभिमान भी नष्ट हो गया — यही उसकी मृत्यु है। उसने मणि युधिष्ठिर को दी और कहा कि राजा इसे अपने मस्तक पर धारण करें।\n\nयुधिष्ठिर ने श्रीकृष्ण से व्याकुल होकर पूछा — ‘हमारे पक्ष के इतने महान वीर, जो सारे युद्ध में बचे रहे, अकेले अश्वत्थामा के हाथों कैसे मारे गए?’ श्रीकृष्ण ने उत्तर दिया कि यह अश्वत्थामा का नहीं, भगवान रुद्र का पराक्रम था। सृष्टि के आरंभ में ब्रह्माजी ने रुद्र को प्रजा उत्पन्न करने को कहा था; जब रुद्र जल में तप कर रहे थे, तब अन्य प्रजापतियों ने सृष्टि कर दी। लौटकर रुद्र ने क्रोध में अपना लिंग पृथ्वी में गाड़ दिया और देवताओं से यज्ञ का भाग माँगा; उपेक्षा होने पर उन्होंने दक्ष का यज्ञ नष्ट किया था। वही संहार के अधिष्ठाता महादेव अश्वत्थामा के शरीर में प्रविष्ट होकर उस रात पांचालों का संहार कर रहे थे, क्योंकि उनका काल आ चुका था।\n\nयह सुनकर युधिष्ठिर ने समझ लिया कि जो हुआ वह काल और विधि का विधान था। इस प्रकार सौप्तिक पर्व समाप्त हुआ, और अब वे सब शोक से भरी स्त्रियों की ओर बढ़े।",
+            "en": "Vyasa told Ashwatthama that Arjuna had used the Brahmastra many times but had never turned it on the innocent, whereas Ashwatthama had struck at a blameless unborn child. Now, said the sage, give your jewel to the Pandavas and save your life. Ashwatthama replied that the jewel was worth more than all the gems of the earth, for whoever wore it had no fear of weapons, disease, hunger or any evil; yet at the command of Vyasa he took it from his forehead and handed it over.\n\nThen Shri Krishna spoke: Ashwatthama, you killed sleeping children and hurled a weapon at a child in the womb. For three thousand years you shall wander this earth, alone, unable to speak to anyone, with no companion. The stench of blood and pus will rise from your body, and you will live in trackless forests. And this child of Uttara will live and become a great king; you yourself shall see it. Vyasa added that since Ashwatthama, though a Brahmin, had acted against dharma, the words of Krishna would surely come true. In silence Ashwatthama turned and walked away into the forest.\n\nAll returned to the camp, and Bhima placed the jewel in Draupadi's hands. Draupadi said it would not have been right to kill the son of their teacher; now that his forehead was stripped of its jewel his pride was gone, and that was death enough. She gave the jewel to Yudhishthira and asked the king to wear it on his head.\n\nYudhishthira, troubled, asked Krishna how so many great heroes of their side, who had survived the whole war, could have been killed by one man alone. Krishna answered that this was not the valour of Ashwatthama but of Lord Rudra. At the beginning of creation Brahma had asked Rudra to create beings, and while Rudra performed austerities in the waters the other Prajapatis created the world. Returning, Rudra in anger planted his linga in the earth and demanded his share of the sacrifice from the gods; when he was slighted, he destroyed the sacrifice of Daksha. That same Mahadeva, lord of dissolution, had entered Ashwatthama's body that night and slain the Panchalas, because their appointed time had come.\n\nHearing this, Yudhishthira understood that all this was the decree of Time and destiny. Thus ends the Sauptika Parva, and the Pandavas turned towards the grieving women."
+          },
+          "lesson": {
+            "hi": "पाप का फल भोगना ही पड़ता है, और जिसके मस्तक का अभिमान छिन जाए उसके लिए यही सबसे बड़ा दंड है; जो होता है वह काल के विधान से होता है।",
+            "en": "The fruit of sin must be borne, and for the proud, the loss of pride is the greatest punishment; what happens, happens by the decree of Time."
+          },
+          "characters": [
+            "ashwatthama",
+            "krishna",
+            "vyasa",
+            "bhima",
+            "draupadi",
+            "yudhishthira",
+            "arjuna",
+            "shiva",
+            "uttara",
+            "parikshit"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "slug": "stri-parva",
+      "title": {
+        "hi": "स्त्री पर्व",
+        "en": "Stri Parva"
+      },
+      "subtitle": {
+        "hi": "कुरुक्षेत्र की रणभूमि पर स्त्रियों का विलाप",
+        "en": "The lament of the women on the field of Kurukshetra"
+      },
+      "summary": {
+        "hi": "स्त्री पर्व युद्ध के बाद के शोक का पर्व है। संजय से अठारह दिनों के संहार का पूरा समाचार सुनकर धृतराष्ट्र मूर्छित हो जाते हैं। विदुर उन्हें संसार की नश्वरता और जीवन के सत्य का उपदेश देकर सांत्वना देते हैं। फिर अंधे राजा, गांधारी और कौरव-स्त्रियाँ रणभूमि की ओर चलते हैं। मार्ग में पांडव श्रीकृष्ण के साथ उनसे मिलते हैं। धृतराष्ट्र भीम को आलिंगन के बहाने कुचल देना चाहते हैं, पर श्रीकृष्ण उनके आगे लोहे की मूर्ति कर देते हैं। गांधारी का क्रोध युधिष्ठिर के पैरों के नाखूनों को झुलसा देता है। रणभूमि में गांधारी व्यास से मिली दिव्य दृष्टि से एक-एक योद्धा के शव देखती हैं और हृदय-विदारक विलाप करती हैं। अंत में वे श्रीकृष्ण को शाप देती हैं कि छत्तीस वर्ष बाद उनका कुल भी इसी प्रकार आपस में लड़कर नष्ट हो जाएगा। युधिष्ठिर सबका अंतिम संस्कार करवाते हैं, और गंगा-तट पर जलांजलि देते समय कुंती अपना गुप्त रहस्य खोलती हैं — कर्ण उनका ज्येष्ठ पुत्र था। युधिष्ठिर शोक से व्याकुल होकर समस्त स्त्री-जाति को शाप देते हैं कि वे कोई रहस्य छिपा नहीं सकेंगी।",
+        "en": "Stri Parva, the Book of the Women, is the parva of mourning after the war. When Sanjaya brings Dhritarashtra the full account of the eighteen days of slaughter, the blind king collapses, and Vidura consoles him with teachings on the fleeting nature of life. Then Dhritarashtra, Gandhari and the women of the Kuru household set out for the battlefield. On the way the Pandavas, accompanied by Shri Krishna, come to meet them. Dhritarashtra tries to crush Bhima in a false embrace, but Krishna pushes an iron statue of Bhima forward in his place. Gandhari's anger, slipping past her blindfold, scorches Yudhishthira's toenails. On the battlefield Gandhari, granted divine sight by Vyasa, sees each fallen warrior and the widows weeping over them, and pours out her grief. At last she curses Shri Krishna: thirty-six years hence his own clan will destroy itself and he too will die alone in the wilderness. Yudhishthira has the funeral rites performed for all the dead. As the water offerings are made on the bank of the Ganga, Kunti reveals her long-hidden secret: Karna was her eldest son. Overcome with grief, Yudhishthira curses all women that they will never again be able to keep a secret."
+      },
+      "stories": [
+        {
+          "slug": "dhritarashtra-and-the-iron-bhima",
+          "title": {
+            "hi": "धृतराष्ट्र और लोहे का भीम",
+            "en": "Dhritarashtra and the Iron Bhima"
+          },
+          "body": {
+            "hi": "युद्ध समाप्त हो चुका था। संजय से अपने सौ पुत्रों की मृत्यु का समाचार सुनकर धृतराष्ट्र शोक से मूर्छित होकर गिर पड़े। विदुर ने उन्हें उठाया और कहा — ‘राजन्! आप ज्ञानी हैं, फिर भी बालक की तरह विलाप कर रहे हैं। जो जन्मा है उसकी मृत्यु निश्चित है। जैसे पथिक किसी वृक्ष की छाया में कुछ देर साथ बैठकर अलग हो जाते हैं, वैसे ही संसार में प्राणियों का मिलन है।’ उन्होंने उस मनुष्य का दृष्टांत सुनाया जो वन में कुएँ में लटका है, जिसकी जड़ को चूहे कुतर रहे हैं, नीचे अजगर मुँह खोले बैठा है, और फिर भी वह ऊपर से टपकती शहद की बूँदों में सुख मान रहा है — यही संसार में फँसे जीव की दशा है।\n\nकुछ शांत होकर धृतराष्ट्र ने गांधारी, कुंती और कुरुकुल की सभी स्त्रियों के साथ रणभूमि की ओर प्रस्थान किया। हज़ारों विधवाएँ खुले केश लिए विलाप करती हुई उनके पीछे चल रही थीं।\n\nमार्ग में युधिष्ठिर अपने भाइयों, द्रौपदी और श्रीकृष्ण के साथ उनसे मिलने आए। धृतराष्ट्र ने युधिष्ठिर को अनिच्छा से गले लगाया और पूछा — ‘भीम कहाँ है?’ श्रीकृष्ण अंधे राजा का मन पहचानते थे। उन्होंने भीम को पीछे खींच लिया और वह लोहे की मूर्ति आगे कर दी जिसे दुर्योधन ने गदा-अभ्यास के लिए भीम के आकार में बनवाया था। धृतराष्ट्र ने अपने पुत्रों के हत्यारे को समझकर उस मूर्ति को भुजाओं में भरकर इतनी शक्ति से दबाया कि वह चूर-चूर हो गई। उनके मुख से रक्त बहने लगा और वे ‘हाय भीम!’ कहकर गिर पड़े।\n\nतब श्रीकृष्ण ने कहा — ‘महाराज, शोक न करें। आपने भीम को नहीं, लोहे की मूर्ति को तोड़ा है। मैं आपके मन का क्रोध जानता था, इसलिए मैंने आपको उस मूर्ति की ओर ढकेल दिया। भीम जीवित है। अब आपका क्रोध निकल चुका है — पांडवों को अपनी संतान मानिए।’ धृतराष्ट्र लज्जित हुए और बोले कि क्रोध ने उन्हें अंधा कर दिया था।\n\nफिर पांडव गांधारी के पास गए। पुत्र-शोक से जलती गांधारी युधिष्ठिर को शाप देने ही वाली थीं कि व्यासजी प्रकट हुए और उन्होंने स्मरण दिलाया कि युद्ध के आरंभ में उन्होंने स्वयं कहा था — ‘यतो धर्मस्ततो जयः’। गांधारी ने क्रोध रोक लिया। किंतु जब युधिष्ठिर उनके चरणों में झुके, तो पट्टी के नीचे से निकली उनकी दृष्टि युधिष्ठिर के पैरों के नाखूनों पर पड़ी और वे काले पड़ गए। फिर गांधारी ने माता की भाँति सब पांडवों को आशीर्वाद दिया और उन्हें कुंती के पास भेज दिया।",
+            "en": "The war was over. When Sanjaya told Dhritarashtra of the death of his hundred sons, the blind king fell senseless with grief. Vidura lifted him up and said: O king, you are wise, yet you weep like a child. Whatever is born must die. As travellers rest a while together in the shade of a tree and then go their separate ways, so is the meeting of beings in this world. He told the parable of a man hanging in a well in a dreadful forest, the root he clings to gnawed by mice, a great serpent waiting below with open jaws; and yet the man delights in the drops of honey falling into his mouth from above. Such, said Vidura, is the state of the soul caught in the world.\n\nSomewhat calmed, Dhritarashtra set out for the battlefield with Gandhari, Kunti and all the women of the Kuru house. Thousands of widows followed them, their hair loose, weeping aloud.\n\nOn the way Yudhishthira came to meet them with his brothers, Draupadi and Shri Krishna. Dhritarashtra embraced Yudhishthira without warmth, and then asked, where is Bhima? Krishna knew the blind king's heart. He drew Bhima back and pushed forward the iron statue that Duryodhana had made in Bhima's shape for his mace practice. Taking it for the slayer of his sons, Dhritarashtra wrapped his arms around the image and squeezed with such force that it shattered to pieces. Blood flowed from his mouth and he fell down crying, alas Bhima!\n\nThen Krishna said: Do not grieve, O king. You have not killed Bhima; that was a statue of iron. I knew the anger in your heart, and so I pushed you towards it. Bhima lives. Now that your anger has spent itself, look upon the Pandavas as your own children. Dhritarashtra was ashamed and admitted that rage had blinded him.\n\nThe Pandavas then went to Gandhari. Burning with grief for her sons, she was about to curse Yudhishthira when Vyasa appeared and reminded her that at the start of the war she herself had said, where there is dharma, there is victory. Gandhari held back her curse. But as Yudhishthira bowed to her feet, her glance slipped from beneath her blindfold and fell on his toenails, which turned black. Then Gandhari blessed all the Pandavas like a mother and sent them on to Kunti."
+          },
+          "lesson": {
+            "hi": "क्रोध मनुष्य को अंधा कर देता है, किंतु जब उसे ठीक समय पर निकल जाने दिया जाए तो वह शोक और क्षमा में बदल सकता है।",
+            "en": "Anger blinds a person, but if it is allowed to spend itself at the right moment, it can turn into grief and then forgiveness."
+          },
+          "characters": [
+            "dhritarashtra",
+            "vidura",
+            "sanjaya",
+            "krishna",
+            "bhima",
+            "yudhishthira",
+            "gandhari",
+            "vyasa",
+            "arjuna",
+            "kunti"
+          ]
+        },
+        {
+          "slug": "gandhari-grief-and-curse-on-krishna",
+          "title": {
+            "hi": "गांधारी का विलाप और श्रीकृष्ण को शाप",
+            "en": "Gandhari's Grief and Her Curse on Krishna"
+          },
+          "body": {
+            "hi": "व्यासजी ने गांधारी को दिव्य दृष्टि दी, ताकि वे दूर खड़ी हुई भी समस्त रणभूमि को देख सकें। गांधारी ने देखा — कुरुक्षेत्र की भूमि पर लाखों योद्धा मरे पड़े थे। हाथियों और घोड़ों के शवों के बीच राजाओं के कटे मस्तक, टूटे रथ और बिखरे आभूषण पड़े थे। कुलवधुएँ अपने पतियों को खोजती फिर रही थीं और कोई पति का सिर, कोई हाथ उठाए विलाप कर रही थी।\n\nगांधारी ने श्रीकृष्ण को पास बुलाया और एक-एक दृश्य दिखाते हुए विलाप करने लगीं। ‘देखो केशव! यह मेरा दुर्योधन है, जो ग्यारह अक्षौहिणी सेना का स्वामी था, आज धूल में पड़ा है और उसकी पत्नी भानुमती उसके पास रो रही है। यह दुःशासन है, जिसका रक्त भीम ने पिया। यह अभिमन्यु है, सोलह वर्ष का बालक, और उसकी पत्नी उत्तरा उसके शव पर गिरी हुई है। यह कर्ण है, जिसके भरोसे मेरे पुत्र निश्चिंत सोते थे। यह भीष्म पितामह हैं, यह द्रोणाचार्य और यह मेरा भाई शकुनि।’ कौरवों की पत्नियाँ पागल की भाँति शवों के बीच घूमती थीं, और उनका रुदन सुनकर गांधारी का हृदय टुकड़े-टुकड़े हो रहा था।\n\nअंत में शोक और क्रोध से भरकर गांधारी बोलीं — ‘कृष्ण! कौरव और पांडव दोनों तुम्हारे अपने थे। तुम चाहते तो इस युद्ध को रोक सकते थे, फिर भी तुमने इस विनाश की उपेक्षा की। मैंने पतिव्रता-धर्म से जो तप किया है, उसके बल पर मैं तुम्हें शाप देती हूँ — आज से छत्तीसवें वर्ष में तुम्हारे कुल के लोग भी ऐसे ही आपस में लड़कर नष्ट हो जाएँगे, तुम्हारी स्त्रियाँ कुरुकुल की स्त्रियों की भाँति विलाप करेंगी, और तुम स्वयं वन में अकेले, किसी साधारण मनुष्य की तरह मृत्यु को प्राप्त होगे।’\n\nश्रीकृष्ण मुस्कुराए और बोले — ‘देवि! वृष्णिवंश का नाश करने में मेरे अतिरिक्त कोई समर्थ नहीं है। तुमने जो कहा, वह मेरी इच्छा के अनुकूल ही है। यादव न देवताओं से मारे जा सकते हैं, न असुरों से; वे आपस में लड़कर ही नष्ट होंगे।’ फिर उन्होंने कहा — ‘गांधारी! अपना दोष दूसरों पर मत डालो। तुम्हारा पुत्र ईर्ष्यालु, दुष्ट और अहंकारी था, और तुमने उसे नहीं रोका।’\n\nयह सुनकर गांधारी मौन हो गईं। धृतराष्ट्र ने युधिष्ठिर से पूछा कि इस युद्ध में कितने योद्धा मारे गए, और युधिष्ठिर ने उत्तर दिया — एक अरब, छियासठ करोड़, बीस हज़ार मनुष्य मारे गए, और चौबीस हज़ार एक सौ पैंसठ भागकर बचे। इतनी बड़ी मानव-हानि का भार लेकर ही पांडवों ने राज्य पाया था।",
+            "en": "Vyasa granted Gandhari divine sight so that she could see the whole battlefield from where she stood. She saw hundreds of thousands of warriors lying dead on the field of Kurukshetra. Among the bodies of elephants and horses lay the severed heads of kings, broken chariots and scattered ornaments. Noble women wandered searching for their husbands; one held up a husband's head, another an arm, and all of them wailed.\n\nGandhari called Shri Krishna to her side and, pointing to each scene, poured out her lament. Look, Keshava! Here is my Duryodhana, who commanded eleven akshauhinis, lying in the dust, with his wife Bhanumati weeping beside him. Here is Dushasana, whose blood Bhima drank. Here is Abhimanyu, a boy of sixteen, and his wife Uttara has fallen upon his body. Here is Karna, relying on whom my sons slept without fear. Here is grandfather Bhishma, here Drona, and here my own brother Shakuni. The wives of the Kauravas wandered among the dead like madwomen, and Gandhari's heart broke at their cries.\n\nAt last, filled with grief and anger, she said: Krishna, both the Kauravas and the Pandavas were your own people. You could have prevented this war had you wished, yet you looked on while this destruction took place. By the power of the merit I have earned through devotion to my husband, I curse you: in the thirty-sixth year from today your own clan will destroy itself in just this way. Your women will weep as the women of the Kurus weep today, and you yourself will die alone in the wilderness like an ordinary man.\n\nShri Krishna smiled and replied: Devi, no one but I is able to destroy the Vrishni race. What you have said is in accord with my own wish. The Yadavas can be killed neither by gods nor by demons; they will perish fighting among themselves. Then he said: Gandhari, do not lay your own fault on others. Your son was envious, wicked and proud, and you did not restrain him.\n\nHearing this, Gandhari fell silent. Dhritarashtra asked Yudhishthira how many had died in the war, and Yudhishthira answered: one billion, six hundred and sixty million and twenty thousand men were slain, and twenty-four thousand one hundred and sixty-five escaped. With the weight of this immense loss upon them, the Pandavas had won their kingdom."
+          },
+          "lesson": {
+            "hi": "अपने दोष को दूसरों पर डालने से शोक नहीं मिटता; जो विनाश मनुष्य अपने अहंकार से बुलाता है, उसका उत्तरदायित्व भी उसी का होता है।",
+            "en": "Grief is not relieved by placing one's own fault on others; the destruction that a person invites through pride is his own responsibility."
+          },
+          "characters": [
+            "gandhari",
+            "krishna",
+            "vyasa",
+            "duryodhana",
+            "karna",
+            "uttara",
+            "dhritarashtra",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "kunti-reveals-karna-secret",
+          "title": {
+            "hi": "कुंती का रहस्य — कर्ण मेरा पुत्र था",
+            "en": "Kunti's Secret: Karna Was My Son"
+          },
+          "body": {
+            "hi": "विलाप के बाद धृतराष्ट्र ने युधिष्ठिर से कहा कि अब मृतकों का अंतिम संस्कार किया जाए। युधिष्ठिर ने धौम्य, संजय, विदुर, युयुत्सु और सेवकों को आज्ञा दी कि कोई भी योद्धा, चाहे किसी भी पक्ष का हो, बिना दाह-संस्कार के न रहे। चंदन, अगरु और घी के साथ टूटे रथों और शस्त्रों की लकड़ी से हज़ारों चिताएँ जलाई गईं। दुर्योधन और उसके भाइयों, कर्ण, द्रोण, अभिमन्यु, घटोत्कच और अन्य राजाओं का विधिपूर्वक दाह हुआ। फिर सब गंगा-तट पर गए और स्त्रियों ने अपने पतियों, पुत्रों और पिताओं को जलांजलि दी।\n\nउसी समय कुंती शोक से काँपती हुई अपने पुत्रों के पास आईं और धीमे किंतु स्पष्ट स्वर में बोलीं — ‘पुत्रो! जिस महान धनुर्धर को तुम सूतपुत्र समझते थे और जिसे अर्जुन ने मारा — वह कर्ण तुम्हारा ज्येष्ठ भाई था। वह मेरे गर्भ से भगवान सूर्य के अंश से उत्पन्न हुआ था। कुमारी अवस्था में दुर्वासा के दिए मंत्र की परीक्षा लेने के लिए मैंने सूर्यदेव का आह्वान किया था, और कवच-कुंडल के साथ जन्मे उस बालक को लोकलाज के भय से मैंने नदी में बहा दिया था। जिसे अधिरथ और राधा ने पाला, वह तुम्हारा भाई था। अब उसके लिए भी तुम जलांजलि दो।’\n\nयह सुनकर पांडव वज्र से आहत की भाँति स्तब्ध रह गए। युधिष्ठिर साँप की तरह फुफकारते हुए बोले — ‘माता! आपने यह रहस्य छिपाकर हम सबका कितना बड़ा अनर्थ कर दिया। जिसके बाणों से हम काँपते थे, जिसके शौर्य के सामने देवता भी नहीं ठहर सकते थे, वह हमारा भाई था! यदि हमें पता होता, तो यह युद्ध कभी न होता। कर्ण और अर्जुन मिलकर तीनों लोकों को जीत लेते। कर्ण की मृत्यु ने मुझे उतना दुःख दिया है जितना अभिमन्यु और द्रौपदी के पुत्रों की मृत्यु ने भी नहीं दिया।’\n\nयुधिष्ठिर ने कहा कि अब उन्हें समझ में आया कि द्यूतसभा में जब दुर्योधन कटु वचन कह रहा था, तब कर्ण के पैर देखकर उनका क्रोध क्यों शांत हो जाता था — क्योंकि उसके पैर माता कुंती के पैरों जैसे थे। और शोक के आवेग में उन्होंने समस्त स्त्री-जाति को शाप दिया — ‘आज से कोई स्त्री किसी रहस्य को अपने हृदय में छिपाकर नहीं रख सकेगी।’\n\nफिर युधिष्ठिर ने अपने भाइयों के साथ कर्ण की पत्नियों को बुलवाया और उनके साथ मिलकर कर्ण को जल दिया। इस प्रकार महाभारत का सबसे गहरा रहस्य युद्ध के बाद ही खुला, जब उसे जानकर कुछ भी बदला नहीं जा सकता था।",
+            "en": "When the lamentation was over, Dhritarashtra told Yudhishthira that the dead must now be given their last rites. Yudhishthira ordered Dhaumya, Sanjaya, Vidura, Yuyutsu and the attendants to see that no warrior of either side was left without cremation. Thousands of pyres were lit with sandalwood, aloe and ghee, and with the timber of broken chariots and weapons. Duryodhana and his brothers, Karna, Drona, Abhimanyu, Ghatotkacha and the other kings were cremated with proper rites. Then everyone went to the bank of the Ganga, and the women offered water to their husbands, sons and fathers.\n\nAt that moment Kunti, trembling with sorrow, came to her sons and spoke in a low but clear voice: My sons, the great archer whom you thought the son of a charioteer and whom Arjuna killed, that Karna was your eldest brother. He was born from my womb by the grace of the Sun god. As an unmarried girl, wishing to test the mantra given to me by Durvasa, I invoked Surya, and the child born with divine armour and earrings I set adrift on the river for fear of the world. He whom Adhiratha and Radha raised was your brother. Now offer water for him too.\n\nThe Pandavas stood stunned as if struck by a thunderbolt. Yudhishthira, hissing like a serpent, said: Mother, by hiding this secret you have done us a terrible wrong. He whose arrows made us tremble, whose valour even the gods could not withstand, was our brother! Had we known, this war would never have happened. Karna and Arjuna together could have conquered the three worlds. The death of Karna has pained me more than the deaths of Abhimanyu and the sons of Draupadi.\n\nYudhishthira said he now understood why, in the hall of dice, his anger had subsided whenever he looked at Karna's feet while Duryodhana spoke harsh words; for Karna's feet were just like those of their mother Kunti. And in the rush of his sorrow he cursed all women: from this day no woman shall be able to keep a secret hidden in her heart.\n\nThen Yudhishthira and his brothers sent for the wives of Karna and, together with them, offered water for Karna. Thus the deepest secret of the Mahabharata was revealed only after the war, when knowing it could change nothing."
+          },
+          "lesson": {
+            "hi": "छिपाया हुआ सत्य समय पर प्रकट न हो तो वह बाद में और भी गहरा घाव देता है; सत्य को सही समय पर कहने का साहस ही सबसे बड़ी करुणा है।",
+            "en": "A truth hidden past its time wounds all the more deeply when it finally comes out; the courage to speak the truth at the right moment is the greatest kindness."
+          },
+          "characters": [
+            "kunti",
+            "karna",
+            "yudhishthira",
+            "arjuna",
+            "bhima",
+            "nakula",
+            "sahadeva",
+            "dhritarashtra",
+            "vidura",
+            "sanjaya",
+            "surya"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "slug": "shanti-parva",
+      "title": {
+        "hi": "शांति पर्व",
+        "en": "Shanti Parva"
+      },
+      "subtitle": {
+        "hi": "शरशय्या पर भीष्म का युधिष्ठिर को राजधर्म और मोक्षधर्म का उपदेश",
+        "en": "Bhishma on the bed of arrows teaches Yudhishthira the dharma of kings and of liberation"
+      },
+      "summary": {
+        "hi": "शांति पर्व महाभारत का सबसे बड़ा पर्व है और इसमें युद्ध के बाद की शांति, विवेक और धर्म का उपदेश है। युद्ध की भयंकर मानव-हानि और कर्ण के रहस्य से व्याकुल युधिष्ठिर राज्य त्यागकर वन जाने का निश्चय करते हैं। अर्जुन, भीम, द्रौपदी, नकुल, सहदेव, व्यास और श्रीकृष्ण उन्हें समझाते हैं कि गृहस्थ राजा के लिए प्रजा की रक्षा ही सबसे बड़ा धर्म है। युधिष्ठिर का राज्याभिषेक होता है और श्रीकृष्ण उन्हें शरशय्या पर पड़े भीष्म पितामह के पास ले जाते हैं। उत्तरायण की प्रतीक्षा करते हुए भीष्म राजधर्म, आपद्धर्म और मोक्षधर्म का विस्तृत उपदेश देते हैं — राजा की उत्पत्ति, दंडनीति, प्रजा-पालन, सत्य, क्षमा और अहिंसा का महत्त्व। वे अनेक कथाएँ सुनाते हैं, जैसे कबूतर और बहेलिए की कथा, जो अतिथि-धर्म का आदर्श है, और व्यासपुत्र शुकदेव की कथा, जो मोक्ष का मार्ग दिखाती है। यह पर्व हिंदू राजनीति और दर्शन का एक महान कोश है।",
+        "en": "Shanti Parva, the Book of Peace, is the longest parva of the Mahabharata and contains its great teachings on dharma, governance and liberation given after the war. Crushed by the slaughter of Kurukshetra and by the revelation about Karna, Yudhishthira resolves to renounce the kingdom and retire to the forest. Arjuna, Bhima, Draupadi, Nakula, Sahadeva, Vyasa and Shri Krishna all reason with him that for a king the protection of his people is the highest dharma. Yudhishthira is crowned at Hastinapura, and Krishna takes him to grandfather Bhishma, who lies on his bed of arrows awaiting the sun's northward turn. Bhishma delivers a vast discourse on raja-dharma, the dharma of distress, and moksha-dharma: the origin of kingship, the rod of justice, the care of subjects, and the value of truth, forgiveness and non-violence. He illustrates his teaching with many stories, among them the tale of the pigeon and the fowler, an ideal of hospitality, and the story of Vyasa's son Shuka, who shows the path to liberation. This parva is a treasury of Hindu political thought and philosophy."
+      },
+      "stories": [
+        {
+          "slug": "yudhishthira-grief-and-coronation",
+          "title": {
+            "hi": "युधिष्ठिर का वैराग्य और राज्याभिषेक",
+            "en": "Yudhishthira's Despair and Coronation"
+          },
+          "body": {
+            "hi": "जलांजलि के बाद युधिष्ठिर एक मास तक गंगा-तट पर ही रहे। वहाँ नारद और अन्य ऋषि आए। युधिष्ठिर ने नारदजी से पूछा कि कर्ण जैसा वीर, जिसके पास दिव्य कवच-कुंडल थे, युद्ध में अर्जुन से कैसे मारा गया। नारद ने कर्ण की पूरी कथा सुनाई — परशुराम का शाप कि अंतिम समय में वह ब्रह्मास्त्र भूल जाएगा, ब्राह्मण का शाप कि उसके रथ का पहिया धरती में धँस जाएगा, और इंद्र को कवच-कुंडल दान।\n\nवे बोले — ‘मैंने भाइयों, पुत्रों, गुरुओं और संबंधियों को मरवाकर राज्य पाया है। यह राज्य मुझे विष के समान लगता है। मैं वन में जाकर फल-मूल खाकर तपस्या करूँगा। अर्जुन राजा बने।’ अर्जुन ने उत्तर दिया कि धन के बिना धर्म का पालन संभव नहीं और क्षत्रिय का धर्म शासन और प्रजा-पालन है, भिक्षा नहीं। भीम ने कहा कि अब जब कार्य पूरा हो चुका है, इस प्रकार शोक करना पुरुषार्थ का अपमान है। द्रौपदी ने कहा कि जो राजा अपने प्रजापालन के कर्तव्य से मुँह मोड़ता है, वह धर्म से भ्रष्ट होता है।\n\nकिंतु युधिष्ठिर का मन शांत नहीं हुआ। तब देवस्थान ऋषि और व्यासजी ने कहा कि राजा के लिए संन्यास नहीं, धर्मपूर्वक राज्य करना ही मोक्ष का मार्ग है; युद्ध का पाप यज्ञ और दान से शुद्ध हो जाता है। श्रीकृष्ण ने भी कहा कि युद्ध में हुए वध का दोष उन पर नहीं है जिन्होंने अपने कर्तव्य का पालन किया। अंत में युधिष्ठिर ने उनकी बात मानी।\n\nहस्तिनापुर में बड़े समारोह के साथ युधिष्ठिर का राज्याभिषेक हुआ। उन्होंने धृतराष्ट्र का सम्मान पहले की तरह बनाए रखा, भीम को युवराज बनाया, विदुर को मंत्रणा का, संजय को कोष का, नकुल को सेना का और अर्जुन को शत्रुओं से रक्षा का भार सौंपा।\n\nफिर युधिष्ठिर श्रीकृष्ण के पास गए और बोले — ‘माधव! आपकी कृपा से ही हमें यह राज्य मिला है।’ श्रीकृष्ण उस समय ध्यान में थे। पूछने पर उन्होंने बताया कि वे शरशय्या पर पड़े भीष्म का स्मरण कर रहे हैं, जो उत्तरायण की प्रतीक्षा में हैं। ‘उनके जाने पर धर्म का ज्ञान संसार से लुप्त हो जाएगा। इसलिए तुम उनसे अपने सब संदेह पूछ लो।’ श्रीकृष्ण युधिष्ठिर और पांडवों को कुरुक्षेत्र में भीष्म के पास ले गए। उन्होंने भीष्म को स्पर्श करके उनकी पीड़ा दूर की और उन्हें दिव्य ज्ञान का वरदान दिया, ताकि वे युधिष्ठिर को धर्म का उपदेश दे सकें।",
+            "en": "After the water offerings Yudhishthira stayed on the bank of the Ganga for a month. Narada and other sages came there. Yudhishthira asked Narada how a hero like Karna, born with divine armour and earrings, could have been killed by Arjuna. Narada told Karna's whole story: the curse of Parashurama that he would forget the Brahmastra at the fatal moment, the curse of a Brahmin that his chariot wheel would sink into the earth, and the gift of the armour and earrings to Indra.\n\nHe said: I have won this kingdom by causing the death of brothers, sons, teachers and kinsmen. It is like poison to me. I will go to the forest and live on roots and fruit. Let Arjuna be king. Arjuna answered that dharma cannot be practised without wealth, and that the duty of a Kshatriya is to rule and protect, not to beg. Bhima said that to grieve like this now that the task was done was an insult to manly effort. Draupadi said that a king who turns away from the duty of protecting his people falls from dharma.\n\nStill Yudhishthira's mind was not at rest. Then the sage Devasthana and Vyasa told him that for a king the path to liberation lies not in renunciation but in ruling righteously, and that the sin of war is washed away by sacrifice and charity. Shri Krishna added that no blame for the killing in battle attaches to those who did their duty. At last Yudhishthira yielded.\n\nAt Hastinapura Yudhishthira was crowned with great ceremony. He kept Dhritarashtra in his former honour, made Bhima the crown prince, entrusted counsel to Vidura, the treasury to Sanjaya, the army to Nakula and the defence of the realm to Arjuna.\n\nThen Yudhishthira went to Krishna and said: Madhava, it is by your grace alone that we have this kingdom. Krishna was in meditation at the time. When asked, he said he was thinking of Bhishma, lying on his bed of arrows and waiting for the sun's northward journey. When he departs, said Krishna, the knowledge of dharma will vanish from the world; therefore go and ask him everything you doubt. Krishna took Yudhishthira and the Pandavas to Bhishma at Kurukshetra. He touched the old warrior, took away his pain, and granted him divine insight so that he could teach Yudhishthira the whole of dharma."
+          },
+          "lesson": {
+            "hi": "कर्तव्य से भागना वैराग्य नहीं है; जिस पर प्रजा का भार है, उसके लिए धर्मपूर्वक कर्म करना ही सच्चा त्याग है।",
+            "en": "Fleeing from duty is not renunciation; for one who bears responsibility for others, acting righteously is the true sacrifice."
+          },
+          "characters": [
+            "yudhishthira",
+            "arjuna",
+            "bhima",
+            "nakula",
+            "sahadeva",
+            "draupadi",
+            "vyasa",
+            "krishna",
+            "narada",
+            "karna",
+            "bhishma",
+            "vidura",
+            "dhritarashtra"
+          ]
+        },
+        {
+          "slug": "bhishma-teaches-raja-dharma",
+          "title": {
+            "hi": "भीष्म का राजधर्म उपदेश",
+            "en": "Bhishma Teaches the Dharma of Kings"
+          },
+          "body": {
+            "hi": "शरशय्या पर पड़े भीष्म ने श्रीकृष्ण की वंदना की और कहा — ‘गोविंद! मेरा शरीर बाणों से बिंधा है, पर आपकी कृपा से मेरी पीड़ा और थकावट दूर हो गई है और मेरी बुद्धि निर्मल हो गई है।’ भीष्म ने स्नेह से कहा — ‘पुत्र! जैसे वर्षा मेघ का, वैसे ही युद्ध क्षत्रिय का धर्म है। तुम निःसंकोच पूछो।’\n\nयुधिष्ठिर ने पूछा — ‘पितामह! राजा का सबसे बड़ा धर्म क्या है?’ भीष्म ने कहा — ‘प्रजा की रक्षा। राजा सदा उद्योगशील रहे, क्योंकि उद्यम के बिना केवल भाग्य से कुछ नहीं होता। वह प्रजा के लिए गर्भवती स्त्री के समान हो, जो अपनी रुचि छोड़कर गर्भ के हित का ध्यान रखती है। राजा कर उसी प्रकार ले जैसे भौंरा फूल से रस लेता है, या ग्वाला गाय का दूध दुहता है — बछड़े के लिए छोड़कर।’\n\nफिर युधिष्ठिर ने पूछा कि राजा की उत्पत्ति कैसे हुई, जबकि वह भी तो दूसरों जैसा ही मनुष्य है। भीष्म ने बताया — सत्ययुग में न राजा था, न दंड। लोग धर्म से स्वयं एक-दूसरे की रक्षा करते थे। धीरे-धीरे उनमें मोह और लोभ आया, वेद लुप्त हो गए, और बलवान निर्बल को खाने लगे। तब देवताओं की प्रार्थना पर ब्रह्माजी ने एक लाख अध्यायों का दंडनीति-शास्त्र रचा। अंत में वेन के पुत्र पृथु राजा बने, जिन्होंने पृथ्वी को समतल किया, खेती और नगर बसाए, और प्रजा का रंजन किया — इसीलिए वे ‘राजा’ कहलाए। राजा को दंड धारण करना पड़ता है, क्योंकि दंड ही सबको मर्यादा में रखता है।\n\nभीष्म ने कहा — ‘राजा काल का कारण है। जब राजा धर्म से चलता है तो सत्ययुग होता है, और जब अधर्म से तो कलियुग। राजा को मंत्रियों का चयन सावधानी से करना चाहिए, गुप्तचरों के द्वारा सब कुछ जानना चाहिए, कोष भरा रखना चाहिए, और संधि, विग्रह, यान, आसन, द्वैधीभाव और आश्रय — इन छह नीतियों को समय के अनुसार प्रयोग करना चाहिए। इसलिए राजा न तो सदा कोमल हो, न सदा कठोर — वसंत के सूर्य के समान हो, जो न जलाए, न ठिठुराए।’\n\nअंत में उन्होंने कहा — ‘सत्य ही राजा का सबसे बड़ा बल है। सत्य से ही प्रजा का विश्वास मिलता है, और जिस राजा पर प्रजा का विश्वास है, उसे कोई शत्रु नहीं हरा सकता।’ इस प्रकार दिनों तक भीष्म ने युधिष्ठिर को राजधर्म के हर पक्ष का उपदेश दिया, और युधिष्ठिर का हृदय धीरे-धीरे शांत होने लगा।",
+            "en": "Lying on the bed of arrows, Bhishma bowed to Shri Krishna and said: Govinda, my body is pierced by arrows, yet by your grace my pain and weariness have left me and my mind is clear. Bhishma said gently: Child, as rain is the dharma of the cloud, so is battle the dharma of the Kshatriya. Ask without hesitation.\n\nYudhishthira asked: Grandfather, what is the highest duty of a king? Bhishma replied: The protection of his people. A king should always be active, for without effort fate alone achieves nothing. Towards his subjects he should be like a woman with child, who sets aside her own wishes for the good of the one she carries. He should collect taxes as a bee draws nectar from a flower, or as a cowherd milks a cow, leaving enough for the calf.\n\nThen Yudhishthira asked how kingship arose, since a king is a man like any other. Bhishma told him: In the Krita age there was neither king nor punishment; people protected one another by dharma alone. Slowly delusion and greed entered them, the Vedas were lost, and the strong began to devour the weak. At the prayer of the gods Brahma composed a treatise on governance in a hundred thousand chapters. In time Prithu, the son of Vena, became king; he levelled the earth, established farming and cities, and gave joy to his people, which is why he was called raja. A king must wield the rod of punishment, for it is the rod that keeps all within bounds.\n\nBhishma said: The king is the maker of the age. When the king walks in dharma it is the Krita age; when he walks in adharma it is Kali. He should choose his ministers with care, learn everything through spies, keep the treasury full, and apply the six policies of peace, war, marching, waiting, division and alliance according to the time. So a king should be neither always soft nor always harsh, but like the sun in spring, which neither scorches nor chills.\n\nFinally he said: Truth is the greatest strength of a king. By truth he wins the trust of his people, and a king trusted by his people cannot be defeated by any enemy. Thus for many days Bhishma taught Yudhishthira every aspect of the dharma of kings, and slowly Yudhishthira's heart began to find peace."
+          },
+          "lesson": {
+            "hi": "शासक का सबसे बड़ा धर्म प्रजा की रक्षा है; वह सत्य, उद्यम और समय के अनुसार कोमलता-कठोरता से राज्य करे, और कर वैसे ले जैसे भौंरा फूल से रस लेता है।",
+            "en": "A ruler's first duty is to protect his people; he should govern with truth, effort, and gentleness or firmness as the time demands, and take from them as lightly as a bee takes nectar from a flower."
+          },
+          "characters": [
+            "bhishma",
+            "yudhishthira",
+            "krishna"
+          ]
+        },
+        {
+          "slug": "pigeon-and-the-fowler",
+          "title": {
+            "hi": "कबूतर और बहेलिए की कथा",
+            "en": "The Pigeon and the Fowler"
+          },
+          "body": {
+            "hi": "युधिष्ठिर ने पूछा — ‘पितामह! जो मनुष्य शरण में आए प्राणी की रक्षा करता है, उसे क्या फल मिलता है?’ भीष्म ने उत्तर में कबूतर और बहेलिए की प्राचीन कथा सुनाई।\n\nएक घोर वन में एक क्रूर बहेलिया रहता था, जो पक्षियों को जाल में फँसाकर बेचता था। एक दिन वह वन में घूम रहा था कि भयंकर आँधी और वर्षा आई। ठंड से काँपती हुई एक कबूतरी भूमि पर गिरी और बहेलिए ने उसे उठाकर पिंजरे में बंद कर लिया। रात घिर आई, और वह काँपता हुआ एक विशाल वृक्ष के नीचे शरण लेने आया। उसने हाथ जोड़कर कहा — ‘इस वृक्ष पर जो भी देवता रहते हों, मैं उनकी शरण में हूँ।’\n\nउसी वृक्ष पर उस कबूतरी का पति रहता था। वह अपनी पत्नी के न लौटने पर व्याकुल होकर विलाप कर रहा था — ‘जिसके घर में पत्नी नहीं, वह घर सूना है। मेरी प्रिया कहाँ रह गई?’ पिंजरे में बंद कबूतरी ने उसका स्वर सुना और बोली — ‘नाथ! मेरे लिए शोक मत करो। यह बहेलिया ठंड और भूख से पीड़ित होकर तुम्हारी शरण में आया है। वह मेरा शत्रु है, पर अतिथि है, और अतिथि-सेवा गृहस्थ का सबसे बड़ा धर्म है।’\n\nकबूतर ने पत्नी के वचन सुने और बहेलिए का स्वागत किया। वह सूखे पत्ते और लकड़ियाँ लाया, जंगल से आग लाकर उसे जलाया और बहेलिए को तापने के लिए कहा। फिर उसने सोचा — ‘इसे भोजन कैसे दूँ? मेरे पास कुछ नहीं है।’ तब उसने बहेलिए से कहा — ‘मैं तुम्हारी भूख मिटाऊँगा।’ और अग्नि की तीन बार परिक्रमा करके वह उसमें कूद पड़ा, ताकि उसका शरीर ही अतिथि का भोजन बन सके।\n\nयह देखकर बहेलिए का कठोर हृदय पिघल गया। उसने सोचा — ‘मैं कैसा पापी हूँ! इस छोटे से पक्षी ने मुझे धर्म सिखा दिया।’ उसने पिंजरा खोलकर कबूतरी को मुक्त कर दिया। कबूतरी ने पति को अग्नि में देखा और कहा — ‘पति के बिना मेरा जीवन व्यर्थ है।’ वह भी उसी अग्नि में प्रविष्ट हो गई। उसी क्षण दोनों दिव्य रूप धारण कर विमान में बैठे और स्वर्ग को चले गए। बहेलिए ने अपना जाल और लाठी वहीं फेंक दी, वन में जाकर कठोर तप किया, और अंत में दावानल में अपने शरीर को त्यागकर वह भी पुण्यलोक को प्राप्त हुआ। भीष्म बोले — ‘युधिष्ठिर! जो शरणागत और अतिथि की रक्षा के लिए अपना सर्वस्व दे देता है, उसके लिए कोई लोक दुर्लभ नहीं है।’",
+            "en": "Yudhishthira asked: Grandfather, what reward comes to one who protects a creature that seeks his shelter? In answer Bhishma told the ancient story of the pigeon and the fowler.\n\nIn a dense forest there lived a cruel fowler who trapped birds in his nets and sold them. One day as he roamed the forest a terrible storm of wind and rain broke out. A she-pigeon, shivering with cold, fell to the ground, and the fowler picked her up and shut her in his cage. Night came on, and trembling with cold he took shelter beneath a great tree. Folding his hands he said: Whatever deities live in this tree, I take refuge in them.\n\nOn that very tree lived the she-pigeon's mate. Distressed that his wife had not returned, he was lamenting: A house without a wife is empty; where has my beloved gone? From the cage the she-pigeon heard his voice and said: My lord, do not grieve for me. This fowler, tormented by cold and hunger, has come to you for shelter. He is my enemy, but he is a guest, and serving a guest is the highest duty of a householder.\n\nThe pigeon heard his wife's words and welcomed the fowler. He gathered dry leaves and twigs, fetched fire from the forest, kindled it and told the fowler to warm himself. Then he thought: How shall I feed him? I have nothing. He said to the fowler, I will satisfy your hunger; and circling the fire three times he threw himself into it, so that his own body might become food for the guest.\n\nAt this the fowler's hard heart melted. He thought: What a sinner I am! This little bird has taught me dharma. He opened the cage and set the she-pigeon free. Seeing her husband in the flames she said, without my husband my life is empty, and she too entered the fire. In that instant both took divine forms, seated in a celestial chariot, and rose to heaven. The fowler threw down his net and staff, went deep into the forest, practised severe austerities, and at last gave up his body in a forest fire and reached the worlds of merit. Bhishma said: Yudhishthira, for one who gives his all to protect a guest or one who seeks refuge, no world is beyond reach."
+          },
+          "lesson": {
+            "hi": "अतिथि और शरणागत की सेवा सबसे बड़ा धर्म है; एक छोटे से प्राणी का त्याग भी सबसे कठोर हृदय को बदल सकता है।",
+            "en": "Serving a guest and one who seeks refuge is the highest dharma; the sacrifice of even a tiny creature can transform the hardest heart."
+          },
+          "characters": [
+            "bhishma",
+            "yudhishthira"
+          ]
+        },
+        {
+          "slug": "shuka-and-the-path-of-moksha",
+          "title": {
+            "hi": "शुकदेव और मोक्ष का मार्ग",
+            "en": "Shuka and the Path of Liberation"
+          },
+          "body": {
+            "hi": "राजधर्म और आपद्धर्म के बाद युधिष्ठिर ने पूछा — ‘पितामह! मनुष्य जन्म-मृत्यु के चक्र से कैसे छूटे? मोक्ष का मार्ग क्या है?’ तब भीष्म ने मोक्षधर्म का उपदेश आरंभ किया, और उसी क्रम में उन्होंने व्यासपुत्र शुकदेव की कथा सुनाई।\n\nमहर्षि व्यास ने मेरु पर्वत पर पुत्र की कामना से भगवान शंकर की घोर तपस्या की। उन्होंने माँगा कि उनका पुत्र अग्नि, पृथ्वी, जल, वायु और आकाश के समान तेजस्वी और शुद्ध हो। शिवजी ने वरदान दिया। एक दिन व्यास अग्नि के लिए अरणि मंथन कर रहे थे कि घृताची अप्सरा को देखकर उनका मन चंचल हुआ, और उसी अरणि से एक तेजस्वी बालक उत्पन्न हुआ — शुक। जन्म लेते ही गंगा ने आकर उन्हें स्नान कराया, आकाश से दिव्य वस्त्र और दंड-कमंडल गिरे, और देवता-ऋषि उनकी स्तुति करने लगे। शुक को जन्म से ही वेदों का ज्ञान था।\n\nशुक में संसार के प्रति कोई आसक्ति नहीं थी। व्यास ने उन्हें मोक्ष के ज्ञान की परीक्षा के लिए मिथिला के राजा जनक के पास भेजा और कहा कि पैदल जाना, कोई सिद्धि प्रयोग न करना। शुक जनक के द्वार पर पहुँचे, तो द्वारपालों ने उन्हें कई दिन बाहर खड़ा रखा; फिर सुंदर उद्यानों और अप्सराओं के बीच रखा — पर न उपेक्षा से उन्हें क्रोध हुआ, न भोगों से लोभ। जनक ने प्रसन्न होकर उन्हें ज्ञान दिया — ‘जो ज्ञान तुम्हें है, वही मोक्ष है। आसक्ति का त्याग ही मुक्ति है, चाहे मनुष्य घर में रहे या वन में।’\n\nशुक लौटकर पिता के पास आए और उनसे वेद पढ़े। एक दिन नारदजी आए और उन्होंने शुक को उपदेश दिया कि संसार क्षणभंगुर है; मन को वश में करना, एकांत में रहना, और परमात्मा में स्थित होना ही श्रेष्ठ है। शुक ने निश्चय किया कि अब वे देह छोड़कर परम पद को प्राप्त करेंगे। उन्होंने पिता से आज्ञा ली और योगबल से आकाश में उड़ चले — सूर्य के समान तेजस्वी, वायु की भाँति सर्वत्र गतिमान।\n\nपुत्र-स्नेह से व्याकुल व्यास उनके पीछे-पीछे दौड़े और ‘शुक! शुक!’ पुकारने लगे। समस्त पर्वत, वन और दिशाएँ ‘शुक!’ कहकर प्रतिध्वनि करने लगीं — क्योंकि शुक सर्वव्यापी हो चुके थे। व्यास वहीं बैठकर रोने लगे। तब भगवान शंकर प्रकट हुए और बोले — ‘व्यास! शुक ने वह गति पाई है जो देवताओं को भी दुर्लभ है। तुम शोक मत करो। तुम्हारे पास सदा शुक की छाया रहेगी।’ भीष्म बोले — ‘युधिष्ठिर! यही मोक्ष का मार्ग है — निर्मल ज्ञान, वैराग्य और आत्मा में स्थिति।’",
+            "en": "After the dharma of kings and the dharma of distress, Yudhishthira asked: Grandfather, how may a man escape the wheel of birth and death? What is the path of liberation? Then Bhishma began the teaching of moksha-dharma, and in its course he told the story of Shuka, the son of Vyasa.\n\nMaharishi Vyasa, desiring a son, performed severe austerities to Lord Shiva on Mount Meru. He asked that his son be as radiant and pure as fire, earth, water, air and sky. Shiva granted the boon. One day as Vyasa was churning the fire-sticks, the sight of the apsara Ghritachi stirred his mind, and from the fire-sticks was born a brilliant child, Shuka. At his birth the Ganga came to bathe him, divine garments, a staff and a water-pot fell from the sky, and gods and sages sang his praise. Shuka knew the Vedas from birth.\n\nShuka had no attachment whatever to the world. To test his knowledge of liberation Vyasa sent him to King Janaka of Mithila, instructing him to go on foot and use no yogic powers. At Janaka's gate the guards kept him standing for days; then he was placed in lovely gardens among beautiful women. Yet neglect did not anger him, and pleasures did not tempt him. Delighted, Janaka taught him: The knowledge you already possess is itself moksha. Giving up attachment is liberation, whether a man lives in a house or in the forest.\n\nShuka returned to his father and studied the Vedas with him. One day Narada came and taught him that the world is fleeting, and that mastering the mind, living in solitude and abiding in the Supreme Self is the highest way. Shuka resolved to leave the body and attain the supreme state. Taking leave of his father he rose into the sky by the power of yoga, radiant as the sun, moving everywhere like the wind.\n\nVyasa, overcome with a father's love, ran after him calling, Shuka! Shuka! The mountains, forests and all the directions echoed back Shuka! for Shuka had become all-pervading. Vyasa sat down and wept. Then Lord Shiva appeared and said: Vyasa, Shuka has reached a state that even the gods find hard to attain. Do not grieve. A shadow of Shuka will always remain beside you. Bhishma said: Yudhishthira, this is the path of moksha: pure knowledge, dispassion, and abiding in the Self."
+          },
+          "lesson": {
+            "hi": "मोक्ष स्थान बदलने से नहीं, आसक्ति छोड़ने से मिलता है; जो न उपेक्षा से विचलित होता है, न भोग से, वही सच्चा मुक्त है।",
+            "en": "Liberation comes not from changing one's place but from giving up attachment; one who is moved neither by neglect nor by pleasure is truly free."
+          },
+          "characters": [
+            "bhishma",
+            "yudhishthira",
+            "vyasa",
+            "shukadeva",
+            "narada",
+            "shiva"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-cream: #fff8ec;
+  --color-cream-2: #fdf1dc;
+  --color-paper: #fffdf7;
+  --color-maroon: #7a1f1f;
+  --color-maroon-2: #5c1515;
+  --color-saffron: #e08a1e;
+  --color-saffron-2: #f3b24c;
+  --color-gold: #c9a227;
+  --color-ink: #2b1a12;
+  --color-ink-2: #6b4e3d;
+  --color-night: #15100d;
+  --color-night-2: #241a15;
+  --color-night-3: #352820;
+  --font-sans: "Noto Sans", "Noto Sans Devanagari", "Segoe UI", system-ui, sans-serif;
+  --font-serif: "Noto Serif Devanagari", "Tiro Devanagari Hindi", "Noto Serif", Georgia, serif;
+}
+
+:root { --font-scale: 1; color-scheme: light; }
+.dark { color-scheme: dark; }
+
+html, body, #root { height: 100%; }
+body {
+  @apply bg-cream text-ink antialiased;
+  font-family: var(--font-sans);
+  font-size: calc(16px * var(--font-scale));
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+.dark body { @apply bg-night text-cream; }
+
+.safe-top { padding-top: env(safe-area-inset-top); }
+.safe-bottom { padding-bottom: env(safe-area-inset-bottom); }
+
+.shloka { font-family: var(--font-serif); line-height: 1.9; }
+.prose-katha p { margin-bottom: 1em; line-height: 1.85; }
+
+.card { @apply bg-paper rounded-2xl shadow-sm border border-saffron/15; }
+.dark .card { @apply bg-night-2 border-saffron/10; }
+
+.chip { @apply inline-flex items-center gap-1 rounded-full px-3 py-1 text-xs font-medium; }
+
+.btn, .btn-primary, .btn-ghost { @apply inline-flex items-center justify-center gap-2 rounded-full px-4 py-2 text-sm font-semibold active:scale-95 transition; }
+.btn-primary { @apply bg-maroon text-cream; }
+.btn-ghost { @apply bg-saffron/10 text-maroon; }
+.dark .btn-ghost { @apply bg-saffron/15 text-saffron-2; }
+
+.ornament { background-image: radial-gradient(circle at 50% -20%, rgba(224,138,30,.35), transparent 60%); }
+
+::-webkit-scrollbar { width: 0; height: 0; }
